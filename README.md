@@ -4,7 +4,7 @@ A browser-based viewer for **fxhash** generative art, designed to keep working *
 
 It resolves artwork bytes directly from where they actually live — **onchfs** (on-chain file system) and **IPFS** — and runs the original generator in a sandboxed iframe. No fxhash servers are involved at view time.
 
-> **Status:** work in progress (pre-1.0). Currently private while the rough edges are smoothed out.
+> **Status:** work in progress (pre-1.0). Public, but the rough edges are still being smoothed out.
 
 ---
 
@@ -79,6 +79,8 @@ Other scripts:
 
 **File mode** — load a project JSON (see below). Saved projects under `public/projects/` appear in the sidebar; pick an iteration from the thumbnail grid to view it.
 
+The app ships with two interchangeable UIs — the **classic** sidebar above, and a full-screen **gallery** (collection → tiles → live view). Switch with the on-screen toggle or `?ui=gallery` / `?ui=classic`; your last choice is remembered.
+
 ## Preparing artwork data (optional)
 
 The viewer works without any bundled data (URI mode resolves anything directly). To browse a whole project by thumbnail, extract its iteration list into `public/projects/`:
@@ -94,7 +96,9 @@ node extract-tezos.mjs --name "Project Name"
 node find-contract.mjs "Project Name"
 ```
 
-Each writes `public/projects/<Name>.json` and refreshes `public/projects/_index.json`, which the File-mode sidebar reads. These scripts use only on-chain / public-indexer data and Node built-ins (no extra dependencies). Extracted data is **git-ignored** — it's content, not source.
+Each writes `public/projects/<Name>.json` and refreshes `public/projects/_index.json`, which the File-mode sidebar and the gallery read. These scripts use only on-chain / public-indexer data and Node built-ins (no extra dependencies). A starter set of extracted projects is checked into `public/projects/`; running the scripts adds more. (Local `*.bak` snapshots and the raw `metadata/` dumps stay git-ignored.)
+
+During `npm run dev`, a Vite plugin watches `public/projects/*.json` and regenerates `_index.json` automatically on any edit; `npm run index` does the same manually.
 
 ## Supported chains & storage
 
@@ -113,8 +117,13 @@ src/
   sw/          Service Worker (intercepts /view/*) + registration
   archive/     ZIP export of viewed artworks
   discovery/   shared ArtworkItem type (live wallet discovery intentionally dropped)
-  App.tsx      UI (File / URI modes)
+  viewer/      shared artwork-resolution helpers used by both UIs
+  ui/
+    classic/   sidebar form (URI / File modes) + inline viewer
+    gallery/   full-screen collection → tiles → live view
+  App.tsx      shell that switches between the classic and gallery UIs
 extract-*.mjs  offline data-extraction tools
+scripts/       project-index generation (build-index.mjs)
 _legacy/       reference: the original prototype + ARCHITECTURE notes
 docs/          migration log
 ```

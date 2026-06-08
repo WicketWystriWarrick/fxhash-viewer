@@ -9,3 +9,6 @@ dist
 
 # User data — extracted projects and raw metadata (not source code)
 metadata/
+
+# Personal Claude Code project instructions (not source code)
+CLAUDE.md
