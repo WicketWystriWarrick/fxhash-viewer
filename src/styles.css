@@ -467,3 +467,335 @@ select:focus {
   color: var(--fg);
   background: transparent;
 }
+
+/* ======================================================================
+   v2 — Gallery UI (collection → tiles → live)
+   ====================================================================== */
+
+/* Always-visible UI version switch (top-right). */
+.ui-switch {
+  position: fixed;
+  top: 12px;
+  right: 12px;
+  z-index: 1000;
+  display: flex;
+  gap: 2px;
+  padding: 2px;
+  background: rgba(0, 0, 0, 0.55);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  backdrop-filter: blur(6px);
+}
+
+.ui-switch__btn {
+  border: none;
+  background: transparent;
+  color: var(--fg-dim);
+  font-family: var(--font);
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  padding: 5px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+}
+
+.ui-switch__btn:hover {
+  color: var(--fg);
+}
+
+.ui-switch__btn--active {
+  background: var(--accent);
+  color: var(--bg);
+}
+
+/* ---- Screen 1: project gallery ---- */
+.gallery {
+  min-height: 100%;
+  background: var(--bg);
+  padding: 28px clamp(16px, 4vw, 56px) 64px;
+}
+
+.gallery__header {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 8px 0 22px;
+}
+
+.gallery__title {
+  margin: 0;
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--fg);
+}
+
+.gallery__count {
+  font-size: 12px;
+  color: var(--fg-dim);
+}
+
+.gallery__empty {
+  color: var(--fg-dim);
+  font-size: 13px;
+  line-height: 1.7;
+  max-width: 520px;
+  padding: 40px 0;
+}
+
+.gallery__grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: clamp(10px, 1.4vw, 18px);
+}
+
+.gallery-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  border: 1px solid var(--border);
+  background: var(--bg-elev);
+  border-radius: 4px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: left;
+  transition: border-color 0.12s ease, transform 0.12s ease;
+}
+
+.gallery-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+}
+
+.gallery-card__thumb {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  display: block;
+  background: #000;
+}
+
+.gallery-card__thumb--empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent-dim);
+  font-size: 11px;
+}
+
+.gallery-card__meta {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  padding: 9px 11px 11px;
+}
+
+.gallery-card__name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--fg);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.gallery-card__sub {
+  font-size: 11px;
+  color: var(--fg-dim);
+}
+
+/* ---- shared back button ---- */
+.backbtn {
+  border: 1px solid var(--border);
+  background: transparent;
+  color: var(--fg);
+  font-family: var(--font);
+  font-size: 12px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.backbtn:hover {
+  border-color: var(--accent);
+}
+
+.backbtn--float {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  z-index: 5;
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(6px);
+  max-width: 60vw;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ---- Screen 2: tile grid (full screen) ---- */
+.tiles {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+}
+
+.tiles__bar {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 12px clamp(12px, 3vw, 32px);
+  border-bottom: 1px solid var(--border);
+  flex: 0 0 auto;
+}
+
+.tiles__titlewrap {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.25;
+  min-width: 0;
+}
+
+.tiles__title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--fg);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.tiles__sub {
+  font-size: 11px;
+  color: var(--fg-dim);
+}
+
+.tiles__empty {
+  padding: 48px clamp(12px, 3vw, 32px);
+  color: var(--fg-dim);
+  font-size: 13px;
+}
+
+.tiles__grid {
+  flex: 1 1 auto;
+  overflow-y: auto;
+  display: grid;
+  /* Bigger cells → fewer, larger thumbnails. */
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+  padding: clamp(12px, 2vw, 26px);
+  align-content: start;
+}
+
+.tile {
+  /* Height is set inline (JS) = column width × thumbnail ratio. */
+  position: relative;
+  padding: 0;
+  border: 1px solid var(--border);
+  background: #000;
+  border-radius: 4px;
+  overflow: hidden;
+  cursor: pointer;
+  display: block;
+  min-height: 60px;
+}
+
+.tile:hover {
+  border-color: var(--accent);
+}
+
+.tile__thumb {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.tile__thumb--empty {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent-dim);
+  font-size: 10px;
+}
+
+.tile__label {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--fg);
+  background: rgba(0, 0, 0, 0.6);
+  padding: 1px 6px;
+  border-top-right-radius: 3px;
+}
+
+/* ---- Screen 3: live view (full screen) ---- */
+.live {
+  position: fixed;
+  inset: 0;
+  background: #fff;
+}
+
+.live__iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  /* Match the classic viewer: standalone artworks assume a white page. */
+  background: #fff;
+}
+
+.live__caption {
+  position: absolute;
+  left: 50%;
+  bottom: 12px;
+  transform: translateX(-50%);
+  z-index: 5;
+  font-size: 11px;
+  color: var(--fg);
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(6px);
+  padding: 4px 12px;
+  border-radius: 999px;
+  max-width: 60vw;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  pointer-events: none;
+}
+
+.live__fullscreen {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 38px;
+  height: 38px;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: rgba(0, 0, 0, 0.55);
+  backdrop-filter: blur(6px);
+  color: var(--fg);
+  cursor: pointer;
+}
+
+.live__fullscreen:hover {
+  border-color: var(--accent);
+}
+
+.live:fullscreen,
+.live:fullscreen .live__iframe {
+  background: #fff;
+}
