@@ -31,9 +31,11 @@ import { writeIndex } from "./scripts/build-index.mjs";
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const PROJECTS_DIR = join(__dirname, "public", "projects");
 
+// drpc's free tier times out under load; default Base to the official public
+// RPC and allow per-chain overrides via env (BASE_RPC / ETH_RPC).
 const RPCS = {
-  ethereum: "https://eth.drpc.org",
-  base: "https://base.drpc.org",
+  ethereum: process.env.ETH_RPC || "https://eth.drpc.org",
+  base: process.env.BASE_RPC || "https://mainnet.base.org",
 };
 
 // --- ABI selectors ---
@@ -80,9 +82,12 @@ function decodeUint256(hex) {
  * Convert any URI scheme to an HTTP-fetchable URL.
  * ipfs:// → public gateway, onchfs:// → fxhash proxy, https:// → as-is.
  */
+// ipfs.io aggressively rate-limits bursts (whole batches fail); fxhash's own
+// gateway serves the pinned project metadata fast. Override with IPFS_GW.
+const IPFS_GW = (process.env.IPFS_GW || "https://gateway.fxhash2.xyz").replace(/\/$/, "");
 function toFetchUrl(uri) {
   if (uri.startsWith("ipfs://")) {
-    return "https://ipfs.io/ipfs/" + uri.slice("ipfs://".length);
+    return `${IPFS_GW}/ipfs/` + uri.slice("ipfs://".length);
   }
   if (uri.startsWith("onchfs://")) {
     return "https://onchfs.fxhash2.xyz/" + uri.slice("onchfs://".length);
@@ -91,7 +96,7 @@ function toFetchUrl(uri) {
 }
 
 /** Fetch + parse JSON with a few retries — the metadata host rate-limits in bursts. */
-async function fetchJsonWithRetry(url, tries = 3) {
+async function fetchJsonWithRetry(url, tries = 5) {
   let lastErr;
   for (let i = 0; i < tries; i++) {
     try {
