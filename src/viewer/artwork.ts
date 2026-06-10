@@ -15,6 +15,8 @@ import type { ArtworkItem } from "../discovery";
 export interface ProjectFile {
   project: {
     name: string;
+    artist?: string;
+    artists?: string[];
     contract: string;
     chain: string;
     generativeUri: string;
@@ -44,6 +46,10 @@ export interface ProjectFile {
 export interface ProjectIndexEntry {
   filename: string;
   name: string;
+  /** Joined artist display string (e.g. "A & B"); empty if unknown. */
+  artist?: string;
+  /** Individual artists — one filterable chip each. Collabs have >1. */
+  artists?: string[];
   chain: string;
   count: number;
   /** Representative thumbnail for the whole project (added by updateIndex). */
@@ -115,7 +121,7 @@ export function projectFileToItems(data: ProjectFile): ArtworkItem[] {
       key: `${chain}:${data.project?.contract ?? "unknown"}:${it.tokenId}`,
       name: it.name || `#${it.iteration}`,
       projectName: data.project?.name ?? "Unknown",
-      artistName: "",
+      artistName: data.project?.artist || (data.project?.artists || []).join(" & "),
       thumbnailUri: it.thumbnailUri || "",
       generativeUri: it.viewerParams?.uri || it.generativeUri || "",
       fxhash: it.viewerParams?.fxhash || it.fxhash || "",

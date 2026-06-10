@@ -33,9 +33,19 @@ export function buildIndex(dir = PROJECTS_DIR) {
     .map((f) => {
       try {
         const data = JSON.parse(readFileSync(join(dir, f), "utf8"));
+        // Artists: prefer the canonical array; fall back to the legacy single
+        // `artist` string. `artist` stays as a joined display string so older
+        // readers keep working.
+        const artists = Array.isArray(data.project?.artists)
+          ? data.project.artists.filter(Boolean)
+          : data.project?.artist
+            ? [data.project.artist]
+            : [];
         return {
           filename: f,
           name: data.project?.name || f.replace(".json", ""),
+          artist: artists.join(" & "),
+          artists,
           chain: data.project?.chain || "unknown",
           count: data.iterations?.length || 0,
           // Representative thumbnail for the whole project (first iteration),

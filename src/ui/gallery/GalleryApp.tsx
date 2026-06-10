@@ -122,43 +122,76 @@ function ProjectGallery({
   error: string;
   onOpen: (p: ProjectIndexEntry) => void;
 }) {
+  // Click an artist chip to filter the grid down to that artist's projects.
+  // A project lists each artist separately, so a collaborator's chip also
+  // surfaces their solo works (and vice-versa).
+  const artistsOf = (p: ProjectIndexEntry): string[] =>
+    p.artists && p.artists.length ? p.artists : p.artist ? [p.artist] : [];
+  const [artistFilter, setArtistFilter] = useState<string>("");
+  const visible = artistFilter
+    ? projects.filter((p) => artistsOf(p).includes(artistFilter))
+    : projects;
+
   return (
     <div className="gallery">
       <header className="gallery__header">
-        <h1 className="gallery__title">Collection</h1>
-        <span className="gallery__count">{projects.length} project(s)</span>
+        <h1 className="gallery__title">fxhash viewer</h1>
+        <span className="gallery__count">
+          {visible.length} project(s){artistFilter ? ` · ${visible.length} of ${projects.length}` : ""}
+        </span>
       </header>
+
+      {artistFilter && (
+        <div className="gallery__filter">
+          <span>
+            Artist: <strong>{artistFilter}</strong>
+          </span>
+          <button className="chip chip--clear" onClick={() => setArtistFilter("")}>
+            clear ✕
+          </button>
+        </div>
+      )}
 
       {error && projects.length === 0 ? (
         <div className="gallery__empty">{error}</div>
       ) : (
         <div className="gallery__grid">
-          {projects.map((p) => (
-            <button
-              key={p.filename}
-              className="gallery-card"
-              onClick={() => onOpen(p)}
-              title={p.name}
-            >
-              {p.thumbnail ? (
-                <img
-                  className="gallery-card__thumb"
-                  src={thumbnailUrl(p.thumbnail)}
-                  alt={p.name}
-                  loading="lazy"
-                />
-              ) : (
-                <div className="gallery-card__thumb gallery-card__thumb--empty">
-                  <span>no preview</span>
-                </div>
-              )}
-              <div className="gallery-card__meta">
+          {visible.map((p) => (
+            <div key={p.filename} className="gallery-card">
+              <button
+                className="gallery-card__open"
+                onClick={() => onOpen(p)}
+                title={p.name}
+              >
+                {p.thumbnail ? (
+                  <img
+                    className="gallery-card__thumb"
+                    src={thumbnailUrl(p.thumbnail)}
+                    alt={p.name}
+                    loading="lazy"
+                  />
+                ) : (
+                  <div className="gallery-card__thumb gallery-card__thumb--empty">
+                    <span>no preview</span>
+                  </div>
+                )}
                 <span className="gallery-card__name">{p.name}</span>
-                <span className="gallery-card__sub">
-                  {p.chain} · {p.count}
-                </span>
+                <span className="gallery-card__chain">{p.chain}</span>
+              </button>
+              <div className="gallery-card__tags">
+                {artistsOf(p).map((a) => (
+                  <button
+                    key={a}
+                    className="chip chip--artist"
+                    title={`Filter by ${a}`}
+                    onClick={() => setArtistFilter(a)}
+                  >
+                    {a}
+                  </button>
+                ))}
+                <span className="gallery-card__count">{p.count}</span>
               </div>
-            </button>
+            </div>
           ))}
         </div>
       )}
@@ -216,6 +249,7 @@ function ProjectTiles({
         <div className="tiles__titlewrap">
           <span className="tiles__title">{screen.project.name}</span>
           <span className="tiles__sub">
+            {screen.project.artist ? `${screen.project.artist} · ` : ""}
             {screen.loading ? "loading…" : `${screen.items.length} iteration(s)`}
           </span>
         </div>
@@ -304,7 +338,10 @@ function LiveView({
       <button className="backbtn backbtn--float" onClick={onBack}>
         ‹ {screen.project.name}
       </button>
-      <div className="live__caption">{screen.item.name}</div>
+      <div className="live__caption">
+        {screen.item.name}
+        {screen.project.artist ? <span className="live__artist"> · {screen.project.artist}</span> : null}
+      </div>
       <button
         className="live__fullscreen"
         onClick={toggleFullscreen}

@@ -81,7 +81,7 @@ export async function extractTezosByGraphQL(target, { onProgress } = {}) {
   const sel = target.slug != null ? `slug:${JSON.stringify(target.slug)}` : `id:${target.id}`;
 
   const head = await gql(
-    `{ generativeToken(${sel}){ name slug gentkContractAddress generativeUri objktsCount } }`,
+    `{ generativeToken(${sel}){ name slug gentkContractAddress generativeUri objktsCount author{ name } } }`,
   );
   const p = head.generativeToken;
   if (!p) throw new Error("project not found on fxhash GraphQL");
@@ -106,6 +106,8 @@ export async function extractTezosByGraphQL(target, { onProgress } = {}) {
   const output = {
     project: {
       name: p.name,
+      artist: p.author?.name || "",
+      artists: p.author?.name ? [p.author.name] : [],
       contract: p.gentkContractAddress || "unknown",
       chain: "tezos",
       generativeUri: p.generativeUri || "",
