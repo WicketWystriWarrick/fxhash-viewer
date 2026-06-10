@@ -35,7 +35,10 @@ function buildInjection(scheme: string, cid: string): string {
     // <base> tag
     s += `\n<base href="https://ipfs.io/ipfs/${cid}/">`;
     // crossOrigin for WebGL textures
-    s += `\n<script>(function(){var OI=window.Image;window.Image=function(w,h){var i=new OI(w,h);i.crossOrigin='anonymous';return i};window.Image.prototype=OI.prototype;var OC=document.createElement.bind(document);document.createElement=function(t,o){var e=OC(t,o);if(t.toLowerCase()==='img')e.crossOrigin='anonymous';return e}})();</script>`;
+    // NB: coerce the tag with String(t), not t.toLowerCase() — some artworks
+    // call createElement as a tagged template (`createElement\`canvas\``), so t
+    // arrives as a TemplateStringsArray, not a string (breaks GEOMORPHISM).
+    s += `\n<script>(function(){var OI=window.Image;window.Image=function(w,h){var i=new OI(w,h);i.crossOrigin='anonymous';return i};window.Image.prototype=OI.prototype;var OC=document.createElement.bind(document);document.createElement=function(t,o){var e=OC(t,o);if((''+t).toLowerCase()==='img')e.crossOrigin='anonymous';return e}})();</script>`;
     // SW registration suppression
     s += `\n<script>(function(){if(navigator.serviceWorker)navigator.serviceWorker.register=function(){return Promise.resolve(null)}})();</script>`;
   }
