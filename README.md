@@ -2,6 +2,8 @@
 
 A browser-based viewer for **fxhash** generative art, designed to keep working **after fxhash itself disappears**.
 
+**▶ Live demo: [fxhash-viewer.vercel.app](https://fxhash-viewer.vercel.app)**
+
 It resolves artwork bytes directly from where they actually live — **onchfs** (on-chain file system) and **IPFS** — and runs the original generator in a sandboxed iframe. No fxhash servers are involved at view time.
 
 ![fxhash viewer — gallery of extracted projects, each tagged with its artist and chain](docs/images/gallery.png)
