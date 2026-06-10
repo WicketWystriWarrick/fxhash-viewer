@@ -4,6 +4,8 @@ A browser-based viewer for **fxhash** generative art, designed to keep working *
 
 It resolves artwork bytes directly from where they actually live — **onchfs** (on-chain file system) and **IPFS** — and runs the original generator in a sandboxed iframe. No fxhash servers are involved at view time.
 
+![fxhash viewer — gallery of extracted projects, each tagged with its artist and chain](docs/images/gallery.png)
+
 > **Status:** work in progress (pre-1.0). Public, but the rough edges are still being smoothed out.
 
 ---
@@ -81,6 +83,10 @@ Other scripts:
 **File mode** — load a project JSON (see below). Saved projects under `public/projects/` appear in the sidebar; pick an iteration from the thumbnail grid to view it.
 
 The app ships with two interchangeable UIs — the **classic** sidebar above, and a full-screen **gallery** (collection → tiles → live view) where each project shows its artist(s) and chain, and clicking an artist tag filters the collection. Switch with the on-screen toggle or `?ui=gallery` / `?ui=classic`; your last choice is remembered.
+
+The generator runs live in the sandboxed iframe — here _Yuragi_ by Kazuhiro Tanimoto, resolved from on-chain onchfs on Ethereum:
+
+![An artwork running full-screen in the viewer](docs/images/live.jpg)
 
 ## Preparing artwork data (optional)
 
