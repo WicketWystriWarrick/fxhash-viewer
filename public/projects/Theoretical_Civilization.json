@@ -1,0 +1,1133 @@
+{
+  "project": {
+    "name": "Theoretical Civilization",
+    "contract": "0xed30BfA2457927CE5588B49f7EA3e21145dd3324",
+    "chain": "base",
+    "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+    "totalSupply": 62,
+    "extractedAt": "2026-06-09T12:48:53.215Z",
+    "source": "fxhash-v2-graphql",
+    "artist": "Studio Yorktown • Curated",
+    "artists": [
+      "Studio Yorktown • Curated"
+    ]
+  },
+  "iterations": [
+    {
+      "tokenId": 1,
+      "name": "Theoretical Civilization #1",
+      "iteration": 1,
+      "fxhash": "0x82ed8c981463210e2fe137deb43b79fd6f8f131f32b7851689571d4961de4bf7",
+      "minter": "0x087b562D60c35a650c97d17d27fbaEEED6225B30",
+      "fxparams": "",
+      "owner": "0x087b562D60c35a650c97d17d27fbaEEED6225B30",
+      "thumbnailUri": "ipfs://Qmao8it1fibTTJ9NoCQGD7j1k9nKRhJCUtMCCQZBgUsYNW",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x82ed8c981463210e2fe137deb43b79fd6f8f131f32b7851689571d4961de4bf7",
+        "iteration": 1,
+        "minter": "0x087b562D60c35a650c97d17d27fbaEEED6225B30",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 2,
+      "name": "Theoretical Civilization #2",
+      "iteration": 2,
+      "fxhash": "0xa900ac262875e929de46aa6c38072ad6716ba0481f11280d63619bac591d2f43",
+      "minter": "0x4De5ea9eA57dE5BE473e368ce10b483Ff2E59145",
+      "fxparams": "",
+      "owner": "0x4De5ea9eA57dE5BE473e368ce10b483Ff2E59145",
+      "thumbnailUri": "ipfs://QmYBhfjjfSrPnP4PyhxaRFcnnB8WTqErUU95xChhGzqQ9h",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xa900ac262875e929de46aa6c38072ad6716ba0481f11280d63619bac591d2f43",
+        "iteration": 2,
+        "minter": "0x4De5ea9eA57dE5BE473e368ce10b483Ff2E59145",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 3,
+      "name": "Theoretical Civilization #3",
+      "iteration": 3,
+      "fxhash": "0xa632ac0fff504432e35d3a243e1ccf380753f085404db4c1d9aba7d8bf0186c2",
+      "minter": "0x3c6B23B3a8899a187637676caA3d774682002D4A",
+      "fxparams": "",
+      "owner": "0x521Bd6B08E7F61c00380C5A7bdCc18872D40Da00",
+      "thumbnailUri": "ipfs://QmSAqgv6a6yiYLQ6tvrxgicbikxatCCmxxjqEvwDkZ4wFw",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xa632ac0fff504432e35d3a243e1ccf380753f085404db4c1d9aba7d8bf0186c2",
+        "iteration": 3,
+        "minter": "0x3c6B23B3a8899a187637676caA3d774682002D4A",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 4,
+      "name": "Theoretical Civilization #4",
+      "iteration": 4,
+      "fxhash": "0x47c0a2d57123bdf62fb031db805dc7f9187f1432b2d69bfb0f85beb8003c1daa",
+      "minter": "0x72b54Fc5FB73928ECb9A0681eC9Bb7217A977e19",
+      "fxparams": "",
+      "owner": "0x72b54Fc5FB73928ECb9A0681eC9Bb7217A977e19",
+      "thumbnailUri": "ipfs://QmWQzyW7SQi9LboU4CvwrhZjBMKJmHtdX64m6H5fSHLakR",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x47c0a2d57123bdf62fb031db805dc7f9187f1432b2d69bfb0f85beb8003c1daa",
+        "iteration": 4,
+        "minter": "0x72b54Fc5FB73928ECb9A0681eC9Bb7217A977e19",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 5,
+      "name": "Theoretical Civilization #5",
+      "iteration": 5,
+      "fxhash": "0xf56cd00092d476f3249c6f938f9c0ac799c9e3e04f9920e7d0a7e4a37cffd3aa",
+      "minter": "0xCAb58602093F3117c83d22AB6125309f00D0b55C",
+      "fxparams": "",
+      "owner": "0xCAb58602093F3117c83d22AB6125309f00D0b55C",
+      "thumbnailUri": "ipfs://QmSwvnkxduJ2WqJyLpEN1YnRTcub1ir3heAoe9WHfD63uw",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xf56cd00092d476f3249c6f938f9c0ac799c9e3e04f9920e7d0a7e4a37cffd3aa",
+        "iteration": 5,
+        "minter": "0xCAb58602093F3117c83d22AB6125309f00D0b55C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 6,
+      "name": "Theoretical Civilization #6",
+      "iteration": 6,
+      "fxhash": "0xc071b67fd5106290bc4665fafa5cacdcaa2b37aff2e082bd0b4d3b3105241bb3",
+      "minter": "0xC7A85cDcF6d90E49d6cf1497a4c2432de0f2f5dE",
+      "fxparams": "",
+      "owner": "0xC7A85cDcF6d90E49d6cf1497a4c2432de0f2f5dE",
+      "thumbnailUri": "ipfs://QmdsPR45enaTreH65oQBFS6pSWZynz98smQGLpLDGYUHpK",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xc071b67fd5106290bc4665fafa5cacdcaa2b37aff2e082bd0b4d3b3105241bb3",
+        "iteration": 6,
+        "minter": "0xC7A85cDcF6d90E49d6cf1497a4c2432de0f2f5dE",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 7,
+      "name": "Theoretical Civilization #7",
+      "iteration": 7,
+      "fxhash": "0xb8476fb82f25701420af68a4dba07197771064acef4dcb1245075409a9c79f9e",
+      "minter": "0xB74e3feEFD937ECac8D0e0A7c5dBE1E2645A875e",
+      "fxparams": "",
+      "owner": "0xB74e3feEFD937ECac8D0e0A7c5dBE1E2645A875e",
+      "thumbnailUri": "ipfs://QmZxVR1n97dq3zENGHZEfQKBrWbRDXe4s33F4SJTVucmb9",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xb8476fb82f25701420af68a4dba07197771064acef4dcb1245075409a9c79f9e",
+        "iteration": 7,
+        "minter": "0xB74e3feEFD937ECac8D0e0A7c5dBE1E2645A875e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 8,
+      "name": "Theoretical Civilization #8",
+      "iteration": 8,
+      "fxhash": "0x3a85bb6682d1740df95fe53d862439d9c82fca9faa2d20bcb1b9b0d03ae6b383",
+      "minter": "0x6853a596D6d7264D3622546dA3B891B6fe17eb82",
+      "fxparams": "",
+      "owner": "0x6853a596D6d7264D3622546dA3B891B6fe17eb82",
+      "thumbnailUri": "ipfs://QmVSXBC9hfhwJVtpnmNzbvwyRqskNtPhMQBvFRtzsUDykY",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x3a85bb6682d1740df95fe53d862439d9c82fca9faa2d20bcb1b9b0d03ae6b383",
+        "iteration": 8,
+        "minter": "0x6853a596D6d7264D3622546dA3B891B6fe17eb82",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 9,
+      "name": "Theoretical Civilization #9",
+      "iteration": 9,
+      "fxhash": "0x0eb850b3e6e39d550f774ffad8e0c91e6b3cd9e3d0ef33b43898192ec7f44ce5",
+      "minter": "0xC7A85cDcF6d90E49d6cf1497a4c2432de0f2f5dE",
+      "fxparams": "",
+      "owner": "0xC7A85cDcF6d90E49d6cf1497a4c2432de0f2f5dE",
+      "thumbnailUri": "ipfs://QmZQcDTNscGBwXRuViGcD8mZ6tHtw6GEUr3QWyYrYnZXJo",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x0eb850b3e6e39d550f774ffad8e0c91e6b3cd9e3d0ef33b43898192ec7f44ce5",
+        "iteration": 9,
+        "minter": "0xC7A85cDcF6d90E49d6cf1497a4c2432de0f2f5dE",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 10,
+      "name": "Theoretical Civilization #10",
+      "iteration": 10,
+      "fxhash": "0x5899ff31b79f3c9253a820b9a2b55d871fe8bbb3d6d4b999c2994e02d7ce5b70",
+      "minter": "0xa5E5d3afE7daF372972559C7Fa3b75cb7A4AE0d7",
+      "fxparams": "",
+      "owner": "0xa5E5d3afE7daF372972559C7Fa3b75cb7A4AE0d7",
+      "thumbnailUri": "ipfs://QmUgtcT8945VwKtgYQu7rDqTqDFJr8xoba29Kee8NBCTVb",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x5899ff31b79f3c9253a820b9a2b55d871fe8bbb3d6d4b999c2994e02d7ce5b70",
+        "iteration": 10,
+        "minter": "0xa5E5d3afE7daF372972559C7Fa3b75cb7A4AE0d7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 11,
+      "name": "Theoretical Civilization #11",
+      "iteration": 11,
+      "fxhash": "0xab79ac1ec34aa6971848456494651b9d92198ffe1aea33c45c6cc72d0e884b7e",
+      "minter": "0x6853a596D6d7264D3622546dA3B891B6fe17eb82",
+      "fxparams": "",
+      "owner": "0x6853a596D6d7264D3622546dA3B891B6fe17eb82",
+      "thumbnailUri": "ipfs://QmbidcZ37jPy8Cd8SzTdnsK8tGsNpx3EqemEBHKmvzwgqr",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xab79ac1ec34aa6971848456494651b9d92198ffe1aea33c45c6cc72d0e884b7e",
+        "iteration": 11,
+        "minter": "0x6853a596D6d7264D3622546dA3B891B6fe17eb82",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 12,
+      "name": "Theoretical Civilization #12",
+      "iteration": 12,
+      "fxhash": "0xab256b62812526a8d417f4b6bf402ee17eb7bb5e731c27d3d011323df2a28f12",
+      "minter": "0x89ab71800e1336705E2744d0C0A02F5826bF54e9",
+      "fxparams": "",
+      "owner": "0x89ab71800e1336705E2744d0C0A02F5826bF54e9",
+      "thumbnailUri": "ipfs://QmYXLm2qqZhPT3jcEc4tSskWYPtYTTUNjDtqfvffAqDKVV",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xab256b62812526a8d417f4b6bf402ee17eb7bb5e731c27d3d011323df2a28f12",
+        "iteration": 12,
+        "minter": "0x89ab71800e1336705E2744d0C0A02F5826bF54e9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 13,
+      "name": "Theoretical Civilization #13",
+      "iteration": 13,
+      "fxhash": "0x2abcf84461715484b44513b783300a0836ff79ff9e9fe607ec0f741e624b474b",
+      "minter": "0xB867Ba86746b4B3268508b014a3fEFD2a938cB27",
+      "fxparams": "",
+      "owner": "0xB867Ba86746b4B3268508b014a3fEFD2a938cB27",
+      "thumbnailUri": "ipfs://QmVjnaWRM6XWCiXC9YXmeKgg9coAUhDforiVvAofguJxYi",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x2abcf84461715484b44513b783300a0836ff79ff9e9fe607ec0f741e624b474b",
+        "iteration": 13,
+        "minter": "0xB867Ba86746b4B3268508b014a3fEFD2a938cB27",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 14,
+      "name": "Theoretical Civilization #14",
+      "iteration": 14,
+      "fxhash": "0x32db2f9d187931c4b55513de7d4976d895380c5ab274ce22a048a6b3bb294825",
+      "minter": "0x48963B03d3D7d16efD5E5d302225abc393A8CAd5",
+      "fxparams": "",
+      "owner": "0x48963B03d3D7d16efD5E5d302225abc393A8CAd5",
+      "thumbnailUri": "ipfs://QmUde4TKF8Nw1XErQAKgH7fct7QtgvxtAFvFTrRXXick25",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x32db2f9d187931c4b55513de7d4976d895380c5ab274ce22a048a6b3bb294825",
+        "iteration": 14,
+        "minter": "0x48963B03d3D7d16efD5E5d302225abc393A8CAd5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 15,
+      "name": "Theoretical Civilization #15",
+      "iteration": 15,
+      "fxhash": "0xb06e9afea1b4a1af3f4028ddaebca4fbed31be760ec5af46c02dc77cddbf8dc1",
+      "minter": "0xD6F9611148938f95233eFCad0d435f62093B52c0",
+      "fxparams": "",
+      "owner": "0xEc1a1ea0ac648057Df32b9a5d79A57a6A516C816",
+      "thumbnailUri": "ipfs://QmZ8YC6uKY25y4iaG7nzxkLb6Qw6eJiyXsLWsRM9nbqRyS",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xb06e9afea1b4a1af3f4028ddaebca4fbed31be760ec5af46c02dc77cddbf8dc1",
+        "iteration": 15,
+        "minter": "0xD6F9611148938f95233eFCad0d435f62093B52c0",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 16,
+      "name": "Theoretical Civilization #16",
+      "iteration": 16,
+      "fxhash": "0xee7d40ba32579977d57ae59634ab959098fe01eb499ed3d3ad38b7fc810cba81",
+      "minter": "0x31004F28BAbDa1F632Cb445944892b04a411E7f7",
+      "fxparams": "",
+      "owner": "0x31004F28BAbDa1F632Cb445944892b04a411E7f7",
+      "thumbnailUri": "ipfs://QmRMgTRKa5UxNKUEK5nf1Qyh5gDnEyCkKSqLKL7JnSLeZz",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xee7d40ba32579977d57ae59634ab959098fe01eb499ed3d3ad38b7fc810cba81",
+        "iteration": 16,
+        "minter": "0x31004F28BAbDa1F632Cb445944892b04a411E7f7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 17,
+      "name": "Theoretical Civilization #17",
+      "iteration": 17,
+      "fxhash": "0x141fdd302727e8fbbff35517ee50d30b907947b1d9d83f3c3a5af6a9ce136f40",
+      "minter": "0x76498dbcB3905d4A4F5Ad295F7Af1373B1627BdE",
+      "fxparams": "",
+      "owner": "0x76498dbcB3905d4A4F5Ad295F7Af1373B1627BdE",
+      "thumbnailUri": "ipfs://QmScp3djHp4UhPg3rwkzNUYM48onUAnQBSBkEM6TAb9g5B",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x141fdd302727e8fbbff35517ee50d30b907947b1d9d83f3c3a5af6a9ce136f40",
+        "iteration": 17,
+        "minter": "0x76498dbcB3905d4A4F5Ad295F7Af1373B1627BdE",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 18,
+      "name": "Theoretical Civilization #18",
+      "iteration": 18,
+      "fxhash": "0xf300206f6b62b9800fa85a2aa05cd07d32ac8d597e6872737ef06fc32f516959",
+      "minter": "0xb858A3F45840E76076c6c4DBa9f0f8958F11C1E8",
+      "fxparams": "",
+      "owner": "0xb858A3F45840E76076c6c4DBa9f0f8958F11C1E8",
+      "thumbnailUri": "ipfs://QmQiT7fyDDWdERvgcsi72iGEZQ1iwipSAVWsZQsg4bhajy",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xf300206f6b62b9800fa85a2aa05cd07d32ac8d597e6872737ef06fc32f516959",
+        "iteration": 18,
+        "minter": "0xb858A3F45840E76076c6c4DBa9f0f8958F11C1E8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 19,
+      "name": "Theoretical Civilization #19",
+      "iteration": 19,
+      "fxhash": "0xdfcfac6b332f0218c606962da2580b86d091f4848fd15eaf53ef1af6ceaa7444",
+      "minter": "0xa5E5d3afE7daF372972559C7Fa3b75cb7A4AE0d7",
+      "fxparams": "",
+      "owner": "0xa5E5d3afE7daF372972559C7Fa3b75cb7A4AE0d7",
+      "thumbnailUri": "ipfs://QmesGLv4YNkDbQdank1Q3aBazSgffWY6mEnvnF4MqVKrFB",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xdfcfac6b332f0218c606962da2580b86d091f4848fd15eaf53ef1af6ceaa7444",
+        "iteration": 19,
+        "minter": "0xa5E5d3afE7daF372972559C7Fa3b75cb7A4AE0d7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 20,
+      "name": "Theoretical Civilization #20",
+      "iteration": 20,
+      "fxhash": "0xfeb311d45d7ac3c70bfb6ac63f6b5520e81429da265e1863ba57e796351403e2",
+      "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE",
+      "fxparams": "",
+      "owner": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE",
+      "thumbnailUri": "ipfs://QmfMFvkBR7UCWark29vJgcua5owEG9Z4pr2Ubho5kZUQiA",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xfeb311d45d7ac3c70bfb6ac63f6b5520e81429da265e1863ba57e796351403e2",
+        "iteration": 20,
+        "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 21,
+      "name": "Theoretical Civilization #21",
+      "iteration": 21,
+      "fxhash": "0x2d1f30763ce9034923f19c5fb302a504f4b7ea4640f5514da4f4942d8d069576",
+      "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "fxparams": "",
+      "owner": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "thumbnailUri": "ipfs://QmbfHsoSFYKxAC6xdKh117UBidC18EACgKc1y1Ng8WgYqz",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x2d1f30763ce9034923f19c5fb302a504f4b7ea4640f5514da4f4942d8d069576",
+        "iteration": 21,
+        "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 22,
+      "name": "Theoretical Civilization #22",
+      "iteration": 22,
+      "fxhash": "0xa296d2fc61cf92bf844a04f707c8d66b5e9267cf44472da07d33d320f1a7100e",
+      "minter": "0x17920C7Ee7701FE58D8eB4f5f57Ac3947561550e",
+      "fxparams": "",
+      "owner": "0x17920C7Ee7701FE58D8eB4f5f57Ac3947561550e",
+      "thumbnailUri": "ipfs://QmcRvD8YVe2zy4YA9tStTCofaM2u7VT578k85zEDuaV31S",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xa296d2fc61cf92bf844a04f707c8d66b5e9267cf44472da07d33d320f1a7100e",
+        "iteration": 22,
+        "minter": "0x17920C7Ee7701FE58D8eB4f5f57Ac3947561550e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 23,
+      "name": "Theoretical Civilization #23",
+      "iteration": 23,
+      "fxhash": "0xf4cca405630cafafe8ded5c04b485827b4c284dd5b3bc1c1c9dbd6fd2a9fe2cf",
+      "minter": "0xF1db8A2623193757317639d0532daA5e3C8EA20c",
+      "fxparams": "",
+      "owner": "0xF1db8A2623193757317639d0532daA5e3C8EA20c",
+      "thumbnailUri": "ipfs://Qmbgh4WcNW9gnrmiwowY7semmJLBLBKvDLxQfaH61krw32",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xf4cca405630cafafe8ded5c04b485827b4c284dd5b3bc1c1c9dbd6fd2a9fe2cf",
+        "iteration": 23,
+        "minter": "0xF1db8A2623193757317639d0532daA5e3C8EA20c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 24,
+      "name": "Theoretical Civilization #24",
+      "iteration": 24,
+      "fxhash": "0xea1fc4937ef3433119792ec775f672c0d6294cbd9e9b3f10651ce0038732e560",
+      "minter": "0x992f0201ff7eE158a8BAf638549D0aD1CBcC27eF",
+      "fxparams": "",
+      "owner": "0x992f0201ff7eE158a8BAf638549D0aD1CBcC27eF",
+      "thumbnailUri": "ipfs://QmYCYshB8WtwdFRw1i9L8cfxWLgAM77tvQ79bYanVUf7ea",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xea1fc4937ef3433119792ec775f672c0d6294cbd9e9b3f10651ce0038732e560",
+        "iteration": 24,
+        "minter": "0x992f0201ff7eE158a8BAf638549D0aD1CBcC27eF",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 25,
+      "name": "Theoretical Civilization #25",
+      "iteration": 25,
+      "fxhash": "0x6f0d4b2d4e7debe5f6ae96bc2c2f87fa54745ebff74864a2da2d9ce5f2138b8b",
+      "minter": "0xe8270B17F341871E814a157142f0fEdccb7a9a92",
+      "fxparams": "",
+      "owner": "0xe8270B17F341871E814a157142f0fEdccb7a9a92",
+      "thumbnailUri": "ipfs://QmYaKFM8GFqNv2eEGHoGNLeRKDgJ2bZKwGgCgRf43FjABZ",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x6f0d4b2d4e7debe5f6ae96bc2c2f87fa54745ebff74864a2da2d9ce5f2138b8b",
+        "iteration": 25,
+        "minter": "0xe8270B17F341871E814a157142f0fEdccb7a9a92",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 26,
+      "name": "Theoretical Civilization #26",
+      "iteration": 26,
+      "fxhash": "0xa45d2ec4041a90c8a477b775ab56fe74cf6461d3cff8c7181f3103640f54cd4c",
+      "minter": "0xe8270B17F341871E814a157142f0fEdccb7a9a92",
+      "fxparams": "",
+      "owner": "0xe8270B17F341871E814a157142f0fEdccb7a9a92",
+      "thumbnailUri": "ipfs://QmekXDxvj5huGeSkcrhjp8rC9HAbiRC7wLU9JLJg9f9S3Y",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xa45d2ec4041a90c8a477b775ab56fe74cf6461d3cff8c7181f3103640f54cd4c",
+        "iteration": 26,
+        "minter": "0xe8270B17F341871E814a157142f0fEdccb7a9a92",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 27,
+      "name": "Theoretical Civilization #27",
+      "iteration": 27,
+      "fxhash": "0x674c95a702330af0ba29f0939fcedb3f6c4d0f48f2e48ad29368b4f1df7f995d",
+      "minter": "0x8dF55Ecf2C261b44D079302dc95327fe32F74eeD",
+      "fxparams": "",
+      "owner": "0x8dF55Ecf2C261b44D079302dc95327fe32F74eeD",
+      "thumbnailUri": "ipfs://QmR6XAVbY6yEgyi57vH5DBsjzUSpBm4gJJFjyBXYCSmPor",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x674c95a702330af0ba29f0939fcedb3f6c4d0f48f2e48ad29368b4f1df7f995d",
+        "iteration": 27,
+        "minter": "0x8dF55Ecf2C261b44D079302dc95327fe32F74eeD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 28,
+      "name": "Theoretical Civilization #28",
+      "iteration": 28,
+      "fxhash": "0x931b4a80a41be974c46296db1e15b770cc297901088abef5bee87823e9400a51",
+      "minter": "0x4B6B892B6878E61F421066A01FC03d0648228F82",
+      "fxparams": "",
+      "owner": "0x4B6B892B6878E61F421066A01FC03d0648228F82",
+      "thumbnailUri": "ipfs://QmVvNZGZyUEd7XNZBqPoQpekYshJVdz93YRoUxmhrhco5B",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x931b4a80a41be974c46296db1e15b770cc297901088abef5bee87823e9400a51",
+        "iteration": 28,
+        "minter": "0x4B6B892B6878E61F421066A01FC03d0648228F82",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 29,
+      "name": "Theoretical Civilization #29",
+      "iteration": 29,
+      "fxhash": "0xd935e80586c1f64c0fe88731f00f5795177046fcd5719d3e49c29aceaf268ab5",
+      "minter": "0x60d2f0640413344114c8e539a13d0402b5bcCF35",
+      "fxparams": "",
+      "owner": "0x60d2f0640413344114c8e539a13d0402b5bcCF35",
+      "thumbnailUri": "ipfs://QmZFK9ey2EZ4TtcvQMtsic3CTgXXCd8RNqowGa495Rf5uG",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xd935e80586c1f64c0fe88731f00f5795177046fcd5719d3e49c29aceaf268ab5",
+        "iteration": 29,
+        "minter": "0x60d2f0640413344114c8e539a13d0402b5bcCF35",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 30,
+      "name": "Theoretical Civilization #30",
+      "iteration": 30,
+      "fxhash": "0x5319f46fa1fa4277b91090e96a3bcb07d688322bad205b4fcc0841828c60de5c",
+      "minter": "0x60d2f0640413344114c8e539a13d0402b5bcCF35",
+      "fxparams": "",
+      "owner": "0x60d2f0640413344114c8e539a13d0402b5bcCF35",
+      "thumbnailUri": "ipfs://QmRUHyBpM45NzkS8tocz9wRePJ9jG6rRHbWVnGgCgjvj2V",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x5319f46fa1fa4277b91090e96a3bcb07d688322bad205b4fcc0841828c60de5c",
+        "iteration": 30,
+        "minter": "0x60d2f0640413344114c8e539a13d0402b5bcCF35",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 31,
+      "name": "Theoretical Civilization #31",
+      "iteration": 31,
+      "fxhash": "0x9144e5ff64eeb10b3e0d6b167b0e4a300b4ad56542cbadd7eecbdcd1750e0f95",
+      "minter": "0xd743B27D75A6DcDB34baFc6De0Acb8cecB3aC43F",
+      "fxparams": "",
+      "owner": "0xd743B27D75A6DcDB34baFc6De0Acb8cecB3aC43F",
+      "thumbnailUri": "ipfs://QmR1LFrcZvaTAxpta2ZwKr1WiQfyRSjeQnEZvTwSV95hqY",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x9144e5ff64eeb10b3e0d6b167b0e4a300b4ad56542cbadd7eecbdcd1750e0f95",
+        "iteration": 31,
+        "minter": "0xd743B27D75A6DcDB34baFc6De0Acb8cecB3aC43F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 32,
+      "name": "Theoretical Civilization #32",
+      "iteration": 32,
+      "fxhash": "0x29875889539e523feb2c3beb685a03d33ba6306323c19529a7c4f9cc1b5ecac0",
+      "minter": "0x2059a96525c364560A806Ca035a40C9F379eBcA9",
+      "fxparams": "",
+      "owner": "0x2059a96525c364560A806Ca035a40C9F379eBcA9",
+      "thumbnailUri": "ipfs://QmRhGKp5ptbvmpZCvSDN1J66nb3JSTUENZuGSaXCGHt4kn",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x29875889539e523feb2c3beb685a03d33ba6306323c19529a7c4f9cc1b5ecac0",
+        "iteration": 32,
+        "minter": "0x2059a96525c364560A806Ca035a40C9F379eBcA9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 33,
+      "name": "Theoretical Civilization #33",
+      "iteration": 33,
+      "fxhash": "0x9eba0a848f0d1163855ea11bf3822329bdf2d1d0fddd3358f6997f4c5eef9c14",
+      "minter": "0x3Dc9C769741d9564Cee17245dFe53f5F21b87b5F",
+      "fxparams": "",
+      "owner": "0x2ee5Bed2575f9ce0F777eec4B8E7D31d5C854380",
+      "thumbnailUri": "ipfs://QmQyEgkSbrSnjUYQ2W8PJ6cupVKH7CM3JUCjed1YX42ig8",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x9eba0a848f0d1163855ea11bf3822329bdf2d1d0fddd3358f6997f4c5eef9c14",
+        "iteration": 33,
+        "minter": "0x3Dc9C769741d9564Cee17245dFe53f5F21b87b5F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 34,
+      "name": "Theoretical Civilization #34",
+      "iteration": 34,
+      "fxhash": "0x0d02ed7a983252ea709deb0eb7dbda60d6256fb34dd09cbebcfbeed31a4d0a28",
+      "minter": "0x686158b2dF5cf38d948326fc7F8faAC6F3BfD7Df",
+      "fxparams": "",
+      "owner": "0x686158b2dF5cf38d948326fc7F8faAC6F3BfD7Df",
+      "thumbnailUri": "ipfs://QmV3bESR1HjZS62CXpDkd6YJvmkXGaWXMPR2GwwLnRFtX8",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x0d02ed7a983252ea709deb0eb7dbda60d6256fb34dd09cbebcfbeed31a4d0a28",
+        "iteration": 34,
+        "minter": "0x686158b2dF5cf38d948326fc7F8faAC6F3BfD7Df",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 35,
+      "name": "Theoretical Civilization #35",
+      "iteration": 35,
+      "fxhash": "0xf803e8d205d3700664fca4c10ac28d8a62b14594b96e94eed1257ba5d394ac19",
+      "minter": "0x686158b2dF5cf38d948326fc7F8faAC6F3BfD7Df",
+      "fxparams": "",
+      "owner": "0x686158b2dF5cf38d948326fc7F8faAC6F3BfD7Df",
+      "thumbnailUri": "ipfs://QmdoyspcDz8dBTSjYWjvHq8LZaB5jfoXk5mrheWAMi6yNN",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xf803e8d205d3700664fca4c10ac28d8a62b14594b96e94eed1257ba5d394ac19",
+        "iteration": 35,
+        "minter": "0x686158b2dF5cf38d948326fc7F8faAC6F3BfD7Df",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 36,
+      "name": "Theoretical Civilization #36",
+      "iteration": 36,
+      "fxhash": "0x00dab4f68217b9549392012e32bd868b8164b936ba88a3e6d37f148f5e3722f0",
+      "minter": "0xe459AE0DC31194fA0fd626020A25d9A1CeF0047D",
+      "fxparams": "",
+      "owner": "0xd541377Feb75D9ABC870516fB489B9F18CEb0CeE",
+      "thumbnailUri": "ipfs://QmbULCMXHKNhFEuVppTdZeV2LuHSueucEJxjbTmYwrrSTg",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x00dab4f68217b9549392012e32bd868b8164b936ba88a3e6d37f148f5e3722f0",
+        "iteration": 36,
+        "minter": "0xe459AE0DC31194fA0fd626020A25d9A1CeF0047D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 37,
+      "name": "Theoretical Civilization #37",
+      "iteration": 37,
+      "fxhash": "0x9484afed65858bfe02338483b58d4f2c733ad685d86d066ce1a07072a20bb1ab",
+      "minter": "0xeEAF61935C0c48f8F8cC28C381683d7fA2F75E1c",
+      "fxparams": "",
+      "owner": "0xeEAF61935C0c48f8F8cC28C381683d7fA2F75E1c",
+      "thumbnailUri": "ipfs://QmcZztXmStqDMSmBPE9jTucueb3RwtWZA2oS8nijxSK2ie",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x9484afed65858bfe02338483b58d4f2c733ad685d86d066ce1a07072a20bb1ab",
+        "iteration": 37,
+        "minter": "0xeEAF61935C0c48f8F8cC28C381683d7fA2F75E1c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 38,
+      "name": "Theoretical Civilization #38",
+      "iteration": 38,
+      "fxhash": "0xcac99ebe6f421d3a3931bbdceea6a9c246e2eb189a228579f7ebdeacae15d0c7",
+      "minter": "0x5133135153964675f9fd2eD6D234572129af3a87",
+      "fxparams": "",
+      "owner": "0x5133135153964675f9fd2eD6D234572129af3a87",
+      "thumbnailUri": "ipfs://QmPhc9vmJ3DndqDKAqZdjqnj1iJmQiu2V3NCkcu1d4FPvi",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xcac99ebe6f421d3a3931bbdceea6a9c246e2eb189a228579f7ebdeacae15d0c7",
+        "iteration": 38,
+        "minter": "0x5133135153964675f9fd2eD6D234572129af3a87",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 39,
+      "name": "Theoretical Civilization #39",
+      "iteration": 39,
+      "fxhash": "0x8b120897d2a0e43f61b0b039db17fe4d319a0c4d3161d75b7f292c9559d3a15e",
+      "minter": "0x0059f2304636211876d8d25cACeC8d42734df656",
+      "fxparams": "",
+      "owner": "0x0059f2304636211876d8d25cACeC8d42734df656",
+      "thumbnailUri": "ipfs://QmSkUkgpmhhcWJfyT9FeXsJFf3ujhN8KbF6rRvaTeuwuA6",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x8b120897d2a0e43f61b0b039db17fe4d319a0c4d3161d75b7f292c9559d3a15e",
+        "iteration": 39,
+        "minter": "0x0059f2304636211876d8d25cACeC8d42734df656",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 40,
+      "name": "Theoretical Civilization #40",
+      "iteration": 40,
+      "fxhash": "0x7ee80e643f6f4b5eab575310d5c308d6bcff8890890894338fe0b78015696014",
+      "minter": "0x6b9943Ec88AC12cf3AfF536eA8594B77F4f366F9",
+      "fxparams": "",
+      "owner": "0x6b9943Ec88AC12cf3AfF536eA8594B77F4f366F9",
+      "thumbnailUri": "ipfs://QmPRbuYgjzP1v82bfBnzNMUHDbPtPanf24PdSKUZGw2Hiy",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x7ee80e643f6f4b5eab575310d5c308d6bcff8890890894338fe0b78015696014",
+        "iteration": 40,
+        "minter": "0x6b9943Ec88AC12cf3AfF536eA8594B77F4f366F9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 41,
+      "name": "Theoretical Civilization #41",
+      "iteration": 41,
+      "fxhash": "0xcdb9cffd5923d312a044848c12814adc25b9c8ad169256ba6407939ce4327ab1",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "fxparams": "",
+      "owner": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "thumbnailUri": "ipfs://QmTEEFt6w5ne4UpmYWpLVGEEbSBpx23sxzzMM8a8TSuuix",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xcdb9cffd5923d312a044848c12814adc25b9c8ad169256ba6407939ce4327ab1",
+        "iteration": 41,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 42,
+      "name": "Theoretical Civilization #42",
+      "iteration": 42,
+      "fxhash": "0x21d122d8198307c2b33d7226a866fbc3c822ec9ad2f9b17a353aaf56988c229e",
+      "minter": "0x0cF219CA479243c57aA449ba482Ac1164673a59b",
+      "fxparams": "",
+      "owner": "0x0cF219CA479243c57aA449ba482Ac1164673a59b",
+      "thumbnailUri": "ipfs://QmPSBNAJyD1T1v2WZgpneSqRUn3idkorEnJprmCvgF7RMZ",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x21d122d8198307c2b33d7226a866fbc3c822ec9ad2f9b17a353aaf56988c229e",
+        "iteration": 42,
+        "minter": "0x0cF219CA479243c57aA449ba482Ac1164673a59b",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 43,
+      "name": "Theoretical Civilization #43",
+      "iteration": 43,
+      "fxhash": "0x3d8c73514a4c03b7d7029ac4d8963e777463b455887a64af0adc32bde3900c0d",
+      "minter": "0x2206445D241cCB7DAE93B2D2acFC67f75B90fD76",
+      "fxparams": "",
+      "owner": "0x2206445D241cCB7DAE93B2D2acFC67f75B90fD76",
+      "thumbnailUri": "ipfs://QmPNXgTtwx4hgdrwUxPJ2hsikWbjpduRCoJvyNh1kkFEEJ",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x3d8c73514a4c03b7d7029ac4d8963e777463b455887a64af0adc32bde3900c0d",
+        "iteration": 43,
+        "minter": "0x2206445D241cCB7DAE93B2D2acFC67f75B90fD76",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 44,
+      "name": "Theoretical Civilization #44",
+      "iteration": 44,
+      "fxhash": "0xab8e01f22acea04f2721b5dd615a1f890e859c2f41ecec23c6ae1d9decd96d31",
+      "minter": "0xbeB4f0c38684A4018E4DA1355981249cEca2FD14",
+      "fxparams": "",
+      "owner": "0xbeB4f0c38684A4018E4DA1355981249cEca2FD14",
+      "thumbnailUri": "ipfs://QmdHG7YTPhqJpvsTMtuTgMLVjDQ2eMiajj6tVZy2o8QXxu",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xab8e01f22acea04f2721b5dd615a1f890e859c2f41ecec23c6ae1d9decd96d31",
+        "iteration": 44,
+        "minter": "0xbeB4f0c38684A4018E4DA1355981249cEca2FD14",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 45,
+      "name": "Theoretical Civilization #45",
+      "iteration": 45,
+      "fxhash": "0x67d73a9c318a96a7fe04887e05727212db7eaf2c5a9aa3bb563d8b3294ab7d07",
+      "minter": "0x35b7b7C40de5cFF2F89A6648b88c1C9c0257742c",
+      "fxparams": "",
+      "owner": "0x35b7b7C40de5cFF2F89A6648b88c1C9c0257742c",
+      "thumbnailUri": "ipfs://QmRyUfXk8ZJjrpKZBkMYZAvxNC9uRhicS9vQ8i48wM3V24",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x67d73a9c318a96a7fe04887e05727212db7eaf2c5a9aa3bb563d8b3294ab7d07",
+        "iteration": 45,
+        "minter": "0x35b7b7C40de5cFF2F89A6648b88c1C9c0257742c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 46,
+      "name": "Theoretical Civilization #46",
+      "iteration": 46,
+      "fxhash": "0x8235ea9a41b04b6858e802d1e5fd828c8015748e20483276d1b87fffc113eddd",
+      "minter": "0xF1Da6E2d387e9DA611dAc8a7FC587Eaa4B010013",
+      "fxparams": "",
+      "owner": "0xF1Da6E2d387e9DA611dAc8a7FC587Eaa4B010013",
+      "thumbnailUri": "ipfs://QmafXGLdJgmAdrqJ9PVporPkcC7tLDWkicrbq4DR9qw3Tc",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x8235ea9a41b04b6858e802d1e5fd828c8015748e20483276d1b87fffc113eddd",
+        "iteration": 46,
+        "minter": "0xF1Da6E2d387e9DA611dAc8a7FC587Eaa4B010013",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 47,
+      "name": "Theoretical Civilization #47",
+      "iteration": 47,
+      "fxhash": "0xd1f1c4f5245e3883acba96f8023dd4c6e6573ba3969fe0662718aafcd00e9639",
+      "minter": "0xB3B212da1F50DE8eCDE59C932e36DF7aFb6319cB",
+      "fxparams": "",
+      "owner": "0xB3B212da1F50DE8eCDE59C932e36DF7aFb6319cB",
+      "thumbnailUri": "ipfs://QmcFbw9k6EL7a8eh6BHcxAyiZaDUscMQf4mCARZRzBiAxe",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xd1f1c4f5245e3883acba96f8023dd4c6e6573ba3969fe0662718aafcd00e9639",
+        "iteration": 47,
+        "minter": "0xB3B212da1F50DE8eCDE59C932e36DF7aFb6319cB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 48,
+      "name": "Theoretical Civilization #48",
+      "iteration": 48,
+      "fxhash": "0x25518371a9893c156a2cc6316b762bef68ce311172c0b2c77b8ff28550f0da02",
+      "minter": "0x765476239771A6B413b319391F10ff9063DaF973",
+      "fxparams": "",
+      "owner": "0x765476239771A6B413b319391F10ff9063DaF973",
+      "thumbnailUri": "ipfs://QmfNuZdf9UrRsLxAFzDDaXVs9ZwAzTgp2E8xun5e3eYUSd",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x25518371a9893c156a2cc6316b762bef68ce311172c0b2c77b8ff28550f0da02",
+        "iteration": 48,
+        "minter": "0x765476239771A6B413b319391F10ff9063DaF973",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 49,
+      "name": "Theoretical Civilization #49",
+      "iteration": 49,
+      "fxhash": "0xcfd12487d21fb0268e4fed62d68dfebd9a1984367724f27cd5242be667b421f7",
+      "minter": "0x7Ba3D1C4F46516fb975FB012F7db04381188e907",
+      "fxparams": "",
+      "owner": "0x7Ba3D1C4F46516fb975FB012F7db04381188e907",
+      "thumbnailUri": "ipfs://QmX1Zz1jdsEmM8XC571ZrHRKgtZk1ESubaHcS5wA93VYN8",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xcfd12487d21fb0268e4fed62d68dfebd9a1984367724f27cd5242be667b421f7",
+        "iteration": 49,
+        "minter": "0x7Ba3D1C4F46516fb975FB012F7db04381188e907",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 50,
+      "name": "Theoretical Civilization #50",
+      "iteration": 50,
+      "fxhash": "0xb1567df16d846b2e216cf78ae5479c7431965ddc195a05bd107a86e6896439c2",
+      "minter": "0x7Ba3D1C4F46516fb975FB012F7db04381188e907",
+      "fxparams": "",
+      "owner": "0x7Ba3D1C4F46516fb975FB012F7db04381188e907",
+      "thumbnailUri": "ipfs://QmWEmdu898GzELN3qogrptbiFbvkyfB5SNhJMZxBiBJPn1",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xb1567df16d846b2e216cf78ae5479c7431965ddc195a05bd107a86e6896439c2",
+        "iteration": 50,
+        "minter": "0x7Ba3D1C4F46516fb975FB012F7db04381188e907",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 51,
+      "name": "Theoretical Civilization #51",
+      "iteration": 51,
+      "fxhash": "0xde4971499d7e5a87cf58f66051ba2a29ad8e46c06ccae50a308896e10574aa9d",
+      "minter": "0xe8C39372a3284FA8a99437568df0Ad66153af809",
+      "fxparams": "",
+      "owner": "0xe8C39372a3284FA8a99437568df0Ad66153af809",
+      "thumbnailUri": "ipfs://QmeD5d156Y78kt1NrMcjyR8nUcAitxvvPt92CqrSE9X9Rf",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xde4971499d7e5a87cf58f66051ba2a29ad8e46c06ccae50a308896e10574aa9d",
+        "iteration": 51,
+        "minter": "0xe8C39372a3284FA8a99437568df0Ad66153af809",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 52,
+      "name": "Theoretical Civilization #52",
+      "iteration": 52,
+      "fxhash": "0xbff5dc1d242b07d2ecc53b15ca4e98fe8d02fe020bb5d5717d83c875a04ace40",
+      "minter": "0xd60b05E4724F6F7107E4963474DDc87c5388c23e",
+      "fxparams": "",
+      "owner": "0xd60b05E4724F6F7107E4963474DDc87c5388c23e",
+      "thumbnailUri": "ipfs://QmWTKabLrzHeq1mWSrGnfi1p64iNEu23yNMPMyfZSDd9DD",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xbff5dc1d242b07d2ecc53b15ca4e98fe8d02fe020bb5d5717d83c875a04ace40",
+        "iteration": 52,
+        "minter": "0xd60b05E4724F6F7107E4963474DDc87c5388c23e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 53,
+      "name": "Theoretical Civilization #53",
+      "iteration": 53,
+      "fxhash": "0x1f5a5a34b7966563e4424010d2604e8967fb3ccc660ae3a91609343e1e690e3b",
+      "minter": "0xf3860788D1597cecF938424bAABe976FaC87dC26",
+      "fxparams": "",
+      "owner": "0xf3860788D1597cecF938424bAABe976FaC87dC26",
+      "thumbnailUri": "ipfs://QmeFCHvp9FT9VRLyt27TN8ENHKtFKf3uCUiFFAFvaRMpuG",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x1f5a5a34b7966563e4424010d2604e8967fb3ccc660ae3a91609343e1e690e3b",
+        "iteration": 53,
+        "minter": "0xf3860788D1597cecF938424bAABe976FaC87dC26",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 54,
+      "name": "Theoretical Civilization #54",
+      "iteration": 54,
+      "fxhash": "0x0292fc4fc1a121623608845a103007ef12137ff45d4545010ef67d9ca108f72a",
+      "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+      "fxparams": "",
+      "owner": "0x79ED3957434cEA99f790C55E0cC86729F53e4aC5",
+      "thumbnailUri": "ipfs://QmQ7juqcPqQy9ig2fJAMXt53CoJE6W75deiE7Fy8ktxThP",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x0292fc4fc1a121623608845a103007ef12137ff45d4545010ef67d9ca108f72a",
+        "iteration": 54,
+        "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 55,
+      "name": "Theoretical Civilization #55",
+      "iteration": 55,
+      "fxhash": "0x3436cd0b2542f1e2a92da997760926e6c3a510fff5aacaf76ac461fa510891d0",
+      "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+      "fxparams": "",
+      "owner": "0x8d9C2833f0Fd6cd37C96b698C8D53241CF208E87",
+      "thumbnailUri": "ipfs://QmRMY3FxmPPsqgzmHULczu9CAg8jBJPLdwWkh84TMSCRgE",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x3436cd0b2542f1e2a92da997760926e6c3a510fff5aacaf76ac461fa510891d0",
+        "iteration": 55,
+        "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 56,
+      "name": "Theoretical Civilization #56",
+      "iteration": 56,
+      "fxhash": "0xc8da8e9aa32ee215a048e0a5a4f01716bce3fcba71cc8d814826b4094788158b",
+      "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+      "fxparams": "",
+      "owner": "0x4Ef33F32c39796aE02C3ec21656Ace134BAb73E9",
+      "thumbnailUri": "ipfs://QmZowKVK98qv4D1FiWpCeXTAMNAwuk21fkRNLZMmd1JhLE",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xc8da8e9aa32ee215a048e0a5a4f01716bce3fcba71cc8d814826b4094788158b",
+        "iteration": 56,
+        "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 57,
+      "name": "Theoretical Civilization #57",
+      "iteration": 57,
+      "fxhash": "0x80db3fba36914b9f435e55e9063fee867bffef9577c57ef45ddd63b76acfa37e",
+      "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+      "fxparams": "",
+      "owner": "0x4396179Cb3666664Fc9993bC82B9B2c1b45CDa62",
+      "thumbnailUri": "ipfs://QmYxsePABkwFn9LVj1zLbLhTz37hNAgWh4RoF946n8ZMzP",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x80db3fba36914b9f435e55e9063fee867bffef9577c57ef45ddd63b76acfa37e",
+        "iteration": 57,
+        "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 58,
+      "name": "Theoretical Civilization #58",
+      "iteration": 58,
+      "fxhash": "0xe15d88a2826b3c6309264c5a218a95e8a7bf032e0e1e07e7d0b862a2aff45bbf",
+      "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+      "fxparams": "",
+      "owner": "0x21B8178538B06bd51Cbe677C0Cc9cb5769C3E2BE",
+      "thumbnailUri": "ipfs://QmehqoGuLuCzqaGPMiUwn7RGSTbyDxfHtrcUs8FMXh3ANn",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xe15d88a2826b3c6309264c5a218a95e8a7bf032e0e1e07e7d0b862a2aff45bbf",
+        "iteration": 58,
+        "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 59,
+      "name": "Theoretical Civilization #59",
+      "iteration": 59,
+      "fxhash": "0x92f981111884937d9bc84dc6f9acd50db7c1b39b6f1585b59d1bcd64645c4733",
+      "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+      "fxparams": "",
+      "owner": "0x76A39E58edf90ec911637024E933b61A64e4eEe5",
+      "thumbnailUri": "ipfs://QmdBgRqG6yDV5qUjciXayPWSwnGfytHejLnco3UNcQZ9sG",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x92f981111884937d9bc84dc6f9acd50db7c1b39b6f1585b59d1bcd64645c4733",
+        "iteration": 59,
+        "minter": "0x833eBB4bDa11da33a7F1C907C8171e5995Fe33c7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 60,
+      "name": "Theoretical Civilization #60",
+      "iteration": 60,
+      "fxhash": "0x5997e45eb0e2f3f74a3833ac0c801d100249e851dd252393d29181d69fb5bc94",
+      "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+      "fxparams": "",
+      "owner": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+      "thumbnailUri": "ipfs://QmNTbqSuaRKwXYE725uDkBje28vBkd7tmL5sTUh48ftLN4",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x5997e45eb0e2f3f74a3833ac0c801d100249e851dd252393d29181d69fb5bc94",
+        "iteration": 60,
+        "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 61,
+      "name": "Theoretical Civilization #61",
+      "iteration": 61,
+      "fxhash": "0x0796ad27db132c7e0ac9342a693cd1a016629879cd772473287f26cf0cad4af7",
+      "minter": "0xAEd2e9cCEf9BAFaFaF9a961Beb788ea1005697e3",
+      "fxparams": "",
+      "owner": "0xAEd2e9cCEf9BAFaFaF9a961Beb788ea1005697e3",
+      "thumbnailUri": "ipfs://QmRmaYhXmudz4NzCLmRFe6RAC8K2xfHvDqT7Spt5KAw5Ri",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0x0796ad27db132c7e0ac9342a693cd1a016629879cd772473287f26cf0cad4af7",
+        "iteration": 61,
+        "minter": "0xAEd2e9cCEf9BAFaFaF9a961Beb788ea1005697e3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 62,
+      "name": "Theoretical Civilization #62",
+      "iteration": 62,
+      "fxhash": "0xd901cde21b63aab63523dc5520332dff477b00d7207d093a536fffb3b80eb569",
+      "minter": "0xAEd2e9cCEf9BAFaFaF9a961Beb788ea1005697e3",
+      "fxparams": "",
+      "owner": "0xAEd2e9cCEf9BAFaFaF9a961Beb788ea1005697e3",
+      "thumbnailUri": "ipfs://QmPBQQq42qaRwBMfZHxZrREhUggYcQLCXwAY5RNyYDPtnh",
+      "generativeUri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+      "viewerParams": {
+        "uri": "ipfs://QmURH6sBiffXAbdHR1zsqzXP9iTemc2rqP2ioPBUi6Dgna",
+        "fxhash": "0xd901cde21b63aab63523dc5520332dff477b00d7207d093a536fffb3b80eb569",
+        "iteration": 62,
+        "minter": "0xAEd2e9cCEf9BAFaFaF9a961Beb788ea1005697e3",
+        "fxparams": ""
+      }
+    }
+  ]
+}

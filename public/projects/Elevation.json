@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmV3SFEnf9gxak2giZRnwH4PZS8bKXSKP1hJuSFhSNus6W",
     "totalSupply": 320,
-    "extractedAt": "2026-05-30T15:15:04.118Z"
+    "extractedAt": "2026-05-30T15:15:04.118Z",
+    "artist": "Andreas Rau",
+    "artists": [
+      "Andreas Rau"
+    ]
   },
   "iterations": [
     {

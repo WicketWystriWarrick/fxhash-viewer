@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmbKavVizViFsmn4Viiqgf3BpvAFctk7gKoZpDNo4w8oE7",
     "totalSupply": 512,
-    "extractedAt": "2026-05-30T05:27:36.200Z"
+    "extractedAt": "2026-05-30T05:27:36.200Z",
+    "artist": "Studio Yorktown",
+    "artists": [
+      "Studio Yorktown"
+    ]
   },
   "iterations": [
     {

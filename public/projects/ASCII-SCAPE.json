@@ -6,7 +6,11 @@
     "generativeUri": "ipfs://QmQuxrwoY5TKCs5SoLcHdbfcfsZ6iMxxEMLCYstChBxdEL",
     "totalSupply": 256,
     "extractedAt": "2026-06-08T14:33:29.419Z",
-    "source": "fxhash-graphql"
+    "source": "fxhash-graphql",
+    "artist": "toxi",
+    "artists": [
+      "toxi"
+    ]
   },
   "iterations": [
     {

@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://Qmf5wUbLTDKNkpgxZWVXkv21HiiRzA2TMA6ohjVYNZs9BV",
     "totalSupply": 200,
-    "extractedAt": "2026-05-30T15:31:54.980Z"
+    "extractedAt": "2026-05-30T15:31:54.980Z",
+    "artist": "Piter Pasma",
+    "artists": [
+      "Piter Pasma"
+    ]
   },
   "iterations": [
     {

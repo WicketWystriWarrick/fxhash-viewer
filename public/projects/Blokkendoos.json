@@ -5,7 +5,11 @@
     "chain": "ethereum",
     "generativeUri": "onchfs://c522b2b8f9ada187f6ff6a1ff7501d5611be6ee152350e692ca5019adf970d60",
     "totalSupply": 512,
-    "extractedAt": "2026-05-30T16:10:32.604Z"
+    "extractedAt": "2026-05-30T16:10:32.604Z",
+    "artist": "Piter Pasma",
+    "artists": [
+      "Piter Pasma"
+    ]
   },
   "iterations": [
     {

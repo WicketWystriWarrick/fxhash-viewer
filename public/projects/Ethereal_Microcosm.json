@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmZzdpEQB1AgdEhG9nEAYZrhKRuGx9U9WyDh9DMiJuNnDB",
     "totalSupply": 300,
-    "extractedAt": "2026-05-30T15:27:35.381Z"
+    "extractedAt": "2026-05-30T15:27:35.381Z",
+    "artist": "ciphrd",
+    "artists": [
+      "ciphrd"
+    ]
   },
   "iterations": [
     {

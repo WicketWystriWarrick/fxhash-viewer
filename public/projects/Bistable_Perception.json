@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmVbvLmg2hJMLqK2vy24RcLiEc4AKMDxkQq3tLP5AVazuL",
     "totalSupply": 256,
-    "extractedAt": "2026-05-30T15:11:45.829Z"
+    "extractedAt": "2026-05-30T15:11:45.829Z",
+    "artist": "Landlines Art",
+    "artists": [
+      "Landlines Art"
+    ]
   },
   "iterations": [
     {

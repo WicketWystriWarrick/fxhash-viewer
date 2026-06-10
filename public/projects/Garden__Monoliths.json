@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmeuWoPt7WNMhTxMTZmumPqqw8zcCCd1K14wCHR2WoH6b2",
     "totalSupply": 255,
-    "extractedAt": "2026-06-03T00:22:10.014Z"
+    "extractedAt": "2026-06-03T00:22:10.014Z",
+    "artist": "zancan",
+    "artists": [
+      "zancan"
+    ]
   },
   "iterations": [
     {

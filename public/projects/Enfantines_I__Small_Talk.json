@@ -1,0 +1,3095 @@
+{
+  "project": {
+    "name": "Enfantines I. Small Talk",
+    "contract": "KT1U6EHmNxJTkvaWJ4ThczG4FSDaHC21ssvi",
+    "chain": "tezos",
+    "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+    "totalSupply": 171,
+    "extractedAt": "2026-06-09T15:12:44.093Z",
+    "source": "fxhash-graphql",
+    "artist": "Alejandro",
+    "artists": [
+      "Alejandro"
+    ]
+  },
+  "iterations": [
+    {
+      "tokenId": 1243444,
+      "name": "Enfantines I. Small Talk #1",
+      "iteration": 1,
+      "fxhash": "onitvU36zgDQ9T31TqArdtLxGRccy4fCKtBkkjB2rDuH7MxPXBH",
+      "minter": "tz1R4QZ2R2eLHEiBDvBqPLfwiV6WnD7grp63",
+      "fxparams": "",
+      "owner": "tz1R4QZ2R2eLHEiBDvBqPLfwiV6WnD7grp63",
+      "thumbnailUri": "ipfs://QmcxfRmNSamrELwMnGxgCHFWhE1Z7tqYfU4pYp8oNJSjYx",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onitvU36zgDQ9T31TqArdtLxGRccy4fCKtBkkjB2rDuH7MxPXBH",
+        "iteration": 1,
+        "minter": "tz1R4QZ2R2eLHEiBDvBqPLfwiV6WnD7grp63",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243445,
+      "name": "Enfantines I. Small Talk #2",
+      "iteration": 2,
+      "fxhash": "oos68ZPLKLBcANozYteLP77wwFXBzKEPQgkuCyUU4yDkiXCXuZN",
+      "minter": "tz1WvycAANxbARxkBy7i75NateAcz97bQz3c",
+      "fxparams": "",
+      "owner": "tz1XBuBrXhvLqG4YXXWE6z7bZyU7Mx6F2fiu",
+      "thumbnailUri": "ipfs://QmbvEAn7FLMeYBDroYwBP8qWc3d3VVWbk19tTB83LCMB5S",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oos68ZPLKLBcANozYteLP77wwFXBzKEPQgkuCyUU4yDkiXCXuZN",
+        "iteration": 2,
+        "minter": "tz1WvycAANxbARxkBy7i75NateAcz97bQz3c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243446,
+      "name": "Enfantines I. Small Talk #3",
+      "iteration": 3,
+      "fxhash": "ooo3H38pchKbgLR7Swt7AXj9oqY6d79sNEDVouFm312tEUtcUGF",
+      "minter": "tz1Y913cjeoLFXuz6Uzqq54A6vshAeQd9CiE",
+      "fxparams": "",
+      "owner": "tz1Trg6npgauME1Nb8zkkv7xv7sBdboNUFPP",
+      "thumbnailUri": "ipfs://QmRvYZhBCNMBQRiFJ3gPeD6EzUhrXysQr9M8nB9fedLHSh",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooo3H38pchKbgLR7Swt7AXj9oqY6d79sNEDVouFm312tEUtcUGF",
+        "iteration": 3,
+        "minter": "tz1Y913cjeoLFXuz6Uzqq54A6vshAeQd9CiE",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243447,
+      "name": "Enfantines I. Small Talk #4",
+      "iteration": 4,
+      "fxhash": "onvSqXpmrctwf9sqMoVG4zaE3jUz7Zmy3TZepKszpvQ8Mgr6eY1",
+      "minter": "tz1TSdoeS5udkYmVr1cEpErTqxGVrC3Kcd2J",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmTmmfTdFEHUeVqaEx65JWb3H6Drnh6CppEWqYYy5Cci2m",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onvSqXpmrctwf9sqMoVG4zaE3jUz7Zmy3TZepKszpvQ8Mgr6eY1",
+        "iteration": 4,
+        "minter": "tz1TSdoeS5udkYmVr1cEpErTqxGVrC3Kcd2J",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243448,
+      "name": "Enfantines I. Small Talk #5",
+      "iteration": 5,
+      "fxhash": "opRVUJ7tkm6tD91Z1FjUftWeQdcULHEVgq3iGtRmkNKW4L8BH1R",
+      "minter": "tz1NJ5NqG289sA7Sfo8sbdqjczoVE52JoqTX",
+      "fxparams": "",
+      "owner": "tz1isguKP6JYgmpRJMvjwJaFRYmjfkLmY6ug",
+      "thumbnailUri": "ipfs://QmeK4igartUSFcCgfUmYP548nV42oBKotceW13oYRrT2vm",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opRVUJ7tkm6tD91Z1FjUftWeQdcULHEVgq3iGtRmkNKW4L8BH1R",
+        "iteration": 5,
+        "minter": "tz1NJ5NqG289sA7Sfo8sbdqjczoVE52JoqTX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243449,
+      "name": "Enfantines I. Small Talk #6",
+      "iteration": 6,
+      "fxhash": "ooBLd9SdjD7cqCq4hCpjiBsAP8VPhDh8CH8WHPjSgTUCZDhm2Z2",
+      "minter": "tz1NATazbFfnypvM7q32nnFP6m7aDXrtCm1g",
+      "fxparams": "",
+      "owner": "tz1SWwpTDpvf8PAYnenfsXF9bbUwJRzksJND",
+      "thumbnailUri": "ipfs://QmV8J77eRriTGEi4DUeqCTGJG9GBkgV9UKehwNSTBCEb4c",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooBLd9SdjD7cqCq4hCpjiBsAP8VPhDh8CH8WHPjSgTUCZDhm2Z2",
+        "iteration": 6,
+        "minter": "tz1NATazbFfnypvM7q32nnFP6m7aDXrtCm1g",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243450,
+      "name": "Enfantines I. Small Talk #7",
+      "iteration": 7,
+      "fxhash": "ooQ6krM1rbQgMRLw3NQwJ4vnAU7X8X1mR6BzQixGr8Lrxz1UXrR",
+      "minter": "tz1WRboGJrpU2iUz537rwwaShwtQFA3KmUd2",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmVTyk9sPEGaN8RZ6arEGziFGTus8jccn8EkLkK9TsbjjB",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooQ6krM1rbQgMRLw3NQwJ4vnAU7X8X1mR6BzQixGr8Lrxz1UXrR",
+        "iteration": 7,
+        "minter": "tz1WRboGJrpU2iUz537rwwaShwtQFA3KmUd2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243451,
+      "name": "Enfantines I. Small Talk #8",
+      "iteration": 8,
+      "fxhash": "ooQV7jvaM1RnzCz6ypKWfqV46fKh27rwx7aZutXmsBup1pUTEkd",
+      "minter": "tz1bTb1TkHCP6CEK9fFiCaMrJLtWXpM6yjva",
+      "fxparams": "",
+      "owner": "tz1M9nfnW9S5gUJJzGWEX3n9xo8Ln2m5pECg",
+      "thumbnailUri": "ipfs://QmV98Fb3NTonhhk2pWvPnY6Rqcy3Cpw5tR4BDHDe25ahuZ",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooQV7jvaM1RnzCz6ypKWfqV46fKh27rwx7aZutXmsBup1pUTEkd",
+        "iteration": 8,
+        "minter": "tz1bTb1TkHCP6CEK9fFiCaMrJLtWXpM6yjva",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243452,
+      "name": "Enfantines I. Small Talk #9",
+      "iteration": 9,
+      "fxhash": "opaHidGP4ckwQ3aDJ9EiKHmHSPaX8cwRqwHGhLnbcaQLJMAMRLv",
+      "minter": "tz1bhbx2P33zfCL7DLMEDHxT4rtjQZtqsrXN",
+      "fxparams": "",
+      "owner": "tz1grYfjhss4wpZnHzaV1GxFo7zv5zBLr9yF",
+      "thumbnailUri": "ipfs://QmVYdSXLn9VUprNvtcZs6Msix9nNRi3zscadLbkhSALYgq",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opaHidGP4ckwQ3aDJ9EiKHmHSPaX8cwRqwHGhLnbcaQLJMAMRLv",
+        "iteration": 9,
+        "minter": "tz1bhbx2P33zfCL7DLMEDHxT4rtjQZtqsrXN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243453,
+      "name": "Enfantines I. Small Talk #10",
+      "iteration": 10,
+      "fxhash": "opUKELAHBd18ENtzUVK4WgKheC5DtguieHKp9JKoza83nJFnLsM",
+      "minter": "tz1R4QZ2R2eLHEiBDvBqPLfwiV6WnD7grp63",
+      "fxparams": "",
+      "owner": "tz1fFAabkT756jEFzry2GBd7JSdV6z7ARXq2",
+      "thumbnailUri": "ipfs://QmbDonmMkFAAG7P1YajtVwp7gAUHxYuwy3XMxgm7vcP3fF",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opUKELAHBd18ENtzUVK4WgKheC5DtguieHKp9JKoza83nJFnLsM",
+        "iteration": 10,
+        "minter": "tz1R4QZ2R2eLHEiBDvBqPLfwiV6WnD7grp63",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243454,
+      "name": "Enfantines I. Small Talk #11",
+      "iteration": 11,
+      "fxhash": "oofWMJE4HYamqatVDSA1xtbn5RVP616JWBmQVNH4sxfqrbJT491",
+      "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+      "fxparams": "",
+      "owner": "tz1YxyLY6xsM1swhJi6yQWA4rBmzAJuRDM9J",
+      "thumbnailUri": "ipfs://QmbQw6VF8qpeEbFepd5HgsJ8a4mQgHXdJGPpXu71uywLUv",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oofWMJE4HYamqatVDSA1xtbn5RVP616JWBmQVNH4sxfqrbJT491",
+        "iteration": 11,
+        "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243455,
+      "name": "Enfantines I. Small Talk #12",
+      "iteration": 12,
+      "fxhash": "ooebSUt5eWb4fTvfPMrZhkX45aYGGBCUQcBVcT8AWQvhL4GffZY",
+      "minter": "tz1Nf9i2JEttBb7cknw8wy2UE2P5qFvnjfUD",
+      "fxparams": "",
+      "owner": "tz1Nf9i2JEttBb7cknw8wy2UE2P5qFvnjfUD",
+      "thumbnailUri": "ipfs://QmXeRTu73ezXxQnQsA2XEcSAs8EzYxoWSbhqcYGvRhzuG6",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooebSUt5eWb4fTvfPMrZhkX45aYGGBCUQcBVcT8AWQvhL4GffZY",
+        "iteration": 12,
+        "minter": "tz1Nf9i2JEttBb7cknw8wy2UE2P5qFvnjfUD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243456,
+      "name": "Enfantines I. Small Talk #13",
+      "iteration": 13,
+      "fxhash": "onnz2vdAz3PgiD55nHFPUUaV3nAKaE4taJgMQHcuFhJHt1ktBAg",
+      "minter": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+      "fxparams": "",
+      "owner": "tz1d5khLKyZyu3ioK2StViUHCR6ozyAkeR2z",
+      "thumbnailUri": "ipfs://QmXs1KZX1Due3YvrJQBuQJcbiHy8eQ5WVoYEfvp4DcrwxN",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onnz2vdAz3PgiD55nHFPUUaV3nAKaE4taJgMQHcuFhJHt1ktBAg",
+        "iteration": 13,
+        "minter": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243457,
+      "name": "Enfantines I. Small Talk #14",
+      "iteration": 14,
+      "fxhash": "op6VE8PEZTMYFrwW4QTGoTfRaNsHB1AXPmkpNBYprqxjgKWuLEC",
+      "minter": "tz1XpJxHNAjvGrzfvLvu3z2tqE4cqU4pqTtp",
+      "fxparams": "",
+      "owner": "tz1htHnw3vCR126tUnUT4aKV7uVa2uoTCief",
+      "thumbnailUri": "ipfs://QmWDEG1tduezwL67zvGzVQqTV6Mm1yUdf8SRdUvxcPXLzW",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "op6VE8PEZTMYFrwW4QTGoTfRaNsHB1AXPmkpNBYprqxjgKWuLEC",
+        "iteration": 14,
+        "minter": "tz1XpJxHNAjvGrzfvLvu3z2tqE4cqU4pqTtp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243458,
+      "name": "Enfantines I. Small Talk #15",
+      "iteration": 15,
+      "fxhash": "ooMu1oGCStZrw95CN1ddSEYxY4iaHsKUqu3cdeVuQfwZQPryVB9",
+      "minter": "tz1egoe6x6gGb9ThgMQ81NDz7aA66EHPguSZ",
+      "fxparams": "",
+      "owner": "tz1e9ASiRFEcP3KT5EoEwkgiqtDZAUT4miXf",
+      "thumbnailUri": "ipfs://QmY4aA3PnjrZdcXW6tCsLEBupUSLTBrhqiPazY4iVUfmrP",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooMu1oGCStZrw95CN1ddSEYxY4iaHsKUqu3cdeVuQfwZQPryVB9",
+        "iteration": 15,
+        "minter": "tz1egoe6x6gGb9ThgMQ81NDz7aA66EHPguSZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243459,
+      "name": "Enfantines I. Small Talk #16",
+      "iteration": 16,
+      "fxhash": "oo3iANUpHqgHf2epWkm6neTYJbHtdZT2YfBuzi81vPRj6pEAVdY",
+      "minter": "tz2UgqLJG8ZHyn9hfKjGPHQVdZZS9gquKh1q",
+      "fxparams": "",
+      "owner": "tz2UgqLJG8ZHyn9hfKjGPHQVdZZS9gquKh1q",
+      "thumbnailUri": "ipfs://QmTkM2Nnxir1ajFzEqZTVgxLGe9eJs4UmzFRzdzfiTBBVN",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo3iANUpHqgHf2epWkm6neTYJbHtdZT2YfBuzi81vPRj6pEAVdY",
+        "iteration": 16,
+        "minter": "tz2UgqLJG8ZHyn9hfKjGPHQVdZZS9gquKh1q",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243460,
+      "name": "Enfantines I. Small Talk #17",
+      "iteration": 17,
+      "fxhash": "oneppdAvkUEKqqGvohwPfYdGVcEm7RUwe7UQuHyjtymT7C2rDf1",
+      "minter": "tz1ixjzCmDKanGeyyMb6WaBpjf7uRU1VTgJr",
+      "fxparams": "",
+      "owner": "tz1UhPQAeT7fPUG2WAYQ7jq63LwwXG8pg7NM",
+      "thumbnailUri": "ipfs://QmP1UDgTj9wy8Ad3i7FvzfXAwEAu1ogaA8JKJg4AKz3Kux",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oneppdAvkUEKqqGvohwPfYdGVcEm7RUwe7UQuHyjtymT7C2rDf1",
+        "iteration": 17,
+        "minter": "tz1ixjzCmDKanGeyyMb6WaBpjf7uRU1VTgJr",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243461,
+      "name": "Enfantines I. Small Talk #18",
+      "iteration": 18,
+      "fxhash": "opTonfKsxHKJMj2GKV1aUYVYMXoxi1vWZq9xc8y4gUM5nx4XSDq",
+      "minter": "tz1PFyhUuewJzmVHWuuTNy5ZiujgJiKMuwkq",
+      "fxparams": "",
+      "owner": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+      "thumbnailUri": "ipfs://QmPi12a7kZ8j83rvox1kJwarcauPaFgnA8vyn5VRHvoG2q",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opTonfKsxHKJMj2GKV1aUYVYMXoxi1vWZq9xc8y4gUM5nx4XSDq",
+        "iteration": 18,
+        "minter": "tz1PFyhUuewJzmVHWuuTNy5ZiujgJiKMuwkq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243462,
+      "name": "Enfantines I. Small Talk #19",
+      "iteration": 19,
+      "fxhash": "oocdoEkYnP3TEFABvqtgzC5F97G2KfFYYgadt4KnGhpTtHbwwaP",
+      "minter": "tz1Q3VQ2seeJgMiu2rYm2jd2cJkN9tRRZHmb",
+      "fxparams": "",
+      "owner": "tz1W7bVjUmtwDb5rhHtauJszAfQqHao4Lhvj",
+      "thumbnailUri": "ipfs://QmehHhP7Xm2GrQSJ2AfvMnKifi4A3FADYACDVCoLCDuTnn",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oocdoEkYnP3TEFABvqtgzC5F97G2KfFYYgadt4KnGhpTtHbwwaP",
+        "iteration": 19,
+        "minter": "tz1Q3VQ2seeJgMiu2rYm2jd2cJkN9tRRZHmb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243463,
+      "name": "Enfantines I. Small Talk #20",
+      "iteration": 20,
+      "fxhash": "ooccdbj2AcMfr893YnRFcsGcDFB87yeH92UYsZ9krdkCiTZLF2G",
+      "minter": "tz1YxYayVoo7aa1hihBeZX6PKUEEdu46hLeX",
+      "fxparams": "",
+      "owner": "tz1SWwpTDpvf8PAYnenfsXF9bbUwJRzksJND",
+      "thumbnailUri": "ipfs://QmTfgJo9EdtY6BnipnQbnpdgVdG379Rhyjho971Vbavuju",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooccdbj2AcMfr893YnRFcsGcDFB87yeH92UYsZ9krdkCiTZLF2G",
+        "iteration": 20,
+        "minter": "tz1YxYayVoo7aa1hihBeZX6PKUEEdu46hLeX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243464,
+      "name": "Enfantines I. Small Talk #21",
+      "iteration": 21,
+      "fxhash": "oogVhSUZsy7ob8h4Dc8kdkso2RtCiNPZnwj8yPc85ADitebwDts",
+      "minter": "tz1ejxAvgwpHFGuZFhJ9dGCfPACR7gbNcTP2",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmW9q1Xh53jWNGBbV1BJhEQ1ofMnyLxbeK8u8CRavrU3sk",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oogVhSUZsy7ob8h4Dc8kdkso2RtCiNPZnwj8yPc85ADitebwDts",
+        "iteration": 21,
+        "minter": "tz1ejxAvgwpHFGuZFhJ9dGCfPACR7gbNcTP2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243465,
+      "name": "Enfantines I. Small Talk #22",
+      "iteration": 22,
+      "fxhash": "ooSnpH5TeM4uNBjHcZYgNxdXsVcJDkGhGdEM4kQcwn8zjaqknzm",
+      "minter": "tz1f7wbmY8JReJ5et4KnJ4BMi8fKMRK3PvHt",
+      "fxparams": "",
+      "owner": "tz1aHAsDofQd9KQb9ZsFZUzAsu39tJ2JrmKD",
+      "thumbnailUri": "ipfs://QmdnTWK2hW6zaAC81PpUJqpgV9fBPnKEk1SM2qnLgVrZc2",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooSnpH5TeM4uNBjHcZYgNxdXsVcJDkGhGdEM4kQcwn8zjaqknzm",
+        "iteration": 22,
+        "minter": "tz1f7wbmY8JReJ5et4KnJ4BMi8fKMRK3PvHt",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243466,
+      "name": "Enfantines I. Small Talk #23",
+      "iteration": 23,
+      "fxhash": "onf2WhZ9mv4NC1k5R8Mppb545LjCAKoHTnv4XdyahPTfRfNJP1b",
+      "minter": "tz296uWackTNpR72kryGnca99ymDMKeqbPqe",
+      "fxparams": "",
+      "owner": "tz1Y4ZFVNdBFR5KdwBciAM1vC8qaHsExMT7j",
+      "thumbnailUri": "ipfs://QmPZE61G2Thm9rr9ct3rZJybuEhitUaukzrcA2VJuuVqV1",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onf2WhZ9mv4NC1k5R8Mppb545LjCAKoHTnv4XdyahPTfRfNJP1b",
+        "iteration": 23,
+        "minter": "tz296uWackTNpR72kryGnca99ymDMKeqbPqe",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243467,
+      "name": "Enfantines I. Small Talk #24",
+      "iteration": 24,
+      "fxhash": "ooQY8PB4Tyiw5jtpbymZzYwdkNx48bHG2kA1HJHBBsTbD7Errp1",
+      "minter": "tz1Lk6DK84Yf8TmmXoYYGkEtoezJa8H63xsY",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmRsLVhhW56arMqYrftK9AK15PG3PQFSAk3jLazTb6TV8C",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooQY8PB4Tyiw5jtpbymZzYwdkNx48bHG2kA1HJHBBsTbD7Errp1",
+        "iteration": 24,
+        "minter": "tz1Lk6DK84Yf8TmmXoYYGkEtoezJa8H63xsY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243468,
+      "name": "Enfantines I. Small Talk #25",
+      "iteration": 25,
+      "fxhash": "opNFycu4kQzVEyNZ9aMs7Y24E43unzi791aNrFjk4GCWD6wHpnA",
+      "minter": "tz1cATgZf5oodR6vqafZhuYP3ymRChimkdWM",
+      "fxparams": "",
+      "owner": "tz1ZqGDd6x7hVrniPCLeRTpNZDwUchcSjNKY",
+      "thumbnailUri": "ipfs://QmUzcAEe9jYpW7DWKpbFiLQoYz8HWih3jGdJUheSSM1pnC",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opNFycu4kQzVEyNZ9aMs7Y24E43unzi791aNrFjk4GCWD6wHpnA",
+        "iteration": 25,
+        "minter": "tz1cATgZf5oodR6vqafZhuYP3ymRChimkdWM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243469,
+      "name": "Enfantines I. Small Talk #26",
+      "iteration": 26,
+      "fxhash": "oonQJ4jeEhkWGWiUs9TwNo7Sct5s7ZYsiZEyBinZhjjHnRtadW7",
+      "minter": "tz1W75eqnJ1wZMZ8ha1GTyD1gjHX3siwnr9n",
+      "fxparams": "",
+      "owner": "tz2CeapCYrWMZ7jSruo7KJevabwboqHjiwsQ",
+      "thumbnailUri": "ipfs://QmWj4VndKsNszT8FXKHDAsjoL5egyxwDLJLXkSxFfWL9iM",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oonQJ4jeEhkWGWiUs9TwNo7Sct5s7ZYsiZEyBinZhjjHnRtadW7",
+        "iteration": 26,
+        "minter": "tz1W75eqnJ1wZMZ8ha1GTyD1gjHX3siwnr9n",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243470,
+      "name": "Enfantines I. Small Talk #27",
+      "iteration": 27,
+      "fxhash": "opLCDo4dGYdZqt1DLuDK11ziQ2jgS6pTwP7Bz9pL6mpjSR1K5uQ",
+      "minter": "tz1gcwAKQXcHwtciPbqfjyQWzy2XGsVD2G1M",
+      "fxparams": "",
+      "owner": "tz1XKgmxm6ZjADecBmaoL7TyRPvXiwoBzok8",
+      "thumbnailUri": "ipfs://QmU6ca7i2QG8XD7121MPsqVKYug8XDASRQ9ecM1pLSAPz2",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opLCDo4dGYdZqt1DLuDK11ziQ2jgS6pTwP7Bz9pL6mpjSR1K5uQ",
+        "iteration": 27,
+        "minter": "tz1gcwAKQXcHwtciPbqfjyQWzy2XGsVD2G1M",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243471,
+      "name": "Enfantines I. Small Talk #28",
+      "iteration": 28,
+      "fxhash": "onknUwwBEsjS8tG9mJTRaRba2Qv3cUGzDkUYoXhptQAVuRBKXwR",
+      "minter": "tz1QLGZW7ejFcXvL7K1gmjcbDVE5Pmi1wMBV",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmWgToh6wHmoVD6RUiJBsvDs7AT6QqM7qA95e6u6h1GqMB",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onknUwwBEsjS8tG9mJTRaRba2Qv3cUGzDkUYoXhptQAVuRBKXwR",
+        "iteration": 28,
+        "minter": "tz1QLGZW7ejFcXvL7K1gmjcbDVE5Pmi1wMBV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243472,
+      "name": "Enfantines I. Small Talk #29",
+      "iteration": 29,
+      "fxhash": "opLESL538VuLYArrU7xUbCNBscFBB42N8Vm1UH4NzJkWeiPDNHW",
+      "minter": "tz1SZEFHAoPQa4NqynYR3chHCbAePz6QzCGn",
+      "fxparams": "",
+      "owner": "tz1SZEFHAoPQa4NqynYR3chHCbAePz6QzCGn",
+      "thumbnailUri": "ipfs://QmNSmZrZf4KXBNBgjbGsbm7wAaQuFyp6TjGK13RX6wcwoK",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opLESL538VuLYArrU7xUbCNBscFBB42N8Vm1UH4NzJkWeiPDNHW",
+        "iteration": 29,
+        "minter": "tz1SZEFHAoPQa4NqynYR3chHCbAePz6QzCGn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243473,
+      "name": "Enfantines I. Small Talk #30",
+      "iteration": 30,
+      "fxhash": "onzNMBZdQdEBT5LknpCcUAkLpEWCmwz3PCEpQx99YdkEcDRcbJL",
+      "minter": "tz1aFfmuhUhV2tauyVbSJNMAt69mCgzoFYgN",
+      "fxparams": "",
+      "owner": "tz2Hdi3Tx9Tsti3XGmMR32k2Khrh5G8nM9Hq",
+      "thumbnailUri": "ipfs://Qmf991M26xW85TnkPgKQP1TCjjJbCQcZeUmATEC7mEJyHm",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onzNMBZdQdEBT5LknpCcUAkLpEWCmwz3PCEpQx99YdkEcDRcbJL",
+        "iteration": 30,
+        "minter": "tz1aFfmuhUhV2tauyVbSJNMAt69mCgzoFYgN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243474,
+      "name": "Enfantines I. Small Talk #31",
+      "iteration": 31,
+      "fxhash": "opHeWkC9oSQzN4XLx33f4JxpFb7jFMj45ZMVHiZa6Wap23xDMYZ",
+      "minter": "tz1LmEvSBa3aY9AG2qGiH3ijqEtbThZqcX2j",
+      "fxparams": "",
+      "owner": "tz1fT8u4PVrhbGMMT9HTrxyGFfYn2F1gGrqB",
+      "thumbnailUri": "ipfs://QmdfW4wbbx14Z7yVbqqUUemziiUKWkRpsD6fD8MN9V7Q8X",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opHeWkC9oSQzN4XLx33f4JxpFb7jFMj45ZMVHiZa6Wap23xDMYZ",
+        "iteration": 31,
+        "minter": "tz1LmEvSBa3aY9AG2qGiH3ijqEtbThZqcX2j",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243475,
+      "name": "Enfantines I. Small Talk #32",
+      "iteration": 32,
+      "fxhash": "ooFzbgbjFjWYMKwm5SXP2V4ZEQ4cARGAxWYVnVfvLtzRu7Lc5te",
+      "minter": "tz1NN5Gdj7gnGZiJSsKRx9d7mFJVu2Wy2Tp8",
+      "fxparams": "",
+      "owner": "tz2S1PXKXqCSQMSuVxhprd5SQWNtEeMRjUgo",
+      "thumbnailUri": "ipfs://QmdTS4THznNag455vNoBehSPHxgn4WCytCKytQ96Arxb3n",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooFzbgbjFjWYMKwm5SXP2V4ZEQ4cARGAxWYVnVfvLtzRu7Lc5te",
+        "iteration": 32,
+        "minter": "tz1NN5Gdj7gnGZiJSsKRx9d7mFJVu2Wy2Tp8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243476,
+      "name": "Enfantines I. Small Talk #33",
+      "iteration": 33,
+      "fxhash": "opH2UMd124M6LRrnVpS9qzTiVPKZ1LQ8VbHKp3BZhUQMcs2wT2F",
+      "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+      "fxparams": "",
+      "owner": "tz1bv9V6dLGRwx2u6iF8NvmXFgLs9ksErrZs",
+      "thumbnailUri": "ipfs://QmXyMSsZYdDAgvQw44284rw6KXMGGcBhtBk4HJdCxwoZfs",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opH2UMd124M6LRrnVpS9qzTiVPKZ1LQ8VbHKp3BZhUQMcs2wT2F",
+        "iteration": 33,
+        "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243477,
+      "name": "Enfantines I. Small Talk #34",
+      "iteration": 34,
+      "fxhash": "ooNpLjDSFQNBhBJVvQrJ71Y72TsCgiDPD1Qb12hqGYX71DYSiTz",
+      "minter": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+      "fxparams": "",
+      "owner": "tz1carrwoVAkoxsEJuYRUjaqk3qUtMHxo4zP",
+      "thumbnailUri": "ipfs://Qmbssr3vCh6bz226UBAqZpSsZ8eV35nKhSKyeTetzn85cK",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooNpLjDSFQNBhBJVvQrJ71Y72TsCgiDPD1Qb12hqGYX71DYSiTz",
+        "iteration": 34,
+        "minter": "tz1YHsinBJHMj1YFN7UrCsVAgTcaJCH86PjK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243478,
+      "name": "Enfantines I. Small Talk #35",
+      "iteration": 35,
+      "fxhash": "opRPzd2jBymvmoJXZhgTNAWfFfLkmPh6RnMTx5qFjfw9YMUm8BE",
+      "minter": "tz1b4g9oudSZ4pT6RozSAjYmDLpxsSRPYm2L",
+      "fxparams": "",
+      "owner": "tz1YhAXQFfX2umDgD7gUES1wFjvLHzbRr7P5",
+      "thumbnailUri": "ipfs://QmSmMSrAQvX8aUXPZGvJxaBoRB9GDTZvsCK2a49bMLcLkP",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opRPzd2jBymvmoJXZhgTNAWfFfLkmPh6RnMTx5qFjfw9YMUm8BE",
+        "iteration": 35,
+        "minter": "tz1b4g9oudSZ4pT6RozSAjYmDLpxsSRPYm2L",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243479,
+      "name": "Enfantines I. Small Talk #36",
+      "iteration": 36,
+      "fxhash": "oo5ZUP1FGyD4riSE1EEoKtfSS9kBUQ6eySYhK4Fghda7jfKbv7U",
+      "minter": "tz1e3K4iJBPaeGtu6T3qJYt9UytoTuzKHD7x",
+      "fxparams": "",
+      "owner": "tz1KySQ8LS1MjUc44ioU6p9Etpe5cLqnikwb",
+      "thumbnailUri": "ipfs://QmdiKvrmwQKz2yDhZgMRhRk13g22Q29iHVcc49PGFGNtD7",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo5ZUP1FGyD4riSE1EEoKtfSS9kBUQ6eySYhK4Fghda7jfKbv7U",
+        "iteration": 36,
+        "minter": "tz1e3K4iJBPaeGtu6T3qJYt9UytoTuzKHD7x",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243480,
+      "name": "Enfantines I. Small Talk #37",
+      "iteration": 37,
+      "fxhash": "ooXtYsKHPsJySeKaABY9noitsixAJQ54ssmtL5GydvSgCcWq5Pp",
+      "minter": "tz1epsP9kGwAxt6LTdgTpGhofAUVWTG5Gtja",
+      "fxparams": "",
+      "owner": "tz1aqUbcmWWduXtoDDKqi42dDH3DsqCAu2m4",
+      "thumbnailUri": "ipfs://Qmaf6u6HnrHcVxcJ1H854xS7F4sKhXYcK4qemoYiRF7a87",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooXtYsKHPsJySeKaABY9noitsixAJQ54ssmtL5GydvSgCcWq5Pp",
+        "iteration": 37,
+        "minter": "tz1epsP9kGwAxt6LTdgTpGhofAUVWTG5Gtja",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243481,
+      "name": "Enfantines I. Small Talk #38",
+      "iteration": 38,
+      "fxhash": "oo1ZFRUSVtvHCYiAp9diPDqzS47TVcraahXnUyZ52kWcAEEYhRU",
+      "minter": "tz1Z6aJE83GykSqvPkfwaamoYo4xubwKtJuW",
+      "fxparams": "",
+      "owner": "tz1Wzwn5KCCnf12wCX9LAPrd9uYR8iPDNSx3",
+      "thumbnailUri": "ipfs://QmcKtSg8Hv4PSnpMVNr2TdCzgVaJRhwkUXuxMvrgTuoXfn",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo1ZFRUSVtvHCYiAp9diPDqzS47TVcraahXnUyZ52kWcAEEYhRU",
+        "iteration": 38,
+        "minter": "tz1Z6aJE83GykSqvPkfwaamoYo4xubwKtJuW",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243482,
+      "name": "Enfantines I. Small Talk #39",
+      "iteration": 39,
+      "fxhash": "ooWPUpCce5SUNmfzcvSU9wCgGR3h4aqPX5YSMNU3pjrZSp7U7Qw",
+      "minter": "tz1amcNhVTWHuA4d6XakfvEBmfGYafDSHVPk",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmNapbd9DkMK18MwwXFS6vV2Z8nrrgD5uZqwJBJ6Yicypn",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooWPUpCce5SUNmfzcvSU9wCgGR3h4aqPX5YSMNU3pjrZSp7U7Qw",
+        "iteration": 39,
+        "minter": "tz1amcNhVTWHuA4d6XakfvEBmfGYafDSHVPk",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243483,
+      "name": "Enfantines I. Small Talk #40",
+      "iteration": 40,
+      "fxhash": "onpmUWPpbhm9Xhq1PJ787oRcLJoEMD4DfLhb49hCgHTJhV56XSr",
+      "minter": "tz1gBTEG4fcb5rWqdwr8spUyhRS4PsNmRgSV",
+      "fxparams": "",
+      "owner": "tz1i9UzuHCtgifcwJLrzyEPtSnk8fqqr16AU",
+      "thumbnailUri": "ipfs://QmPrsgVLhXhfXapdSdg6bQ9B8YXTAaJaoXWpKvXhx3DXtq",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onpmUWPpbhm9Xhq1PJ787oRcLJoEMD4DfLhb49hCgHTJhV56XSr",
+        "iteration": 40,
+        "minter": "tz1gBTEG4fcb5rWqdwr8spUyhRS4PsNmRgSV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243484,
+      "name": "Enfantines I. Small Talk #41",
+      "iteration": 41,
+      "fxhash": "onzuno3u3Jees4zmZzzVkCG2FnBv2Bn9VE9wmavdsqdY6ko3kYj",
+      "minter": "tz1gLeXAGc1Rho2UTE246xD26SapeyztMF8E",
+      "fxparams": "",
+      "owner": "tz1gLeXAGc1Rho2UTE246xD26SapeyztMF8E",
+      "thumbnailUri": "ipfs://QmbfPvRjWGauGNmAy4PSSWeotebri3oY4jBgg55V1oNhZV",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onzuno3u3Jees4zmZzzVkCG2FnBv2Bn9VE9wmavdsqdY6ko3kYj",
+        "iteration": 41,
+        "minter": "tz1gLeXAGc1Rho2UTE246xD26SapeyztMF8E",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243485,
+      "name": "Enfantines I. Small Talk #42",
+      "iteration": 42,
+      "fxhash": "onipGNf83aAJWTuq6Wz7sY3Xf4TdHVSDh1jUM9dyh8zbiWVx4to",
+      "minter": "tz1S48xQgmciATrngqM7UWX6PX3s9Jp7qw3K",
+      "fxparams": "",
+      "owner": "tz1d6Vh4PPBs9siz63MhCFZ6EaqujYxto2AL",
+      "thumbnailUri": "ipfs://QmasmyNER1UzKD4pJTR9vENFQe3c32tLkMRrmJukRmWNCC",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onipGNf83aAJWTuq6Wz7sY3Xf4TdHVSDh1jUM9dyh8zbiWVx4to",
+        "iteration": 42,
+        "minter": "tz1S48xQgmciATrngqM7UWX6PX3s9Jp7qw3K",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243486,
+      "name": "Enfantines I. Small Talk #43",
+      "iteration": 43,
+      "fxhash": "ooUV1LBZMFNEn1z49Ti5oyGUWQ1xBVh4huZVqpiyiA8j7CgxBtn",
+      "minter": "tz1bFXkoaGKEphKQv2uh1qTNQwcTn159mteL",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://Qmb8dtCvBNYizwrFxfBBBaQCLjntEMygzY8n6uWVCRdkTp",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooUV1LBZMFNEn1z49Ti5oyGUWQ1xBVh4huZVqpiyiA8j7CgxBtn",
+        "iteration": 43,
+        "minter": "tz1bFXkoaGKEphKQv2uh1qTNQwcTn159mteL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243487,
+      "name": "Enfantines I. Small Talk #44",
+      "iteration": 44,
+      "fxhash": "oonguVtrg6qtD3kL2ZEGBVNJWSkjgDfh8LykCx9v9qmcuZWeNbo",
+      "minter": "tz1dxJQUkh3uaFy1bPgeCV3jJMwPnBwmZSHn",
+      "fxparams": "",
+      "owner": "tz1isDv4w4fTJyWZXzFYC7evcz5Di8uLfULc",
+      "thumbnailUri": "ipfs://QmZTrcGJuSAdcWe8fVzyrev23CYtduuxLRzKY2kM3aK8gD",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oonguVtrg6qtD3kL2ZEGBVNJWSkjgDfh8LykCx9v9qmcuZWeNbo",
+        "iteration": 44,
+        "minter": "tz1dxJQUkh3uaFy1bPgeCV3jJMwPnBwmZSHn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243488,
+      "name": "Enfantines I. Small Talk #45",
+      "iteration": 45,
+      "fxhash": "ootmRWuNurb7FkYsWTUWSeyGj632EFXBTWHwYZSSs55cWN1GjqH",
+      "minter": "tz1T2RMb35hE6Mc1sXBXUcXkFjsj8aWbs7Xd",
+      "fxparams": "",
+      "owner": "tz1T2RMb35hE6Mc1sXBXUcXkFjsj8aWbs7Xd",
+      "thumbnailUri": "ipfs://QmbvEAn7FLMeYBDroYwBP8qWc3d3VVWbk19tTB83LCMB5S",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ootmRWuNurb7FkYsWTUWSeyGj632EFXBTWHwYZSSs55cWN1GjqH",
+        "iteration": 45,
+        "minter": "tz1T2RMb35hE6Mc1sXBXUcXkFjsj8aWbs7Xd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243489,
+      "name": "Enfantines I. Small Talk #46",
+      "iteration": 46,
+      "fxhash": "opSVJhP8xoPMuLJicRWG4iFvQKobTTLVjG5WoVNRs4qdHZtuwMu",
+      "minter": "tz1XBuBrXhvLqG4YXXWE6z7bZyU7Mx6F2fiu",
+      "fxparams": "",
+      "owner": "tz1XBuBrXhvLqG4YXXWE6z7bZyU7Mx6F2fiu",
+      "thumbnailUri": "ipfs://Qma6X5up3rbWCQNDvLtALpQBacyoSFWtWFit9SDYkJ4esh",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opSVJhP8xoPMuLJicRWG4iFvQKobTTLVjG5WoVNRs4qdHZtuwMu",
+        "iteration": 46,
+        "minter": "tz1XBuBrXhvLqG4YXXWE6z7bZyU7Mx6F2fiu",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243490,
+      "name": "Enfantines I. Small Talk #47",
+      "iteration": 47,
+      "fxhash": "oo1EKqMRSqBGvtuT5YAo8qPb7WMm4PmYGwCgeSweu69xjWnCh26",
+      "minter": "tz1cWmjFkZzKWsuxKvrkLeS2tEVgzfVVC73b",
+      "fxparams": "",
+      "owner": "tz1PXYuqZxFhgNsYJDWXhPTNDqjSzm9qWxmC",
+      "thumbnailUri": "ipfs://Qmbwx9wkAyuBVxQRhuWoh2MmRuq9gQ8ds5LXdLWeGQ3zdK",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo1EKqMRSqBGvtuT5YAo8qPb7WMm4PmYGwCgeSweu69xjWnCh26",
+        "iteration": 47,
+        "minter": "tz1cWmjFkZzKWsuxKvrkLeS2tEVgzfVVC73b",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243491,
+      "name": "Enfantines I. Small Talk #48",
+      "iteration": 48,
+      "fxhash": "opPT85xtXYDqjTcc7Vk7RUw8QsTJihGn3cHCXHVitWEzBiTCeR7",
+      "minter": "tz1TLqerK5ewqygRUG5TcCN8tkEbuSFBQVv3",
+      "fxparams": "",
+      "owner": "tz1ioXgXZDvhmU6Q3FbTvVACCweyNbq3XaZ1",
+      "thumbnailUri": "ipfs://QmPLrvgBbVDjD4bUEBxJ2iVDv1Q1Wu1xciu7FFEmobAimE",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opPT85xtXYDqjTcc7Vk7RUw8QsTJihGn3cHCXHVitWEzBiTCeR7",
+        "iteration": 48,
+        "minter": "tz1TLqerK5ewqygRUG5TcCN8tkEbuSFBQVv3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243492,
+      "name": "Enfantines I. Small Talk #49",
+      "iteration": 49,
+      "fxhash": "opBz7j8fmBKQc4KPdjCX4HVmXZ5t2vnacvhmrmR4Qakw3NETgYA",
+      "minter": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+      "fxparams": "",
+      "owner": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+      "thumbnailUri": "ipfs://QmNS9863hsD4vrX3QHZ7dEpUhEBwJJChu2GW7o6cuHDBXw",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opBz7j8fmBKQc4KPdjCX4HVmXZ5t2vnacvhmrmR4Qakw3NETgYA",
+        "iteration": 49,
+        "minter": "tz1inzR1j6ogaWHcCeeFFbLv8NyaxkDZoFgi",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243493,
+      "name": "Enfantines I. Small Talk #50",
+      "iteration": 50,
+      "fxhash": "ooqUpg9sJqV2YhgwYYkMz3ngWbbdrPfCCPB68NYaAf4FMhRvHp8",
+      "minter": "tz1i1jcNK8N9XDR5NTuNNYJLGX7S568KHYa4",
+      "fxparams": "",
+      "owner": "tz1SfFPEbHCLpJVnUQh7JDaz1BdbeDAhxdEo",
+      "thumbnailUri": "ipfs://QmcDGXwDSLZU96Aaz6zmNKadck1xHtHuWZVCnARp1U2ytB",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooqUpg9sJqV2YhgwYYkMz3ngWbbdrPfCCPB68NYaAf4FMhRvHp8",
+        "iteration": 50,
+        "minter": "tz1i1jcNK8N9XDR5NTuNNYJLGX7S568KHYa4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243494,
+      "name": "Enfantines I. Small Talk #51",
+      "iteration": 51,
+      "fxhash": "onp85ajFd3pVxq4zdbUJs99UYgtZnkRKBuHYzGvr9G536hM8F4a",
+      "minter": "tz1KzEJzCsgYQyVxPzpFpuREBGmQtmv5UKdM",
+      "fxparams": "",
+      "owner": "tz1PmkivtHWNkvh8nFdhLJdXnc49TKMiz8i4",
+      "thumbnailUri": "ipfs://QmP9WUZAZLp3xkkpT9GvGG8tteJB9w58vZP8DuEqcypb2z",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onp85ajFd3pVxq4zdbUJs99UYgtZnkRKBuHYzGvr9G536hM8F4a",
+        "iteration": 51,
+        "minter": "tz1KzEJzCsgYQyVxPzpFpuREBGmQtmv5UKdM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243495,
+      "name": "Enfantines I. Small Talk #52",
+      "iteration": 52,
+      "fxhash": "ooMDEhLnRcVNcFTci29M7o4VpyMeou6fBMrhZxjG427Y4bDig21",
+      "minter": "tz1Ss6NSZB6KMmhgiLjDvYGbRdn5KN323KEX",
+      "fxparams": "",
+      "owner": "tz1fPR5U9vvCJMjfB5gFjgAGB2eD76arskGG",
+      "thumbnailUri": "ipfs://Qma35KkJmbe9UBjosrtiUzhzUhXUr3mj1GVCWeSheE1SwL",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooMDEhLnRcVNcFTci29M7o4VpyMeou6fBMrhZxjG427Y4bDig21",
+        "iteration": 52,
+        "minter": "tz1Ss6NSZB6KMmhgiLjDvYGbRdn5KN323KEX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243496,
+      "name": "Enfantines I. Small Talk #53",
+      "iteration": 53,
+      "fxhash": "oorTDSiQVvHMB6oKLNwJFuZaTzsq4GBsh6n7oSo76DRUTSyZTtB",
+      "minter": "tz1TmqWKrWwpsivcQVWuPUwWbVMgnZAmBevs",
+      "fxparams": "",
+      "owner": "tz1duKQQ1k3PJp5K5QD3cwSHF6i8ReTQEvDL",
+      "thumbnailUri": "ipfs://QmRvjknNN8h4U52Mayw628YAdzkqeQ9YDBygcmM2Wmqg5o",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oorTDSiQVvHMB6oKLNwJFuZaTzsq4GBsh6n7oSo76DRUTSyZTtB",
+        "iteration": 53,
+        "minter": "tz1TmqWKrWwpsivcQVWuPUwWbVMgnZAmBevs",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243497,
+      "name": "Enfantines I. Small Talk #54",
+      "iteration": 54,
+      "fxhash": "opBVpQ9qd88VenZ3nfGVS6ZTeeL434uLCm64ZNAnRAiHzjPPwZo",
+      "minter": "tz1Qc3GjuHUAZtNdEabyK1rT5ak6AscbfHZA",
+      "fxparams": "",
+      "owner": "tz2SDK8A4ryJbj8XpuvwuqkdUChNyomUSvfL",
+      "thumbnailUri": "ipfs://QmUQ9kb9gdB6vGTNLKzJrtJcxByFCYuzDB7pSupLR9JLjK",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opBVpQ9qd88VenZ3nfGVS6ZTeeL434uLCm64ZNAnRAiHzjPPwZo",
+        "iteration": 54,
+        "minter": "tz1Qc3GjuHUAZtNdEabyK1rT5ak6AscbfHZA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243498,
+      "name": "Enfantines I. Small Talk #55",
+      "iteration": 55,
+      "fxhash": "ooes1vHrFVEHPeac29UUgzL35BnL4zbBZqhYrqZn4KJDx282oGg",
+      "minter": "tz1YJoT4wT65hm9yrrCQU7Vr2CtzTMhBmfQR",
+      "fxparams": "",
+      "owner": "tz2Pkr3QLWYxmJDk4EdpYqhPoUHvMaN25MXp",
+      "thumbnailUri": "ipfs://QmPZ336BiMcwEmJiwWqMA4ESo38Fk5JuVbvKmrKkSjTyxz",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooes1vHrFVEHPeac29UUgzL35BnL4zbBZqhYrqZn4KJDx282oGg",
+        "iteration": 55,
+        "minter": "tz1YJoT4wT65hm9yrrCQU7Vr2CtzTMhBmfQR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243499,
+      "name": "Enfantines I. Small Talk #56",
+      "iteration": 56,
+      "fxhash": "opZqnsbFDeMstZ1jHZ4B9hB9mpsvJmz4fA2f8UDMUmSqo2ecYcP",
+      "minter": "tz1PbuAv73eLuFx4bXJosW3yLch73hoyKz5F",
+      "fxparams": "",
+      "owner": "tz1a13TNm4dTTJxJhoK9VscovjAgjwhPpK6S",
+      "thumbnailUri": "ipfs://QmSMDDVNDF1EPEanbEAG1N8WDVw883sJZWefJ6PBAvGwdt",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opZqnsbFDeMstZ1jHZ4B9hB9mpsvJmz4fA2f8UDMUmSqo2ecYcP",
+        "iteration": 56,
+        "minter": "tz1PbuAv73eLuFx4bXJosW3yLch73hoyKz5F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243500,
+      "name": "Enfantines I. Small Talk #57",
+      "iteration": 57,
+      "fxhash": "onupS9hbkr7bJUH2snjETEsFv7h2nUs6JHENtpgy466VS9KRgwd",
+      "minter": "tz1RVRgRQNtev12bNMjSKPV615ss17MfsC4L",
+      "fxparams": "",
+      "owner": "tz1htHnw3vCR126tUnUT4aKV7uVa2uoTCief",
+      "thumbnailUri": "ipfs://QmX9evDkgEc6PPybszuKSF6trZe4vJfyidqFXdFTM6c3WH",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onupS9hbkr7bJUH2snjETEsFv7h2nUs6JHENtpgy466VS9KRgwd",
+        "iteration": 57,
+        "minter": "tz1RVRgRQNtev12bNMjSKPV615ss17MfsC4L",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243501,
+      "name": "Enfantines I. Small Talk #58",
+      "iteration": 58,
+      "fxhash": "opK7LPP3yZhBEWTPMWVtumBh9UNrvVcFE1akbpMBdAUx7iEB68A",
+      "minter": "tz1RmdMJw1zx44m7xNYoYnkDP4N7EtcmhnDj",
+      "fxparams": "",
+      "owner": "tz1VdsJgBJksi1yVFb7iDaMu2GmithRvEihj",
+      "thumbnailUri": "ipfs://QmPgxcnJmTDFjcie7RPAPCMTaxRGx1THETcbY8Q48TvnCK",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opK7LPP3yZhBEWTPMWVtumBh9UNrvVcFE1akbpMBdAUx7iEB68A",
+        "iteration": 58,
+        "minter": "tz1RmdMJw1zx44m7xNYoYnkDP4N7EtcmhnDj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243502,
+      "name": "Enfantines I. Small Talk #59",
+      "iteration": 59,
+      "fxhash": "ooiT5YRrs91pK93ADDmwrgZAqxiaXfPxdkPYLiLpR1tuWkAKuiz",
+      "minter": "tz1i4W9BUiaYiyYcnxD9v382F21m2HChT9NG",
+      "fxparams": "",
+      "owner": "tz1UhPQAeT7fPUG2WAYQ7jq63LwwXG8pg7NM",
+      "thumbnailUri": "ipfs://QmbUu73aRNNeY6bjJKn6NqUrxkQyTxN8GK8WfziT7rjXCm",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooiT5YRrs91pK93ADDmwrgZAqxiaXfPxdkPYLiLpR1tuWkAKuiz",
+        "iteration": 59,
+        "minter": "tz1i4W9BUiaYiyYcnxD9v382F21m2HChT9NG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243503,
+      "name": "Enfantines I. Small Talk #60",
+      "iteration": 60,
+      "fxhash": "opWsT7BqbFw4DV8g9McSH7y58jHsswwd66Qx6Eo1HzfEeSYbzyt",
+      "minter": "tz1UAJXZuZRDquX5zHkDoNDEFv1KQRKicsQp",
+      "fxparams": "",
+      "owner": "tz2Pkr3QLWYxmJDk4EdpYqhPoUHvMaN25MXp",
+      "thumbnailUri": "ipfs://QmaHwb4THh3LdKiBTH797q1vkVY9DzUHGs6not98jwL3uh",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opWsT7BqbFw4DV8g9McSH7y58jHsswwd66Qx6Eo1HzfEeSYbzyt",
+        "iteration": 60,
+        "minter": "tz1UAJXZuZRDquX5zHkDoNDEFv1KQRKicsQp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243504,
+      "name": "Enfantines I. Small Talk #61",
+      "iteration": 61,
+      "fxhash": "ooo1HWeos6vc33r3xnakcdHx623NGrfnosqE1dvavX1AFDuiWck",
+      "minter": "tz1LtnDetwVvYxbbSdjKSMTP7ghJfPB7amco",
+      "fxparams": "",
+      "owner": "tz1SqTmLCkGRaui6Qh4gUNMZ6vMaPA3bTxdx",
+      "thumbnailUri": "ipfs://QmRSiFM556XW6EyVPS7fMFtVZetbXLxtMBXGy5qCChGHNq",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooo1HWeos6vc33r3xnakcdHx623NGrfnosqE1dvavX1AFDuiWck",
+        "iteration": 61,
+        "minter": "tz1LtnDetwVvYxbbSdjKSMTP7ghJfPB7amco",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243505,
+      "name": "Enfantines I. Small Talk #62",
+      "iteration": 62,
+      "fxhash": "oo6C2MVwjyFmLJ7HQEbWoErsVF8dTooc1cvEbLVgZ1i6zTSKmAx",
+      "minter": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+      "fxparams": "",
+      "owner": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+      "thumbnailUri": "ipfs://QmStYYyyCweoWka4vuDokW4EXBHiGyZF1r16JPTBTXV1PA",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo6C2MVwjyFmLJ7HQEbWoErsVF8dTooc1cvEbLVgZ1i6zTSKmAx",
+        "iteration": 62,
+        "minter": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243506,
+      "name": "Enfantines I. Small Talk #63",
+      "iteration": 63,
+      "fxhash": "oovbtb55RAgx7BJbKKoqoFUccCKQxQQprTDHtMt5LWx1VpsGJGa",
+      "minter": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+      "fxparams": "",
+      "owner": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+      "thumbnailUri": "ipfs://QmSLyNrVq7wPzbs2QSXQK7xxqKMK7yCHMTvC31dbzCEcgk",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oovbtb55RAgx7BJbKKoqoFUccCKQxQQprTDHtMt5LWx1VpsGJGa",
+        "iteration": 63,
+        "minter": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243507,
+      "name": "Enfantines I. Small Talk #64",
+      "iteration": 64,
+      "fxhash": "ootf39sjs8P7WVWEudUJ3YPXZ7Rkr83AfVopT76wgHbWUwizacA",
+      "minter": "tz1dSzY6QrQc1qNoXg3hGxX5CYVux49bFHxo",
+      "fxparams": "",
+      "owner": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+      "thumbnailUri": "ipfs://QmZZHBXF4Ljb2cnHgP3EvbwSQjAYyz3NLg1zBwVqGhcjzq",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ootf39sjs8P7WVWEudUJ3YPXZ7Rkr83AfVopT76wgHbWUwizacA",
+        "iteration": 64,
+        "minter": "tz1dSzY6QrQc1qNoXg3hGxX5CYVux49bFHxo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243508,
+      "name": "Enfantines I. Small Talk #65",
+      "iteration": 65,
+      "fxhash": "opV6D1FATuWuyCxxrxyprS4kzkt2hCgwSMEK2hLyorRPhYWgpVe",
+      "minter": "tz1ZGXXoygkxN2TSssqHQP9fRDsjZeeGcpZM",
+      "fxparams": "",
+      "owner": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+      "thumbnailUri": "ipfs://QmatRSrZngFHSk8qkYt6UbK64UXoCdaZHhZjcPcSnPJdia",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opV6D1FATuWuyCxxrxyprS4kzkt2hCgwSMEK2hLyorRPhYWgpVe",
+        "iteration": 65,
+        "minter": "tz1ZGXXoygkxN2TSssqHQP9fRDsjZeeGcpZM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243509,
+      "name": "Enfantines I. Small Talk #66",
+      "iteration": 66,
+      "fxhash": "ooTUP6hETuj3MwU3bYts7EM1B8rHERsuoKVNhit1PArApftfLfD",
+      "minter": "tz1bYHbPHD3KrhQGpiFuBsaJEHx1Hb7Z6uQ6",
+      "fxparams": "",
+      "owner": "tz1htHnw3vCR126tUnUT4aKV7uVa2uoTCief",
+      "thumbnailUri": "ipfs://QmdQqvQ5QWoi2ebfH7pEiRsQRs1qxLS7vdmy8c8UbbSqkB",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooTUP6hETuj3MwU3bYts7EM1B8rHERsuoKVNhit1PArApftfLfD",
+        "iteration": 66,
+        "minter": "tz1bYHbPHD3KrhQGpiFuBsaJEHx1Hb7Z6uQ6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243510,
+      "name": "Enfantines I. Small Talk #67",
+      "iteration": 67,
+      "fxhash": "onv1Sd9Q1ZG16bsGPVMYV3efDZLju7vburTtGypsde77iqHkDym",
+      "minter": "tz1PwWW4u7Za75dJPquycECdKojh4TpKEHfE",
+      "fxparams": "",
+      "owner": "tz1aHAsDofQd9KQb9ZsFZUzAsu39tJ2JrmKD",
+      "thumbnailUri": "ipfs://QmY7JZ6XLSh6SaPAkZu7GX4qqRR1iJpknzUMjYsKBYSNzt",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onv1Sd9Q1ZG16bsGPVMYV3efDZLju7vburTtGypsde77iqHkDym",
+        "iteration": 67,
+        "minter": "tz1PwWW4u7Za75dJPquycECdKojh4TpKEHfE",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243511,
+      "name": "Enfantines I. Small Talk #68",
+      "iteration": 68,
+      "fxhash": "onmteUPj7uAQQZe115MbmUmgbELUJQ9x2SEY9AUoiuktMJt1MT1",
+      "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "fxparams": "",
+      "owner": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "thumbnailUri": "ipfs://QmfXHpoVQt6MZmNM47Th6b7SiRy2WShGEg1DZBCxyVRoRX",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onmteUPj7uAQQZe115MbmUmgbELUJQ9x2SEY9AUoiuktMJt1MT1",
+        "iteration": 68,
+        "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243512,
+      "name": "Enfantines I. Small Talk #69",
+      "iteration": 69,
+      "fxhash": "onpfC8XBLaZT9f9YXtJpy8cy3N3AatbbemDCHoX1jLUBzTSJvF1",
+      "minter": "tz1YJ5ZrTGd1gT4ZS9WFDQNLN24qPq3HUNGx",
+      "fxparams": "",
+      "owner": "tz1YJ5ZrTGd1gT4ZS9WFDQNLN24qPq3HUNGx",
+      "thumbnailUri": "ipfs://QmbSbTGQQMZ2azmryomx5VF1wecXWGDPQPe9Jyt2FMwgX3",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onpfC8XBLaZT9f9YXtJpy8cy3N3AatbbemDCHoX1jLUBzTSJvF1",
+        "iteration": 69,
+        "minter": "tz1YJ5ZrTGd1gT4ZS9WFDQNLN24qPq3HUNGx",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243513,
+      "name": "Enfantines I. Small Talk #70",
+      "iteration": 70,
+      "fxhash": "ooFkwGh44AF8eBeB9okkJZbr9GT5FAFDLiYbT9464VkkMD6trFs",
+      "minter": "tz1Twz3EaEcAwkBkXV5YQwLNbLruErA5TV8k",
+      "fxparams": "",
+      "owner": "tz1W7bVjUmtwDb5rhHtauJszAfQqHao4Lhvj",
+      "thumbnailUri": "ipfs://QmagQUCUvKUyAFwJBGkZnPJVwRdx9NQwrF7qtwR6Gbay3S",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooFkwGh44AF8eBeB9okkJZbr9GT5FAFDLiYbT9464VkkMD6trFs",
+        "iteration": 70,
+        "minter": "tz1Twz3EaEcAwkBkXV5YQwLNbLruErA5TV8k",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243514,
+      "name": "Enfantines I. Small Talk #71",
+      "iteration": 71,
+      "fxhash": "ooVdtcKcpcs8j2yQGxxz6cbqfMzYH7LUp5j1oTNEtKN6SgFTBGg",
+      "minter": "tz1V83zRmKqFjfETF1uL4jBBiyDHH23CmPHN",
+      "fxparams": "",
+      "owner": "tz1aPLbr1ie5LxtPtEHAPYNXa7S6UufhagVF",
+      "thumbnailUri": "ipfs://QmPPQVt3CWbiytbC8JrKKXsspPNiDjdXeRpnJUWjqsnvt5",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooVdtcKcpcs8j2yQGxxz6cbqfMzYH7LUp5j1oTNEtKN6SgFTBGg",
+        "iteration": 71,
+        "minter": "tz1V83zRmKqFjfETF1uL4jBBiyDHH23CmPHN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243515,
+      "name": "Enfantines I. Small Talk #72",
+      "iteration": 72,
+      "fxhash": "oooVYqMna5gG5mzdQaw5moHdGs6Q4vG4ieP7tvjDXA9YpkL4cC2",
+      "minter": "tz1VHn1e1PKNfYVC5p5EyLzN5gP5R8JzrsFn",
+      "fxparams": "",
+      "owner": "tz1he2B6L9MqwUrXPysHro7E5GN1QosVLMad",
+      "thumbnailUri": "ipfs://QmcTUaZoSiLXgpZ2VkkDAzyDBMiZbcjwhJe3ArMrYDXUQx",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oooVYqMna5gG5mzdQaw5moHdGs6Q4vG4ieP7tvjDXA9YpkL4cC2",
+        "iteration": 72,
+        "minter": "tz1VHn1e1PKNfYVC5p5EyLzN5gP5R8JzrsFn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243516,
+      "name": "Enfantines I. Small Talk #73",
+      "iteration": 73,
+      "fxhash": "ooifHYxLHmH5dug1E4xsQztPEeXDj3vNgCznPY3H9Gn9xwmzBPN",
+      "minter": "tz1aCrnJwKayMTeABWVMuVj4kMUoYptVJcYW",
+      "fxparams": "",
+      "owner": "tz1UJ3FbF6qfk1HwjWr5dujyD6nFqeubTuzp",
+      "thumbnailUri": "ipfs://Qmd3JN8bBwRZguzPWLJnQvo1yoYPsY5R4zuReUeqXgS3wT",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooifHYxLHmH5dug1E4xsQztPEeXDj3vNgCznPY3H9Gn9xwmzBPN",
+        "iteration": 73,
+        "minter": "tz1aCrnJwKayMTeABWVMuVj4kMUoYptVJcYW",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243517,
+      "name": "Enfantines I. Small Talk #74",
+      "iteration": 74,
+      "fxhash": "opF1uz2etRYApJ8vPCZWmCxa134uYL9FxAdUhEJEaJxb2bczxTa",
+      "minter": "tz1ewV7u6F4KbxiixrfBpjKX9PW7JdT4b5TL",
+      "fxparams": "",
+      "owner": "tz1htHnw3vCR126tUnUT4aKV7uVa2uoTCief",
+      "thumbnailUri": "ipfs://QmQigtFtYYqXUHLirNSNM3tmix8tLBcw9w7xPRDEGLy6o3",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opF1uz2etRYApJ8vPCZWmCxa134uYL9FxAdUhEJEaJxb2bczxTa",
+        "iteration": 74,
+        "minter": "tz1ewV7u6F4KbxiixrfBpjKX9PW7JdT4b5TL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243518,
+      "name": "Enfantines I. Small Talk #75",
+      "iteration": 75,
+      "fxhash": "oooSdvnaAM9zFrc41DCg2o1pVRMNCPjcu5hz2WA9uXDb2h3RcXS",
+      "minter": "tz1i6asBhhj3DjWLShhJaCncePohqmkw9WW9",
+      "fxparams": "",
+      "owner": "tz1XKgmxm6ZjADecBmaoL7TyRPvXiwoBzok8",
+      "thumbnailUri": "ipfs://QmW32GYcoErV68iJisAcn1JwJw123764TM2sWPTRxPcD81",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oooSdvnaAM9zFrc41DCg2o1pVRMNCPjcu5hz2WA9uXDb2h3RcXS",
+        "iteration": 75,
+        "minter": "tz1i6asBhhj3DjWLShhJaCncePohqmkw9WW9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243520,
+      "name": "Enfantines I. Small Talk #76",
+      "iteration": 76,
+      "fxhash": "opF3gNvkkY72ueDXcMAaCL7NMf7mi2ar5rAYypjCNm9C7rQECKU",
+      "minter": "tz1MkNbJTzf6uADvfSJKJvArvRoVvjk3tZz4",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmcpU65N6EdZcwsCYEwTgEbkS6E3YhrY9BDtC4AqdXqNMr",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opF3gNvkkY72ueDXcMAaCL7NMf7mi2ar5rAYypjCNm9C7rQECKU",
+        "iteration": 76,
+        "minter": "tz1MkNbJTzf6uADvfSJKJvArvRoVvjk3tZz4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243521,
+      "name": "Enfantines I. Small Talk #77",
+      "iteration": 77,
+      "fxhash": "opMEMfdG3nKM2SKhyDezK6PQBRrhCepgbyZpUCe92LoRSrf8RRv",
+      "minter": "tz1Qe89qNyUUEjpPwjW64AWvneHxVrd5wYqw",
+      "fxparams": "",
+      "owner": "tz1hP5ygmpwtBQzQuZE43aobLnGpWqo36PzY",
+      "thumbnailUri": "ipfs://QmcHFbWxysede6qNbsL8VywhF6nnMpiNepdjH2LBjJUWKb",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opMEMfdG3nKM2SKhyDezK6PQBRrhCepgbyZpUCe92LoRSrf8RRv",
+        "iteration": 77,
+        "minter": "tz1Qe89qNyUUEjpPwjW64AWvneHxVrd5wYqw",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243522,
+      "name": "Enfantines I. Small Talk #78",
+      "iteration": 78,
+      "fxhash": "onhHmNWKboskgN5oE1SHHoKxCHPrAXTcsN5qJEW5AhRdr9ayTnw",
+      "minter": "tz1UGBLJXJHAGcRv2WEnoQVdMsyNKpWNERHm",
+      "fxparams": "",
+      "owner": "tz1ZzGCUFUBvSzA1VvT3iJNq3b2NjNpmPfks",
+      "thumbnailUri": "ipfs://QmcwvNeAj2RcsYkNCPiUf24tX3ZQHZbYkGfEUSom3KmXgy",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onhHmNWKboskgN5oE1SHHoKxCHPrAXTcsN5qJEW5AhRdr9ayTnw",
+        "iteration": 78,
+        "minter": "tz1UGBLJXJHAGcRv2WEnoQVdMsyNKpWNERHm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243523,
+      "name": "Enfantines I. Small Talk #79",
+      "iteration": 79,
+      "fxhash": "onxUm57L8MsXuG3euuGrkvpcsZdnirqw4Agzu8NSFrHK76S3xg2",
+      "minter": "tz1ZUdMyhFFmbg6CPFKGms4drxD9Z7p1piGX",
+      "fxparams": "",
+      "owner": "tz1htHnw3vCR126tUnUT4aKV7uVa2uoTCief",
+      "thumbnailUri": "ipfs://QmPceyDNwwKr2o1S1pPZ43ofHXconhk59BRdNdh7FDWCuW",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onxUm57L8MsXuG3euuGrkvpcsZdnirqw4Agzu8NSFrHK76S3xg2",
+        "iteration": 79,
+        "minter": "tz1ZUdMyhFFmbg6CPFKGms4drxD9Z7p1piGX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243524,
+      "name": "Enfantines I. Small Talk #80",
+      "iteration": 80,
+      "fxhash": "ooCKZskTUucnhbsNZUzLSuFfAoiZgNHLRoarkNCG7XvYKeRDnoP",
+      "minter": "tz1aHAsDofQd9KQb9ZsFZUzAsu39tJ2JrmKD",
+      "fxparams": "",
+      "owner": "tz1aHAsDofQd9KQb9ZsFZUzAsu39tJ2JrmKD",
+      "thumbnailUri": "ipfs://QmcvM4ATo99ih6QXoqKnM2RcqYZZAKtv8Apdjz6H7uyzx9",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooCKZskTUucnhbsNZUzLSuFfAoiZgNHLRoarkNCG7XvYKeRDnoP",
+        "iteration": 80,
+        "minter": "tz1aHAsDofQd9KQb9ZsFZUzAsu39tJ2JrmKD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243525,
+      "name": "Enfantines I. Small Talk #81",
+      "iteration": 81,
+      "fxhash": "ooidAoEQKo3qm1CrqoZGcj2qWEkwSEYdMnETkUXe18VcLCz3k8x",
+      "minter": "tz1corXrfedU71AZFPudxxYZasSSCGHefw2Y",
+      "fxparams": "",
+      "owner": "tz1corXrfedU71AZFPudxxYZasSSCGHefw2Y",
+      "thumbnailUri": "ipfs://Qmbrv36AtbrSXfwwvBtK2oF8bt1LAHVJrTFbuZce2HyYSZ",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooidAoEQKo3qm1CrqoZGcj2qWEkwSEYdMnETkUXe18VcLCz3k8x",
+        "iteration": 81,
+        "minter": "tz1corXrfedU71AZFPudxxYZasSSCGHefw2Y",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243526,
+      "name": "Enfantines I. Small Talk #82",
+      "iteration": 82,
+      "fxhash": "ooAjM9pKZnGBiBCfS7d9QTYJhTeV1fUhKgC5UNtPNYKkYWyCWGR",
+      "minter": "tz1dfffE9JU9RvGmZgSjSnpFaYR5SYHxex6n",
+      "fxparams": "",
+      "owner": "tz1XBuBrXhvLqG4YXXWE6z7bZyU7Mx6F2fiu",
+      "thumbnailUri": "ipfs://QmRVrq8faQkdBBKYgVmwVRhP6uumfJjG6Tj7pcDqEWEco3",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooAjM9pKZnGBiBCfS7d9QTYJhTeV1fUhKgC5UNtPNYKkYWyCWGR",
+        "iteration": 82,
+        "minter": "tz1dfffE9JU9RvGmZgSjSnpFaYR5SYHxex6n",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243527,
+      "name": "Enfantines I. Small Talk #83",
+      "iteration": 83,
+      "fxhash": "op9UpkkH8My7ELxfA7mpR3p3zySR6zeAfKCJr3Wjc71qRMKofga",
+      "minter": "tz1gMFxsrWkKDzT926bqsH2hYUdKLJ47Fmn8",
+      "fxparams": "",
+      "owner": "tz1dDSuGcw1YeARWpKaXt3Vp4htD8szbPCdY",
+      "thumbnailUri": "ipfs://QmT7dBzr3dXob7Be627tFeSbrvAVbvnZLqMjhBkKHzQ9Yi",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "op9UpkkH8My7ELxfA7mpR3p3zySR6zeAfKCJr3Wjc71qRMKofga",
+        "iteration": 83,
+        "minter": "tz1gMFxsrWkKDzT926bqsH2hYUdKLJ47Fmn8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243528,
+      "name": "Enfantines I. Small Talk #84",
+      "iteration": 84,
+      "fxhash": "oo7ga9Za1MqtFFsT3G4nMyvXrDaXPHZA47QUeL7ccbF6Lge4eWT",
+      "minter": "tz1gU84JreoUCpK9v3CTJCFRJGRvw2jCQvVn",
+      "fxparams": "",
+      "owner": "tz1URMk5fS1QvCkPVXs7bjxuredbyvVT8RyR",
+      "thumbnailUri": "ipfs://QmW4ktU2aEJjr8frd61MXWKnMWiHEy9qwnuY1vj29sZNvr",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo7ga9Za1MqtFFsT3G4nMyvXrDaXPHZA47QUeL7ccbF6Lge4eWT",
+        "iteration": 84,
+        "minter": "tz1gU84JreoUCpK9v3CTJCFRJGRvw2jCQvVn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243529,
+      "name": "Enfantines I. Small Talk #85",
+      "iteration": 85,
+      "fxhash": "onxjadaWpWPGRgjVoSQohir6Y5h4htSmF44i526EVkCHNZfjkys",
+      "minter": "tz1gajLsAJ55ty73UJN9CNUsk8nELucHuFEg",
+      "fxparams": "",
+      "owner": "tz1ivKQKHLv8kNKxn61LB5JNxfX9AhDWiv8v",
+      "thumbnailUri": "ipfs://QmdLXCQ99X3a7mHpN4rJK4RKajmGJetfunJADenAHBxgBf",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onxjadaWpWPGRgjVoSQohir6Y5h4htSmF44i526EVkCHNZfjkys",
+        "iteration": 85,
+        "minter": "tz1gajLsAJ55ty73UJN9CNUsk8nELucHuFEg",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243530,
+      "name": "Enfantines I. Small Talk #86",
+      "iteration": 86,
+      "fxhash": "ooVaeRSTgQ8AbBzLGuSvHzfQLh2XgJr8ZEJRmtX1zKXuNmCGwmK",
+      "minter": "tz1hXiUiNfwt9YzjDHkiKtA91g9fXa5rMAE2",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmR3t75GbUQZXwnbhwomuVwvhShd4zhzQzuDrKCKBSq9Jx",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooVaeRSTgQ8AbBzLGuSvHzfQLh2XgJr8ZEJRmtX1zKXuNmCGwmK",
+        "iteration": 86,
+        "minter": "tz1hXiUiNfwt9YzjDHkiKtA91g9fXa5rMAE2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243531,
+      "name": "Enfantines I. Small Talk #87",
+      "iteration": 87,
+      "fxhash": "ooWYJqx1GP3FxPtAkkXKuzTahhtGXezavJ6xH3yR8HukHyot52g",
+      "minter": "tz1Z3A438AD3qZFNvoJBD5LQUYbomErw716Q",
+      "fxparams": "",
+      "owner": "tz1iUBEpt2VA2RA1CsHMKcne4MUhvNV7hT3z",
+      "thumbnailUri": "ipfs://QmcKMrVwXAgHLukoxqTtimYAxmdAMuqSMMhi6rmVYZkH1R",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooWYJqx1GP3FxPtAkkXKuzTahhtGXezavJ6xH3yR8HukHyot52g",
+        "iteration": 87,
+        "minter": "tz1Z3A438AD3qZFNvoJBD5LQUYbomErw716Q",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243532,
+      "name": "Enfantines I. Small Talk #88",
+      "iteration": 88,
+      "fxhash": "op8QauUrhWoXc2KZCqJowC6P78CyzZuZxr2fVG88CYj6YupBh2S",
+      "minter": "tz1f4imKZTYTJ98bWukhSfXnki87LgV3xEAA",
+      "fxparams": "",
+      "owner": "tz1f4imKZTYTJ98bWukhSfXnki87LgV3xEAA",
+      "thumbnailUri": "ipfs://QmWee7MudzQjjHqeWxuo6bAezDgwzt7xJvruH9QBLJZwcJ",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "op8QauUrhWoXc2KZCqJowC6P78CyzZuZxr2fVG88CYj6YupBh2S",
+        "iteration": 88,
+        "minter": "tz1f4imKZTYTJ98bWukhSfXnki87LgV3xEAA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243533,
+      "name": "Enfantines I. Small Talk #89",
+      "iteration": 89,
+      "fxhash": "oohWsp5WnSt214MGkxyXvmZQa9LaMm6vVSGaSDsBP2LrVSTEqy1",
+      "minter": "tz1UBdgrTps9unPWx6ebwGRSCTL8W7hS5y4U",
+      "fxparams": "",
+      "owner": "tz1UB9xrGaK2vrhpRCnKjpF3naEoGb36mC17",
+      "thumbnailUri": "ipfs://QmSwZPvYxYFvAMN86bh3eXDrbhmNAmYbj1AUXxJ8EnXZWv",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oohWsp5WnSt214MGkxyXvmZQa9LaMm6vVSGaSDsBP2LrVSTEqy1",
+        "iteration": 89,
+        "minter": "tz1UBdgrTps9unPWx6ebwGRSCTL8W7hS5y4U",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243534,
+      "name": "Enfantines I. Small Talk #90",
+      "iteration": 90,
+      "fxhash": "ooH97Fehhrmfwb8TZgdfmRZFB8uFHMQQt1XUuBrEtkFht8npFh4",
+      "minter": "tz1XyJeGD8hNMLcVHju6GaNTG3Zj6yLz3mpr",
+      "fxparams": "",
+      "owner": "tz1ftu1iV7gWM5wiQjH215nk4yFkEne7BAg9",
+      "thumbnailUri": "ipfs://QmaNZ4vDFmk9wi9vxa29ZL1UjGh43iSKboVkdYFSASCQzD",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooH97Fehhrmfwb8TZgdfmRZFB8uFHMQQt1XUuBrEtkFht8npFh4",
+        "iteration": 90,
+        "minter": "tz1XyJeGD8hNMLcVHju6GaNTG3Zj6yLz3mpr",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243535,
+      "name": "Enfantines I. Small Talk #91",
+      "iteration": 91,
+      "fxhash": "oow2cHyBDxVivgxW7ihWYJtyvxNvqa3zESteyzA6Xr1xfBYQJFX",
+      "minter": "tz1gMgHmzyRBU1tYnmF5r4Ftxq5QxsCeK97c",
+      "fxparams": "",
+      "owner": "tz1gMgHmzyRBU1tYnmF5r4Ftxq5QxsCeK97c",
+      "thumbnailUri": "ipfs://QmbvEAn7FLMeYBDroYwBP8qWc3d3VVWbk19tTB83LCMB5S",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oow2cHyBDxVivgxW7ihWYJtyvxNvqa3zESteyzA6Xr1xfBYQJFX",
+        "iteration": 91,
+        "minter": "tz1gMgHmzyRBU1tYnmF5r4Ftxq5QxsCeK97c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243536,
+      "name": "Enfantines I. Small Talk #92",
+      "iteration": 92,
+      "fxhash": "onwJoNvfFPbcrk4PQN7hsndmjvnWKJJtuq5b6kTnMGtQFK6fXsV",
+      "minter": "tz1McuEmtq6T9eMxXopkp3chhssJ6MWSn59W",
+      "fxparams": "",
+      "owner": "tz1McuEmtq6T9eMxXopkp3chhssJ6MWSn59W",
+      "thumbnailUri": "ipfs://QmfQSXs6qnF9FeCmVyMdBPSHakj3rZ6aAKVC2ubCT7vxiM",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onwJoNvfFPbcrk4PQN7hsndmjvnWKJJtuq5b6kTnMGtQFK6fXsV",
+        "iteration": 92,
+        "minter": "tz1McuEmtq6T9eMxXopkp3chhssJ6MWSn59W",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243537,
+      "name": "Enfantines I. Small Talk #93",
+      "iteration": 93,
+      "fxhash": "opUL9TDtoc77cfsZNxCXXosBQgHwYko6WYBNusRPWaQCowBk54h",
+      "minter": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+      "fxparams": "",
+      "owner": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+      "thumbnailUri": "ipfs://QmSYnwzPgF2Qw2Qpnq12VwQ3f6uDeL2zZDrRvY9oJc1xft",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opUL9TDtoc77cfsZNxCXXosBQgHwYko6WYBNusRPWaQCowBk54h",
+        "iteration": 93,
+        "minter": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243538,
+      "name": "Enfantines I. Small Talk #94",
+      "iteration": 94,
+      "fxhash": "ooELh34KfHcEvi2K6sxvncPNT1jZA3sBxpUDY4EGkcybvYpJ9ro",
+      "minter": "tz1fT8u4PVrhbGMMT9HTrxyGFfYn2F1gGrqB",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmfS6fC4ifH8s3ujX82WJ8dQRtRTTmc2rgyqYyD3j4rm8H",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooELh34KfHcEvi2K6sxvncPNT1jZA3sBxpUDY4EGkcybvYpJ9ro",
+        "iteration": 94,
+        "minter": "tz1fT8u4PVrhbGMMT9HTrxyGFfYn2F1gGrqB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243539,
+      "name": "Enfantines I. Small Talk #95",
+      "iteration": 95,
+      "fxhash": "ootz5Ada9Gfr1aA8BF2amnCihN5zLCNoNYeHJvfMNzubyLWHZ2y",
+      "minter": "tz2Pkr3QLWYxmJDk4EdpYqhPoUHvMaN25MXp",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmWzy9HsKpaicxxoyrMiPZi2nAw9D4BcTRY5fRZZF4hK18",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ootz5Ada9Gfr1aA8BF2amnCihN5zLCNoNYeHJvfMNzubyLWHZ2y",
+        "iteration": 95,
+        "minter": "tz2Pkr3QLWYxmJDk4EdpYqhPoUHvMaN25MXp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243540,
+      "name": "Enfantines I. Small Talk #96",
+      "iteration": 96,
+      "fxhash": "ooLio8guEheuytE4VAEpJsPQVzoqYXcUDKy2s1mqgjbjDfaaLiG",
+      "minter": "tz1h5eBoTUaApoKMVaLsc6ahvNBnXUm2LHqA",
+      "fxparams": "",
+      "owner": "tz1PnZU8rXSeKc9KNTqMU9pLaHNJrB1sfng4",
+      "thumbnailUri": "ipfs://QmR9AUSAo82TdvmLZ4N4vS1NhcnZJY3e4U9mVhGrbVw5Qn",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooLio8guEheuytE4VAEpJsPQVzoqYXcUDKy2s1mqgjbjDfaaLiG",
+        "iteration": 96,
+        "minter": "tz1h5eBoTUaApoKMVaLsc6ahvNBnXUm2LHqA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243541,
+      "name": "Enfantines I. Small Talk #97",
+      "iteration": 97,
+      "fxhash": "opUSKi2ZGESqNeiQrnczewZiS4FzCcDdC9MJV7pgRnnKpEHKAta",
+      "minter": "tz1ixjzCmDKanGeyyMb6WaBpjf7uRU1VTgJr",
+      "fxparams": "",
+      "owner": "tz1bNeUWJvQASNZ2qXARSuAVJezbJQy7rdTk",
+      "thumbnailUri": "ipfs://QmPUFrPFVQKZ4QkubzhLQJi9MPAG6wmJEWkQrWbxoskyKE",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opUSKi2ZGESqNeiQrnczewZiS4FzCcDdC9MJV7pgRnnKpEHKAta",
+        "iteration": 97,
+        "minter": "tz1ixjzCmDKanGeyyMb6WaBpjf7uRU1VTgJr",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243542,
+      "name": "Enfantines I. Small Talk #98",
+      "iteration": 98,
+      "fxhash": "onjPDKnixmGHrtTF3sBoQwhm2eE12yNV64TBhbVHouGktA4L8rW",
+      "minter": "tz1hBry5nSoWkGfSdbE6mCQ42y3B2msEYQKQ",
+      "fxparams": "",
+      "owner": "tz2JuGFjtR4FsUKjCX7AajyDY9FG46Uk5sj1",
+      "thumbnailUri": "ipfs://QmNWhZC9tfTtAdxxBruguFZJPis7kxfzSkGugifJ3LNRyo",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onjPDKnixmGHrtTF3sBoQwhm2eE12yNV64TBhbVHouGktA4L8rW",
+        "iteration": 98,
+        "minter": "tz1hBry5nSoWkGfSdbE6mCQ42y3B2msEYQKQ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243543,
+      "name": "Enfantines I. Small Talk #99",
+      "iteration": 99,
+      "fxhash": "ooJZuHMTBAcR7LUTy2omRxZvpv1a1LvSjmssj82KgpTpo1ormGj",
+      "minter": "tz1cyArB4tsLzcJCFTEKj81J2Q6kNjtL4bPS",
+      "fxparams": "",
+      "owner": "tz1MnpZuQNfB9rUWFbNpHYWsfm1n86jR1mCL",
+      "thumbnailUri": "ipfs://QmcaUzykG2tfHM4c9SB4DRRoWi5GZooCKcJmE8DDFV9cMU",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooJZuHMTBAcR7LUTy2omRxZvpv1a1LvSjmssj82KgpTpo1ormGj",
+        "iteration": 99,
+        "minter": "tz1cyArB4tsLzcJCFTEKj81J2Q6kNjtL4bPS",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243544,
+      "name": "Enfantines I. Small Talk #100",
+      "iteration": 100,
+      "fxhash": "ooPv8kgqoJjhi7ZV9SEhrCP3F9MxqcicsvaWFohE7hDbzzxpUJR",
+      "minter": "tz2UgqLJG8ZHyn9hfKjGPHQVdZZS9gquKh1q",
+      "fxparams": "",
+      "owner": "tz1aHAsDofQd9KQb9ZsFZUzAsu39tJ2JrmKD",
+      "thumbnailUri": "ipfs://QmSs3a6B8QWuECwFfmgSTtNZg63LxZ2RzrkpvghjYkedg6",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooPv8kgqoJjhi7ZV9SEhrCP3F9MxqcicsvaWFohE7hDbzzxpUJR",
+        "iteration": 100,
+        "minter": "tz2UgqLJG8ZHyn9hfKjGPHQVdZZS9gquKh1q",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243545,
+      "name": "Enfantines I. Small Talk #101",
+      "iteration": 101,
+      "fxhash": "onry3SyKktBqE19AD6CbbvxMHd3Q6H9FXpsV8eMRUjGt1wkDT9M",
+      "minter": "tz1SZEFHAoPQa4NqynYR3chHCbAePz6QzCGn",
+      "fxparams": "",
+      "owner": "tz1SZEFHAoPQa4NqynYR3chHCbAePz6QzCGn",
+      "thumbnailUri": "ipfs://QmV3AwKsTtPA3YU2Ptno88BV6o31s32fcznTW8KMePyfTK",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onry3SyKktBqE19AD6CbbvxMHd3Q6H9FXpsV8eMRUjGt1wkDT9M",
+        "iteration": 101,
+        "minter": "tz1SZEFHAoPQa4NqynYR3chHCbAePz6QzCGn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243546,
+      "name": "Enfantines I. Small Talk #102",
+      "iteration": 102,
+      "fxhash": "opKhsZvTc5LLz5GgvbeFbQdphACRKxeJDAtYrGFyuJSnJuGVQ7F",
+      "minter": "tz1f7wbmY8JReJ5et4KnJ4BMi8fKMRK3PvHt",
+      "fxparams": "",
+      "owner": "tz1X7nLriHxPAc7en8u4czTkDReJQ756Hb5w",
+      "thumbnailUri": "ipfs://QmPoxTNKQGccqqWtqx6cYFEDwNpH1bnNTrj8hy3wNPeHha",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opKhsZvTc5LLz5GgvbeFbQdphACRKxeJDAtYrGFyuJSnJuGVQ7F",
+        "iteration": 102,
+        "minter": "tz1f7wbmY8JReJ5et4KnJ4BMi8fKMRK3PvHt",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243547,
+      "name": "Enfantines I. Small Talk #103",
+      "iteration": 103,
+      "fxhash": "ooUTwMccnWzHb3E3wwefgbG3Hu1jmbaiFxCVhpEZ95cWmqGebNW",
+      "minter": "tz1R4QZ2R2eLHEiBDvBqPLfwiV6WnD7grp63",
+      "fxparams": "",
+      "owner": "tz3ay7ZzgYhKHkkeiP6aPUZAxh8wkJEKPLy1",
+      "thumbnailUri": "ipfs://QmRu1yfGo9n4DiuwmJ9Dn5UJ7bN68V83SLPo588KRxJqqd",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooUTwMccnWzHb3E3wwefgbG3Hu1jmbaiFxCVhpEZ95cWmqGebNW",
+        "iteration": 103,
+        "minter": "tz1R4QZ2R2eLHEiBDvBqPLfwiV6WnD7grp63",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243548,
+      "name": "Enfantines I. Small Talk #104",
+      "iteration": 104,
+      "fxhash": "oof5RxDeerBDA6c6puEjgSGuozWoBBk6r7eKnCfVLw95khMmr3b",
+      "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmaBCA2NHzsabfDeU2sHrxqApM4gUmLBmtDSZiQyqDPzSs",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oof5RxDeerBDA6c6puEjgSGuozWoBBk6r7eKnCfVLw95khMmr3b",
+        "iteration": 104,
+        "minter": "tz1Pz8bcLNsunzVzgDbALaze65N52LCTTqqK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243549,
+      "name": "Enfantines I. Small Talk #105",
+      "iteration": 105,
+      "fxhash": "oow8egNHvVsRACcXBCyCguXVSZZ8a9hKVxPnT7sGMeVLuLJiqVu",
+      "minter": "tz1NJ5NqG289sA7Sfo8sbdqjczoVE52JoqTX",
+      "fxparams": "",
+      "owner": "tz1PXYuqZxFhgNsYJDWXhPTNDqjSzm9qWxmC",
+      "thumbnailUri": "ipfs://QmWAuwPL5rocUnyExESM5LcMFdQMDThA9Nx9H7QKAiFWVk",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oow8egNHvVsRACcXBCyCguXVSZZ8a9hKVxPnT7sGMeVLuLJiqVu",
+        "iteration": 105,
+        "minter": "tz1NJ5NqG289sA7Sfo8sbdqjczoVE52JoqTX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243550,
+      "name": "Enfantines I. Small Talk #106",
+      "iteration": 106,
+      "fxhash": "opa6bFEH6fXwkrpUwRgLcQ3oXorkyMHm44wrHNvVJ5N9AFoyrRt",
+      "minter": "tz1VThFhMWruTQquFZdtMTiaf1ZZYFNcXyqo",
+      "fxparams": "",
+      "owner": "tz1XdNUbLj6k4ftvcBQ54Pj4DQaZ69UvwbZo",
+      "thumbnailUri": "ipfs://QmdZ7ovnu71vPN6deM6CBUJvz48abDQgcvU9hYJwidg78n",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opa6bFEH6fXwkrpUwRgLcQ3oXorkyMHm44wrHNvVJ5N9AFoyrRt",
+        "iteration": 106,
+        "minter": "tz1VThFhMWruTQquFZdtMTiaf1ZZYFNcXyqo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243551,
+      "name": "Enfantines I. Small Talk #107",
+      "iteration": 107,
+      "fxhash": "oogjt4ryp5DmmX3xgxmCYbf7Qxsj2X5Xo9ZXDnM9D6sp6ih4Q9e",
+      "minter": "tz1R32cR7KknaSrwkFfP8W8UdWFhD7zorkXh",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmVd9MnDFNsNNQFsnALwZcF3LLioKRNdr9qdrGsxfSGSeG",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oogjt4ryp5DmmX3xgxmCYbf7Qxsj2X5Xo9ZXDnM9D6sp6ih4Q9e",
+        "iteration": 107,
+        "minter": "tz1R32cR7KknaSrwkFfP8W8UdWFhD7zorkXh",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243552,
+      "name": "Enfantines I. Small Talk #108",
+      "iteration": 108,
+      "fxhash": "ooQSZJn3yNZsNGTeDwCfpbHhhie14dk4p4XnjH9PV9CmMWWQY5B",
+      "minter": "tz1YJoT4wT65hm9yrrCQU7Vr2CtzTMhBmfQR",
+      "fxparams": "",
+      "owner": "tz1QSZmv3FkzeK89VuomzxSsb1B8FAseVNb6",
+      "thumbnailUri": "ipfs://QmaXMRvBLoKHrPS4agtHJo7G37y8iEhyWyf6mx2bG3WkL2",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooQSZJn3yNZsNGTeDwCfpbHhhie14dk4p4XnjH9PV9CmMWWQY5B",
+        "iteration": 108,
+        "minter": "tz1YJoT4wT65hm9yrrCQU7Vr2CtzTMhBmfQR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243553,
+      "name": "Enfantines I. Small Talk #109",
+      "iteration": 109,
+      "fxhash": "opSDLgSx75VjA5YDrSPgjAMAf3fhzEKptbd6Ms1oUFoUAaH8qbY",
+      "minter": "tz1g4jBx23TfFadCJGm6qvqXw1r3RirYt839",
+      "fxparams": "",
+      "owner": "tz2Pkr3QLWYxmJDk4EdpYqhPoUHvMaN25MXp",
+      "thumbnailUri": "ipfs://QmbGhs6xiGbbeJB87XBWhjtpsW7oJxV3ejCgb22PszzRgq",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opSDLgSx75VjA5YDrSPgjAMAf3fhzEKptbd6Ms1oUFoUAaH8qbY",
+        "iteration": 109,
+        "minter": "tz1g4jBx23TfFadCJGm6qvqXw1r3RirYt839",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243554,
+      "name": "Enfantines I. Small Talk #110",
+      "iteration": 110,
+      "fxhash": "opXaHjcVzMcJbufVvqqTt9URqyLZcJQ1s5iW8tTtgRo53eykrYL",
+      "minter": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+      "fxparams": "",
+      "owner": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+      "thumbnailUri": "ipfs://QmRJ1RpETDy6Fhny4r8ic9gkHajfatLZSHdScfTSz5Rdum",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opXaHjcVzMcJbufVvqqTt9URqyLZcJQ1s5iW8tTtgRo53eykrYL",
+        "iteration": 110,
+        "minter": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243555,
+      "name": "Enfantines I. Small Talk #111",
+      "iteration": 111,
+      "fxhash": "opafP5VXjLBJUHcfVzEjfpJ2MCELJJ2xtq1J6VkqEtfQJCooaBS",
+      "minter": "tz1LmEvSBa3aY9AG2qGiH3ijqEtbThZqcX2j",
+      "fxparams": "",
+      "owner": "tz1czqG9VFkzQbU3wyNMXc8EM9B6MAdBfopQ",
+      "thumbnailUri": "ipfs://QmSkqH1CTh4ciMQHJ8EH2uPvmqGt8YL4jHc8EAWVnZZoJD",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opafP5VXjLBJUHcfVzEjfpJ2MCELJJ2xtq1J6VkqEtfQJCooaBS",
+        "iteration": 111,
+        "minter": "tz1LmEvSBa3aY9AG2qGiH3ijqEtbThZqcX2j",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243556,
+      "name": "Enfantines I. Small Talk #112",
+      "iteration": 112,
+      "fxhash": "oo7MD61kYNsFvNcuPUjgPVHB6cDkUYVhEutEvisdkgx8e2DJSxf",
+      "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+      "fxparams": "",
+      "owner": "tz1isguKP6JYgmpRJMvjwJaFRYmjfkLmY6ug",
+      "thumbnailUri": "ipfs://QmSoLkYJnhj8FuK2cX6dG8gcAdFA9JrCmAiwLHKqjnGH4c",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo7MD61kYNsFvNcuPUjgPVHB6cDkUYVhEutEvisdkgx8e2DJSxf",
+        "iteration": 112,
+        "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243557,
+      "name": "Enfantines I. Small Talk #113",
+      "iteration": 113,
+      "fxhash": "oop3eTUKYS2oCc5F2wSk1nM4MBAAq4n2qzLifieFqhjiZ5EEbYW",
+      "minter": "tz1cWmjFkZzKWsuxKvrkLeS2tEVgzfVVC73b",
+      "fxparams": "",
+      "owner": "tz1aPLbr1ie5LxtPtEHAPYNXa7S6UufhagVF",
+      "thumbnailUri": "ipfs://QmazcCFEbnXFZPhohLmnAWXyvtpgsesjxL8qDKLnTUhAoG",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oop3eTUKYS2oCc5F2wSk1nM4MBAAq4n2qzLifieFqhjiZ5EEbYW",
+        "iteration": 113,
+        "minter": "tz1cWmjFkZzKWsuxKvrkLeS2tEVgzfVVC73b",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243558,
+      "name": "Enfantines I. Small Talk #114",
+      "iteration": 114,
+      "fxhash": "onpCTAtdu8ZaNygxfoqESWfn45PLwPeFqLSbBrqUYSyHyPVRYur",
+      "minter": "tz1dWyQQjasXyeZPgdfPkgFxHLSNZF9pkt1k",
+      "fxparams": "",
+      "owner": "tz1Z7PYTafJSWrgEa3CFrFqdboimEvfDK7rY",
+      "thumbnailUri": "ipfs://QmZMyUvuBN8Ven4UsGz3AjwNF5YVfU5LJUE5fKcaDFtq5u",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onpCTAtdu8ZaNygxfoqESWfn45PLwPeFqLSbBrqUYSyHyPVRYur",
+        "iteration": 114,
+        "minter": "tz1dWyQQjasXyeZPgdfPkgFxHLSNZF9pkt1k",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243559,
+      "name": "Enfantines I. Small Talk #115",
+      "iteration": 115,
+      "fxhash": "onhqmkPoBuvGettCabyPDizwopTmXULZTErcAwyZbmvg1EZKtFG",
+      "minter": "tz2UL9PXHxRGZpShwQ47dNW3L13Lfzuc7wDT",
+      "fxparams": "",
+      "owner": "tz1NwU2n65NtsVjWWBRDvCS8a573aWLbZ2Vm",
+      "thumbnailUri": "ipfs://QmPRT7HJnacKxZVmvPRtg5fsAakrXxPu38rPrWtNv4FwTH",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onhqmkPoBuvGettCabyPDizwopTmXULZTErcAwyZbmvg1EZKtFG",
+        "iteration": 115,
+        "minter": "tz2UL9PXHxRGZpShwQ47dNW3L13Lfzuc7wDT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243560,
+      "name": "Enfantines I. Small Talk #116",
+      "iteration": 116,
+      "fxhash": "ooLiXJYfTXnc5TAhr5yPqb3t1h4FnNkPPkq2Z2qDJ83PunWWz4k",
+      "minter": "tz1QfHrDDxQsMcvfGJ4eFWCjwMeYXGjq1cu9",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmVsyU3xbpFz8zqiAhSvcR6hQ3otvp2bHpQrsXHx5gzoJU",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooLiXJYfTXnc5TAhr5yPqb3t1h4FnNkPPkq2Z2qDJ83PunWWz4k",
+        "iteration": 116,
+        "minter": "tz1QfHrDDxQsMcvfGJ4eFWCjwMeYXGjq1cu9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243561,
+      "name": "Enfantines I. Small Talk #117",
+      "iteration": 117,
+      "fxhash": "ooJkbWV8Hwcr3pQ9kionpSc29RDewabRNdw5Wj6m3BhMWBDU9Qy",
+      "minter": "tz1bLTWD7DhL7KBnDKUxAuURMJe1QFfNqq4B",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmcaBPCG7Xzz1YiVjCuR2f46XFGbbdwspw8cusBXRGbQHR",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooJkbWV8Hwcr3pQ9kionpSc29RDewabRNdw5Wj6m3BhMWBDU9Qy",
+        "iteration": 117,
+        "minter": "tz1bLTWD7DhL7KBnDKUxAuURMJe1QFfNqq4B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243562,
+      "name": "Enfantines I. Small Talk #118",
+      "iteration": 118,
+      "fxhash": "opB6gCEdqUzmWggFc6149QLd7EHite9XaKcWmQ8Gg9SAdxtRYsb",
+      "minter": "tz1bbBLVByCUyfxFpuXJr3T7dmkZ1DZfE2Bj",
+      "fxparams": "",
+      "owner": "tz2Pkr3QLWYxmJDk4EdpYqhPoUHvMaN25MXp",
+      "thumbnailUri": "ipfs://QmWk1w4mKLELmeV5MYpEtX9HHAHDxtj2bygaVUGVQ83rHc",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opB6gCEdqUzmWggFc6149QLd7EHite9XaKcWmQ8Gg9SAdxtRYsb",
+        "iteration": 118,
+        "minter": "tz1bbBLVByCUyfxFpuXJr3T7dmkZ1DZfE2Bj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243563,
+      "name": "Enfantines I. Small Talk #119",
+      "iteration": 119,
+      "fxhash": "onzL8Rqt8XzMQoQJCGAmWYRePB16htrynme2gJaPbzYyLhRDNCc",
+      "minter": "tz1Ni4oMi1cv4seoFyjdkzmvkBEsUCLPKRKV",
+      "fxparams": "",
+      "owner": "tz1gNni8mNjYBreVJ8sMtC6mrozE6SSsyj1n",
+      "thumbnailUri": "ipfs://QmS7FYSjtjVpGiURN9dG1mqiDR54UEfJZYe5FfxgUkdRqZ",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onzL8Rqt8XzMQoQJCGAmWYRePB16htrynme2gJaPbzYyLhRDNCc",
+        "iteration": 119,
+        "minter": "tz1Ni4oMi1cv4seoFyjdkzmvkBEsUCLPKRKV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243564,
+      "name": "Enfantines I. Small Talk #120",
+      "iteration": 120,
+      "fxhash": "onw6HhPoQXnxfwGDh7Thwi91R1SbvBfdQ4LpG8KcUtYdSCxq9oh",
+      "minter": "tz1azCxHj5NXWGupipTgskxPDMXoc5ZJdQKY",
+      "fxparams": "",
+      "owner": "tz1ZB6KZUnzWxzEMo9fKzkUYV3NaX8q7ndzh",
+      "thumbnailUri": "ipfs://QmNWCQcYWyBqGkhSsFaEgaXtp7mhtoyikKPWUbD3ExKdLE",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onw6HhPoQXnxfwGDh7Thwi91R1SbvBfdQ4LpG8KcUtYdSCxq9oh",
+        "iteration": 120,
+        "minter": "tz1azCxHj5NXWGupipTgskxPDMXoc5ZJdQKY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243565,
+      "name": "Enfantines I. Small Talk #121",
+      "iteration": 121,
+      "fxhash": "opPphGYuPZsVoLuZMshdTbPcRRpNmVxMsC2fdp2sgYVprVCErRb",
+      "minter": "tz1ZQS1uSRoUoTjVNGLDLXhNwmmZ3oNfcU6J",
+      "fxparams": "",
+      "owner": "tz1XpFAeKEyiNf3GcyhwdPZHiJ8BuwK9APvX",
+      "thumbnailUri": "ipfs://QmbBEfLANA3yV7SEKAWH7oDFJtK8HmmQdB3NkDACfhfUkV",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opPphGYuPZsVoLuZMshdTbPcRRpNmVxMsC2fdp2sgYVprVCErRb",
+        "iteration": 121,
+        "minter": "tz1ZQS1uSRoUoTjVNGLDLXhNwmmZ3oNfcU6J",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243566,
+      "name": "Enfantines I. Small Talk #122",
+      "iteration": 122,
+      "fxhash": "ooe7yxFFc25uHCpyocaS7SmC8tcC1PhznKJ3H2yPCtRG1XJZftz",
+      "minter": "tz1NwU2n65NtsVjWWBRDvCS8a573aWLbZ2Vm",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmSnFA8eW43KpDT3asuwMddj1eXf5Xf21ijg1VLSMw5cq3",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooe7yxFFc25uHCpyocaS7SmC8tcC1PhznKJ3H2yPCtRG1XJZftz",
+        "iteration": 122,
+        "minter": "tz1NwU2n65NtsVjWWBRDvCS8a573aWLbZ2Vm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243567,
+      "name": "Enfantines I. Small Talk #123",
+      "iteration": 123,
+      "fxhash": "oomYeEFikKTT9tXxBGXLr3vjGP1MbekhLtDRYJZxjXQETcbRHrD",
+      "minter": "tz1Qc3GjuHUAZtNdEabyK1rT5ak6AscbfHZA",
+      "fxparams": "",
+      "owner": "tz1Qc3GjuHUAZtNdEabyK1rT5ak6AscbfHZA",
+      "thumbnailUri": "ipfs://QmTEmUN8UX2S4DtrbftB385Rp1Mb7V5UaRTPrVVQykaXqv",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oomYeEFikKTT9tXxBGXLr3vjGP1MbekhLtDRYJZxjXQETcbRHrD",
+        "iteration": 123,
+        "minter": "tz1Qc3GjuHUAZtNdEabyK1rT5ak6AscbfHZA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243568,
+      "name": "Enfantines I. Small Talk #124",
+      "iteration": 124,
+      "fxhash": "opRkkS2fdrjdHnX2TyzzEJTgxbRrRRCLkkLiyHNf22L31D5kAbk",
+      "minter": "tz1hftUJsR7kifAEQAKCYFC6SRpY5mjsQzii",
+      "fxparams": "",
+      "owner": "tz1aB4WhspBPfLA6X4qSQPZCDKQkmmGobrCk",
+      "thumbnailUri": "ipfs://QmQF5aArzL3LbPB4zTSF3gyej22Xj28inWBTLyci5qN8fW",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opRkkS2fdrjdHnX2TyzzEJTgxbRrRRCLkkLiyHNf22L31D5kAbk",
+        "iteration": 124,
+        "minter": "tz1hftUJsR7kifAEQAKCYFC6SRpY5mjsQzii",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243569,
+      "name": "Enfantines I. Small Talk #125",
+      "iteration": 125,
+      "fxhash": "oo7YJ9VtC1fCovRGkK4Jy9dt3fkyEh6L6S1ve7UexrnPjbfEAE1",
+      "minter": "tz1Wt8cwXxsqwqco3a7k2XtBg2mZbgfYmcJG",
+      "fxparams": "",
+      "owner": "tz1c9U9x3y2RMJYfCoT5kcgCnYnr7o9ifh9T",
+      "thumbnailUri": "ipfs://QmPxnLHMBdP865ujvi4jz25X2p8amYGkxyXSgPGdyKnEvk",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo7YJ9VtC1fCovRGkK4Jy9dt3fkyEh6L6S1ve7UexrnPjbfEAE1",
+        "iteration": 125,
+        "minter": "tz1Wt8cwXxsqwqco3a7k2XtBg2mZbgfYmcJG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243570,
+      "name": "Enfantines I. Small Talk #126",
+      "iteration": 126,
+      "fxhash": "onvnjw1eNgKXE9NB13Ld7wxBRT1UdETXy2hi1LCKVT5YVEdZkG1",
+      "minter": "tz1bz3RpamvkvNCLfsjN22VCqs4LCVrFnNEB",
+      "fxparams": "",
+      "owner": "tz1bz3RpamvkvNCLfsjN22VCqs4LCVrFnNEB",
+      "thumbnailUri": "ipfs://QmedSLayPXHXg5T9xg9cmQkBs8TnfTRFBcR9WPnCteFKeW",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onvnjw1eNgKXE9NB13Ld7wxBRT1UdETXy2hi1LCKVT5YVEdZkG1",
+        "iteration": 126,
+        "minter": "tz1bz3RpamvkvNCLfsjN22VCqs4LCVrFnNEB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243571,
+      "name": "Enfantines I. Small Talk #127",
+      "iteration": 127,
+      "fxhash": "op1eG2hv6R4nyegMBcvWaj7H9AGNuRMvgbtRLTEykW5fbeucZyc",
+      "minter": "tz1g7yHGuouPVADrrx3zH62v6ZzC7gEPjoyj",
+      "fxparams": "",
+      "owner": "tz1Wzwn5KCCnf12wCX9LAPrd9uYR8iPDNSx3",
+      "thumbnailUri": "ipfs://QmYnuD3sVFhqUZeEHXM5YfmRTcuZevj2rsziseobp1E6F1",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "op1eG2hv6R4nyegMBcvWaj7H9AGNuRMvgbtRLTEykW5fbeucZyc",
+        "iteration": 127,
+        "minter": "tz1g7yHGuouPVADrrx3zH62v6ZzC7gEPjoyj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243572,
+      "name": "Enfantines I. Small Talk #128",
+      "iteration": 128,
+      "fxhash": "ookyWifAt7rvY7b82UsG94UbVf1AFW1YEDoD8xq1HfmNEGhu8GH",
+      "minter": "tz1LKW3gUc96LTLDHt3hBAZbGx9shrcyEMGZ",
+      "fxparams": "",
+      "owner": "tz1gMRKQWdhY5ZPUehpHofLswyL8Vexvfpbm",
+      "thumbnailUri": "ipfs://QmbKs6x6QBRgznzd4PE3QNDTi3qi9fwctML1V7w2dUAxXN",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ookyWifAt7rvY7b82UsG94UbVf1AFW1YEDoD8xq1HfmNEGhu8GH",
+        "iteration": 128,
+        "minter": "tz1LKW3gUc96LTLDHt3hBAZbGx9shrcyEMGZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243573,
+      "name": "Enfantines I. Small Talk #129",
+      "iteration": 129,
+      "fxhash": "ooWT9z2WUjQDZZsFxWYM5wzLM2DRceVkJDhakHTv9Towbydt1zU",
+      "minter": "tz1bxwnQbz4sPA8heWFvDReaY4ZpCUyHTxfR",
+      "fxparams": "",
+      "owner": "tz1hnnCaYDiRPH8apoJQB9wvytwpYQSJEzCK",
+      "thumbnailUri": "ipfs://QmezcqnA9kfKkSpiWpDn76ZCWF45hSdaoaJSvsgETeX9Ux",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooWT9z2WUjQDZZsFxWYM5wzLM2DRceVkJDhakHTv9Towbydt1zU",
+        "iteration": 129,
+        "minter": "tz1bxwnQbz4sPA8heWFvDReaY4ZpCUyHTxfR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243574,
+      "name": "Enfantines I. Small Talk #130",
+      "iteration": 130,
+      "fxhash": "onrKfpzqDVs1LXt5XasLzz4o6X7wvfPtyifZ7EG5Ka7LaZhWCQ2",
+      "minter": "tz1cUjJnmj9VkZd1Ydkfqs84fe27egmqQk9A",
+      "fxparams": "",
+      "owner": "tz1NwU2n65NtsVjWWBRDvCS8a573aWLbZ2Vm",
+      "thumbnailUri": "ipfs://Qmf1C7PnUAzrs2rnhdrkpHhcMxgWEzxxUjhwvdaW7Wjh53",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onrKfpzqDVs1LXt5XasLzz4o6X7wvfPtyifZ7EG5Ka7LaZhWCQ2",
+        "iteration": 130,
+        "minter": "tz1cUjJnmj9VkZd1Ydkfqs84fe27egmqQk9A",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243575,
+      "name": "Enfantines I. Small Talk #131",
+      "iteration": 131,
+      "fxhash": "opMzaP6bMwxBmdECGZHkAdqmnEpNz4ieSZG3j4itQuFrWF2sErE",
+      "minter": "tz1fkvovUHfx6rZ7ZfAJB19FLp4EMS1JewZv",
+      "fxparams": "",
+      "owner": "tz1grYfjhss4wpZnHzaV1GxFo7zv5zBLr9yF",
+      "thumbnailUri": "ipfs://Qmf8kbzfHPWC3mWPAE3nqcm3Rr5eXWSLEcZ9QXce4qZ6kW",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opMzaP6bMwxBmdECGZHkAdqmnEpNz4ieSZG3j4itQuFrWF2sErE",
+        "iteration": 131,
+        "minter": "tz1fkvovUHfx6rZ7ZfAJB19FLp4EMS1JewZv",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243576,
+      "name": "Enfantines I. Small Talk #132",
+      "iteration": 132,
+      "fxhash": "ooqiwBuCkbFRem7aRKNkd9smLBEh2MBQKjDdNV5U8z845giQeJY",
+      "minter": "tz1KgMUDdAYbvzMvyVoszX8Zmz9e6dYXNn7m",
+      "fxparams": "",
+      "owner": "tz1KgMUDdAYbvzMvyVoszX8Zmz9e6dYXNn7m",
+      "thumbnailUri": "ipfs://QmdUprD5WZwdenB92HGh3Vnihir7HJb6SDDwyTNbPMJZgW",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooqiwBuCkbFRem7aRKNkd9smLBEh2MBQKjDdNV5U8z845giQeJY",
+        "iteration": 132,
+        "minter": "tz1KgMUDdAYbvzMvyVoszX8Zmz9e6dYXNn7m",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243577,
+      "name": "Enfantines I. Small Talk #133",
+      "iteration": 133,
+      "fxhash": "oorsDWTf8JbL9yGdZBGZComt9mGqHzWT9NK5aT7a1DTs8rRQYsr",
+      "minter": "tz1MQ4gnVPqFUbUz3emtzW1H58gevX7yAUrw",
+      "fxparams": "",
+      "owner": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "thumbnailUri": "ipfs://QmZe7RcKsLQSD6M6f3nPbX3B2aCYxiGZnvqDU3de1vnfpu",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oorsDWTf8JbL9yGdZBGZComt9mGqHzWT9NK5aT7a1DTs8rRQYsr",
+        "iteration": 133,
+        "minter": "tz1MQ4gnVPqFUbUz3emtzW1H58gevX7yAUrw",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243578,
+      "name": "Enfantines I. Small Talk #134",
+      "iteration": 134,
+      "fxhash": "oobgCh2CS9g1HaE3mz4jEPEx9pza3JAZbbwETip3VQKxxUS5Y1j",
+      "minter": "tz1d6q9Vehans6jXTLdtULUhS4U5jry479PY",
+      "fxparams": "",
+      "owner": "tz1chaKECYEZh6upJzPT5Phs3pg1r8YUV8qM",
+      "thumbnailUri": "ipfs://QmcsxjWQDLotV7h46QSR7M29VTEp3AjQjeSa6yS1FCGEDV",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oobgCh2CS9g1HaE3mz4jEPEx9pza3JAZbbwETip3VQKxxUS5Y1j",
+        "iteration": 134,
+        "minter": "tz1d6q9Vehans6jXTLdtULUhS4U5jry479PY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243579,
+      "name": "Enfantines I. Small Talk #135",
+      "iteration": 135,
+      "fxhash": "opBkKntnSWh13hu1e9pWYCSY8kdk8YDh9xifX3jBQxFCKY1wbEk",
+      "minter": "tz1hgBnPS3hhCfxHQNyAaFuaoXdzbn3wRGuB",
+      "fxparams": "",
+      "owner": "tz1i6Dex29u4Ko9SGiN4mge5Cgk6Tw5yg4Kb",
+      "thumbnailUri": "ipfs://QmUhgtxAZ3yngSYkZzb5Hb8m1hfU9tDmJ7p7V4x9tFzXTs",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opBkKntnSWh13hu1e9pWYCSY8kdk8YDh9xifX3jBQxFCKY1wbEk",
+        "iteration": 135,
+        "minter": "tz1hgBnPS3hhCfxHQNyAaFuaoXdzbn3wRGuB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243583,
+      "name": "Enfantines I. Small Talk #136",
+      "iteration": 136,
+      "fxhash": "oovc7BreV6BvoVQ3TrHRbGaxwALNv54VNMo57zbsRzt23KHZWGC",
+      "minter": "tz1Z3A438AD3qZFNvoJBD5LQUYbomErw716Q",
+      "fxparams": "",
+      "owner": "tz1ZzGCUFUBvSzA1VvT3iJNq3b2NjNpmPfks",
+      "thumbnailUri": "ipfs://QmZA2mEngndJVDdb8E1a7h9RN5VfCwZEUsuVzCQKdgMap1",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oovc7BreV6BvoVQ3TrHRbGaxwALNv54VNMo57zbsRzt23KHZWGC",
+        "iteration": 136,
+        "minter": "tz1Z3A438AD3qZFNvoJBD5LQUYbomErw716Q",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243584,
+      "name": "Enfantines I. Small Talk #137",
+      "iteration": 137,
+      "fxhash": "ontS1meHTURa1mAa6BDDqHajJDqP7YLjWtbfbYdoAktGMS1343v",
+      "minter": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+      "fxparams": "",
+      "owner": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+      "thumbnailUri": "ipfs://QmTZbEYvwvdPd3owhh92zkAEwVU5JaQ3ba2KxbZbLZgB9F",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ontS1meHTURa1mAa6BDDqHajJDqP7YLjWtbfbYdoAktGMS1343v",
+        "iteration": 137,
+        "minter": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243585,
+      "name": "Enfantines I. Small Talk #138",
+      "iteration": 138,
+      "fxhash": "oojzLbHdpENRojpz8kbUGR6Vy9CjPnXw6BpWiNAjUDYx1yudpCc",
+      "minter": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+      "fxparams": "",
+      "owner": "tz1QpvURES6sBsL6gGh4aeBRtw6ShcAjYj6u",
+      "thumbnailUri": "ipfs://QmWJrjhadBWhqeEf5oBYG2QHQ4c9LJa6YGWrTYnaUpmrS6",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oojzLbHdpENRojpz8kbUGR6Vy9CjPnXw6BpWiNAjUDYx1yudpCc",
+        "iteration": 138,
+        "minter": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243589,
+      "name": "Enfantines I. Small Talk #139",
+      "iteration": 139,
+      "fxhash": "oo2uaoof8oMCpmnzvPg51kEXsfVruXbKstzbWn6rdx96PcfuqhH",
+      "minter": "tz1bhbx2P33zfCL7DLMEDHxT4rtjQZtqsrXN",
+      "fxparams": "",
+      "owner": "tz1bhbx2P33zfCL7DLMEDHxT4rtjQZtqsrXN",
+      "thumbnailUri": "ipfs://QmWmrBTQkVuagjoLvZ96yuvi3VUAGZRP8DcMoaspeytYSY",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo2uaoof8oMCpmnzvPg51kEXsfVruXbKstzbWn6rdx96PcfuqhH",
+        "iteration": 139,
+        "minter": "tz1bhbx2P33zfCL7DLMEDHxT4rtjQZtqsrXN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243590,
+      "name": "Enfantines I. Small Talk #140",
+      "iteration": 140,
+      "fxhash": "oo7p4HtDfzW2kcmPZw4zskYbbacEFL1MeuBKzUomjh8Ui8vnNc1",
+      "minter": "tz2KDeWyeCeu2eZYLav9PrRAQmFCyESNF4Es",
+      "fxparams": "",
+      "owner": "tz2KDeWyeCeu2eZYLav9PrRAQmFCyESNF4Es",
+      "thumbnailUri": "ipfs://QmXssCAYtrqhbAZZT2w6rQSXASkvt1P2nnXhCHAJYzo19P",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo7p4HtDfzW2kcmPZw4zskYbbacEFL1MeuBKzUomjh8Ui8vnNc1",
+        "iteration": 140,
+        "minter": "tz2KDeWyeCeu2eZYLav9PrRAQmFCyESNF4Es",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243591,
+      "name": "Enfantines I. Small Talk #141",
+      "iteration": 141,
+      "fxhash": "ooNGEj4WTjufKSm2VxCDJ9kVr453Gz24mtnb89mGmXhkzHipYWW",
+      "minter": "tz1gMgHmzyRBU1tYnmF5r4Ftxq5QxsCeK97c",
+      "fxparams": "",
+      "owner": "tz1gMgHmzyRBU1tYnmF5r4Ftxq5QxsCeK97c",
+      "thumbnailUri": "ipfs://QmY99BjrphKuA9Wn4PyvDHugJB1gpDkxurLMJ1qD33UJUR",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooNGEj4WTjufKSm2VxCDJ9kVr453Gz24mtnb89mGmXhkzHipYWW",
+        "iteration": 141,
+        "minter": "tz1gMgHmzyRBU1tYnmF5r4Ftxq5QxsCeK97c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243592,
+      "name": "Enfantines I. Small Talk #142",
+      "iteration": 142,
+      "fxhash": "opGRoHvttm9ZcXRmnEeuZAhEyHTpJidUByiRyj3G4ZbdKvCNukD",
+      "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "fxparams": "",
+      "owner": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "thumbnailUri": "ipfs://QmbvEAn7FLMeYBDroYwBP8qWc3d3VVWbk19tTB83LCMB5S",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opGRoHvttm9ZcXRmnEeuZAhEyHTpJidUByiRyj3G4ZbdKvCNukD",
+        "iteration": 142,
+        "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243594,
+      "name": "Enfantines I. Small Talk #143",
+      "iteration": 143,
+      "fxhash": "opLTLZXVm3g9246ttpEFm2DSU2CxHQVbYtGr6GMkRjH5FeP5TbV",
+      "minter": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+      "fxparams": "",
+      "owner": "tz1isguKP6JYgmpRJMvjwJaFRYmjfkLmY6ug",
+      "thumbnailUri": "ipfs://QmdvCXDac6iipMq3ndRiKMYvVYLiYuTrpMsRowTX8FcQZT",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opLTLZXVm3g9246ttpEFm2DSU2CxHQVbYtGr6GMkRjH5FeP5TbV",
+        "iteration": 143,
+        "minter": "tz1QU9oV7wzwWESx7ZHerZramMPstyRrLNDj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243595,
+      "name": "Enfantines I. Small Talk #144",
+      "iteration": 144,
+      "fxhash": "ooudcz9qLxqc2ms2CNYjrqsqymqV5HntVhmJCiAWUv5QG5zxiGw",
+      "minter": "tz1ioXgXZDvhmU6Q3FbTvVACCweyNbq3XaZ1",
+      "fxparams": "",
+      "owner": "tz1eQFzNh5VvuGfLGJ2F3UeB8oU5x7pH2fvg",
+      "thumbnailUri": "ipfs://QmcBGBCceLTufoA4hDJxqQ3TgeZvQMP9ZSYtb7RqosXxDa",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooudcz9qLxqc2ms2CNYjrqsqymqV5HntVhmJCiAWUv5QG5zxiGw",
+        "iteration": 144,
+        "minter": "tz1ioXgXZDvhmU6Q3FbTvVACCweyNbq3XaZ1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243596,
+      "name": "Enfantines I. Small Talk #145",
+      "iteration": 145,
+      "fxhash": "ons1JF72MTTYpEjs8EuERP3yoAntXpLG3cjUVgMP6PcNquk7Yva",
+      "minter": "tz1Kyv1sA9Q3Z8k4XArWJKNk3B61ukQMZWTL",
+      "fxparams": "",
+      "owner": "tz1SWvGqJoePkrXRdpsXMoyvvppW1VwKTDm8",
+      "thumbnailUri": "ipfs://QmRGqhohbMJDfaURQPj7gZJ7mzrgsxGu1ggqWngb3Sdrv6",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ons1JF72MTTYpEjs8EuERP3yoAntXpLG3cjUVgMP6PcNquk7Yva",
+        "iteration": 145,
+        "minter": "tz1Kyv1sA9Q3Z8k4XArWJKNk3B61ukQMZWTL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243597,
+      "name": "Enfantines I. Small Talk #146",
+      "iteration": 146,
+      "fxhash": "onkdt3RfrGMeZLRL7KUPuxkh97PJeQVCDMwCyojoFr6mWbEz5dW",
+      "minter": "tz1aNZttacWt7Q2kmvDnLjXkxC27MnigTZtV",
+      "fxparams": "",
+      "owner": "tz1aNZttacWt7Q2kmvDnLjXkxC27MnigTZtV",
+      "thumbnailUri": "ipfs://QmYmeGhGyApGLJ9mG1TgRRLt3xKitAyuzG8LgQjk6Ec6t5",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onkdt3RfrGMeZLRL7KUPuxkh97PJeQVCDMwCyojoFr6mWbEz5dW",
+        "iteration": 146,
+        "minter": "tz1aNZttacWt7Q2kmvDnLjXkxC27MnigTZtV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243598,
+      "name": "Enfantines I. Small Talk #147",
+      "iteration": 147,
+      "fxhash": "opQ7pc5zPksvStUSMHXpQgzN6qWwWSGujpMGohjSiU9FFYS4h7n",
+      "minter": "tz2KDeWyeCeu2eZYLav9PrRAQmFCyESNF4Es",
+      "fxparams": "",
+      "owner": "tz2KDeWyeCeu2eZYLav9PrRAQmFCyESNF4Es",
+      "thumbnailUri": "ipfs://QmTQ8n8i3qzqhGcJsSvbLBSd4mwBmxRWDcZbVoZQEkCe9X",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opQ7pc5zPksvStUSMHXpQgzN6qWwWSGujpMGohjSiU9FFYS4h7n",
+        "iteration": 147,
+        "minter": "tz2KDeWyeCeu2eZYLav9PrRAQmFCyESNF4Es",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243599,
+      "name": "Enfantines I. Small Talk #148",
+      "iteration": 148,
+      "fxhash": "onm5qv4Cy1Srhwj5UbeGnHvFBB48o8FFDPFrJWcbb5t8yG1oWn5",
+      "minter": "tz1R9Ky1Ut9tC4HWDtjbpJntNWLdgATbX1gp",
+      "fxparams": "",
+      "owner": "tz1R9Ky1Ut9tC4HWDtjbpJntNWLdgATbX1gp",
+      "thumbnailUri": "ipfs://QmdnGb1nu5BnKaFUfWppt5oprSpAKpqZBzcm4RuJDsM8sq",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onm5qv4Cy1Srhwj5UbeGnHvFBB48o8FFDPFrJWcbb5t8yG1oWn5",
+        "iteration": 148,
+        "minter": "tz1R9Ky1Ut9tC4HWDtjbpJntNWLdgATbX1gp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243601,
+      "name": "Enfantines I. Small Talk #149",
+      "iteration": 149,
+      "fxhash": "oovziYgdapwVD2vkBUu1NPNJCtpcCvzcKsGYAZLtPhcfNQAukQU",
+      "minter": "tz1VmRhN6EnkFJywC13z1i79QbqcTVSZcrYa",
+      "fxparams": "",
+      "owner": "tz1fwAeJwzbijJvxCd1TukPbvTmZB2pMnq3f",
+      "thumbnailUri": "ipfs://QmZ1Ez2NpXFwb884ttumrEGZNJ6Dz2AoJ9WoHq6QqpvRHP",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oovziYgdapwVD2vkBUu1NPNJCtpcCvzcKsGYAZLtPhcfNQAukQU",
+        "iteration": 149,
+        "minter": "tz1VmRhN6EnkFJywC13z1i79QbqcTVSZcrYa",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243602,
+      "name": "Enfantines I. Small Talk #150",
+      "iteration": 150,
+      "fxhash": "ooGst3yE1xR9aHsgu3m4zgBR7HrMKwURc6FTvhNtmgMuShaug85",
+      "minter": "tz1KijyqakiY1y6tsAUAed1dPxsKvuiG9876",
+      "fxparams": "",
+      "owner": "tz1KijyqakiY1y6tsAUAed1dPxsKvuiG9876",
+      "thumbnailUri": "ipfs://Qme3ewrJgyyzMpzTf8KZGMzu3MkqKa6Ur8ZcUiD31UXXM5",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooGst3yE1xR9aHsgu3m4zgBR7HrMKwURc6FTvhNtmgMuShaug85",
+        "iteration": 150,
+        "minter": "tz1KijyqakiY1y6tsAUAed1dPxsKvuiG9876",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243603,
+      "name": "Enfantines I. Small Talk #151",
+      "iteration": 151,
+      "fxhash": "ooka91myuXDzAKrNoFMgT3SoWM9BM1FSc9Zv86vsHg8YPNNnBRb",
+      "minter": "tz1L6r8n2wRSCy6xvaKecSEsgQPhNdcFcx6G",
+      "fxparams": "",
+      "owner": "tz1R2Wj1WNoRPekDAi2W7dQ3gjze7YEKpUoo",
+      "thumbnailUri": "ipfs://QmYjXjbPJGDRrxFQXwPi9nhzL4rWgfkx5tK7f7j4uSLZ9B",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooka91myuXDzAKrNoFMgT3SoWM9BM1FSc9Zv86vsHg8YPNNnBRb",
+        "iteration": 151,
+        "minter": "tz1L6r8n2wRSCy6xvaKecSEsgQPhNdcFcx6G",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243621,
+      "name": "Enfantines I. Small Talk #152",
+      "iteration": 152,
+      "fxhash": "opLf9WEBjmQroCkFx8RqqVPCuVLSC5Qff4bdpMLENAQpFut3TaQ",
+      "minter": "tz1XPwbVV4NJGLMh15q33qGzE6aqzKWWuMk3",
+      "fxparams": "",
+      "owner": "tz1XPwbVV4NJGLMh15q33qGzE6aqzKWWuMk3",
+      "thumbnailUri": "ipfs://QmY25PSD3rFzY6j2htxPxeQKyiZrffwcVYY39Y1e7zBcvs",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opLf9WEBjmQroCkFx8RqqVPCuVLSC5Qff4bdpMLENAQpFut3TaQ",
+        "iteration": 152,
+        "minter": "tz1XPwbVV4NJGLMh15q33qGzE6aqzKWWuMk3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243624,
+      "name": "Enfantines I. Small Talk #153",
+      "iteration": 153,
+      "fxhash": "op4kGeskGwE7S5MwPFZvvQpCH38g3cBAGvn4TKRvtxDhA6qomt1",
+      "minter": "tz1b4RxZLEHrk3eiE2VgqXNTUhZ73RzGxiFY",
+      "fxparams": "",
+      "owner": "tz2Dz4kN8HVrkBDrYJEWq4JyZkzBUZUrPN3p",
+      "thumbnailUri": "ipfs://QmcJHfqN6U3drbA62wq6kTjnk8PngEFPKogvL6xHenNDTd",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "op4kGeskGwE7S5MwPFZvvQpCH38g3cBAGvn4TKRvtxDhA6qomt1",
+        "iteration": 153,
+        "minter": "tz1b4RxZLEHrk3eiE2VgqXNTUhZ73RzGxiFY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243625,
+      "name": "Enfantines I. Small Talk #154",
+      "iteration": 154,
+      "fxhash": "opKHrtiR2hfgCZs5Btn3SRCi9jV6qv8yESpXSmdC3DQFTur6C4V",
+      "minter": "tz1asdA3hubZm543qdD4SsV4hH6KhPG8r4bj",
+      "fxparams": "",
+      "owner": "tz1MfmHRaRU4UoG5Xb8cjdq1ovS2MP2cLMdj",
+      "thumbnailUri": "ipfs://QmdXHnkkznN1oMfJt3kcg9X1UpRo7jCyKoFGJx6v7AZpWr",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opKHrtiR2hfgCZs5Btn3SRCi9jV6qv8yESpXSmdC3DQFTur6C4V",
+        "iteration": 154,
+        "minter": "tz1asdA3hubZm543qdD4SsV4hH6KhPG8r4bj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243627,
+      "name": "Enfantines I. Small Talk #155",
+      "iteration": 155,
+      "fxhash": "ooLEMByAKxz9UqnS9im9svo3sib7bVU6nDZjSbsJ4YcNViJ3HgW",
+      "minter": "tz1TFjv1rC41koxYBVczv4zwVqDSs9xNDvZ1",
+      "fxparams": "",
+      "owner": "tz1Z9fvAijCZVzYHazL1HL4dLmxPMxb8TZPn",
+      "thumbnailUri": "ipfs://QmYNdWt1w3rfbXg8jhmRBREUQLXYSUDc6jqGirokEoLMgZ",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooLEMByAKxz9UqnS9im9svo3sib7bVU6nDZjSbsJ4YcNViJ3HgW",
+        "iteration": 155,
+        "minter": "tz1TFjv1rC41koxYBVczv4zwVqDSs9xNDvZ1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243638,
+      "name": "Enfantines I. Small Talk #156",
+      "iteration": 156,
+      "fxhash": "op5Ux3g1yTakcFVgme8Hh1pEYGq4KUJpaBJzgG8HeUpZ814pKHb",
+      "minter": "tz1a9BC8QbXKTmy2SDBPVJNAecfN7wccwsTB",
+      "fxparams": "",
+      "owner": "tz1a9BC8QbXKTmy2SDBPVJNAecfN7wccwsTB",
+      "thumbnailUri": "ipfs://QmYM7XGEupyaYwA8yfBhsH2adZN1bmo9BrJ32JdcCudYnJ",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "op5Ux3g1yTakcFVgme8Hh1pEYGq4KUJpaBJzgG8HeUpZ814pKHb",
+        "iteration": 156,
+        "minter": "tz1a9BC8QbXKTmy2SDBPVJNAecfN7wccwsTB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243649,
+      "name": "Enfantines I. Small Talk #157",
+      "iteration": 157,
+      "fxhash": "ood4sQJrDzgL2P344UPu9pVWkTBgffcARobft9QCmb6DGkRJADY",
+      "minter": "tz1YJvM4aA6khLufTn1uwBKDjNVTJcLWtL9k",
+      "fxparams": "",
+      "owner": "tz1hRnjfQaqrpih92m814ycSoaxwTp2Zh9M7",
+      "thumbnailUri": "ipfs://QmfL6LXKsDJUrUpTizKHNvFfmKGFJNp7YbHhiFNNC6osVP",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ood4sQJrDzgL2P344UPu9pVWkTBgffcARobft9QCmb6DGkRJADY",
+        "iteration": 157,
+        "minter": "tz1YJvM4aA6khLufTn1uwBKDjNVTJcLWtL9k",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243652,
+      "name": "Enfantines I. Small Talk #158",
+      "iteration": 158,
+      "fxhash": "ooG8RjfBjJPqQNxMCwdr1f3a5Hub2fiyGZGVvYB8MT9sWJF9Rk5",
+      "minter": "tz1TDiTsoWpNCsLhiSq55NMog4gV4AurpQkn",
+      "fxparams": "",
+      "owner": "tz1htrY7KHbM3T2wkC9vBZSbe2AY5Dr5osVR",
+      "thumbnailUri": "ipfs://QmXk3tS1ypahXDUA1zto4AEYHcPZV4XneGHNMSVVduW8Ag",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooG8RjfBjJPqQNxMCwdr1f3a5Hub2fiyGZGVvYB8MT9sWJF9Rk5",
+        "iteration": 158,
+        "minter": "tz1TDiTsoWpNCsLhiSq55NMog4gV4AurpQkn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243662,
+      "name": "Enfantines I. Small Talk #159",
+      "iteration": 159,
+      "fxhash": "oo4TeXjrzTvVjmc8nqxMC5dUvjXzuJBgmF1K6tpMYB1wCedmgsQ",
+      "minter": "tz1d6Vh4PPBs9siz63MhCFZ6EaqujYxto2AL",
+      "fxparams": "",
+      "owner": "tz1d6Vh4PPBs9siz63MhCFZ6EaqujYxto2AL",
+      "thumbnailUri": "ipfs://QmfHqaFyQHa9zFxyPnyygABRZdZqFoWXrGFqh75MC6fHNA",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo4TeXjrzTvVjmc8nqxMC5dUvjXzuJBgmF1K6tpMYB1wCedmgsQ",
+        "iteration": 159,
+        "minter": "tz1d6Vh4PPBs9siz63MhCFZ6EaqujYxto2AL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243670,
+      "name": "Enfantines I. Small Talk #160",
+      "iteration": 160,
+      "fxhash": "ooBtVhPexQseTVocvnDMw3qjDPcFJFRA1Hkv72UK2VCLgptsxq6",
+      "minter": "tz1TwmL2MU2kmNrT3a3Jdc3YE9D9wCQDXbsm",
+      "fxparams": "",
+      "owner": "tz1ScpQ5uTf7siGqmnXEDoRJ8eGcCvfZvb1T",
+      "thumbnailUri": "ipfs://QmesaDA7kAxxxY5jfXVK7BESHf8csFGV1BKbVaQBbBv9jv",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooBtVhPexQseTVocvnDMw3qjDPcFJFRA1Hkv72UK2VCLgptsxq6",
+        "iteration": 160,
+        "minter": "tz1TwmL2MU2kmNrT3a3Jdc3YE9D9wCQDXbsm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243682,
+      "name": "Enfantines I. Small Talk #161",
+      "iteration": 161,
+      "fxhash": "opYFG8cjbWeKVwswmQU63bHjPkJT2gwWvqssW1BZoL2gXWCqcsM",
+      "minter": "tz1dbnB4StzYKpeTY3sDkWnziiqmwq9tyuXu",
+      "fxparams": "",
+      "owner": "tz1QpvURES6sBsL6gGh4aeBRtw6ShcAjYj6u",
+      "thumbnailUri": "ipfs://QmdSy3Cmg6rsRoECbwZbmfdqGzDzwCLYWG5S5vgeUGroL2",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opYFG8cjbWeKVwswmQU63bHjPkJT2gwWvqssW1BZoL2gXWCqcsM",
+        "iteration": 161,
+        "minter": "tz1dbnB4StzYKpeTY3sDkWnziiqmwq9tyuXu",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243688,
+      "name": "Enfantines I. Small Talk #162",
+      "iteration": 162,
+      "fxhash": "ootYsJzXHjvVBCaBDMp3KPQ1qwfSbW48uufwvUm6Mbkb7g93mpz",
+      "minter": "tz1P4iM5y89uzQomRZPZ7XFuHV6Uw3b7YTQ9",
+      "fxparams": "",
+      "owner": "tz1P4iM5y89uzQomRZPZ7XFuHV6Uw3b7YTQ9",
+      "thumbnailUri": "ipfs://QmesdReqUgTdYMWhYxbv3phWfzbkZSWNSZFtkfuNcJbcEZ",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ootYsJzXHjvVBCaBDMp3KPQ1qwfSbW48uufwvUm6Mbkb7g93mpz",
+        "iteration": 162,
+        "minter": "tz1P4iM5y89uzQomRZPZ7XFuHV6Uw3b7YTQ9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243704,
+      "name": "Enfantines I. Small Talk #163",
+      "iteration": 163,
+      "fxhash": "oniXnDiCU92n4Ln6HEiMH97PTUEroYKC7RvWRjYuz49zbmYZVbX",
+      "minter": "tz1e7SP5KzZ5Q4vTGWVHi1D2kARqZtn9ziqR",
+      "fxparams": "",
+      "owner": "tz1e7SP5KzZ5Q4vTGWVHi1D2kARqZtn9ziqR",
+      "thumbnailUri": "ipfs://QmT6cL1jYpWuBvyfyMWM239tNiUPU9RU7fPJFYnrsf4QRQ",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oniXnDiCU92n4Ln6HEiMH97PTUEroYKC7RvWRjYuz49zbmYZVbX",
+        "iteration": 163,
+        "minter": "tz1e7SP5KzZ5Q4vTGWVHi1D2kARqZtn9ziqR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243716,
+      "name": "Enfantines I. Small Talk #164",
+      "iteration": 164,
+      "fxhash": "oo9iZdak5SWrWcbT3pq7t1U2JLBFvirytZfNH3CjszHbhz9yPkT",
+      "minter": "tz1d2rUGp2s6Bx8EwVyxxYVa7gJXRA83gAqB",
+      "fxparams": "",
+      "owner": "tz1d2rUGp2s6Bx8EwVyxxYVa7gJXRA83gAqB",
+      "thumbnailUri": "ipfs://QmSNZaJVjYa3TMEgXyX1h7EMTR9nE8uRWcZDntjo8QK8Qq",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "oo9iZdak5SWrWcbT3pq7t1U2JLBFvirytZfNH3CjszHbhz9yPkT",
+        "iteration": 164,
+        "minter": "tz1d2rUGp2s6Bx8EwVyxxYVa7gJXRA83gAqB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243744,
+      "name": "Enfantines I. Small Talk #165",
+      "iteration": 165,
+      "fxhash": "ooZU93kvJJTsBcRSiCCuu9XnnDk2PmKatdu4wDTK2izWZ8df6eH",
+      "minter": "tz1MmirqKxByRsfLirq1grwenbcoE8yBeDUf",
+      "fxparams": "",
+      "owner": "tz1MmirqKxByRsfLirq1grwenbcoE8yBeDUf",
+      "thumbnailUri": "ipfs://Qmc4EeNVkWwUcqxTeEB455XFVYmXYfkEGqmxo4ri7oRU1q",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ooZU93kvJJTsBcRSiCCuu9XnnDk2PmKatdu4wDTK2izWZ8df6eH",
+        "iteration": 165,
+        "minter": "tz1MmirqKxByRsfLirq1grwenbcoE8yBeDUf",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1244017,
+      "name": "Enfantines I. Small Talk #166",
+      "iteration": 166,
+      "fxhash": "opMzNb7dMG4oZ1CkjbPbbfQbGdTPSUHdUDNKM8TjKGiTAeQRBTP",
+      "minter": "tz2LDdCMocTrhvSJo8xQY8aMrAbBqc28uWuY",
+      "fxparams": "",
+      "owner": "tz1XvshAZC9f7GZSR38JXgqgn8VLwdd45vRw",
+      "thumbnailUri": "ipfs://QmZQRPsdQt6PcWw31DoaRqYp6rt6VB13C6ZhcnPdTm54xb",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opMzNb7dMG4oZ1CkjbPbbfQbGdTPSUHdUDNKM8TjKGiTAeQRBTP",
+        "iteration": 166,
+        "minter": "tz2LDdCMocTrhvSJo8xQY8aMrAbBqc28uWuY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1244115,
+      "name": "Enfantines I. Small Talk #167",
+      "iteration": 167,
+      "fxhash": "ongkEncaQ8iZ8fzvugc3MMyp12QgcqKAh8zyeqcjW995cN4h3L1",
+      "minter": "tz1V6CE4DCqVG2jBMDY4GXXU5ihDkP16pTy6",
+      "fxparams": "",
+      "owner": "tz1a38Je66oy9fm2AcxpGL6ULi4HMEzpGd7D",
+      "thumbnailUri": "ipfs://QmYwWGQUuRZfX3nHouDroerwAvvL4aeaPcVZcApnPw4KtE",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ongkEncaQ8iZ8fzvugc3MMyp12QgcqKAh8zyeqcjW995cN4h3L1",
+        "iteration": 167,
+        "minter": "tz1V6CE4DCqVG2jBMDY4GXXU5ihDkP16pTy6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1244137,
+      "name": "Enfantines I. Small Talk #168",
+      "iteration": 168,
+      "fxhash": "onirtbLj3tWwDWDr3UL2wf1tbcUWhFB5g7HmSQu8RCmQpJQUrJr",
+      "minter": "tz1fsz5x9dABLHt97kvXAa3LYomtu1BVrS7e",
+      "fxparams": "",
+      "owner": "tz1fsz5x9dABLHt97kvXAa3LYomtu1BVrS7e",
+      "thumbnailUri": "ipfs://QmXXB8jpdZFQ5M5HKYmr3fXGnsNfsAY2wGwtf5gfF1WAXx",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onirtbLj3tWwDWDr3UL2wf1tbcUWhFB5g7HmSQu8RCmQpJQUrJr",
+        "iteration": 168,
+        "minter": "tz1fsz5x9dABLHt97kvXAa3LYomtu1BVrS7e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1244616,
+      "name": "Enfantines I. Small Talk #169",
+      "iteration": 169,
+      "fxhash": "onjoJJty83182xFZcjAfkTnCEnqhjJRr8bTubsr2Tgmgw2rcTx9",
+      "minter": "tz1YEZfmotRW2kwFMEe5XFjsUVNnDT1dRoDg",
+      "fxparams": "",
+      "owner": "tz1isguKP6JYgmpRJMvjwJaFRYmjfkLmY6ug",
+      "thumbnailUri": "ipfs://QmSi2nvJac6tZyXKm3Gmt7CYcc56q8jP3QxqmMy6SvQUTZ",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "onjoJJty83182xFZcjAfkTnCEnqhjJRr8bTubsr2Tgmgw2rcTx9",
+        "iteration": 169,
+        "minter": "tz1YEZfmotRW2kwFMEe5XFjsUVNnDT1dRoDg",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1245830,
+      "name": "Enfantines I. Small Talk #170",
+      "iteration": 170,
+      "fxhash": "ontQdjoLqURBRNsyCffumTpAa5ZdGTmphTjZmWAM4LHBDEHDbou",
+      "minter": "tz1S5PjnZdwrwJFbUZF3Q6wV19g87GMAZAT6",
+      "fxparams": "",
+      "owner": "tz1S5PjnZdwrwJFbUZF3Q6wV19g87GMAZAT6",
+      "thumbnailUri": "ipfs://QmPqUfteda34FzKE2NUFDLbqBo7Q3Hej2rZAjLnWgRFKhS",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "ontQdjoLqURBRNsyCffumTpAa5ZdGTmphTjZmWAM4LHBDEHDbou",
+        "iteration": 170,
+        "minter": "tz1S5PjnZdwrwJFbUZF3Q6wV19g87GMAZAT6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1246798,
+      "name": "Enfantines I. Small Talk #171",
+      "iteration": 171,
+      "fxhash": "opQ6X7nZW2xPz5X856pNRcmnQo5eSeDyu7kN5gcAbGSUMxh5U42",
+      "minter": "tz1YbYcUg8KUtpQG6K7nyC8sjokpx5W2vu2j",
+      "fxparams": "",
+      "owner": "tz1YbYcUg8KUtpQG6K7nyC8sjokpx5W2vu2j",
+      "thumbnailUri": "ipfs://QmTDF7WzzvUbJfAGh57EqmRbgUND3YdYtx24PEw87oqF3d",
+      "generativeUri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+      "viewerParams": {
+        "uri": "ipfs://Qmdpruh9w3nzYPL2KPEtp2KxHjCCT84B425cBRHo819kvn",
+        "fxhash": "opQ6X7nZW2xPz5X856pNRcmnQo5eSeDyu7kN5gcAbGSUMxh5U42",
+        "iteration": 171,
+        "minter": "tz1YbYcUg8KUtpQG6K7nyC8sjokpx5W2vu2j",
+        "fxparams": ""
+      }
+    }
+  ]
+}

@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmYYoEZhhfiN5o7BepGfMNfP8r1NTG8uZ3qPpMWSXzXW6v",
     "totalSupply": 300,
-    "extractedAt": "2026-05-30T15:38:55.328Z"
+    "extractedAt": "2026-05-30T15:38:55.328Z",
+    "artist": "Aluan Wang",
+    "artists": [
+      "Aluan Wang"
+    ]
   },
   "iterations": [
     {

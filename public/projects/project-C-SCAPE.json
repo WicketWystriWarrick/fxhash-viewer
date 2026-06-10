@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmdHhcTBEUUNZ68gWHUsSRfjFrHYXStvgMvB6HwS1bVbMG",
     "totalSupply": 256,
-    "extractedAt": "2026-05-30T03:30:51.662Z"
+    "extractedAt": "2026-05-30T03:30:51.662Z",
+    "artist": "toxi",
+    "artists": [
+      "toxi"
+    ]
   },
   "iterations": [
     {

@@ -5,7 +5,11 @@
     "chain": "ethereum",
     "generativeUri": "onchfs://1639e8c989cddd2c0f9e951b126a21b1964309854c0a8e0a9b1193a655c6712a",
     "totalSupply": 128,
-    "extractedAt": "2026-05-30T16:13:29.736Z"
+    "extractedAt": "2026-05-30T16:13:29.736Z",
+    "artist": "REAS",
+    "artists": [
+      "REAS"
+    ]
   },
   "iterations": [
     {

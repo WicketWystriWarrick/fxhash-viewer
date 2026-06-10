@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmPEvX12DbheDvyfP9gFERLwmLWwwrhinBgnk1irbCP23Q",
     "totalSupply": 366,
-    "extractedAt": "2026-06-06T02:37:27.908Z"
+    "extractedAt": "2026-06-06T02:37:27.908Z",
+    "artist": "IskraVelitchkova",
+    "artists": [
+      "IskraVelitchkova"
+    ]
   },
   "iterations": [
     {
@@ -170,7 +174,6 @@
         "fxparams": ""
       }
     },
-
     {
       "tokenId": 187013,
       "name": "Uninhabitable #10",
@@ -297,7 +300,6 @@
         "fxparams": ""
       }
     },
-
     {
       "tokenId": 187020,
       "name": "Uninhabitable #17",

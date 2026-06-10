@@ -5,7 +5,12 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmePX7dqW9WFdm1rvNc5hmVmyJ2JdWbKxpCGzyEFPTCuRT",
     "totalSupply": 400,
-    "extractedAt": "2026-06-03T15:20:59.120Z"
+    "extractedAt": "2026-06-03T15:20:59.120Z",
+    "artist": "IskraVelitchkova & zachlieberman",
+    "artists": [
+      "IskraVelitchkova",
+      "zachlieberman"
+    ]
   },
   "iterations": [
     {

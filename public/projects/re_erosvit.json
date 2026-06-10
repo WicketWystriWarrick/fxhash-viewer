@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmYrNY6uNK4QNgrisW85spbojkfUPCTeAkCyLKT7mqhW3f",
     "totalSupply": 264,
-    "extractedAt": "2026-05-30T15:35:10.650Z"
+    "extractedAt": "2026-05-30T15:35:10.650Z",
+    "artist": "nekropunk",
+    "artists": [
+      "nekropunk"
+    ]
   },
   "iterations": [
     {

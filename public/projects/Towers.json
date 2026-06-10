@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmXY7eGw9bwMm1ARi74bcWs8GKp6pANr1mvY16j9H5J8wa",
     "totalSupply": 256,
-    "extractedAt": "2026-06-03T22:57:15.284Z"
+    "extractedAt": "2026-06-03T22:57:15.284Z",
+    "artist": "Andreas Gysin",
+    "artists": [
+      "Andreas Gysin"
+    ]
   },
   "iterations": [
     {

@@ -6,7 +6,11 @@
     "generativeUri": "ipfs://QmUHgPcSy11aeuwyDLKgPZTr7FHTg1Te6LsaMd22wDcrdz",
     "totalSupply": 500,
     "extractedAt": "2026-06-08T14:33:36.422Z",
-    "source": "fxhash-graphql"
+    "source": "fxhash-graphql",
+    "artist": "iRyanBell",
+    "artists": [
+      "iRyanBell"
+    ]
   },
   "iterations": [
     {

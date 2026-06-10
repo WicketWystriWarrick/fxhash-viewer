@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmUhcsUGCBqPwjvdxdcS4wPuZgkQuuHL7fC5dyjiY8EPhd",
     "totalSupply": 500,
-    "extractedAt": "2026-06-08T12:55:30.082Z"
+    "extractedAt": "2026-06-08T12:55:30.082Z",
+    "artist": "Erik Swahn",
+    "artists": [
+      "Erik Swahn"
+    ]
   },
   "iterations": [
     {

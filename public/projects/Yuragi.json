@@ -1,0 +1,2321 @@
+{
+  "project": {
+    "name": "Yuragi",
+    "contract": "0x77ed176254e584E07D3223c5372f53a2647798E4",
+    "chain": "ethereum",
+    "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+    "totalSupply": 128,
+    "extractedAt": "2026-06-09T15:06:19.761Z",
+    "source": "fxhash-v2-graphql",
+    "artist": "Kazuhiro Tanimoto",
+    "artists": [
+      "Kazuhiro Tanimoto"
+    ]
+  },
+  "iterations": [
+    {
+      "tokenId": 1,
+      "name": "Yuragi #1",
+      "iteration": 1,
+      "fxhash": "0x8c084dc63eb23feb9f94759ea7f03e1c59eca200f2d6be6ea960837bbee00ef3",
+      "minter": "0x1e5e100141BD09900d402dDB38F9043BBeEA84F1",
+      "fxparams": "",
+      "owner": "0x1e5e100141BD09900d402dDB38F9043BBeEA84F1",
+      "thumbnailUri": "ipfs://QmcbcmfzwGG6fvQLWd34EpiNWdGKPNpBTeqsRj9KrM52x2",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x8c084dc63eb23feb9f94759ea7f03e1c59eca200f2d6be6ea960837bbee00ef3",
+        "iteration": 1,
+        "minter": "0x1e5e100141BD09900d402dDB38F9043BBeEA84F1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 2,
+      "name": "Yuragi #2",
+      "iteration": 2,
+      "fxhash": "0xf543850be3f6212e0018079b019d18878026fc23996861e188d2adb3282c1dcf",
+      "minter": "0xee8C2832dADb706Cfda5D888bE3634e6a566e2D1",
+      "fxparams": "",
+      "owner": "0xee8C2832dADb706Cfda5D888bE3634e6a566e2D1",
+      "thumbnailUri": "ipfs://QmUo4smTxtwQs7dJLQEWCkWLxgHqHt4B2emtC2XsRVZipA",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xf543850be3f6212e0018079b019d18878026fc23996861e188d2adb3282c1dcf",
+        "iteration": 2,
+        "minter": "0xee8C2832dADb706Cfda5D888bE3634e6a566e2D1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 3,
+      "name": "Yuragi #3",
+      "iteration": 3,
+      "fxhash": "0x4b5c508a78b15d7c965f2a315cf8b3a8e63d1d97163c2ba8ec9069f1ddb25cd6",
+      "minter": "0xb29DDe74b1ba90f3b21F12bA7ae7583976562EDD",
+      "fxparams": "",
+      "owner": "0xb29DDe74b1ba90f3b21F12bA7ae7583976562EDD",
+      "thumbnailUri": "ipfs://QmUaAr4SGXkaWiiMy3KCGeBDQwUjqR2X1NjUn2hCppxRqq",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x4b5c508a78b15d7c965f2a315cf8b3a8e63d1d97163c2ba8ec9069f1ddb25cd6",
+        "iteration": 3,
+        "minter": "0xb29DDe74b1ba90f3b21F12bA7ae7583976562EDD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 4,
+      "name": "Yuragi #4",
+      "iteration": 4,
+      "fxhash": "0xa4e7d2521e22527199599050727dc7d2385a8ec08df05be0d775b96564e85fce",
+      "minter": "0xb3C3b3038bD2231B7b61A510102b459e694690A4",
+      "fxparams": "",
+      "owner": "0xb3C3b3038bD2231B7b61A510102b459e694690A4",
+      "thumbnailUri": "ipfs://QmQqhAsPDV4WSeTBYeWwJfoxANArsMyzyBEgeZ65MeYLPd",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xa4e7d2521e22527199599050727dc7d2385a8ec08df05be0d775b96564e85fce",
+        "iteration": 4,
+        "minter": "0xb3C3b3038bD2231B7b61A510102b459e694690A4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 5,
+      "name": "Yuragi #5",
+      "iteration": 5,
+      "fxhash": "0xe81a29cce1f9377a303c2eb1c0cf285e0525c5c7eb436ca4cc8a90427e0ceef5",
+      "minter": "0x6672B8B951B32405c94bed2e6509B467d1644455",
+      "fxparams": "",
+      "owner": "0x6672B8B951B32405c94bed2e6509B467d1644455",
+      "thumbnailUri": "ipfs://QmRGzibdbTM2Dk4QB5qqhgRmGCUXbVTzcyd4mRKW5mPDAD",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xe81a29cce1f9377a303c2eb1c0cf285e0525c5c7eb436ca4cc8a90427e0ceef5",
+        "iteration": 5,
+        "minter": "0x6672B8B951B32405c94bed2e6509B467d1644455",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 6,
+      "name": "Yuragi #6",
+      "iteration": 6,
+      "fxhash": "0x2343e51c3d67c6f1740dafcdfee63eae1261876d6341c29fb9f520265ea91c6a",
+      "minter": "0x7bDC74630B11430435e94e8b2a482d5B61Fe6D69",
+      "fxparams": "",
+      "owner": "0x7bDC74630B11430435e94e8b2a482d5B61Fe6D69",
+      "thumbnailUri": "ipfs://QmYozf6RT8YCLaiXwHpLhuLviWNCwZrkvvfnqV7Dd3tFCK",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x2343e51c3d67c6f1740dafcdfee63eae1261876d6341c29fb9f520265ea91c6a",
+        "iteration": 6,
+        "minter": "0x7bDC74630B11430435e94e8b2a482d5B61Fe6D69",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 7,
+      "name": "Yuragi #7",
+      "iteration": 7,
+      "fxhash": "0xa35cb2018f161882d8547aabe040715d7e36fa50c265b3bdf354be5b82cdd18a",
+      "minter": "0xb8596d85a8d846bBBff6Ab1491b1ce53AEa86590",
+      "fxparams": "",
+      "owner": "0xb8596d85a8d846bBBff6Ab1491b1ce53AEa86590",
+      "thumbnailUri": "ipfs://QmQH7HiygVPVVrRqvBHcubfFG8w1D72wM2PmVusQxvHstF",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xa35cb2018f161882d8547aabe040715d7e36fa50c265b3bdf354be5b82cdd18a",
+        "iteration": 7,
+        "minter": "0xb8596d85a8d846bBBff6Ab1491b1ce53AEa86590",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 8,
+      "name": "Yuragi #8",
+      "iteration": 8,
+      "fxhash": "0x085ea81d8727f665348de99064d8dd507c250e4b41b2af65e1da6d5b58110cfe",
+      "minter": "0x099DDb1A200089592bcF4017792C84dce030c44F",
+      "fxparams": "",
+      "owner": "0xee8C2832dADb706Cfda5D888bE3634e6a566e2D1",
+      "thumbnailUri": "ipfs://QmTCZTGNwaWunB6atDjgog94ayDabejoyPRT2XaJdHt1wu",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x085ea81d8727f665348de99064d8dd507c250e4b41b2af65e1da6d5b58110cfe",
+        "iteration": 8,
+        "minter": "0x099DDb1A200089592bcF4017792C84dce030c44F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 9,
+      "name": "Yuragi #9",
+      "iteration": 9,
+      "fxhash": "0x393bd04f2fb88207348b3a0ebb5aba2dfe8fe700d15751da784f29facd5fb842",
+      "minter": "0xbE957A475844c127DDD207B4ff1F63900FD13E57",
+      "fxparams": "",
+      "owner": "0xbE957A475844c127DDD207B4ff1F63900FD13E57",
+      "thumbnailUri": "ipfs://QmSPmZ73XBCGc69Dcefjh93V1e67kUm7g7BsNW4AohnxoZ",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x393bd04f2fb88207348b3a0ebb5aba2dfe8fe700d15751da784f29facd5fb842",
+        "iteration": 9,
+        "minter": "0xbE957A475844c127DDD207B4ff1F63900FD13E57",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 10,
+      "name": "Yuragi #10",
+      "iteration": 10,
+      "fxhash": "0x47a2aee4bede7e919adfc28221556757c805dd90fe74e3404bdc7daca4da5458",
+      "minter": "0x2f00182a6fff9D664ff8bF23D46EE8D9c01a61bE",
+      "fxparams": "",
+      "owner": "0x2f00182a6fff9D664ff8bF23D46EE8D9c01a61bE",
+      "thumbnailUri": "ipfs://QmbktsHKEMMZEjic78SPaCL6xJ4naaCy3td3XCECaACyki",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x47a2aee4bede7e919adfc28221556757c805dd90fe74e3404bdc7daca4da5458",
+        "iteration": 10,
+        "minter": "0x2f00182a6fff9D664ff8bF23D46EE8D9c01a61bE",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 11,
+      "name": "Yuragi #11",
+      "iteration": 11,
+      "fxhash": "0x92b474559f9f9b73482f1cd3561adf83fe4fa796ed21ee1aee0d9ec68f7d4416",
+      "minter": "0x488AbF73A0356C5e31F8EDb3C2B5C2c7d262432D",
+      "fxparams": "",
+      "owner": "0x488AbF73A0356C5e31F8EDb3C2B5C2c7d262432D",
+      "thumbnailUri": "ipfs://QmfMPiydpoQZgQc4JiN8bbp9fvuk6Zni8wLNoeFauiFEf6",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x92b474559f9f9b73482f1cd3561adf83fe4fa796ed21ee1aee0d9ec68f7d4416",
+        "iteration": 11,
+        "minter": "0x488AbF73A0356C5e31F8EDb3C2B5C2c7d262432D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 12,
+      "name": "Yuragi #12",
+      "iteration": 12,
+      "fxhash": "0xe8f100bf54468cb2aaf3ac3da1f4497ac4d19deda55fd40704e70ee6a2f63faa",
+      "minter": "0x848aCc995b67A1f39826A7093A877Ba9D07F37c2",
+      "fxparams": "",
+      "owner": "0xee8C2832dADb706Cfda5D888bE3634e6a566e2D1",
+      "thumbnailUri": "ipfs://QmY8ruRoQpd5KTzxUY1CeoBoehcjorstirVSCSnSZjywmS",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xe8f100bf54468cb2aaf3ac3da1f4497ac4d19deda55fd40704e70ee6a2f63faa",
+        "iteration": 12,
+        "minter": "0x848aCc995b67A1f39826A7093A877Ba9D07F37c2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 13,
+      "name": "Yuragi #13",
+      "iteration": 13,
+      "fxhash": "0x68921da5390681cd358de3686e6bedb8dbe0464e90fd6e68391cddeec026573a",
+      "minter": "0x6fd0383d95c22CeeD1fB0165f48AeF33468CC288",
+      "fxparams": "",
+      "owner": "0x6fd0383d95c22CeeD1fB0165f48AeF33468CC288",
+      "thumbnailUri": "ipfs://QmQvcTp4retqhT4fWczeC5f3JxBHTDMPenQLDvsRUdmzgi",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x68921da5390681cd358de3686e6bedb8dbe0464e90fd6e68391cddeec026573a",
+        "iteration": 13,
+        "minter": "0x6fd0383d95c22CeeD1fB0165f48AeF33468CC288",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 14,
+      "name": "Yuragi #14",
+      "iteration": 14,
+      "fxhash": "0xf36eaee7003b9e533a620f2e4c31185bd4863e0618509a978fac2ff93360afbc",
+      "minter": "0x46e5803E36b445F3bBfa69160c2b818047F90F64",
+      "fxparams": "",
+      "owner": "0x2Eb78d5a9B068F285c718Bce128Da99D85a558Ee",
+      "thumbnailUri": "ipfs://QmZUimpqS5FWbvy7YNzbNfixF7NRft9z25qdmkhvftgmnz",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xf36eaee7003b9e533a620f2e4c31185bd4863e0618509a978fac2ff93360afbc",
+        "iteration": 14,
+        "minter": "0x46e5803E36b445F3bBfa69160c2b818047F90F64",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 15,
+      "name": "Yuragi #15",
+      "iteration": 15,
+      "fxhash": "0xa2381d7a63f1ede9c564e4e741842c4b78bb99dd8786e7173dcce7b2a84e3355",
+      "minter": "0x06cF9Dc387044f58C08F3b79aC50Fdb41dB8095A",
+      "fxparams": "",
+      "owner": "0x06cF9Dc387044f58C08F3b79aC50Fdb41dB8095A",
+      "thumbnailUri": "ipfs://QmSiogJdpmAj6gYeKJyvbmLc36UJLBkG1Fv1DkxMxXSGkM",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xa2381d7a63f1ede9c564e4e741842c4b78bb99dd8786e7173dcce7b2a84e3355",
+        "iteration": 15,
+        "minter": "0x06cF9Dc387044f58C08F3b79aC50Fdb41dB8095A",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 16,
+      "name": "Yuragi #16",
+      "iteration": 16,
+      "fxhash": "0x8c2218086fb5966162a200b0001cdc91020d56750be9455cf831d1937163e3c7",
+      "minter": "0x69B538Ea2d3eF295b4b9d8335efd5FAC02Ba716B",
+      "fxparams": "",
+      "owner": "0xB4B57125AF2aCf9Bf605A9D9C3D256537876f65A",
+      "thumbnailUri": "ipfs://QmeuqM7aaMBn8Wcu4trQTa5FAXSoesSnsXa5DwUyAkh4bo",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x8c2218086fb5966162a200b0001cdc91020d56750be9455cf831d1937163e3c7",
+        "iteration": 16,
+        "minter": "0x69B538Ea2d3eF295b4b9d8335efd5FAC02Ba716B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 17,
+      "name": "Yuragi #17",
+      "iteration": 17,
+      "fxhash": "0xcce80b5911525036264883b58083e182429c192e745479ed65aa652492f5f2d9",
+      "minter": "0x3310fd13c6C55F054cC128439e1E51Cd0cb16Fed",
+      "fxparams": "",
+      "owner": "0x3310fd13c6C55F054cC128439e1E51Cd0cb16Fed",
+      "thumbnailUri": "ipfs://QmRpRnkr9AdFie8UR5cEvZ1wRyMKYEsejosMSc2P5ffmKR",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xcce80b5911525036264883b58083e182429c192e745479ed65aa652492f5f2d9",
+        "iteration": 17,
+        "minter": "0x3310fd13c6C55F054cC128439e1E51Cd0cb16Fed",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 18,
+      "name": "Yuragi #18",
+      "iteration": 18,
+      "fxhash": "0x67c604f8af3499a912688cd55100fc5c51002de9696b0b7810f976848cef445c",
+      "minter": "0xA12e8A98588E6777F3fcb79b7B463B0f9dae7E97",
+      "fxparams": "",
+      "owner": "0x2F55E30C6F510D897c27a6e2d4c4e17F189996D5",
+      "thumbnailUri": "ipfs://QmeMCspA6NLwTEHUJ3v9PeCJ9dk9TJUWQnAvEbcQVXjCCj",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x67c604f8af3499a912688cd55100fc5c51002de9696b0b7810f976848cef445c",
+        "iteration": 18,
+        "minter": "0xA12e8A98588E6777F3fcb79b7B463B0f9dae7E97",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 19,
+      "name": "Yuragi #19",
+      "iteration": 19,
+      "fxhash": "0x5d2de7756239e70310b75f1702d2de37b537a6edd8ddc328c4673b715a12ef15",
+      "minter": "0x09eE732Dd4b5Ae6C013aF51c1Dc292b06413d504",
+      "fxparams": "",
+      "owner": "0x09eE732Dd4b5Ae6C013aF51c1Dc292b06413d504",
+      "thumbnailUri": "ipfs://QmRp4YvyS3X5m2rLiGKf9sY9ykLnXK5HLLnxrYa6q214VL",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x5d2de7756239e70310b75f1702d2de37b537a6edd8ddc328c4673b715a12ef15",
+        "iteration": 19,
+        "minter": "0x09eE732Dd4b5Ae6C013aF51c1Dc292b06413d504",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 20,
+      "name": "Yuragi #20",
+      "iteration": 20,
+      "fxhash": "0x906a9b3fc19a6e79988771aec6266bdb3b4dc556fbff80b1479d1ec46043ff5a",
+      "minter": "0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66",
+      "fxparams": "",
+      "owner": "0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66",
+      "thumbnailUri": "ipfs://QmeQQAUrQGwEtt8rm9NbFU8N1aPvbU3eNgTEacEJxbdmeC",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x906a9b3fc19a6e79988771aec6266bdb3b4dc556fbff80b1479d1ec46043ff5a",
+        "iteration": 20,
+        "minter": "0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 21,
+      "name": "Yuragi #21",
+      "iteration": 21,
+      "fxhash": "0x811d5977b56b7cd4c315f7497423737bf2d46a3976feaa2a521f91c00f5aa799",
+      "minter": "0xb8596d85a8d846bBBff6Ab1491b1ce53AEa86590",
+      "fxparams": "",
+      "owner": "0xb8596d85a8d846bBBff6Ab1491b1ce53AEa86590",
+      "thumbnailUri": "ipfs://QmS4Ck5PoiDUhA2hknHyizBK5q5gXP6JFpLxz3BfpiayWa",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x811d5977b56b7cd4c315f7497423737bf2d46a3976feaa2a521f91c00f5aa799",
+        "iteration": 21,
+        "minter": "0xb8596d85a8d846bBBff6Ab1491b1ce53AEa86590",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 22,
+      "name": "Yuragi #22",
+      "iteration": 22,
+      "fxhash": "0x21a3368ddcf10104375472a0bacc5f44fdac12e8f275c85957515a69f3e3fb92",
+      "minter": "0xa07353Cb54bAdf3a6eb25024493096aBF5408064",
+      "fxparams": "",
+      "owner": "0xa07353Cb54bAdf3a6eb25024493096aBF5408064",
+      "thumbnailUri": "ipfs://QmQ6Xwy1Vz9QS1TfksEAc9MrJB8yWUUwi6x5yyYPVQdro4",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x21a3368ddcf10104375472a0bacc5f44fdac12e8f275c85957515a69f3e3fb92",
+        "iteration": 22,
+        "minter": "0xa07353Cb54bAdf3a6eb25024493096aBF5408064",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 23,
+      "name": "Yuragi #23",
+      "iteration": 23,
+      "fxhash": "0xb38323e656ccc633f0f4460f7aa1dd1121cf229b65bfd6cb0331bb0d3c968761",
+      "minter": "0x69B538Ea2d3eF295b4b9d8335efd5FAC02Ba716B",
+      "fxparams": "",
+      "owner": "0x37769c5bDd7a43b0b52958Ca51BDAcE1556c96Bf",
+      "thumbnailUri": "ipfs://QmTeNVpFRByv9XGAb8byuRDh5Jqhc3b8dRqJQLauPCU9WK",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xb38323e656ccc633f0f4460f7aa1dd1121cf229b65bfd6cb0331bb0d3c968761",
+        "iteration": 23,
+        "minter": "0x69B538Ea2d3eF295b4b9d8335efd5FAC02Ba716B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 24,
+      "name": "Yuragi #24",
+      "iteration": 24,
+      "fxhash": "0x67956982fe4a9995af6049aac2f24678f716a83e72c1fe971c2cbb8d81dee29e",
+      "minter": "0x6fd0383d95c22CeeD1fB0165f48AeF33468CC288",
+      "fxparams": "",
+      "owner": "0x6fd0383d95c22CeeD1fB0165f48AeF33468CC288",
+      "thumbnailUri": "ipfs://QmPTKjczHoFYVzY7gixmgCi3zzMQQwmo6fB5hdTAHQVn7a",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x67956982fe4a9995af6049aac2f24678f716a83e72c1fe971c2cbb8d81dee29e",
+        "iteration": 24,
+        "minter": "0x6fd0383d95c22CeeD1fB0165f48AeF33468CC288",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 25,
+      "name": "Yuragi #25",
+      "iteration": 25,
+      "fxhash": "0x62a4575895cd00714743fe84bfe12c0a821f414e24e5a1af8e9638f3f180b140",
+      "minter": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+      "fxparams": "",
+      "owner": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+      "thumbnailUri": "ipfs://QmbzpifHvBGpYMAFQ4L9kdFBcVvCSZs3CkDh5VX5E1oNwu",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x62a4575895cd00714743fe84bfe12c0a821f414e24e5a1af8e9638f3f180b140",
+        "iteration": 25,
+        "minter": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 26,
+      "name": "Yuragi #26",
+      "iteration": 26,
+      "fxhash": "0x969c751d4cfbd39da2c82ebc1b22ca73b023eaf54244f472e54d25d261c4980f",
+      "minter": "0xb8596d85a8d846bBBff6Ab1491b1ce53AEa86590",
+      "fxparams": "",
+      "owner": "0xb8596d85a8d846bBBff6Ab1491b1ce53AEa86590",
+      "thumbnailUri": "ipfs://QmSYbVSBXADtWJHNdC3iTfRAtcU2GC5PSdkxEVyMPtr1Zt",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x969c751d4cfbd39da2c82ebc1b22ca73b023eaf54244f472e54d25d261c4980f",
+        "iteration": 26,
+        "minter": "0xb8596d85a8d846bBBff6Ab1491b1ce53AEa86590",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 27,
+      "name": "Yuragi #27",
+      "iteration": 27,
+      "fxhash": "0xcd2ed145e4ee0be9033659aeabdb8e5aab9c8c7f9dee8daf1325318330ddafaf",
+      "minter": "0xE120edDd8A1FEA7D73AaD75d8eD8406988B2C98D",
+      "fxparams": "",
+      "owner": "0xE120edDd8A1FEA7D73AaD75d8eD8406988B2C98D",
+      "thumbnailUri": "ipfs://QmWYq6r9xV2eaWU9GrZHkaxpZvJBEMxGLDwhpbhPomRLPL",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xcd2ed145e4ee0be9033659aeabdb8e5aab9c8c7f9dee8daf1325318330ddafaf",
+        "iteration": 27,
+        "minter": "0xE120edDd8A1FEA7D73AaD75d8eD8406988B2C98D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 28,
+      "name": "Yuragi #28",
+      "iteration": 28,
+      "fxhash": "0x26d83f58977d70c69d35a0f68af92c99a47628f59fc7ae8e6637b0083abea5ad",
+      "minter": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+      "fxparams": "",
+      "owner": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+      "thumbnailUri": "ipfs://QmbgkpaXQAH9LqfzsKoawkKFu8uS9ntortU9LVfgXeSvzp",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x26d83f58977d70c69d35a0f68af92c99a47628f59fc7ae8e6637b0083abea5ad",
+        "iteration": 28,
+        "minter": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 29,
+      "name": "Yuragi #29",
+      "iteration": 29,
+      "fxhash": "0x9c0f94c634c5f74324e5a96f9de32ac19b439e1fbcb520bc81b6859d0ee65095",
+      "minter": "0x1Cfa8cf9ADcbfA163c7cf9Ff4Fd7dA936C77a310",
+      "fxparams": "",
+      "owner": "0x452fcf76ac6aeA703599ee8a517DBEE7E87a4629",
+      "thumbnailUri": "ipfs://QmYpcSLpyrD57FWgT3bHqGF5npeC1TrDehnhKmpxfwH8Fk",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x9c0f94c634c5f74324e5a96f9de32ac19b439e1fbcb520bc81b6859d0ee65095",
+        "iteration": 29,
+        "minter": "0x1Cfa8cf9ADcbfA163c7cf9Ff4Fd7dA936C77a310",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 30,
+      "name": "Yuragi #30",
+      "iteration": 30,
+      "fxhash": "0xbd03d099dd6ea1521233a9ad33667f4aa44e1134875a569308df7b580f33da94",
+      "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+      "fxparams": "",
+      "owner": "0x830cc132dd66F6491cEAA20206f398247143d9CF",
+      "thumbnailUri": "ipfs://QmcS8jMBuSiEk9QchWMFKyvjcqPVrz5T4p7gs9V8xeVD3L",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xbd03d099dd6ea1521233a9ad33667f4aa44e1134875a569308df7b580f33da94",
+        "iteration": 30,
+        "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 31,
+      "name": "Yuragi #31",
+      "iteration": 31,
+      "fxhash": "0x9fcb7febc3cd990fbc0535989c0849b15f85eef76c7021aa225643f82a27e3a3",
+      "minter": "0x5D225A0B8734754C1048c1AdeFa8075D9f0AEB29",
+      "fxparams": "",
+      "owner": "0x5D225A0B8734754C1048c1AdeFa8075D9f0AEB29",
+      "thumbnailUri": "ipfs://QmeMj7gyetjqph21F6zrubP14gHhQcNPzZcbC2u6GFBT34",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x9fcb7febc3cd990fbc0535989c0849b15f85eef76c7021aa225643f82a27e3a3",
+        "iteration": 31,
+        "minter": "0x5D225A0B8734754C1048c1AdeFa8075D9f0AEB29",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 32,
+      "name": "Yuragi #32",
+      "iteration": 32,
+      "fxhash": "0xc01a563d3c72bd8fcb9d1a3be3cd3dee25d00f5237bccdf63eac9e6fd36bc9a3",
+      "minter": "0xBEB01AAb5167402a5e89D057a714FabfF94C3112",
+      "fxparams": "",
+      "owner": "0xBEB01AAb5167402a5e89D057a714FabfF94C3112",
+      "thumbnailUri": "ipfs://QmZa3zQxnfDceEzbKRXKmzNG7H3xPy9daWzauHWDvTRgrU",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xc01a563d3c72bd8fcb9d1a3be3cd3dee25d00f5237bccdf63eac9e6fd36bc9a3",
+        "iteration": 32,
+        "minter": "0xBEB01AAb5167402a5e89D057a714FabfF94C3112",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 33,
+      "name": "Yuragi #33",
+      "iteration": 33,
+      "fxhash": "0xd92b51f204b9255d9cf003bd2c639e42f2e49425732f673104ce54cb9c5b2074",
+      "minter": "0xE2984737244BD4DCc31E3E1306531D7cbF1010F0",
+      "fxparams": "",
+      "owner": "0xE2984737244BD4DCc31E3E1306531D7cbF1010F0",
+      "thumbnailUri": "ipfs://QmVLgDpPCw9y6CGG6CBELZf5qr5oYBs2ZnUCBs2MTrJHJZ",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xd92b51f204b9255d9cf003bd2c639e42f2e49425732f673104ce54cb9c5b2074",
+        "iteration": 33,
+        "minter": "0xE2984737244BD4DCc31E3E1306531D7cbF1010F0",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 34,
+      "name": "Yuragi #34",
+      "iteration": 34,
+      "fxhash": "0x34e46b1e2dba589a65cd316c7e0268606bff3f2d2c44e98adb5c43ceb7f0a89a",
+      "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+      "fxparams": "",
+      "owner": "0x830cc132dd66F6491cEAA20206f398247143d9CF",
+      "thumbnailUri": "ipfs://QmQyNnmmwnu2NDgqYwy6KSwiw2YxwmXq7EJt6auMP2DsV7",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x34e46b1e2dba589a65cd316c7e0268606bff3f2d2c44e98adb5c43ceb7f0a89a",
+        "iteration": 34,
+        "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 35,
+      "name": "Yuragi #35",
+      "iteration": 35,
+      "fxhash": "0x048b848070bb5d9bc41f5ee0a98d1332c5811f4c8195455181ae94232bda1e35",
+      "minter": "0xE6CE1BC6255FCC6598f07Fab5d7c851C73C423c3",
+      "fxparams": "",
+      "owner": "0xE6CE1BC6255FCC6598f07Fab5d7c851C73C423c3",
+      "thumbnailUri": "ipfs://QmXw7cj17V6r2FEhD76rWekEgSWijBjeEBbXn4RPqubsbu",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x048b848070bb5d9bc41f5ee0a98d1332c5811f4c8195455181ae94232bda1e35",
+        "iteration": 35,
+        "minter": "0xE6CE1BC6255FCC6598f07Fab5d7c851C73C423c3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 36,
+      "name": "Yuragi #36",
+      "iteration": 36,
+      "fxhash": "0xa7cad15b7895072cc32db311ab9c035b43a91b5f473146ebb7ecda1af5fd7235",
+      "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+      "fxparams": "",
+      "owner": "0x830cc132dd66F6491cEAA20206f398247143d9CF",
+      "thumbnailUri": "ipfs://QmcV1mhtjsjQpSmjtNNahKkPfNJg3vTE7AgUsrUTNFJ5y9",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xa7cad15b7895072cc32db311ab9c035b43a91b5f473146ebb7ecda1af5fd7235",
+        "iteration": 36,
+        "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 37,
+      "name": "Yuragi #37",
+      "iteration": 37,
+      "fxhash": "0xeec57ee780b143077b2645fca4412c227614ccb122f3e8e6ace282108807c765",
+      "minter": "0x1D4b8462DD9F7fAa60944ef40B59E1b1e2CF34a1",
+      "fxparams": "",
+      "owner": "0x83C82DaD96A76aA65aFd58Ae11E4c01109a353E5",
+      "thumbnailUri": "ipfs://QmfKDD6tAbQdXwkKZSBzAQ8ZnCk5urXQ8eKeQvSnfK2EZ4",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xeec57ee780b143077b2645fca4412c227614ccb122f3e8e6ace282108807c765",
+        "iteration": 37,
+        "minter": "0x1D4b8462DD9F7fAa60944ef40B59E1b1e2CF34a1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 38,
+      "name": "Yuragi #38",
+      "iteration": 38,
+      "fxhash": "0x00797c35695ca59b3fde0daf5e87a7350e9f23a03d6ac875e0683735d8fd90e4",
+      "minter": "0xB66ab46c33b2B6F0b8B6e2Afd6B90217a7b5e683",
+      "fxparams": "",
+      "owner": "0xE776e15358A977A795e508EbE4e7d83D412Fafe4",
+      "thumbnailUri": "ipfs://QmecbRqbWQnrVQ398xLXdDy7FE9eXgDpQLDX3YNvtZ6S35",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x00797c35695ca59b3fde0daf5e87a7350e9f23a03d6ac875e0683735d8fd90e4",
+        "iteration": 38,
+        "minter": "0xB66ab46c33b2B6F0b8B6e2Afd6B90217a7b5e683",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 39,
+      "name": "Yuragi #39",
+      "iteration": 39,
+      "fxhash": "0x664a1bbac160fe1fef30d2175d1cc654f3fbd21cf1a1a592b1ca86f309d6736b",
+      "minter": "0xB66ab46c33b2B6F0b8B6e2Afd6B90217a7b5e683",
+      "fxparams": "",
+      "owner": "0xE776e15358A977A795e508EbE4e7d83D412Fafe4",
+      "thumbnailUri": "ipfs://QmPVfqbTVTLUHXAHz7siv8hJZK1D8Pv8hmMbwuoJRpMhbK",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x664a1bbac160fe1fef30d2175d1cc654f3fbd21cf1a1a592b1ca86f309d6736b",
+        "iteration": 39,
+        "minter": "0xB66ab46c33b2B6F0b8B6e2Afd6B90217a7b5e683",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 40,
+      "name": "Yuragi #40",
+      "iteration": 40,
+      "fxhash": "0x6d96752b594dc18a33b0cd6a023cb08911447dfbce3da81737f7feb5060e762d",
+      "minter": "0x2F55E30C6F510D897c27a6e2d4c4e17F189996D5",
+      "fxparams": "",
+      "owner": "0x2F55E30C6F510D897c27a6e2d4c4e17F189996D5",
+      "thumbnailUri": "ipfs://QmQ5ZH538cxpSENnoGpLXYqLZGEkJ7cJ9T3sJ6MJdQQnbB",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x6d96752b594dc18a33b0cd6a023cb08911447dfbce3da81737f7feb5060e762d",
+        "iteration": 40,
+        "minter": "0x2F55E30C6F510D897c27a6e2d4c4e17F189996D5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 41,
+      "name": "Yuragi #41",
+      "iteration": 41,
+      "fxhash": "0x908a521db7fddde54ccfbb2ba069484588da0fabec70ca3720821d92c32e96e9",
+      "minter": "0x9cB707b9A2De651D8A6960D59ccb6b11E7431C06",
+      "fxparams": "",
+      "owner": "0xB684aFe21D28dc6bF235Ca7c7DA3c21df19B3bCd",
+      "thumbnailUri": "ipfs://QmW9KBYsV43ykMaUPXryqAVsE5PAapnpRBdJ21MgY3v5NN",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x908a521db7fddde54ccfbb2ba069484588da0fabec70ca3720821d92c32e96e9",
+        "iteration": 41,
+        "minter": "0x9cB707b9A2De651D8A6960D59ccb6b11E7431C06",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 42,
+      "name": "Yuragi #42",
+      "iteration": 42,
+      "fxhash": "0x32279eb88cf9bbdb863a618065916e0cabd0694d7bae5f48dced7d679081e738",
+      "minter": "0x0d0Ec585E3B3C82010e2192c4176FafC9D33E528",
+      "fxparams": "",
+      "owner": "0x0d0Ec585E3B3C82010e2192c4176FafC9D33E528",
+      "thumbnailUri": "ipfs://QmXxG22Sfy1jPRhY2akEqNsMg7agWZ4wGwL8BHnbYo2TYB",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x32279eb88cf9bbdb863a618065916e0cabd0694d7bae5f48dced7d679081e738",
+        "iteration": 42,
+        "minter": "0x0d0Ec585E3B3C82010e2192c4176FafC9D33E528",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 43,
+      "name": "Yuragi #43",
+      "iteration": 43,
+      "fxhash": "0xb162106dd9536daebd1cb2c4890575ca860dd727911aa5767b05ce48df57a873",
+      "minter": "0x6672B8B951B32405c94bed2e6509B467d1644455",
+      "fxparams": "",
+      "owner": "0x6672B8B951B32405c94bed2e6509B467d1644455",
+      "thumbnailUri": "ipfs://Qmdh3zLq8SWnvuk8WUYddcYbcGeCC7jchVWnfv6LYRNE1e",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xb162106dd9536daebd1cb2c4890575ca860dd727911aa5767b05ce48df57a873",
+        "iteration": 43,
+        "minter": "0x6672B8B951B32405c94bed2e6509B467d1644455",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 44,
+      "name": "Yuragi #44",
+      "iteration": 44,
+      "fxhash": "0x4e89015bfb2cbcaf1580aed91b87dc4bc9c18763fd1ebb470e40dc1b7acee3ca",
+      "minter": "0x5D225A0B8734754C1048c1AdeFa8075D9f0AEB29",
+      "fxparams": "",
+      "owner": "0x5D225A0B8734754C1048c1AdeFa8075D9f0AEB29",
+      "thumbnailUri": "ipfs://QmVv5AQsSWGuA8X7qVmgWoosFXSMSi8SURf64BDvLu9w27",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x4e89015bfb2cbcaf1580aed91b87dc4bc9c18763fd1ebb470e40dc1b7acee3ca",
+        "iteration": 44,
+        "minter": "0x5D225A0B8734754C1048c1AdeFa8075D9f0AEB29",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 45,
+      "name": "Yuragi #45",
+      "iteration": 45,
+      "fxhash": "0x09de6fcf6c835c475b4f3ee68a74572ba7f3ed00b9de3c0c14ccee0c1125eaaa",
+      "minter": "0x83C82DaD96A76aA65aFd58Ae11E4c01109a353E5",
+      "fxparams": "",
+      "owner": "0x83C82DaD96A76aA65aFd58Ae11E4c01109a353E5",
+      "thumbnailUri": "ipfs://QmSSSYWRMAwP1ghekSsoQoZkv4jUYxCZ9vgB3YBec2J9a6",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x09de6fcf6c835c475b4f3ee68a74572ba7f3ed00b9de3c0c14ccee0c1125eaaa",
+        "iteration": 45,
+        "minter": "0x83C82DaD96A76aA65aFd58Ae11E4c01109a353E5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 46,
+      "name": "Yuragi #46",
+      "iteration": 46,
+      "fxhash": "0x57496b27219053740563edf4c0bdc91e6f294427a1db6422a9885f2d740e80b6",
+      "minter": "0xF18Ff1404D00017030c82DBea87B1EC9E2552619",
+      "fxparams": "",
+      "owner": "0xF18Ff1404D00017030c82DBea87B1EC9E2552619",
+      "thumbnailUri": "ipfs://QmVAXxi4eLeji9WbVRNDL3djygPF8hkNSAByxa8mtCc1bw",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x57496b27219053740563edf4c0bdc91e6f294427a1db6422a9885f2d740e80b6",
+        "iteration": 46,
+        "minter": "0xF18Ff1404D00017030c82DBea87B1EC9E2552619",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 47,
+      "name": "Yuragi #47",
+      "iteration": 47,
+      "fxhash": "0x7a6d53f124ce73b61c15e15f0fc2fc5a947dff1e799c8d74be54004eb911a43b",
+      "minter": "0x82dF980CB8Ee6E5799bCBDa4f514d949bD6f0c2d",
+      "fxparams": "",
+      "owner": "0x82dF980CB8Ee6E5799bCBDa4f514d949bD6f0c2d",
+      "thumbnailUri": "ipfs://QmUQ1c7mR3JPe5BE93bR4T9adJ7gyrbzBAZurmotCRUe1N",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x7a6d53f124ce73b61c15e15f0fc2fc5a947dff1e799c8d74be54004eb911a43b",
+        "iteration": 47,
+        "minter": "0x82dF980CB8Ee6E5799bCBDa4f514d949bD6f0c2d",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 48,
+      "name": "Yuragi #48",
+      "iteration": 48,
+      "fxhash": "0xaec074008b023b3c837b0d25423e2fe639df1f0e09b97a02d42d9281a8581720",
+      "minter": "0x0BC95F14395270A3c236cA1e15d77FB77b66C0a1",
+      "fxparams": "",
+      "owner": "0x0BC95F14395270A3c236cA1e15d77FB77b66C0a1",
+      "thumbnailUri": "ipfs://QmR8C1sP2W2E4tbZWiRcuJCPi6xAdPaofjtoDbjCHpytzE",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xaec074008b023b3c837b0d25423e2fe639df1f0e09b97a02d42d9281a8581720",
+        "iteration": 48,
+        "minter": "0x0BC95F14395270A3c236cA1e15d77FB77b66C0a1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 49,
+      "name": "Yuragi #49",
+      "iteration": 49,
+      "fxhash": "0x9198c6497627df66945d6006127724c43fbbabd4b39fee191798bac8b0354bb6",
+      "minter": "0x0BC95F14395270A3c236cA1e15d77FB77b66C0a1",
+      "fxparams": "",
+      "owner": "0x0BC95F14395270A3c236cA1e15d77FB77b66C0a1",
+      "thumbnailUri": "ipfs://QmUHtdTEz2xfRsk1az6VC8MC8oymTki7GZ537nj8hCr9wo",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x9198c6497627df66945d6006127724c43fbbabd4b39fee191798bac8b0354bb6",
+        "iteration": 49,
+        "minter": "0x0BC95F14395270A3c236cA1e15d77FB77b66C0a1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 50,
+      "name": "Yuragi #50",
+      "iteration": 50,
+      "fxhash": "0x24bfbfae9ab22759f212160716a6718ad66194a1a671d0e2776b3d6f3dfe7ec8",
+      "minter": "0xfac23E6F8b95f05e3c068F258f7386a02F5D7536",
+      "fxparams": "",
+      "owner": "0xfac23E6F8b95f05e3c068F258f7386a02F5D7536",
+      "thumbnailUri": "ipfs://QmUiBxnvyJxu9GG8uCkYQTCWjBuRRbUhNBhRWnm8vY2k4n",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x24bfbfae9ab22759f212160716a6718ad66194a1a671d0e2776b3d6f3dfe7ec8",
+        "iteration": 50,
+        "minter": "0xfac23E6F8b95f05e3c068F258f7386a02F5D7536",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 51,
+      "name": "Yuragi #51",
+      "iteration": 51,
+      "fxhash": "0x0882b253c5eae9a271703736c012ec5a1e6a9aaad65450991cebfb83bd0a9fc4",
+      "minter": "0xda3c325aB45b30AeB476B026FE6A777443cA04f3",
+      "fxparams": "",
+      "owner": "0xda3c325aB45b30AeB476B026FE6A777443cA04f3",
+      "thumbnailUri": "ipfs://QmXVyaNrJT5ZLaUH7oXCcqqvsP7hzFNxGNu61GNyZoJp6R",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x0882b253c5eae9a271703736c012ec5a1e6a9aaad65450991cebfb83bd0a9fc4",
+        "iteration": 51,
+        "minter": "0xda3c325aB45b30AeB476B026FE6A777443cA04f3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 52,
+      "name": "Yuragi #52",
+      "iteration": 52,
+      "fxhash": "0xd61435603417da2f2ab8612f7667a3a215fc708d98c87d95d93e8597545c5034",
+      "minter": "0x6d079216c1bEbBaE518D30Ca6e2f1485A3CC0F75",
+      "fxparams": "",
+      "owner": "0x6d079216c1bEbBaE518D30Ca6e2f1485A3CC0F75",
+      "thumbnailUri": "ipfs://QmNs5ngSxuFathKgPm7p1AKmBekvRRL9br9HRTLcLrSkgf",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xd61435603417da2f2ab8612f7667a3a215fc708d98c87d95d93e8597545c5034",
+        "iteration": 52,
+        "minter": "0x6d079216c1bEbBaE518D30Ca6e2f1485A3CC0F75",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 53,
+      "name": "Yuragi #53",
+      "iteration": 53,
+      "fxhash": "0x11534f1b55c4a0ebaeaae14c8166cff79259ea0f6016ad89aa2da525cc6642bd",
+      "minter": "0xfBd6b76704f94c2682B749a02C36F320dD56Fe90",
+      "fxparams": "",
+      "owner": "0xfBd6b76704f94c2682B749a02C36F320dD56Fe90",
+      "thumbnailUri": "ipfs://QmSHJK8FfGkVdAFX4jpAntYkCKrPcGaJn83KNrxvGWUz4B",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x11534f1b55c4a0ebaeaae14c8166cff79259ea0f6016ad89aa2da525cc6642bd",
+        "iteration": 53,
+        "minter": "0xfBd6b76704f94c2682B749a02C36F320dD56Fe90",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 54,
+      "name": "Yuragi #54",
+      "iteration": 54,
+      "fxhash": "0x9b4550e225aeb668d8833cc7e4c0171728edfa309b8968306524d0141e9715ac",
+      "minter": "0x2e7B2AaB5A2d47b9681887CB5148178DB876F73e",
+      "fxparams": "",
+      "owner": "0xa4711c27924A900625BDa3C63dC1eb86B44C48A6",
+      "thumbnailUri": "ipfs://QmdJtUbHiysPm9H5gLk32X4WTUk747ez4KNWBcSH7ZdRS5",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x9b4550e225aeb668d8833cc7e4c0171728edfa309b8968306524d0141e9715ac",
+        "iteration": 54,
+        "minter": "0x2e7B2AaB5A2d47b9681887CB5148178DB876F73e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 55,
+      "name": "Yuragi #55",
+      "iteration": 55,
+      "fxhash": "0x3fa7e48832ef39ff26a73a270ed3bde83294f036a7bbdc6990bd2bcba09370cb",
+      "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "fxparams": "",
+      "owner": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "thumbnailUri": "ipfs://Qmek3adLGegT8g4uPKjoAAGMp3woBMsmVgbGrzR3jvupue",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x3fa7e48832ef39ff26a73a270ed3bde83294f036a7bbdc6990bd2bcba09370cb",
+        "iteration": 55,
+        "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 56,
+      "name": "Yuragi #56",
+      "iteration": 56,
+      "fxhash": "0x164092e90386fd5ce5c1b0ab09a12b476989f3801f5705e98f9d8f38b64bb6bb",
+      "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "fxparams": "",
+      "owner": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "thumbnailUri": "ipfs://QmbzzJ4UGzTY64bkGPtFG6NBAnGoeAhhD88PC1PWru9NJ6",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x164092e90386fd5ce5c1b0ab09a12b476989f3801f5705e98f9d8f38b64bb6bb",
+        "iteration": 56,
+        "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 57,
+      "name": "Yuragi #57",
+      "iteration": 57,
+      "fxhash": "0xbd29e0f99e0c77a4371aefe97ebe1223c9954d1cd607a020ec442385c90aaafb",
+      "minter": "0x1D3A9a01d1476A1eEa9e230CB5Ae4ED3ccf0C041",
+      "fxparams": "",
+      "owner": "0x1D3A9a01d1476A1eEa9e230CB5Ae4ED3ccf0C041",
+      "thumbnailUri": "ipfs://QmVuzJvkijLvW2g8sRgvH6iTAqWeZsMEtMKdQ6toR6Rvn5",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xbd29e0f99e0c77a4371aefe97ebe1223c9954d1cd607a020ec442385c90aaafb",
+        "iteration": 57,
+        "minter": "0x1D3A9a01d1476A1eEa9e230CB5Ae4ED3ccf0C041",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 58,
+      "name": "Yuragi #58",
+      "iteration": 58,
+      "fxhash": "0x458b61dc667b16c30978782be9e79e3c555985da54db4de21a84751acace53b7",
+      "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+      "fxparams": "",
+      "owner": "0x830cc132dd66F6491cEAA20206f398247143d9CF",
+      "thumbnailUri": "ipfs://QmUf72gDrL5DfovaaKqqWXE6244pPFnfTF73tyvZVVvhp2",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x458b61dc667b16c30978782be9e79e3c555985da54db4de21a84751acace53b7",
+        "iteration": 58,
+        "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 59,
+      "name": "Yuragi #59",
+      "iteration": 59,
+      "fxhash": "0x99d4327ce7b88bb0fc615fd4849c1eab9dbc5aaae8bb490bd9d7b32a19181ca1",
+      "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+      "fxparams": "",
+      "owner": "0x830cc132dd66F6491cEAA20206f398247143d9CF",
+      "thumbnailUri": "ipfs://QmUddmCezBByWUZ6YZmLNSAFQz9o82ckXYJ55EUBue4qL7",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x99d4327ce7b88bb0fc615fd4849c1eab9dbc5aaae8bb490bd9d7b32a19181ca1",
+        "iteration": 59,
+        "minter": "0x94E3d321DDaeAbD8EB68413fe906b95Cb3a182D3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 60,
+      "name": "Yuragi #60",
+      "iteration": 60,
+      "fxhash": "0x53fb24c6ee9138107263b54af53092f1cb8e1080bab7b42803eaa40a96efd602",
+      "minter": "0x56861463EbF168f1D70cb2e3949522253A7bf6d2",
+      "fxparams": "",
+      "owner": "0x56861463EbF168f1D70cb2e3949522253A7bf6d2",
+      "thumbnailUri": "ipfs://QmfSzhhTVBbRR2i2WcnsxFyj7Jnd7Se8FiCpNV7m4Qu319",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x53fb24c6ee9138107263b54af53092f1cb8e1080bab7b42803eaa40a96efd602",
+        "iteration": 60,
+        "minter": "0x56861463EbF168f1D70cb2e3949522253A7bf6d2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 61,
+      "name": "Yuragi #61",
+      "iteration": 61,
+      "fxhash": "0x1253c8e9dd5043bfe1cfcfafff4812fb3ff8153d26ba3c5410b4110b50be9f7e",
+      "minter": "0x2c969e6626cB4e94C855a00d27D33A2f83E40aD1",
+      "fxparams": "",
+      "owner": "0x2c969e6626cB4e94C855a00d27D33A2f83E40aD1",
+      "thumbnailUri": "ipfs://QmY1PeekBCNYFjk2JvZhCy3Qbqxvnv381Rh5nMN7Q1THEJ",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x1253c8e9dd5043bfe1cfcfafff4812fb3ff8153d26ba3c5410b4110b50be9f7e",
+        "iteration": 61,
+        "minter": "0x2c969e6626cB4e94C855a00d27D33A2f83E40aD1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 62,
+      "name": "Yuragi #62",
+      "iteration": 62,
+      "fxhash": "0x466bb12ec731d907d431f340dd7a80d9cce5968c408c63756e1677b8df5bd47f",
+      "minter": "0xf92BB2215684c353B4009395061EE7652883C365",
+      "fxparams": "",
+      "owner": "0xf92BB2215684c353B4009395061EE7652883C365",
+      "thumbnailUri": "ipfs://QmPY6HhPARKonwF8pui1J5PgGMbRwMZQ46djc9ULj2vVyX",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x466bb12ec731d907d431f340dd7a80d9cce5968c408c63756e1677b8df5bd47f",
+        "iteration": 62,
+        "minter": "0xf92BB2215684c353B4009395061EE7652883C365",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 63,
+      "name": "Yuragi #63",
+      "iteration": 63,
+      "fxhash": "0xc33c3a5a7d4730a7d189dbd92b9ad608d38777fe521c01373fe13bdf4edb6d32",
+      "minter": "0xAc5914F52D77198d16B0Eaa6c976e48110ADce08",
+      "fxparams": "",
+      "owner": "0xAc5914F52D77198d16B0Eaa6c976e48110ADce08",
+      "thumbnailUri": "ipfs://QmchN1Jrc57fJsSKyuphzUfuRsd9EsiZjJaXpzK8jLcNf2",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xc33c3a5a7d4730a7d189dbd92b9ad608d38777fe521c01373fe13bdf4edb6d32",
+        "iteration": 63,
+        "minter": "0xAc5914F52D77198d16B0Eaa6c976e48110ADce08",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 64,
+      "name": "Yuragi #64",
+      "iteration": 64,
+      "fxhash": "0x2f08902e6436b236ed4af30a71e0a7576c06dccafe99d45b7da05b0dee339e93",
+      "minter": "0xa1aBF2AA0eEc2598E2eec0125C40c2644f61Dca2",
+      "fxparams": "",
+      "owner": "0xa1aBF2AA0eEc2598E2eec0125C40c2644f61Dca2",
+      "thumbnailUri": "ipfs://QmZmsLjckWDdeVnh6e2NL9by2rqXTReypAXNdAcTWhntsc",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x2f08902e6436b236ed4af30a71e0a7576c06dccafe99d45b7da05b0dee339e93",
+        "iteration": 64,
+        "minter": "0xa1aBF2AA0eEc2598E2eec0125C40c2644f61Dca2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 65,
+      "name": "Yuragi #65",
+      "iteration": 65,
+      "fxhash": "0xc11d3027d017a5d024dd27aeb34885cb48840ef481cda10adc3ed6fc5ebf4ab0",
+      "minter": "0x102405897Eb7f71cF35bd2a359F203301D3310f5",
+      "fxparams": "",
+      "owner": "0x102405897Eb7f71cF35bd2a359F203301D3310f5",
+      "thumbnailUri": "ipfs://QmPG1z9WPDStwqwxxE4WLA3q7TqwRKgTXD1yYmqzob3utu",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xc11d3027d017a5d024dd27aeb34885cb48840ef481cda10adc3ed6fc5ebf4ab0",
+        "iteration": 65,
+        "minter": "0x102405897Eb7f71cF35bd2a359F203301D3310f5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 66,
+      "name": "Yuragi #66",
+      "iteration": 66,
+      "fxhash": "0x6f259b784ba08d2703b5c49035753e0312cd5b8c9854c8e614ad86bfb0f63d01",
+      "minter": "0x765476239771A6B413b319391F10ff9063DaF973",
+      "fxparams": "",
+      "owner": "0x765476239771A6B413b319391F10ff9063DaF973",
+      "thumbnailUri": "ipfs://QmUtRY3cLY7APrhenaw9JFY3meAGfegzg9VxiHkg2TMD4x",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x6f259b784ba08d2703b5c49035753e0312cd5b8c9854c8e614ad86bfb0f63d01",
+        "iteration": 66,
+        "minter": "0x765476239771A6B413b319391F10ff9063DaF973",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 67,
+      "name": "Yuragi #67",
+      "iteration": 67,
+      "fxhash": "0x193bccab95a08b7445e688b884bb81930b7f317f0bf24a604bd236dc5e110fb3",
+      "minter": "0xa1aBF2AA0eEc2598E2eec0125C40c2644f61Dca2",
+      "fxparams": "",
+      "owner": "0xa1aBF2AA0eEc2598E2eec0125C40c2644f61Dca2",
+      "thumbnailUri": "ipfs://QmUmHebLRY8FQ7pzMfc7SnWrvNHRLNytenHFCbRf4LCtRx",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x193bccab95a08b7445e688b884bb81930b7f317f0bf24a604bd236dc5e110fb3",
+        "iteration": 67,
+        "minter": "0xa1aBF2AA0eEc2598E2eec0125C40c2644f61Dca2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 68,
+      "name": "Yuragi #68",
+      "iteration": 68,
+      "fxhash": "0x0715a0b132989e8b83fff16a264b190c129beaad1e7695856d1c46bbebe46ba9",
+      "minter": "0xAc5914F52D77198d16B0Eaa6c976e48110ADce08",
+      "fxparams": "",
+      "owner": "0xAc5914F52D77198d16B0Eaa6c976e48110ADce08",
+      "thumbnailUri": "ipfs://QmVEMhJWx5ugyKpvrHQ22QRjKVZmWPGfKa44Kw6p8pYxRz",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x0715a0b132989e8b83fff16a264b190c129beaad1e7695856d1c46bbebe46ba9",
+        "iteration": 68,
+        "minter": "0xAc5914F52D77198d16B0Eaa6c976e48110ADce08",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 69,
+      "name": "Yuragi #69",
+      "iteration": 69,
+      "fxhash": "0xebcd6874f7f6ff7d90458870285b6fa772260186f2f7b379b3b27cc1a3f568ed",
+      "minter": "0xE5CA890A0eF2F128EB3267e4711c6bf3306Ec024",
+      "fxparams": "",
+      "owner": "0x600Fe8ab84b53290cfD8cf6f7a61E2d65119F0cD",
+      "thumbnailUri": "ipfs://QmRkLSr4mJdRqkSftznF6PW41tQdZKqVawciwHzsZ3WXg7",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xebcd6874f7f6ff7d90458870285b6fa772260186f2f7b379b3b27cc1a3f568ed",
+        "iteration": 69,
+        "minter": "0xE5CA890A0eF2F128EB3267e4711c6bf3306Ec024",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 70,
+      "name": "Yuragi #70",
+      "iteration": 70,
+      "fxhash": "0x7c5f9ccf1551246ea2aa738e0bd01106b6d82636d40785e80f3a76c84f6b12e4",
+      "minter": "0x4aa93c41dEb2bb0E088b1728e40Db6322b6C3010",
+      "fxparams": "",
+      "owner": "0x4aa93c41dEb2bb0E088b1728e40Db6322b6C3010",
+      "thumbnailUri": "ipfs://QmfCPQdtPt2LzeBUZFX1cJjbRQ4fgzV34WANA27a1Peq4Z",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x7c5f9ccf1551246ea2aa738e0bd01106b6d82636d40785e80f3a76c84f6b12e4",
+        "iteration": 70,
+        "minter": "0x4aa93c41dEb2bb0E088b1728e40Db6322b6C3010",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 71,
+      "name": "Yuragi #71",
+      "iteration": 71,
+      "fxhash": "0xfa12242250e45e6f5e0b51afba7015e35dc4c05dc943a1c0dc3214a11c32edfd",
+      "minter": "0xE5CA890A0eF2F128EB3267e4711c6bf3306Ec024",
+      "fxparams": "",
+      "owner": "0x600Fe8ab84b53290cfD8cf6f7a61E2d65119F0cD",
+      "thumbnailUri": "ipfs://QmSpLx2SRWrAKPzjLMMU5P9f1dNk9cVmShFCc2N8pdmvHa",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xfa12242250e45e6f5e0b51afba7015e35dc4c05dc943a1c0dc3214a11c32edfd",
+        "iteration": 71,
+        "minter": "0xE5CA890A0eF2F128EB3267e4711c6bf3306Ec024",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 72,
+      "name": "Yuragi #72",
+      "iteration": 72,
+      "fxhash": "0x056c6b966242145303060007edbe54a9792a45ead993da7fa547a1c3e14867cf",
+      "minter": "0x61956c07e2499d10a36b01E73bdf56B97Efb63AD",
+      "fxparams": "",
+      "owner": "0x61956c07e2499d10a36b01E73bdf56B97Efb63AD",
+      "thumbnailUri": "ipfs://QmcaWzVHbvyCJEEZHAjeKhQ4h2cd58VvU61FKAo921jumB",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x056c6b966242145303060007edbe54a9792a45ead993da7fa547a1c3e14867cf",
+        "iteration": 72,
+        "minter": "0x61956c07e2499d10a36b01E73bdf56B97Efb63AD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 73,
+      "name": "Yuragi #73",
+      "iteration": 73,
+      "fxhash": "0x3d6d8c337a5d153d901b026b7e40c9fbbf9cc6b7374dc1aff5b18787126bcf1f",
+      "minter": "0x5022cF478c7124d508Ab4A304946Cb4Fa3d9C39e",
+      "fxparams": "",
+      "owner": "0x5022cF478c7124d508Ab4A304946Cb4Fa3d9C39e",
+      "thumbnailUri": "ipfs://QmXGfDL6hUb1hY82GhjcvfMVMTbL4FFoTBzUgHecQCNbHf",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x3d6d8c337a5d153d901b026b7e40c9fbbf9cc6b7374dc1aff5b18787126bcf1f",
+        "iteration": 73,
+        "minter": "0x5022cF478c7124d508Ab4A304946Cb4Fa3d9C39e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 74,
+      "name": "Yuragi #74",
+      "iteration": 74,
+      "fxhash": "0x8af955ff8f9006113bbe4b1d9f7f6b6ef6d7d52d90188ffc74eda76af1ebf575",
+      "minter": "0x56861463EbF168f1D70cb2e3949522253A7bf6d2",
+      "fxparams": "",
+      "owner": "0x56861463EbF168f1D70cb2e3949522253A7bf6d2",
+      "thumbnailUri": "ipfs://QmWAGa7qtQQ2H8AGxn5ySvAzScGYbkox4rjehU1MuZtdfk",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x8af955ff8f9006113bbe4b1d9f7f6b6ef6d7d52d90188ffc74eda76af1ebf575",
+        "iteration": 74,
+        "minter": "0x56861463EbF168f1D70cb2e3949522253A7bf6d2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 75,
+      "name": "Yuragi #75",
+      "iteration": 75,
+      "fxhash": "0x2148890d3b9aa4086b47c1387b6f1ab3d5898ab1b1f64adbbf2acd3ff2fc8077",
+      "minter": "0x3fFA1c6E255B962b2F0De4EfD83e03419573bC38",
+      "fxparams": "",
+      "owner": "0x93A781d6e6a8E8916Ea766A40c46eD2064b55141",
+      "thumbnailUri": "ipfs://QmRXnWcTspd4mcYw5g8RVhfUptZrhMbtoswyYcq14aEwfy",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x2148890d3b9aa4086b47c1387b6f1ab3d5898ab1b1f64adbbf2acd3ff2fc8077",
+        "iteration": 75,
+        "minter": "0x3fFA1c6E255B962b2F0De4EfD83e03419573bC38",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 76,
+      "name": "Yuragi #76",
+      "iteration": 76,
+      "fxhash": "0x4420f8247aa419cba104421495fa13c8e1cbf08e29a1aff391a1664fd822b5e9",
+      "minter": "0x329f3a45A09566c1118d10260BDadfF901a0702E",
+      "fxparams": "",
+      "owner": "0x329f3a45A09566c1118d10260BDadfF901a0702E",
+      "thumbnailUri": "ipfs://QmUeMdeMMG9qFDMW71pb1WxzdEZbzJsT2ErnVLFDvaB46B",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x4420f8247aa419cba104421495fa13c8e1cbf08e29a1aff391a1664fd822b5e9",
+        "iteration": 76,
+        "minter": "0x329f3a45A09566c1118d10260BDadfF901a0702E",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 77,
+      "name": "Yuragi #77",
+      "iteration": 77,
+      "fxhash": "0xce793d457f4dc35c0af1c6ce7d53644ad89987db7769b855f1cf0722e4c125d3",
+      "minter": "0xF7E15015D31e1Be374c21E6F1dE91147C8B5db88",
+      "fxparams": "",
+      "owner": "0xF7E15015D31e1Be374c21E6F1dE91147C8B5db88",
+      "thumbnailUri": "ipfs://QmdZRDwF9ZLkMKE8QspjBQbhf9eY1xLovbGfC4QY7wEEpv",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xce793d457f4dc35c0af1c6ce7d53644ad89987db7769b855f1cf0722e4c125d3",
+        "iteration": 77,
+        "minter": "0xF7E15015D31e1Be374c21E6F1dE91147C8B5db88",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 78,
+      "name": "Yuragi #78",
+      "iteration": 78,
+      "fxhash": "0x8845d923111fe53680392af6e57fd21e39aab183f10f19d2dfd93bd11a31c227",
+      "minter": "0x0d0Ec585E3B3C82010e2192c4176FafC9D33E528",
+      "fxparams": "",
+      "owner": "0x0d0Ec585E3B3C82010e2192c4176FafC9D33E528",
+      "thumbnailUri": "ipfs://QmS3sCSLPrbUMYEWyRDXjEqVgBxxaTbHbx6UXz4Vqo6Hgg",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x8845d923111fe53680392af6e57fd21e39aab183f10f19d2dfd93bd11a31c227",
+        "iteration": 78,
+        "minter": "0x0d0Ec585E3B3C82010e2192c4176FafC9D33E528",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 79,
+      "name": "Yuragi #79",
+      "iteration": 79,
+      "fxhash": "0xc6534b21532b071b8897e66732c12babc8742a512552c6db9ec85f0a921eef4c",
+      "minter": "0x3fFA1c6E255B962b2F0De4EfD83e03419573bC38",
+      "fxparams": "",
+      "owner": "0xB4B57125AF2aCf9Bf605A9D9C3D256537876f65A",
+      "thumbnailUri": "ipfs://QmR6rngudW5SdgpJdeA15pYin5XHanB19ifB9reL2aBbuJ",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xc6534b21532b071b8897e66732c12babc8742a512552c6db9ec85f0a921eef4c",
+        "iteration": 79,
+        "minter": "0x3fFA1c6E255B962b2F0De4EfD83e03419573bC38",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 80,
+      "name": "Yuragi #80",
+      "iteration": 80,
+      "fxhash": "0x80ea5cc00b94fcf8a5cbfd6feaa5d7373f6a752ac3268a6e6f2646737313a028",
+      "minter": "0xdE4b72239F6D6E2342CBC48Ca8FB04E05A25f1c7",
+      "fxparams": "",
+      "owner": "0xdE4b72239F6D6E2342CBC48Ca8FB04E05A25f1c7",
+      "thumbnailUri": "ipfs://QmSTciFf6M2RoyMhMTHTLeuaW5ia3HuRttwegbaPKR5A3f",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x80ea5cc00b94fcf8a5cbfd6feaa5d7373f6a752ac3268a6e6f2646737313a028",
+        "iteration": 80,
+        "minter": "0xdE4b72239F6D6E2342CBC48Ca8FB04E05A25f1c7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 81,
+      "name": "Yuragi #81",
+      "iteration": 81,
+      "fxhash": "0xd72a06266eb9625ab0cb22da2b45aa304fc250f8e19754753b07b2fc5192567a",
+      "minter": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "fxparams": "",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "thumbnailUri": "ipfs://QmdgPJh6zwTEugooguAV1PS6PTCci8ZJ4JuZ4ut25DjkFW",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xd72a06266eb9625ab0cb22da2b45aa304fc250f8e19754753b07b2fc5192567a",
+        "iteration": 81,
+        "minter": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 82,
+      "name": "Yuragi #82",
+      "iteration": 82,
+      "fxhash": "0x1049d076eee42449cd2160c0349e918addb2d3cd57f33b1c732563497d003188",
+      "minter": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+      "fxparams": "",
+      "owner": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+      "thumbnailUri": "ipfs://QmX9n9AgW3p2vgFnAvTbAdtHWTokDyhKwav8KrpU67Yhiq",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x1049d076eee42449cd2160c0349e918addb2d3cd57f33b1c732563497d003188",
+        "iteration": 82,
+        "minter": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 83,
+      "name": "Yuragi #83",
+      "iteration": 83,
+      "fxhash": "0x42a09d5be7474fc5b075ecbad1acb06c39187988d00d0c07338b174cbc0723f8",
+      "minter": "0x34477Ab85120779e938d63A5969bDcEB0C08Bb0d",
+      "fxparams": "",
+      "owner": "0x34477Ab85120779e938d63A5969bDcEB0C08Bb0d",
+      "thumbnailUri": "ipfs://QmWbkoLptEni39HRCKZhBeZRRY5mzJ5TW1VSPvR8Br7DC7",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x42a09d5be7474fc5b075ecbad1acb06c39187988d00d0c07338b174cbc0723f8",
+        "iteration": 83,
+        "minter": "0x34477Ab85120779e938d63A5969bDcEB0C08Bb0d",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 84,
+      "name": "Yuragi #84",
+      "iteration": 84,
+      "fxhash": "0x468ddb7b4ecdbed3fa6a31d2eac872a7855a3c6243c57f55ff5f6f7d23abb85c",
+      "minter": "0x628f19BA9c79790E6Bb7238Bdfb0b512eD2fFE24",
+      "fxparams": "",
+      "owner": "0x628f19BA9c79790E6Bb7238Bdfb0b512eD2fFE24",
+      "thumbnailUri": "ipfs://QmZW98Ft8YZE3gh8WeBxwXMtBkB8Xo8pzw2nX76TWABQWZ",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x468ddb7b4ecdbed3fa6a31d2eac872a7855a3c6243c57f55ff5f6f7d23abb85c",
+        "iteration": 84,
+        "minter": "0x628f19BA9c79790E6Bb7238Bdfb0b512eD2fFE24",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 85,
+      "name": "Yuragi #85",
+      "iteration": 85,
+      "fxhash": "0xef8e2608efcf029421613a669ee8b229246624902f52d476b75f2315f01b531d",
+      "minter": "0xe1d565DAE1556099cF1c0737A3F0D72621f80CEA",
+      "fxparams": "",
+      "owner": "0xe1d565DAE1556099cF1c0737A3F0D72621f80CEA",
+      "thumbnailUri": "ipfs://Qmf6semxW24P4r6Y3DERzCjN4bRT8oAGmNr4YsbbWJVFYx",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xef8e2608efcf029421613a669ee8b229246624902f52d476b75f2315f01b531d",
+        "iteration": 85,
+        "minter": "0xe1d565DAE1556099cF1c0737A3F0D72621f80CEA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 86,
+      "name": "Yuragi #86",
+      "iteration": 86,
+      "fxhash": "0x60afafb12c2363e343365799a852d7b85551d4b8ec0a74979c67499e0a786022",
+      "minter": "0x9C47A1A477c299ae24CCed30a6C8bC7Dce9c7446",
+      "fxparams": "",
+      "owner": "0x80B6FCb3A21651dB29F5Fa1ee5b0Cc401c40EBa2",
+      "thumbnailUri": "ipfs://QmNxsqRCHhKd9QsAqrgjhsoy9BXDpqHaLXwZUdp54eFZNo",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x60afafb12c2363e343365799a852d7b85551d4b8ec0a74979c67499e0a786022",
+        "iteration": 86,
+        "minter": "0x9C47A1A477c299ae24CCed30a6C8bC7Dce9c7446",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 87,
+      "name": "Yuragi #87",
+      "iteration": 87,
+      "fxhash": "0xb456a45df583f50b954393a20491e4fc0bb9a67f1efd8f7933e3bf48b8eceeb3",
+      "minter": "0x9E4e4c30B92D4109442215027279Fdaed45a620f",
+      "fxparams": "",
+      "owner": "0x99fc8AD516FBCC9bA3123D56e63A35d05AA9EFB8",
+      "thumbnailUri": "ipfs://QmUukQtEtp92CUjMXNAoVipvoEGGwUadyCBHjNEQybnqus",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xb456a45df583f50b954393a20491e4fc0bb9a67f1efd8f7933e3bf48b8eceeb3",
+        "iteration": 87,
+        "minter": "0x9E4e4c30B92D4109442215027279Fdaed45a620f",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 88,
+      "name": "Yuragi #88",
+      "iteration": 88,
+      "fxhash": "0xef57d8f1d1aaabc170e4cc0120152d2ae8cc039fa02a2a59f852025e68d77921",
+      "minter": "0x04Bb3771280644F8B89b65081BebA0aE6A03c525",
+      "fxparams": "",
+      "owner": "0x04Bb3771280644F8B89b65081BebA0aE6A03c525",
+      "thumbnailUri": "ipfs://QmcViJQL2YEuQ7i98UXPMFZS4qwUx5CuK6cHxs9PuEZgK8",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xef57d8f1d1aaabc170e4cc0120152d2ae8cc039fa02a2a59f852025e68d77921",
+        "iteration": 88,
+        "minter": "0x04Bb3771280644F8B89b65081BebA0aE6A03c525",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 89,
+      "name": "Yuragi #89",
+      "iteration": 89,
+      "fxhash": "0x0674ea95f6ffb4f6084d0c90828b809ad531123740eebcc5cec2ebc352062233",
+      "minter": "0x010F23E6F3966762063FE05Eb5148Ca2A97cb7B8",
+      "fxparams": "",
+      "owner": "0x010F23E6F3966762063FE05Eb5148Ca2A97cb7B8",
+      "thumbnailUri": "ipfs://QmbhMGWt2QLryJZdukDjzb1vpXtxDpiviFrNmzsP7c3y8E",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x0674ea95f6ffb4f6084d0c90828b809ad531123740eebcc5cec2ebc352062233",
+        "iteration": 89,
+        "minter": "0x010F23E6F3966762063FE05Eb5148Ca2A97cb7B8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 90,
+      "name": "Yuragi #90",
+      "iteration": 90,
+      "fxhash": "0xb258b18fc35bfeef77ed7ab57b5a9fe892495b10f5f3660be650ec210d5999ad",
+      "minter": "0x4972e3FAe95CDc622a79717BeDF9D53A2c2255Cc",
+      "fxparams": "",
+      "owner": "0x4972e3FAe95CDc622a79717BeDF9D53A2c2255Cc",
+      "thumbnailUri": "ipfs://QmU87jJersDPVy52rkCLLyVpXL2ysVPkD92QtQ4vjfbbWD",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xb258b18fc35bfeef77ed7ab57b5a9fe892495b10f5f3660be650ec210d5999ad",
+        "iteration": 90,
+        "minter": "0x4972e3FAe95CDc622a79717BeDF9D53A2c2255Cc",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 91,
+      "name": "Yuragi #91",
+      "iteration": 91,
+      "fxhash": "0x618f89161c617a5be6f04d172c3701e978d360df667136931b7d7a7acd0f2727",
+      "minter": "0xfDB325752f9793Ae7fA4AECC641Cf5386846F566",
+      "fxparams": "",
+      "owner": "0xfDB325752f9793Ae7fA4AECC641Cf5386846F566",
+      "thumbnailUri": "ipfs://QmaHu9dGUXajQ3mQQ8MGK44Tjcxsjz8dff8cECSKDyqzF2",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x618f89161c617a5be6f04d172c3701e978d360df667136931b7d7a7acd0f2727",
+        "iteration": 91,
+        "minter": "0xfDB325752f9793Ae7fA4AECC641Cf5386846F566",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 92,
+      "name": "Yuragi #92",
+      "iteration": 92,
+      "fxhash": "0x734e2afcc5c52b39f8604b270c343e2639f95e6973efb9a1253fe80479241fa0",
+      "minter": "0x3578Bafd8bE6FC380047E423D875573294410f57",
+      "fxparams": "",
+      "owner": "0x3578Bafd8bE6FC380047E423D875573294410f57",
+      "thumbnailUri": "ipfs://QmdfgeiZVHczZEccWkrRTEhUNuEzBVJWwVJrpQcSHzrjKk",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x734e2afcc5c52b39f8604b270c343e2639f95e6973efb9a1253fe80479241fa0",
+        "iteration": 92,
+        "minter": "0x3578Bafd8bE6FC380047E423D875573294410f57",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 93,
+      "name": "Yuragi #93",
+      "iteration": 93,
+      "fxhash": "0xc06e7fab9f0734bea4a462f07d9316f24f44a11b39470943e35a5865d06677eb",
+      "minter": "0xb2d866297dbC7C7d8Ad045c05AFB48A95f28fB3C",
+      "fxparams": "",
+      "owner": "0xb2d866297dbC7C7d8Ad045c05AFB48A95f28fB3C",
+      "thumbnailUri": "ipfs://QmZrWStZaUiLkF4yBof4YHXWB947bVYNcCZmjcnt9iWNr4",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xc06e7fab9f0734bea4a462f07d9316f24f44a11b39470943e35a5865d06677eb",
+        "iteration": 93,
+        "minter": "0xb2d866297dbC7C7d8Ad045c05AFB48A95f28fB3C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 94,
+      "name": "Yuragi #94",
+      "iteration": 94,
+      "fxhash": "0x21c02ca83f3ba8b4f4a0bdd88b3ae07e4def4d4706994fa786568527c1a16eca",
+      "minter": "0x1D3A9a01d1476A1eEa9e230CB5Ae4ED3ccf0C041",
+      "fxparams": "",
+      "owner": "0x1D3A9a01d1476A1eEa9e230CB5Ae4ED3ccf0C041",
+      "thumbnailUri": "ipfs://QmedT8ay6zyCrAmYxgy7xctszxJMmTwHxKvMBa68shUJVZ",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x21c02ca83f3ba8b4f4a0bdd88b3ae07e4def4d4706994fa786568527c1a16eca",
+        "iteration": 94,
+        "minter": "0x1D3A9a01d1476A1eEa9e230CB5Ae4ED3ccf0C041",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 95,
+      "name": "Yuragi #95",
+      "iteration": 95,
+      "fxhash": "0xb2e204b561c562bcd4acca41e4c3614cce12a1df223ade499a131d191a509a49",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "fxparams": "",
+      "owner": "0x1F5743DF7C907a74C8cC28Fe0E27c575830AC6A6",
+      "thumbnailUri": "ipfs://QmQEDB92KfSJ62LS3T2pDdTVt4vuBeZsAqgjniApj57KJs",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xb2e204b561c562bcd4acca41e4c3614cce12a1df223ade499a131d191a509a49",
+        "iteration": 95,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 96,
+      "name": "Yuragi #96",
+      "iteration": 96,
+      "fxhash": "0xf2c14c4bcbdcfacd4aef22d8bee4caf3217ebfa163cd5959d33c715fd6b59634",
+      "minter": "0x457ee5f723C7606c12a7264b52e285906F91eEA6",
+      "fxparams": "",
+      "owner": "0x5151f4b48CeE4f7dcB7714E7b4b836aa847Bf4e8",
+      "thumbnailUri": "ipfs://QmeipR8gnTHuGrqgqCGGJK22i8xavxjaG5Sxex4JXErYBc",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xf2c14c4bcbdcfacd4aef22d8bee4caf3217ebfa163cd5959d33c715fd6b59634",
+        "iteration": 96,
+        "minter": "0x457ee5f723C7606c12a7264b52e285906F91eEA6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 97,
+      "name": "Yuragi #97",
+      "iteration": 97,
+      "fxhash": "0x93bbe682c2a1c1ff7c1fde8272ab6fc81040acecf1ac53356ac1015df530bd96",
+      "minter": "0x457ee5f723C7606c12a7264b52e285906F91eEA6",
+      "fxparams": "",
+      "owner": "0x5151f4b48CeE4f7dcB7714E7b4b836aa847Bf4e8",
+      "thumbnailUri": "ipfs://QmdEYC3BKo9iPEKJEhzmppFre2qURTXxfFfcx5HeNzkkjP",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x93bbe682c2a1c1ff7c1fde8272ab6fc81040acecf1ac53356ac1015df530bd96",
+        "iteration": 97,
+        "minter": "0x457ee5f723C7606c12a7264b52e285906F91eEA6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 98,
+      "name": "Yuragi #98",
+      "iteration": 98,
+      "fxhash": "0x741a37b609fbbf986406efb9d77fa23d6a0e3276b3d698125ca6a48b0079914b",
+      "minter": "0xe459AE0DC31194fA0fd626020A25d9A1CeF0047D",
+      "fxparams": "",
+      "owner": "0xd541377Feb75D9ABC870516fB489B9F18CEb0CeE",
+      "thumbnailUri": "ipfs://QmQWscqgPpWGp3AAzYDdRgYdWJh8io2AbGwNmGnWduHBYV",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x741a37b609fbbf986406efb9d77fa23d6a0e3276b3d698125ca6a48b0079914b",
+        "iteration": 98,
+        "minter": "0xe459AE0DC31194fA0fd626020A25d9A1CeF0047D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 99,
+      "name": "Yuragi #99",
+      "iteration": 99,
+      "fxhash": "0xf55ab5c3d6e00475e8035943d06b4044e3257425daba05533b6b07ccf4224134",
+      "minter": "0x82cC352a452C1831D4b5CDb2394Da1fD988F6586",
+      "fxparams": "",
+      "owner": "0x82cC352a452C1831D4b5CDb2394Da1fD988F6586",
+      "thumbnailUri": "ipfs://QmTHmzJeTZfSJndFQeLoQyXZYHW2Kags8XnGGiXYSVf3hY",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xf55ab5c3d6e00475e8035943d06b4044e3257425daba05533b6b07ccf4224134",
+        "iteration": 99,
+        "minter": "0x82cC352a452C1831D4b5CDb2394Da1fD988F6586",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 100,
+      "name": "Yuragi #100",
+      "iteration": 100,
+      "fxhash": "0xf1179c3222c9f2a08cc3b5a037a99696158528ea8e2866865a3501ac70b11efa",
+      "minter": "0xb649516de0200e7EA9AE4c65113436C58948B72F",
+      "fxparams": "",
+      "owner": "0xb649516de0200e7EA9AE4c65113436C58948B72F",
+      "thumbnailUri": "ipfs://QmTYrb3WYsFecMCU6ctvvHisa1JP7wA1WRRg7bwSCTLyR5",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xf1179c3222c9f2a08cc3b5a037a99696158528ea8e2866865a3501ac70b11efa",
+        "iteration": 100,
+        "minter": "0xb649516de0200e7EA9AE4c65113436C58948B72F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 101,
+      "name": "Yuragi #101",
+      "iteration": 101,
+      "fxhash": "0xfdb3912ca48f6aa944ed39236049d45c948ab9b3c3de6418b030341449bf8046",
+      "minter": "0xC09E97DAEDfe51f95Fb2E0f02ECA85EF1765a9f3",
+      "fxparams": "",
+      "owner": "0xC09E97DAEDfe51f95Fb2E0f02ECA85EF1765a9f3",
+      "thumbnailUri": "ipfs://Qmc4DCwpb9dYdm6TpA4XhUie6p894xtUn23XKDKLj8Zudk",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xfdb3912ca48f6aa944ed39236049d45c948ab9b3c3de6418b030341449bf8046",
+        "iteration": 101,
+        "minter": "0xC09E97DAEDfe51f95Fb2E0f02ECA85EF1765a9f3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 102,
+      "name": "Yuragi #102",
+      "iteration": 102,
+      "fxhash": "0xedeff0c59ab12b3f1e01cb378ce6e8e3e4e3055413ce209feff4d7bae3ce5c8c",
+      "minter": "0x35b7b7C40de5cFF2F89A6648b88c1C9c0257742c",
+      "fxparams": "",
+      "owner": "0x6B2d81c560C6eE19D648e7bfD697a473547c8ac7",
+      "thumbnailUri": "ipfs://QmZJJN8CqszhR6Ard1CKTpGUpsaFVDjc74WE3ChgkyDfSq",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xedeff0c59ab12b3f1e01cb378ce6e8e3e4e3055413ce209feff4d7bae3ce5c8c",
+        "iteration": 102,
+        "minter": "0x35b7b7C40de5cFF2F89A6648b88c1C9c0257742c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 103,
+      "name": "Yuragi #103",
+      "iteration": 103,
+      "fxhash": "0xb1b1cc98cb5242277d7fc4125c30281c45544b0a66cc41033072720b743bef4e",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "thumbnailUri": "ipfs://QmaGKhDuuGFvvXyHowbUG4ngSDc75rMpY71Xyfqi4MrkYn",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xb1b1cc98cb5242277d7fc4125c30281c45544b0a66cc41033072720b743bef4e",
+        "iteration": 103,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 104,
+      "name": "Yuragi #104",
+      "iteration": 104,
+      "fxhash": "0x5fd32a525b2a67e70b9be09f17ca53f3e7fc33049ab2faed87ef1e24693d8088",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0x339507CE879627859c0aD455fa79b3c1D377F47f",
+      "thumbnailUri": "ipfs://QmbxYqnBizS84maVbEhEJDs6zoZ8voMXbQfQUe5WA2r6VW",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x5fd32a525b2a67e70b9be09f17ca53f3e7fc33049ab2faed87ef1e24693d8088",
+        "iteration": 104,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 105,
+      "name": "Yuragi #105",
+      "iteration": 105,
+      "fxhash": "0xaf9f5ec5604778483d6977d774afd7f4f07c1d7628cf27656acf83c5400837b3",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xC35169F3873a9D13254cC29A23Cc574C407de82F",
+      "thumbnailUri": "ipfs://QmSetx2jf4WUobDiekjstJPsJBTNNtVU6GXkSdzKwEhNkb",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xaf9f5ec5604778483d6977d774afd7f4f07c1d7628cf27656acf83c5400837b3",
+        "iteration": 105,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 106,
+      "name": "Yuragi #106",
+      "iteration": 106,
+      "fxhash": "0xc5c3b14c4a761ac6cce92a57271209640cef8322ee51265a873649cf9252c245",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0x6cA41eFBEA3D1d6c168C70566FCCB000d46fbA6F",
+      "thumbnailUri": "ipfs://QmViQaAt8G345eREC8mYHLWVm2EBc6YfQVtUW6Qz31HUyN",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xc5c3b14c4a761ac6cce92a57271209640cef8322ee51265a873649cf9252c245",
+        "iteration": 106,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 107,
+      "name": "Yuragi #107",
+      "iteration": 107,
+      "fxhash": "0x5b82372e7b9ccf687fd64e1101bc4de549d030ec8046f00fbeb680535c0329cb",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xdbF14da8949D157B57acb79f6EEE62412b210900",
+      "thumbnailUri": "ipfs://QmYBSLPtPEebH2zXy7EJxCFKAycQKssnvVx2pJ3nBs788c",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x5b82372e7b9ccf687fd64e1101bc4de549d030ec8046f00fbeb680535c0329cb",
+        "iteration": 107,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 108,
+      "name": "Yuragi #108",
+      "iteration": 108,
+      "fxhash": "0xb6692c539753d6ad664db7dda7aff805128cd988ba99e307dc05bec186ab193a",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xF52F2052A40998E26A5832f42C8536eF4Bbbbd23",
+      "thumbnailUri": "ipfs://QmfUuW5GqdqVuCg8pCV8dgHT4P1vSKqNo5QRM7WXfMhVNh",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xb6692c539753d6ad664db7dda7aff805128cd988ba99e307dc05bec186ab193a",
+        "iteration": 108,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 109,
+      "name": "Yuragi #109",
+      "iteration": 109,
+      "fxhash": "0x2cf281d29505f062a1485d11664cc7f24b67f02fff1bec4ef4a681a2cd72e056",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0x42430Bec75cC19f62aEcf92b4AF81dc25633Df7A",
+      "thumbnailUri": "ipfs://QmXSP42mxvAw84bWGRkXi11CSaPP9Ra48vQrsozHK1SPyu",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x2cf281d29505f062a1485d11664cc7f24b67f02fff1bec4ef4a681a2cd72e056",
+        "iteration": 109,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 110,
+      "name": "Yuragi #110",
+      "iteration": 110,
+      "fxhash": "0xe5ff479a317cce7119fb05cf5291682cdf6af3c90c26bc3d59104f926eba2f2e",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xa5dDC62Ad8F89Fd242508Edb88DCCD797Ae1467c",
+      "thumbnailUri": "ipfs://QmZetKY36UF9Z4zWUqopQTfhY3RbfTpTQUAY5CqUTLKGqx",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xe5ff479a317cce7119fb05cf5291682cdf6af3c90c26bc3d59104f926eba2f2e",
+        "iteration": 110,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 111,
+      "name": "Yuragi #111",
+      "iteration": 111,
+      "fxhash": "0x3465554c65ed87cdf6dfdd80b810648d21e9e433a7e0e590a8844a30f7c96fd7",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xFa398d672936Dcf428116F687244034961545D91",
+      "thumbnailUri": "ipfs://QmeZxobo1HV15SbBwfx5L5X7S11niNgSWevmG1bKq8YPrt",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x3465554c65ed87cdf6dfdd80b810648d21e9e433a7e0e590a8844a30f7c96fd7",
+        "iteration": 111,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 112,
+      "name": "Yuragi #112",
+      "iteration": 112,
+      "fxhash": "0x45fc0b860d8121426bbe8a96e546cfcac26aba73be94dfd1f89506d21fdd9927",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xC714a62A4BF7ff475C8dc3E589e1388342A38BB8",
+      "thumbnailUri": "ipfs://QmUgv2SzjQZxc4GHPr7JaVGhaJiccjT85pqBPRGC5iT1Ps",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x45fc0b860d8121426bbe8a96e546cfcac26aba73be94dfd1f89506d21fdd9927",
+        "iteration": 112,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 113,
+      "name": "Yuragi #113",
+      "iteration": 113,
+      "fxhash": "0x120b3279548f092f5871efd95ec16688ed5b8c4ce495d86845f79bba67e7d299",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xdacc0FD851ac2e8969F4942B2BCfE17c8d685222",
+      "thumbnailUri": "ipfs://QmUNEnut6zhXgBYFWZNYjXKHPVnq3aEmYvkrXjLqEAbG35",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x120b3279548f092f5871efd95ec16688ed5b8c4ce495d86845f79bba67e7d299",
+        "iteration": 113,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 114,
+      "name": "Yuragi #114",
+      "iteration": 114,
+      "fxhash": "0xbf873f33db6f50bed0d54855bd0b321445ae968224c5a425f1a2d9c794b1b486",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0x284602a06e6FF127acdCbD85B2ca610f2B101069",
+      "thumbnailUri": "ipfs://QmdRUa75DE2XbsFcUo6PEKGhRVxmM8UpyXGVxy9L7cH4dF",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xbf873f33db6f50bed0d54855bd0b321445ae968224c5a425f1a2d9c794b1b486",
+        "iteration": 114,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 115,
+      "name": "Yuragi #115",
+      "iteration": 115,
+      "fxhash": "0x5b81845855d9676ac252afde236e2db7982918b182c90a71140f43dcea96da5f",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0x8690aAeD0AA91d362737dDAB57db28E0BA14b219",
+      "thumbnailUri": "ipfs://QmPrEUggVMyLs1fRN7dCt2v8zkh1dDARDX8NJ5ryRYcvnx",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x5b81845855d9676ac252afde236e2db7982918b182c90a71140f43dcea96da5f",
+        "iteration": 115,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 116,
+      "name": "Yuragi #116",
+      "iteration": 116,
+      "fxhash": "0xb30f163cf005174e43fa562f6f6cea6cf5f791a583a4f14f509bb651781cbbfd",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xeBEdc29cB0720C742C30D7D727C8fAf1beF23974",
+      "thumbnailUri": "ipfs://QmViGCpwTx9si7PuECswhxKjhw9RqDB4BsmUpaAyhvvnNY",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xb30f163cf005174e43fa562f6f6cea6cf5f791a583a4f14f509bb651781cbbfd",
+        "iteration": 116,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 117,
+      "name": "Yuragi #117",
+      "iteration": 117,
+      "fxhash": "0xdeea185a1105b2b084f1293c99e72e9e551922679f9b86890319c543d0e4eb30",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xc04aFCeEA0BE5A8CeCe930c4e6208eb03BeCd066",
+      "thumbnailUri": "ipfs://QmT1bpLrSdRUaAriFLdFFGTrW3bw3EMk8ipS5yb9UwTipo",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xdeea185a1105b2b084f1293c99e72e9e551922679f9b86890319c543d0e4eb30",
+        "iteration": 117,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 118,
+      "name": "Yuragi #118",
+      "iteration": 118,
+      "fxhash": "0x441f06c1cb600f5acf94529141ddf7c605469c9600dcbe18cda8ca492189c0d5",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xe4a7CE553722E3879Ff8d00A3A11A226414644e0",
+      "thumbnailUri": "ipfs://Qmf7MFDX1sh7oDsBExEDVfjmQE8bEVhik5ESUiEYL94PGh",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x441f06c1cb600f5acf94529141ddf7c605469c9600dcbe18cda8ca492189c0d5",
+        "iteration": 118,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 119,
+      "name": "Yuragi #119",
+      "iteration": 119,
+      "fxhash": "0xe09c20ae50be5eb9ee961dc33818b0756bb7ebe8ed4c954ccbbf41372559769d",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0x5Bff65AaBa213b4e2F63c3e458f160387B4EE963",
+      "thumbnailUri": "ipfs://QmajqEg1haTKtK7MZgGQEqRZv818wjK1K5gjMtUv2bPFsZ",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xe09c20ae50be5eb9ee961dc33818b0756bb7ebe8ed4c954ccbbf41372559769d",
+        "iteration": 119,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 120,
+      "name": "Yuragi #120",
+      "iteration": 120,
+      "fxhash": "0x18c81a47601fc518ab54b79874e16d51306f150aeedba7bb889e3f5f5b7d1aee",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xF4fa94b32cB174675128D0b94C798883e4459612",
+      "thumbnailUri": "ipfs://QmQKXKauLxKSSUFQP1FguUwtPPS9vDxPRcjDWey82P8Yig",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x18c81a47601fc518ab54b79874e16d51306f150aeedba7bb889e3f5f5b7d1aee",
+        "iteration": 120,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 121,
+      "name": "Yuragi #121",
+      "iteration": 121,
+      "fxhash": "0x563c9429a55d9130f26ba0032299c04567c3665e787461a1b7106324dff88715",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0x7F4Db412a3B551d2C7a391B0c7F31A64Eaf1E841",
+      "thumbnailUri": "ipfs://QmTdphkBwAeb7eD6SsxmsYESdbpQt121zjPRFT6gfJ3R6G",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x563c9429a55d9130f26ba0032299c04567c3665e787461a1b7106324dff88715",
+        "iteration": 121,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 122,
+      "name": "Yuragi #122",
+      "iteration": 122,
+      "fxhash": "0x0091c40cf6cdb2ea13ed7f124753bc558467567413224ca908cfdbc944abb8bb",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0x48E1D8dAE86ABfe39b0b3A853d82400793327D7c",
+      "thumbnailUri": "ipfs://QmNR3ugNHeX6f29bzoDRK4rnKzDGjdrxXKfqPd6eH8XZnF",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x0091c40cf6cdb2ea13ed7f124753bc558467567413224ca908cfdbc944abb8bb",
+        "iteration": 122,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 123,
+      "name": "Yuragi #123",
+      "iteration": 123,
+      "fxhash": "0xffd290bd45310141a0575d775da8734c8ad3241462e8fa2ebcd9f0b415fdf451",
+      "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+      "fxparams": "",
+      "owner": "0xBff6A570a77ae661bef90719C0B72AF288d5Bf39",
+      "thumbnailUri": "ipfs://QmZQWoRRg7y5Djwn9DknBrw6mDWv6b942pi5VDiaZEHYf7",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xffd290bd45310141a0575d775da8734c8ad3241462e8fa2ebcd9f0b415fdf451",
+        "iteration": 123,
+        "minter": "0x93107B44f0992482B1cBf19E5D4bB15B746b07DC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 124,
+      "name": "Yuragi #124",
+      "iteration": 124,
+      "fxhash": "0xa4c137aa967d6fdf9acd6203e81328e3ad352cabe12007832a9fbcc0c013e661",
+      "minter": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+      "fxparams": "",
+      "owner": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+      "thumbnailUri": "ipfs://QmURs8w1VywHysLTzHMoE11ACa2xsZzCnVi2iAwtWtgQA2",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0xa4c137aa967d6fdf9acd6203e81328e3ad352cabe12007832a9fbcc0c013e661",
+        "iteration": 124,
+        "minter": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 125,
+      "name": "Yuragi #125",
+      "iteration": 125,
+      "fxhash": "0x2b2fb18062f25459e8ad910206550b266de3c21af8bc253aa9329f1d65b9bd77",
+      "minter": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+      "fxparams": "",
+      "owner": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+      "thumbnailUri": "ipfs://QmU7C59Zp2xwpEe6af7mfE3YHgFELwEencRxZiiR5uvmuL",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x2b2fb18062f25459e8ad910206550b266de3c21af8bc253aa9329f1d65b9bd77",
+        "iteration": 125,
+        "minter": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 126,
+      "name": "Yuragi #126",
+      "iteration": 126,
+      "fxhash": "0x7c8d6d10edafadb856cd135727ca44582f31e83b819080b32a1f6534931d27ee",
+      "minter": "0x8dF55Ecf2C261b44D079302dc95327fe32F74eeD",
+      "fxparams": "",
+      "owner": "0x8dF55Ecf2C261b44D079302dc95327fe32F74eeD",
+      "thumbnailUri": "ipfs://QmeT5Uhr7Pyn2fnR2gdbje6PezvPvEhsbBNU23t82gjd8v",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x7c8d6d10edafadb856cd135727ca44582f31e83b819080b32a1f6534931d27ee",
+        "iteration": 126,
+        "minter": "0x8dF55Ecf2C261b44D079302dc95327fe32F74eeD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 127,
+      "name": "Yuragi #127",
+      "iteration": 127,
+      "fxhash": "0x9b87e0e798923a38c9f5dc8516693c7b40e7f0f0551243cfb6b6b4db77007939",
+      "minter": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+      "fxparams": "",
+      "owner": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+      "thumbnailUri": "ipfs://QmcbXM6Ag4Cz1Li18YcYkwPqcjwBzgHWbzDecLsr38v1CY",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x9b87e0e798923a38c9f5dc8516693c7b40e7f0f0551243cfb6b6b4db77007939",
+        "iteration": 127,
+        "minter": "0x2CFD8238167a3e302cE00d9B26699D406d30d2aC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 128,
+      "name": "Yuragi #128",
+      "iteration": 128,
+      "fxhash": "0x118ccfc10129424097b478add2463a321d8ab3818e812197da7eacbe9adb14e3",
+      "minter": "0x1Cfa8cf9ADcbfA163c7cf9Ff4Fd7dA936C77a310",
+      "fxparams": "",
+      "owner": "0x1Cfa8cf9ADcbfA163c7cf9Ff4Fd7dA936C77a310",
+      "thumbnailUri": "ipfs://QmQbChjNSiPkBeistniW4zeQbjFhpCxnMBA64i39SYVWPL",
+      "generativeUri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+      "viewerParams": {
+        "uri": "onchfs://fd131d19d1343979095d2a98550ad2b9eea86edc474f6ce3fec5dec824067846",
+        "fxhash": "0x118ccfc10129424097b478add2463a321d8ab3818e812197da7eacbe9adb14e3",
+        "iteration": 128,
+        "minter": "0x1Cfa8cf9ADcbfA163c7cf9Ff4Fd7dA936C77a310",
+        "fxparams": ""
+      }
+    }
+  ]
+}

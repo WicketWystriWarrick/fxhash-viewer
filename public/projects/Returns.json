@@ -5,7 +5,11 @@
     "chain": "tezos",
     "generativeUri": "ipfs://QmZ3ZWUmLDNwAHGR8bSDwCeznAhxeZXYn9cfQqeWoUtnnK",
     "totalSupply": 500,
-    "extractedAt": "2026-05-30T05:32:25.931Z"
+    "extractedAt": "2026-05-30T05:32:25.931Z",
+    "artist": "Leander Herzog",
+    "artists": [
+      "Leander Herzog"
+    ]
   },
   "iterations": [
     {
