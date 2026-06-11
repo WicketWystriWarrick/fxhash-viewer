@@ -1,0 +1,1783 @@
+{
+  "project": {
+    "name": "台灣建築記憶",
+    "artist": "KUMALEON & eziraros & Proof of X",
+    "artists": [
+      "KUMALEON",
+      "eziraros",
+      "Proof of X"
+    ],
+    "contract": "KT1EfsNuqwLAWDd3o4pvfUx1CAh5GMdTrRvr",
+    "chain": "tezos",
+    "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+    "totalSupply": 98,
+    "extractedAt": "2026-06-11T02:24:52.205Z",
+    "source": "fxhash-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 58858,
+      "name": "台灣建築記憶 #1",
+      "iteration": 1,
+      "fxhash": "ooSfUhremHKHJa7314agsPHvF9ha3xbAvTcMXKLQSLuvfBdgPmP",
+      "minter": "tz2Abi9zmUnRRUAhMD7GgCiYhjH7eiHe4vVr",
+      "fxparams": "0030518a4fcfc4c40340200000000000004063600000000000",
+      "owner": "tz2Abi9zmUnRRUAhMD7GgCiYhjH7eiHe4vVr",
+      "thumbnailUri": "ipfs://QmUsyuzLBuqM1LFQJzSvZX72cNqsVFeqWB6ihFFQCdvRu2",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooSfUhremHKHJa7314agsPHvF9ha3xbAvTcMXKLQSLuvfBdgPmP",
+        "iteration": 1,
+        "minter": "tz2Abi9zmUnRRUAhMD7GgCiYhjH7eiHe4vVr",
+        "fxparams": "0030518a4fcfc4c40340200000000000004063600000000000"
+      }
+    },
+    {
+      "tokenId": 58947,
+      "name": "台灣建築記憶 #2",
+      "iteration": 2,
+      "fxhash": "ooDkmbTntdWW9pT8epHbtnqhnxJFUcNRgzbmug1af3kDRNRzsXk",
+      "minter": "tz1isWXcKCono94d5eufHt3rsZypV8LUh8mh",
+      "fxparams": "000f000ae80000003f40220000000000004059400000000000",
+      "owner": "tz2994tUVsnhCFizVV1n6eDyxKMCdYPYTzUA",
+      "thumbnailUri": "ipfs://QmSa5gr76AHTKtZK8HNnv1CCBHcN7UXKk51nXwozxkGHn8",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooDkmbTntdWW9pT8epHbtnqhnxJFUcNRgzbmug1af3kDRNRzsXk",
+        "iteration": 2,
+        "minter": "tz1isWXcKCono94d5eufHt3rsZypV8LUh8mh",
+        "fxparams": "000f000ae80000003f40220000000000004059400000000000"
+      }
+    },
+    {
+      "tokenId": 59189,
+      "name": "台灣建築記憶 #3",
+      "iteration": 3,
+      "fxhash": "opWyRLbDUUG5b1WcCmLv3hDYMAyqCL5nSLohpNHP8TioJDfsxSf",
+      "minter": "tz2EZC7yLhS8uf4U66XfNzimP1pdeiSTNGXx",
+      "fxparams": "05336662ffffcbb3ff40240000000000004074200000000000",
+      "owner": "tz2RXosjAZdS85oCrguy7Eom757144dcU1FT",
+      "thumbnailUri": "ipfs://QmWZYwAAf8Sits8eYzsVtnY2t9cjJBmnbJEv4ZaEBnDWvA",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opWyRLbDUUG5b1WcCmLv3hDYMAyqCL5nSLohpNHP8TioJDfsxSf",
+        "iteration": 3,
+        "minter": "tz2EZC7yLhS8uf4U66XfNzimP1pdeiSTNGXx",
+        "fxparams": "05336662ffffcbb3ff40240000000000004074200000000000"
+      }
+    },
+    {
+      "tokenId": 59190,
+      "name": "台灣建築記憶 #4",
+      "iteration": 4,
+      "fxhash": "ooYbrss1Nt4tbJdGG9jyTF3gRPk8JUTLne8WbYEKWReAgX3ooSZ",
+      "minter": "tz1S7TPxx8D8Sce8SBWD2eFNm1yXMT7KArRX",
+      "fxparams": "0044608bcee6dfdfff40240000000000004052800000000000",
+      "owner": "tz1S7TPxx8D8Sce8SBWD2eFNm1yXMT7KArRX",
+      "thumbnailUri": "ipfs://QmSLzRq6V4VkjnicRrekLG4eyRLcFeZgU77TTh2nAUHD1h",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooYbrss1Nt4tbJdGG9jyTF3gRPk8JUTLne8WbYEKWReAgX3ooSZ",
+        "iteration": 4,
+        "minter": "tz1S7TPxx8D8Sce8SBWD2eFNm1yXMT7KArRX",
+        "fxparams": "0044608bcee6dfdfff40240000000000004052800000000000"
+      }
+    },
+    {
+      "tokenId": 59195,
+      "name": "台灣建築記憶 #5",
+      "iteration": 5,
+      "fxhash": "opWhoSKsCVnFFj9v1LY22G8JS9aJtvszgQ36hBPcgJWDkDvUSGf",
+      "minter": "tz1RPZp6NLzn7x4g7jhqHtCkhCQVnhbVMj8y",
+      "fxparams": "04fcfaffff61ff00ff40140000000000004060a00000000000",
+      "owner": "tz1RPZp6NLzn7x4g7jhqHtCkhCQVnhbVMj8y",
+      "thumbnailUri": "ipfs://QmeKdnTGWhSq2gvSRCi4hVF2GoXnsyhNCMCs74mLMkb3Gh",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opWhoSKsCVnFFj9v1LY22G8JS9aJtvszgQ36hBPcgJWDkDvUSGf",
+        "iteration": 5,
+        "minter": "tz1RPZp6NLzn7x4g7jhqHtCkhCQVnhbVMj8y",
+        "fxparams": "04fcfaffff61ff00ff40140000000000004060a00000000000"
+      }
+    },
+    {
+      "tokenId": 59212,
+      "name": "台灣建築記憶 #6",
+      "iteration": 6,
+      "fxhash": "ooVaanCbVUZy1JYm6XhDwUMCM3WLEoVG5FWu5BmcF3Da4qwJVzt",
+      "minter": "tz1hkKqGk3fPPYroNagWpWsxxV3x8P8jqwp9",
+      "fxparams": "02aef63aced24878d2401c000000000000407d500000000000",
+      "owner": "tz1hkKqGk3fPPYroNagWpWsxxV3x8P8jqwp9",
+      "thumbnailUri": "ipfs://QmVqnT9B3pJawMygqfK27DJj3ZPrURsjVhoNwMnZ5sG1Jd",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooVaanCbVUZy1JYm6XhDwUMCM3WLEoVG5FWu5BmcF3Da4qwJVzt",
+        "iteration": 6,
+        "minter": "tz1hkKqGk3fPPYroNagWpWsxxV3x8P8jqwp9",
+        "fxparams": "02aef63aced24878d2401c000000000000407d500000000000"
+      }
+    },
+    {
+      "tokenId": 59216,
+      "name": "台灣建築記憶 #7",
+      "iteration": 7,
+      "fxhash": "ooA3ESttV6o7SUgEyTTRWydg6Pv4bNYcukAuDtLkW4hwdkye9uv",
+      "minter": "tz1WJpiJkNoMEjXE1wvoKeRuZo4o9Zgy6qXe",
+      "fxparams": "0114131308e40f005440240000000000004086180000000000",
+      "owner": "tz1WJpiJkNoMEjXE1wvoKeRuZo4o9Zgy6qXe",
+      "thumbnailUri": "ipfs://QmaXrq5fPHqBRWC7BaWrN4j6yqMfjzdyLfcAV7D2cXkn5Q",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooA3ESttV6o7SUgEyTTRWydg6Pv4bNYcukAuDtLkW4hwdkye9uv",
+        "iteration": 7,
+        "minter": "tz1WJpiJkNoMEjXE1wvoKeRuZo4o9Zgy6qXe",
+        "fxparams": "0114131308e40f005440240000000000004086180000000000"
+      }
+    },
+    {
+      "tokenId": 59218,
+      "name": "台灣建築記憶 #8",
+      "iteration": 8,
+      "fxhash": "ooxRZLHmVH53FcThisn2d5VFJsPJtRmg2gwMojqAARPdcz48VDo",
+      "minter": "tz1dJAbmkUDEq1UDvkck1UWVkpdMqH3CmKCx",
+      "fxparams": "04cecccf8c593d35f140220000000000004073500000000000",
+      "owner": "tz1f3AsNPPUDvkD39MpRdnht4Up4uJ6xkG7s",
+      "thumbnailUri": "ipfs://Qmca8HcUHQtdkgZvcJVXt9E3PEsxwX3NDa6FjiDWNvjFko",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooxRZLHmVH53FcThisn2d5VFJsPJtRmg2gwMojqAARPdcz48VDo",
+        "iteration": 8,
+        "minter": "tz1dJAbmkUDEq1UDvkck1UWVkpdMqH3CmKCx",
+        "fxparams": "04cecccf8c593d35f140220000000000004073500000000000"
+      }
+    },
+    {
+      "tokenId": 59234,
+      "name": "台灣建築記憶 #9",
+      "iteration": 9,
+      "fxhash": "ooYnVnTR1py9ffPjpP6eJ25bihsifDntEv51uYmCoXQsU16iEHJ",
+      "minter": "tz1aYckSgRmBzzQfDYdHLXkxdog3o1PbXqg3",
+      "fxparams": "00dfab86b3faf3d40540200000000000004068200000000000",
+      "owner": "tz1aYckSgRmBzzQfDYdHLXkxdog3o1PbXqg3",
+      "thumbnailUri": "ipfs://QmSNtEVLUWyVKFSBYebwEHsLUsgQ3m5DuJTE9d6fW9a2WQ",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooYnVnTR1py9ffPjpP6eJ25bihsifDntEv51uYmCoXQsU16iEHJ",
+        "iteration": 9,
+        "minter": "tz1aYckSgRmBzzQfDYdHLXkxdog3o1PbXqg3",
+        "fxparams": "00dfab86b3faf3d40540200000000000004068200000000000"
+      }
+    },
+    {
+      "tokenId": 59246,
+      "name": "台灣建築記憶 #10",
+      "iteration": 10,
+      "fxhash": "oo3Qn4vLoJ3voUc1awfPDrEhMYTzkKRHgsGKKUBE4z7UKzERxxL",
+      "minter": "tz1ePy7JPbV7jaw57rKavh3mCdteUazLUEMG",
+      "fxparams": "0494f1d4a001454976401c0000000000004076700000000000",
+      "owner": "tz1ePy7JPbV7jaw57rKavh3mCdteUazLUEMG",
+      "thumbnailUri": "ipfs://QmVycvB7jifZwbvqJrxzuKfcJADwCcx6mAgq9pUZexcmYm",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oo3Qn4vLoJ3voUc1awfPDrEhMYTzkKRHgsGKKUBE4z7UKzERxxL",
+        "iteration": 10,
+        "minter": "tz1ePy7JPbV7jaw57rKavh3mCdteUazLUEMG",
+        "fxparams": "0494f1d4a001454976401c0000000000004076700000000000"
+      }
+    },
+    {
+      "tokenId": 59255,
+      "name": "台灣建築記憶 #11",
+      "iteration": 11,
+      "fxhash": "onuX7PbBGarwNGm1MGNBhZ239xWzPjLnRqMAE8ZzpyhSVQ8j34j",
+      "minter": "tz1KoGmYPY37YXoq1LUhMpMtuyEajbiBADuD",
+      "fxparams": "051642007a00000040401c0000000000004088900000000000",
+      "owner": "tz1bT1JGA6pzLkLk7a5mAKifrB5Aw43CCJa2",
+      "thumbnailUri": "ipfs://QmeW9Py26j8sQJP5wv3yvQ6WfrUcQgfCbwwY7qeqSeUf1U",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onuX7PbBGarwNGm1MGNBhZ239xWzPjLnRqMAE8ZzpyhSVQ8j34j",
+        "iteration": 11,
+        "minter": "tz1KoGmYPY37YXoq1LUhMpMtuyEajbiBADuD",
+        "fxparams": "051642007a00000040401c0000000000004088900000000000"
+      }
+    },
+    {
+      "tokenId": 59279,
+      "name": "台灣建築記憶 #12",
+      "iteration": 12,
+      "fxhash": "opDKUJM9S6xAq9QrP6X14B4LgfkaUbqLG39nntmTvhmxSAaJgrG",
+      "minter": "tz1i35AGt1HS1FKN1Mqw4DuCMYHvWAHnUT3H",
+      "fxparams": "05ffbcb3ffad2424ff401c0000000000004075a00000000000",
+      "owner": "tz1i35AGt1HS1FKN1Mqw4DuCMYHvWAHnUT3H",
+      "thumbnailUri": "ipfs://QmcyAY4dRXfnr1X3zvfrNqnfNbE7xAKJduDryF5yWg4bVN",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opDKUJM9S6xAq9QrP6X14B4LgfkaUbqLG39nntmTvhmxSAaJgrG",
+        "iteration": 12,
+        "minter": "tz1i35AGt1HS1FKN1Mqw4DuCMYHvWAHnUT3H",
+        "fxparams": "05ffbcb3ffad2424ff401c0000000000004075a00000000000"
+      }
+    },
+    {
+      "tokenId": 59285,
+      "name": "台灣建築記憶 #13",
+      "iteration": 13,
+      "fxhash": "opXYApdfHftfpU7QBzyBKjMZUobuRfVQ3sqWGru3B8qRibT34gT",
+      "minter": "tz1PQRJ8wVtFgkZWGfJ6JajjjtJDYUNuKqKc",
+      "fxparams": "040b0703e2e3f7ec4b401c000000000000407c900000000000",
+      "owner": "tz1PQRJ8wVtFgkZWGfJ6JajjjtJDYUNuKqKc",
+      "thumbnailUri": "ipfs://QmXXvNJhArphHZ6QP8KaooZrWRfteZF1PyEuKieZ65nW7J",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opXYApdfHftfpU7QBzyBKjMZUobuRfVQ3sqWGru3B8qRibT34gT",
+        "iteration": 13,
+        "minter": "tz1PQRJ8wVtFgkZWGfJ6JajjjtJDYUNuKqKc",
+        "fxparams": "040b0703e2e3f7ec4b401c000000000000407c900000000000"
+      }
+    },
+    {
+      "tokenId": 59305,
+      "name": "台灣建築記憶 #14",
+      "iteration": 14,
+      "fxhash": "ony4LGBbFkuc95r4ZZ9TDC6MA1xvgh6CeQREJJ6vK1Mt5dUpqcH",
+      "minter": "tz1dRuNG4NzY8QHE8n2Aj4YWTKgSLF9jmido",
+      "fxparams": "0100a8a8ffff99006b40200000000000004083780000000000",
+      "owner": "tz1dRuNG4NzY8QHE8n2Aj4YWTKgSLF9jmido",
+      "thumbnailUri": "ipfs://QmUNvzhqpqYpme8hAZuAogn6W1vnyEvvmq6vNikjQ9X5a2",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ony4LGBbFkuc95r4ZZ9TDC6MA1xvgh6CeQREJJ6vK1Mt5dUpqcH",
+        "iteration": 14,
+        "minter": "tz1dRuNG4NzY8QHE8n2Aj4YWTKgSLF9jmido",
+        "fxparams": "0100a8a8ffff99006b40200000000000004083780000000000"
+      }
+    },
+    {
+      "tokenId": 59384,
+      "name": "台灣建築記憶 #15",
+      "iteration": 15,
+      "fxhash": "onntWQwRZfjcumtnDKKzkmq41VMjo1WgPq6a7JqJoPQCfgtZtzV",
+      "minter": "tz1gmu6JWBtVempivULkthcWT3hgXjtHz2xT",
+      "fxparams": "00a4fff9ff55ffffff4024000000000000403f000000000000",
+      "owner": "tz1gmu6JWBtVempivULkthcWT3hgXjtHz2xT",
+      "thumbnailUri": "ipfs://Qme1CbkpGZrxzKjShm71kmE91utKrMryAojRpRf8USaHP3",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onntWQwRZfjcumtnDKKzkmq41VMjo1WgPq6a7JqJoPQCfgtZtzV",
+        "iteration": 15,
+        "minter": "tz1gmu6JWBtVempivULkthcWT3hgXjtHz2xT",
+        "fxparams": "00a4fff9ff55ffffff4024000000000000403f000000000000"
+      }
+    },
+    {
+      "tokenId": 59444,
+      "name": "台灣建築記憶 #16",
+      "iteration": 16,
+      "fxhash": "op969ZhW8sB4sNKYMcn1EXME9TnFhmt9M2wdjk9gubfaFzsTvbX",
+      "minter": "tz1b3aAcEichUhSc7D2AdaLqPmZNNhS4uQoC",
+      "fxparams": "07367aa8ffedda0da34022000000000000406b000000000000",
+      "owner": "tz1b3aAcEichUhSc7D2AdaLqPmZNNhS4uQoC",
+      "thumbnailUri": "ipfs://QmRKB57wMmtXXLHFjz6UVKFbyXJAKDtMZ9yfkMQUrcDZQU",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "op969ZhW8sB4sNKYMcn1EXME9TnFhmt9M2wdjk9gubfaFzsTvbX",
+        "iteration": 16,
+        "minter": "tz1b3aAcEichUhSc7D2AdaLqPmZNNhS4uQoC",
+        "fxparams": "07367aa8ffedda0da34022000000000000406b000000000000"
+      }
+    },
+    {
+      "tokenId": 59597,
+      "name": "台灣建築記憶 #17",
+      "iteration": 17,
+      "fxhash": "ooEyFKp8g1PMvEaD76EN7KgRsETxYV844y3NuNbcE2rnZNieKtp",
+      "minter": "tz1S5VSHj3AthSBhWeJBWGfooUC5kxF219Cq",
+      "fxparams": "01ffffffffd9b312ff40180000000000004089d80000000000",
+      "owner": "tz1S5VSHj3AthSBhWeJBWGfooUC5kxF219Cq",
+      "thumbnailUri": "ipfs://QmRrHZ3KWDf4YBK46xPFHRmQWVt9XkbwNXTGj6XKzQdkzS",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooEyFKp8g1PMvEaD76EN7KgRsETxYV844y3NuNbcE2rnZNieKtp",
+        "iteration": 17,
+        "minter": "tz1S5VSHj3AthSBhWeJBWGfooUC5kxF219Cq",
+        "fxparams": "01ffffffffd9b312ff40180000000000004089d80000000000"
+      }
+    },
+    {
+      "tokenId": 59600,
+      "name": "台灣建築記憶 #18",
+      "iteration": 18,
+      "fxhash": "ooWQeumPda9VgYym4sRh7xgARboXhYQHS1nZiseRr8CZKv4dPKL",
+      "minter": "tz1cdYognc8ijJHSyvKemon5MWA9Vuyiz2Yx",
+      "fxparams": "07a5d1ff0041ddf22440240000000000004085380000000000",
+      "owner": "tz1cdYognc8ijJHSyvKemon5MWA9Vuyiz2Yx",
+      "thumbnailUri": "ipfs://QmY8zCLp8nEMVrbXSfeCzR1nvAy2hpj9a9Tkbwoav69thx",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooWQeumPda9VgYym4sRh7xgARboXhYQHS1nZiseRr8CZKv4dPKL",
+        "iteration": 18,
+        "minter": "tz1cdYognc8ijJHSyvKemon5MWA9Vuyiz2Yx",
+        "fxparams": "07a5d1ff0041ddf22440240000000000004085380000000000"
+      }
+    },
+    {
+      "tokenId": 59608,
+      "name": "台灣建築記憶 #19",
+      "iteration": 19,
+      "fxhash": "oo7gtYL3YM1KJ3Vocm38oQyufeHzD8EHhBHgTjFZ7WMMuULphP8",
+      "minter": "tz1YGGKfH7cdZNchd6AW8nNQt9rKLzrBnNYn",
+      "fxparams": "06e8e9e08f9f942df7401c0000000000004052c00000000000",
+      "owner": "tz1YGGKfH7cdZNchd6AW8nNQt9rKLzrBnNYn",
+      "thumbnailUri": "ipfs://QmWVTCaADJRmZZr42MqS2B5LEwaBZf3EZqt1XJ9S4pqNfJ",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oo7gtYL3YM1KJ3Vocm38oQyufeHzD8EHhBHgTjFZ7WMMuULphP8",
+        "iteration": 19,
+        "minter": "tz1YGGKfH7cdZNchd6AW8nNQt9rKLzrBnNYn",
+        "fxparams": "06e8e9e08f9f942df7401c0000000000004052c00000000000"
+      }
+    },
+    {
+      "tokenId": 59622,
+      "name": "台灣建築記憶 #20",
+      "iteration": 20,
+      "fxhash": "opXTF1sG34fGojDm2Y5XeM9TVEJjaDWkd4iJATSkoNyZtTgSNuA",
+      "minter": "tz1SB2pccqXLVDsFyzqRiv5Kyfggdx9hRWyj",
+      "fxparams": "071449d18ca676391a40220000000000004063200000000000",
+      "owner": "tz1SB2pccqXLVDsFyzqRiv5Kyfggdx9hRWyj",
+      "thumbnailUri": "ipfs://QmZSdBcvVhF8cSNcEYWVqcsvf8dviM8RWciwUTTJ3tMdky",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opXTF1sG34fGojDm2Y5XeM9TVEJjaDWkd4iJATSkoNyZtTgSNuA",
+        "iteration": 20,
+        "minter": "tz1SB2pccqXLVDsFyzqRiv5Kyfggdx9hRWyj",
+        "fxparams": "071449d18ca676391a40220000000000004063200000000000"
+      }
+    },
+    {
+      "tokenId": 59681,
+      "name": "台灣建築記憶 #21",
+      "iteration": 21,
+      "fxhash": "onsNHeofHkb2bNoF4ECqcXfUX7tWP4zJTQxurPQ77hYWgVtDQGG",
+      "minter": "tz1WrBXP1kfJ2g4WZZMVKmVSh9zb689iiWfJ",
+      "fxparams": "07def6ff997d98ff5e40140000000000001c00000000000040",
+      "owner": "tz1WrBXP1kfJ2g4WZZMVKmVSh9zb689iiWfJ",
+      "thumbnailUri": "ipfs://QmRGnSQZHqFdj6GmrX7bNjHZMS5eQbn7a5D1M2vUSNYwkw",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onsNHeofHkb2bNoF4ECqcXfUX7tWP4zJTQxurPQ77hYWgVtDQGG",
+        "iteration": 21,
+        "minter": "tz1WrBXP1kfJ2g4WZZMVKmVSh9zb689iiWfJ",
+        "fxparams": "07def6ff997d98ff5e40140000000000001c00000000000040"
+      }
+    },
+    {
+      "tokenId": 59682,
+      "name": "台灣建築記憶 #22",
+      "iteration": 22,
+      "fxhash": "opXSvVgYfrCMTMbAkRFQu6QayJm3bwVoAXU63dThxtXVj7duACi",
+      "minter": "tz1bRa4b8T7Yi9tzY2xMJ7UN3E2wTKejH1iC",
+      "fxparams": "06cfd7da99c0c7eb5e401c000000000000403a000000000000",
+      "owner": "tz1bRa4b8T7Yi9tzY2xMJ7UN3E2wTKejH1iC",
+      "thumbnailUri": "ipfs://QmdZTYrCwEZGZTmf4oqKgbQHT2NUKFEU534twDg3xLv8T2",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opXSvVgYfrCMTMbAkRFQu6QayJm3bwVoAXU63dThxtXVj7duACi",
+        "iteration": 22,
+        "minter": "tz1bRa4b8T7Yi9tzY2xMJ7UN3E2wTKejH1iC",
+        "fxparams": "06cfd7da99c0c7eb5e401c000000000000403a000000000000"
+      }
+    },
+    {
+      "tokenId": 59684,
+      "name": "台灣建築記憶 #23",
+      "iteration": 23,
+      "fxhash": "op3NQ5UjL3dAgGvKWa1YwLPii83XysfzioaMS354on64JswarwN",
+      "minter": "tz1YeK4YvnKfkGo63rnjGBCSiugvX1SnPApX",
+      "fxparams": "0204356000290303404014000000000000406b000000000000",
+      "owner": "tz1YeK4YvnKfkGo63rnjGBCSiugvX1SnPApX",
+      "thumbnailUri": "ipfs://QmZWs3dS2JDifK5EdU4VEmEiNym4QwhgB9uTR1jvFDSENH",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "op3NQ5UjL3dAgGvKWa1YwLPii83XysfzioaMS354on64JswarwN",
+        "iteration": 23,
+        "minter": "tz1YeK4YvnKfkGo63rnjGBCSiugvX1SnPApX",
+        "fxparams": "0204356000290303404014000000000000406b000000000000"
+      }
+    },
+    {
+      "tokenId": 59694,
+      "name": "台灣建築記憶 #24",
+      "iteration": 24,
+      "fxhash": "op6jMyzBu9ngnCgxqNE7pB2VzmAR1dzG3EfyuYquStCVUwFVYto",
+      "minter": "tz1YuR2h4vfGQtSBExL6C6i4x4Nj9Ek3fpcu",
+      "fxparams": "074171a8004d0d05264024000000000000406a400000000000",
+      "owner": "tz1YuR2h4vfGQtSBExL6C6i4x4Nj9Ek3fpcu",
+      "thumbnailUri": "ipfs://QmYD4K2ZT1tCuAc7pv2woDPUTch4nVJ1s8hfeFfkeLLXLm",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "op6jMyzBu9ngnCgxqNE7pB2VzmAR1dzG3EfyuYquStCVUwFVYto",
+        "iteration": 24,
+        "minter": "tz1YuR2h4vfGQtSBExL6C6i4x4Nj9Ek3fpcu",
+        "fxparams": "074171a8004d0d05264024000000000000406a400000000000"
+      }
+    },
+    {
+      "tokenId": 59744,
+      "name": "台灣建築記憶 #25",
+      "iteration": 25,
+      "fxhash": "oomt573aioE9USfavXwHCrpdmpYVnZJAjLKZVWPHebryzPjz2Cd",
+      "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+      "fxparams": "0700000024e3ecf22440240000000000004070b00000000000",
+      "owner": "tz1TTjeFg9kgyvx3aVsFsp9Ku37ECRyWJ58j",
+      "thumbnailUri": "ipfs://QmQtZxWUZioH1hDcg9FPRos82aPCX2zgJpBPhxFfjqvHbJ",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oomt573aioE9USfavXwHCrpdmpYVnZJAjLKZVWPHebryzPjz2Cd",
+        "iteration": 25,
+        "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+        "fxparams": "0700000024e3ecf22440240000000000004070b00000000000"
+      }
+    },
+    {
+      "tokenId": 59748,
+      "name": "台灣建築記憶 #26",
+      "iteration": 26,
+      "fxhash": "ooCfYdmEjjEmcGMVhtmehLHTr8jAuauhZiG1Gsfpec342erdw98",
+      "minter": "tz1gHKwt2rFCiTSMTQxNCAbKPTAby1V8it1z",
+      "fxparams": "00e338b2fb60dc5f374018000000000000407c800000000000",
+      "owner": "tz1gHKwt2rFCiTSMTQxNCAbKPTAby1V8it1z",
+      "thumbnailUri": "ipfs://Qme4jQpF4ure2UJXUdyRjp9F6P5ud7TE86BA2ZKXUSe6Dg",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooCfYdmEjjEmcGMVhtmehLHTr8jAuauhZiG1Gsfpec342erdw98",
+        "iteration": 26,
+        "minter": "tz1gHKwt2rFCiTSMTQxNCAbKPTAby1V8it1z",
+        "fxparams": "00e338b2fb60dc5f374018000000000000407c800000000000"
+      }
+    },
+    {
+      "tokenId": 59835,
+      "name": "台灣建築記憶 #27",
+      "iteration": 27,
+      "fxhash": "ootfCDyBdUoMmm1mWJ2vbTSVRmzFRK6zRSSTbspZn1RWEKcwsuj",
+      "minter": "tz2RGx14U1PWJ9L8MnAYVGKF59P6prRvz2MH",
+      "fxparams": "0705f3ba1205d2ee1c401c0000000000004081e00000000000",
+      "owner": "tz2RGx14U1PWJ9L8MnAYVGKF59P6prRvz2MH",
+      "thumbnailUri": "ipfs://QmYLkxmvhiYV3idx3XKyBZ1qG5D3BDxs6gjwQEaUpFfRFT",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ootfCDyBdUoMmm1mWJ2vbTSVRmzFRK6zRSSTbspZn1RWEKcwsuj",
+        "iteration": 27,
+        "minter": "tz2RGx14U1PWJ9L8MnAYVGKF59P6prRvz2MH",
+        "fxparams": "0705f3ba1205d2ee1c401c0000000000004081e00000000000"
+      }
+    },
+    {
+      "tokenId": 59904,
+      "name": "台灣建築記憶 #28",
+      "iteration": 28,
+      "fxhash": "op5q81YqHvgzFGe3a4RbRqcNWoZ3bwuEaC97fZ6GhnuufKfkYrU",
+      "minter": "tz1UouXqe39RwEauqcLPdWRyQkFNqjULfLsv",
+      "fxparams": "0078f2e72e23ad941a4014000000000000408ee80000000000",
+      "owner": "tz1UouXqe39RwEauqcLPdWRyQkFNqjULfLsv",
+      "thumbnailUri": "ipfs://QmbGz1vgpbXfjdncsYpSdLFxcmR91aCR8WAjnia7Gy8pe5",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "op5q81YqHvgzFGe3a4RbRqcNWoZ3bwuEaC97fZ6GhnuufKfkYrU",
+        "iteration": 28,
+        "minter": "tz1UouXqe39RwEauqcLPdWRyQkFNqjULfLsv",
+        "fxparams": "0078f2e72e23ad941a4014000000000000408ee80000000000"
+      }
+    },
+    {
+      "tokenId": 60123,
+      "name": "台灣建築記憶 #29",
+      "iteration": 29,
+      "fxhash": "ooubivZ7kEZdXcFssLYY3tiEsBWviEdnu5ihsFLU4JYYw3x2Wh6",
+      "minter": "tz1SLRzGqX9fuKPx1PAkrDxCvaetr524is11",
+      "fxparams": "07ffffffff382b16ff4018000000000000408a480000000000",
+      "owner": "tz1SLRzGqX9fuKPx1PAkrDxCvaetr524is11",
+      "thumbnailUri": "ipfs://QmUiMgXBkX4HCRa1uk2GUFFyfVWmGZthg54DZq5iDwTbBp",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooubivZ7kEZdXcFssLYY3tiEsBWviEdnu5ihsFLU4JYYw3x2Wh6",
+        "iteration": 29,
+        "minter": "tz1SLRzGqX9fuKPx1PAkrDxCvaetr524is11",
+        "fxparams": "07ffffffff382b16ff4018000000000000408a480000000000"
+      }
+    },
+    {
+      "tokenId": 60138,
+      "name": "台灣建築記憶 #30",
+      "iteration": 30,
+      "fxhash": "onmbD3wfDkx8FVAo3GqBkjciMLLic1akLAwCGST86YXjEvWvLrX",
+      "minter": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "fxparams": "032691ca3fb5c807dc40140000000000004067a00000000000",
+      "owner": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "thumbnailUri": "ipfs://QmXeUEmnUhBfSDAHSJCWktqRuVZ2YDsDi3t8rCncZ2jrTU",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onmbD3wfDkx8FVAo3GqBkjciMLLic1akLAwCGST86YXjEvWvLrX",
+        "iteration": 30,
+        "minter": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+        "fxparams": "032691ca3fb5c807dc40140000000000004067a00000000000"
+      }
+    },
+    {
+      "tokenId": 60244,
+      "name": "台灣建築記憶 #31",
+      "iteration": 31,
+      "fxhash": "onjuwmLx33GQF1sZxKvViXUWk8vm5w6jjBHU8cJ7LcNMBYHpH4a",
+      "minter": "tz1gdtdRsFhQzXf3tMXtU8LZ75jPpDoo4WpQ",
+      "fxparams": "060f064aff286b8cff4024000000000000405bc00000000000",
+      "owner": "tz1gdtdRsFhQzXf3tMXtU8LZ75jPpDoo4WpQ",
+      "thumbnailUri": "ipfs://QmYiJTgQkMqWo9HNBU5zK1hStBtkfteTu2jp18fKdC95Vx",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onjuwmLx33GQF1sZxKvViXUWk8vm5w6jjBHU8cJ7LcNMBYHpH4a",
+        "iteration": 31,
+        "minter": "tz1gdtdRsFhQzXf3tMXtU8LZ75jPpDoo4WpQ",
+        "fxparams": "060f064aff286b8cff4024000000000000405bc00000000000"
+      }
+    },
+    {
+      "tokenId": 60277,
+      "name": "台灣建築記憶 #32",
+      "iteration": 32,
+      "fxhash": "oogUXyRMrYzb38kBLEtHx4QKUFM5vqZGyd5EbiykwAfb5Xr7RiB",
+      "minter": "tz1TQSKJmsS3SW57jFVrrRckEi1HZMgAjRxp",
+      "fxparams": "01524ccfd21d3cb42e40180000000000004068200000000000",
+      "owner": "tz1TQSKJmsS3SW57jFVrrRckEi1HZMgAjRxp",
+      "thumbnailUri": "ipfs://QmQewyycNVCJmCXt8Hvgj21s2gHMTFM4hijV2XjczoDMK6",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oogUXyRMrYzb38kBLEtHx4QKUFM5vqZGyd5EbiykwAfb5Xr7RiB",
+        "iteration": 32,
+        "minter": "tz1TQSKJmsS3SW57jFVrrRckEi1HZMgAjRxp",
+        "fxparams": "01524ccfd21d3cb42e40180000000000004068200000000000"
+      }
+    },
+    {
+      "tokenId": 60284,
+      "name": "台灣建築記憶 #33",
+      "iteration": 33,
+      "fxhash": "ooUfGefdohKJiPi6URLh5ifXp9ZG5yTTsRDPthHqHqPdbeUE3oW",
+      "minter": "tz1SNpPrhJ6dG4XjoLZyX6UCGh6pTHyA2NeN",
+      "fxparams": "05f122e281d0b095ca4024000000000000408e600000000000",
+      "owner": "tz1c9vgUPbLW7Hgw3GE1Hshh5VGtRBJ24vCY",
+      "thumbnailUri": "ipfs://QmeaWsm22AbDjfy89PvmYwQHpchpRZ9KSU5YLY7An3AdFX",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooUfGefdohKJiPi6URLh5ifXp9ZG5yTTsRDPthHqHqPdbeUE3oW",
+        "iteration": 33,
+        "minter": "tz1SNpPrhJ6dG4XjoLZyX6UCGh6pTHyA2NeN",
+        "fxparams": "05f122e281d0b095ca4024000000000000408e600000000000"
+      }
+    },
+    {
+      "tokenId": 60310,
+      "name": "台灣建築記憶 #34",
+      "iteration": 34,
+      "fxhash": "opDyREEk5PD8FcLzYjEWRCZazFM578NAvu6FRwTbghZeqhxe6Gu",
+      "minter": "tz1aYckSgRmBzzQfDYdHLXkxdog3o1PbXqg3",
+      "fxparams": "079ad9ec40a98c63ed40140000000000004080580000000000",
+      "owner": "tz1aYckSgRmBzzQfDYdHLXkxdog3o1PbXqg3",
+      "thumbnailUri": "ipfs://QmVcinS22Xd8A1dFtPocVHxUSxRzav2kJhZDMV3go3EFAP",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opDyREEk5PD8FcLzYjEWRCZazFM578NAvu6FRwTbghZeqhxe6Gu",
+        "iteration": 34,
+        "minter": "tz1aYckSgRmBzzQfDYdHLXkxdog3o1PbXqg3",
+        "fxparams": "079ad9ec40a98c63ed40140000000000004080580000000000"
+      }
+    },
+    {
+      "tokenId": 60443,
+      "name": "台灣建築記憶 #35",
+      "iteration": 35,
+      "fxhash": "opLwwn6apXFwWNBYkTmjoTnJMTbHTXEUJxKiNtDkky1GwmTMVjW",
+      "minter": "tz1dxJQUkh3uaFy1bPgeCV3jJMwPnBwmZSHn",
+      "fxparams": "07136cd9ffc13a19ff4018000000000000408cc80000000000",
+      "owner": "tz1dxJQUkh3uaFy1bPgeCV3jJMwPnBwmZSHn",
+      "thumbnailUri": "ipfs://QmV5tXfxhnTfdmD3o8KKt8ZpzPaq55imMSKRGctVVzx3zQ",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opLwwn6apXFwWNBYkTmjoTnJMTbHTXEUJxKiNtDkky1GwmTMVjW",
+        "iteration": 35,
+        "minter": "tz1dxJQUkh3uaFy1bPgeCV3jJMwPnBwmZSHn",
+        "fxparams": "07136cd9ffc13a19ff4018000000000000408cc80000000000"
+      }
+    },
+    {
+      "tokenId": 60671,
+      "name": "台灣建築記憶 #36",
+      "iteration": 36,
+      "fxhash": "oof6zQvNyic2FN9jiGN6ra8TBTBBkdQC4QA8hdg29YyUyqihLec",
+      "minter": "tz1bz3RpamvkvNCLfsjN22VCqs4LCVrFnNEB",
+      "fxparams": "07d4f31b60e980367040220000000000004074700000000000",
+      "owner": "tz1TndYkrigS6mQYV6nwRn42Ew9rZqqdVYK7",
+      "thumbnailUri": "ipfs://QmTgsjNPC5uQgcBo3824HP5SbdpyxcqmpFrfUgEfSjgSs2",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oof6zQvNyic2FN9jiGN6ra8TBTBBkdQC4QA8hdg29YyUyqihLec",
+        "iteration": 36,
+        "minter": "tz1bz3RpamvkvNCLfsjN22VCqs4LCVrFnNEB",
+        "fxparams": "07d4f31b60e980367040220000000000004074700000000000"
+      }
+    },
+    {
+      "tokenId": 60672,
+      "name": "台灣建築記憶 #37",
+      "iteration": 37,
+      "fxhash": "opPC9oVEYreoDU1TvVoiySfd1A3J18LnmaVcEBPwUXioGDmQtbC",
+      "minter": "tz1hQDUAFTNwY7MTyZT9KTfwwyEzP9itZaMd",
+      "fxparams": "0001a7e9007261614040200000000000004075e00000000000",
+      "owner": "tz1hQDUAFTNwY7MTyZT9KTfwwyEzP9itZaMd",
+      "thumbnailUri": "ipfs://QmZ363snjX8RvjPGGAZc9MJ1R3x46HnakToy87rDCSYCHz",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opPC9oVEYreoDU1TvVoiySfd1A3J18LnmaVcEBPwUXioGDmQtbC",
+        "iteration": 37,
+        "minter": "tz1hQDUAFTNwY7MTyZT9KTfwwyEzP9itZaMd",
+        "fxparams": "0001a7e9007261614040200000000000004075e00000000000"
+      }
+    },
+    {
+      "tokenId": 60684,
+      "name": "台灣建築記憶 #38",
+      "iteration": 38,
+      "fxhash": "opPw4Gx3LHAjybkeBQjgKPwLdyJKejAfF5JBR7sAUASNh9qGcEQ",
+      "minter": "tz1Xc8iBaZkvX2XDhMCkkAJ4uy1Puveo26HR",
+      "fxparams": "0687a2367fffd610ff4022000000000000408f180000000000",
+      "owner": "tz1Xc8iBaZkvX2XDhMCkkAJ4uy1Puveo26HR",
+      "thumbnailUri": "ipfs://QmbZEMdx9K7FXUdJsipwqzBWqeGXntH5TichkhQ6YFZvER",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opPw4Gx3LHAjybkeBQjgKPwLdyJKejAfF5JBR7sAUASNh9qGcEQ",
+        "iteration": 38,
+        "minter": "tz1Xc8iBaZkvX2XDhMCkkAJ4uy1Puveo26HR",
+        "fxparams": "0687a2367fffd610ff4022000000000000408f180000000000"
+      }
+    },
+    {
+      "tokenId": 60746,
+      "name": "台灣建築記憶 #39",
+      "iteration": 39,
+      "fxhash": "ooSX8EKmKvwto6KcyFqzJAS9uTCty3NtfKYi4XjxMNgwvwv8xt2",
+      "minter": "tz1RhRtVUavx6ANqGRFgzCNMqqRt6gLcmUjr",
+      "fxparams": "00ffffff00ffffff004024000000000000bff0000000000000",
+      "owner": "tz1RhRtVUavx6ANqGRFgzCNMqqRt6gLcmUjr",
+      "thumbnailUri": "ipfs://QmeVC88f3Xe8Ch9fzM8NfgoDY9bgbWvBPfU5XnzyV5Aetd",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooSX8EKmKvwto6KcyFqzJAS9uTCty3NtfKYi4XjxMNgwvwv8xt2",
+        "iteration": 39,
+        "minter": "tz1RhRtVUavx6ANqGRFgzCNMqqRt6gLcmUjr",
+        "fxparams": "00ffffff00ffffff004024000000000000bff0000000000000"
+      }
+    },
+    {
+      "tokenId": 60956,
+      "name": "台灣建築記憶 #40",
+      "iteration": 40,
+      "fxhash": "ood9F2bquqFjRWTaqDhnwtEdsNKDrSKCasVjWv1qTUh6dsB5mp5",
+      "minter": "tz1WBcAKXemrPjnMZaV61ZmUmQea6MXR5vbh",
+      "fxparams": "000412c2b50039bfb34014000000000000015b07e40a000000",
+      "owner": "tz2NcHmYdu98BpWtSaNVZqA6F47m6pFkXHXv",
+      "thumbnailUri": "ipfs://QmTqsMUWWNXTges6f9JT8S2XZvC1FEpcR7XET8d8UdNkY1",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ood9F2bquqFjRWTaqDhnwtEdsNKDrSKCasVjWv1qTUh6dsB5mp5",
+        "iteration": 40,
+        "minter": "tz1WBcAKXemrPjnMZaV61ZmUmQea6MXR5vbh",
+        "fxparams": "000412c2b50039bfb34014000000000000015b07e40a000000"
+      }
+    },
+    {
+      "tokenId": 60976,
+      "name": "台灣建築記憶 #41",
+      "iteration": 41,
+      "fxhash": "opDdWir2NMzvZf3ectXeqq7EvThJqhJa62u8pBBeWY46LEGKvqC",
+      "minter": "tz1Q1hE57ARSaEzSvdCwGUdauZqshrPCgCGw",
+      "fxparams": "078d849c1c5b3a3a4040200000000000004031000000000000",
+      "owner": "tz1Q1hE57ARSaEzSvdCwGUdauZqshrPCgCGw",
+      "thumbnailUri": "ipfs://QmeVMsgaNWnUfy4a1rr4WhV4Ct2KWKAYcpgohAbrWf426c",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opDdWir2NMzvZf3ectXeqq7EvThJqhJa62u8pBBeWY46LEGKvqC",
+        "iteration": 41,
+        "minter": "tz1Q1hE57ARSaEzSvdCwGUdauZqshrPCgCGw",
+        "fxparams": "078d849c1c5b3a3a4040200000000000004031000000000000"
+      }
+    },
+    {
+      "tokenId": 60988,
+      "name": "台灣建築記憶 #42",
+      "iteration": 42,
+      "fxhash": "oopqM57anuMMgvkk5XX3XGBPdKPBhhksyajbztk64126n9CdSC5",
+      "minter": "tz1hXx6tvTV3kzxpBR6E4hDYcxdgcRGHUTFj",
+      "fxparams": "00ffffff00ff5500fa401c000000000000405b000000000000",
+      "owner": "tz1hXx6tvTV3kzxpBR6E4hDYcxdgcRGHUTFj",
+      "thumbnailUri": "ipfs://QmX6XbtqEQJhx3HtuxNzzoDFsZ5KCXKy1xwUiUFyeiZuy6",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oopqM57anuMMgvkk5XX3XGBPdKPBhhksyajbztk64126n9CdSC5",
+        "iteration": 42,
+        "minter": "tz1hXx6tvTV3kzxpBR6E4hDYcxdgcRGHUTFj",
+        "fxparams": "00ffffff00ff5500fa401c000000000000405b000000000000"
+      }
+    },
+    {
+      "tokenId": 61000,
+      "name": "台灣建築記憶 #43",
+      "iteration": 43,
+      "fxhash": "oo1AjjxSLjVjY5chU69NhwwTXkXij4TnBDc1PFjDhyD84QSHZNS",
+      "minter": "tz1isWXcKCono94d5eufHt3rsZypV8LUh8mh",
+      "fxparams": "00cfe0e13dbcc8d40a40140000000000004073400000000000",
+      "owner": "tz2994tUVsnhCFizVV1n6eDyxKMCdYPYTzUA",
+      "thumbnailUri": "ipfs://QmeXjjcFx36azjR2oUQfhrdYVShdxTEK9Xq2TYPKx2VMWR",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oo1AjjxSLjVjY5chU69NhwwTXkXij4TnBDc1PFjDhyD84QSHZNS",
+        "iteration": 43,
+        "minter": "tz1isWXcKCono94d5eufHt3rsZypV8LUh8mh",
+        "fxparams": "00cfe0e13dbcc8d40a40140000000000004073400000000000"
+      }
+    },
+    {
+      "tokenId": 61114,
+      "name": "台灣建築記憶 #44",
+      "iteration": 44,
+      "fxhash": "opZZCY19PrW7Xg9HBStKduJ1kQYGZN5Ci1NZU1Qq5QPvnqY6sj2",
+      "minter": "tz1dRuNG4NzY8QHE8n2Aj4YWTKgSLF9jmido",
+      "fxparams": "07e5e8dcff2a1124ff40140000000000004081980000000000",
+      "owner": "tz1dRuNG4NzY8QHE8n2Aj4YWTKgSLF9jmido",
+      "thumbnailUri": "ipfs://QmQQzQyh699iHzxKyYv9azVPEVjZEw9JVDqNJjUswekmkd",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opZZCY19PrW7Xg9HBStKduJ1kQYGZN5Ci1NZU1Qq5QPvnqY6sj2",
+        "iteration": 44,
+        "minter": "tz1dRuNG4NzY8QHE8n2Aj4YWTKgSLF9jmido",
+        "fxparams": "07e5e8dcff2a1124ff40140000000000004081980000000000"
+      }
+    },
+    {
+      "tokenId": 61161,
+      "name": "台灣建築記憶 #45",
+      "iteration": 45,
+      "fxhash": "opFpkB8ba64r2X6giuE8CBwF4cPhBVL2tnhEXUvUnzjPLZBL2NN",
+      "minter": "tz1Umh9HtuMmaRjvHW1iCeaTu5HbhbxBDKqD",
+      "fxparams": "070786203b7cc8d3c6401c0000000000004040800000000000",
+      "owner": "tz1RE4vorA4m1W9WPPwVfpBHQUPYezZQ7xLn",
+      "thumbnailUri": "ipfs://QmPsXrkDRYgyMz5nGJ6aotKsmfDogVEbMzBcNJDtEZNUtk",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opFpkB8ba64r2X6giuE8CBwF4cPhBVL2tnhEXUvUnzjPLZBL2NN",
+        "iteration": 45,
+        "minter": "tz1Umh9HtuMmaRjvHW1iCeaTu5HbhbxBDKqD",
+        "fxparams": "070786203b7cc8d3c6401c0000000000004040800000000000"
+      }
+    },
+    {
+      "tokenId": 61240,
+      "name": "台灣建築記憶 #46",
+      "iteration": 46,
+      "fxhash": "op5JDznfUsNMLG59Q3tZyRV3tsq2YkoJuVhUi5ZynaUqsybCudB",
+      "minter": "tz2FY2Yms9aefv4SyLVgpCRecX8ZzKas1A6P",
+      "fxparams": "02dc72c104281d540e40220000000000004072700000000000",
+      "owner": "tz2FY2Yms9aefv4SyLVgpCRecX8ZzKas1A6P",
+      "thumbnailUri": "ipfs://QmWr7ezP9wNCnHo8hjts9J1GpyvFb6nPq6hN1hmeJTLn9T",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "op5JDznfUsNMLG59Q3tZyRV3tsq2YkoJuVhUi5ZynaUqsybCudB",
+        "iteration": 46,
+        "minter": "tz2FY2Yms9aefv4SyLVgpCRecX8ZzKas1A6P",
+        "fxparams": "02dc72c104281d540e40220000000000004072700000000000"
+      }
+    },
+    {
+      "tokenId": 61245,
+      "name": "台灣建築記憶 #47",
+      "iteration": 47,
+      "fxhash": "oow8snVDqaUyDWDiTQRTrCAGay9EQTSRfGucQZFc34J1UB4UoF9",
+      "minter": "tz2FY2Yms9aefv4SyLVgpCRecX8ZzKas1A6P",
+      "fxparams": "00ffffffabffffff264024000000000000bff0000000000000",
+      "owner": "tz2FY2Yms9aefv4SyLVgpCRecX8ZzKas1A6P",
+      "thumbnailUri": "ipfs://QmXUyufG8uBZagYrPhTPSoMx4T4AFLqgAbFRLwH7c48ZE2",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oow8snVDqaUyDWDiTQRTrCAGay9EQTSRfGucQZFc34J1UB4UoF9",
+        "iteration": 47,
+        "minter": "tz2FY2Yms9aefv4SyLVgpCRecX8ZzKas1A6P",
+        "fxparams": "00ffffffabffffff264024000000000000bff0000000000000"
+      }
+    },
+    {
+      "tokenId": 61365,
+      "name": "台灣建築記憶 #48",
+      "iteration": 48,
+      "fxhash": "ooeoSHqcadKZq1xP64B3PAt8pBLDEdnhpxber2JaW9JeN5XMvdY",
+      "minter": "tz1UdbvPsFnXAz2PoHqryYu26ePPVgn9bnQp",
+      "fxparams": "04030105030000000040200000000000004078a00000000000",
+      "owner": "tz1UdbvPsFnXAz2PoHqryYu26ePPVgn9bnQp",
+      "thumbnailUri": "ipfs://QmbcdQtMCY6DQoqcc4UUzfAEBj6dzk9W9YzGtuNunoSmZS",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooeoSHqcadKZq1xP64B3PAt8pBLDEdnhpxber2JaW9JeN5XMvdY",
+        "iteration": 48,
+        "minter": "tz1UdbvPsFnXAz2PoHqryYu26ePPVgn9bnQp",
+        "fxparams": "04030105030000000040200000000000004078a00000000000"
+      }
+    },
+    {
+      "tokenId": 61375,
+      "name": "台灣建築記憶 #49",
+      "iteration": 49,
+      "fxhash": "ooeuqatjjZSoeRQtjhZyRCHH26ocJg9PwtMBhuArjY1gm5a4L3s",
+      "minter": "tz1TCejY1XtYRVFo891vjYj2epgm2a5CGhdM",
+      "fxparams": "017cf8002e18010140402000000000000000bf79980d000000",
+      "owner": "tz1TCejY1XtYRVFo891vjYj2epgm2a5CGhdM",
+      "thumbnailUri": "ipfs://Qmev2b6nCdYfYYit44k8HLDKZx5kouziMiJtEuWGfNJk1H",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooeuqatjjZSoeRQtjhZyRCHH26ocJg9PwtMBhuArjY1gm5a4L3s",
+        "iteration": 49,
+        "minter": "tz1TCejY1XtYRVFo891vjYj2epgm2a5CGhdM",
+        "fxparams": "017cf8002e18010140402000000000000000bf79980d000000"
+      }
+    },
+    {
+      "tokenId": 61376,
+      "name": "台灣建築記憶 #50",
+      "iteration": 50,
+      "fxhash": "ooReEtFmApH41jwREZKRtR9R885PoK5q7qNLEU6amB2PDLJZPCf",
+      "minter": "tz1feQt3WZPMFJUAY94s4NmuJF1Ed1HJikGE",
+      "fxparams": "004aa71c179374bc6a401c000000000000407c500000000000",
+      "owner": "tz1feQt3WZPMFJUAY94s4NmuJF1Ed1HJikGE",
+      "thumbnailUri": "ipfs://QmZR9RmcFxoimHox99tJmis1JFN9Jfaw3Wwisb6m9vXg5Z",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooReEtFmApH41jwREZKRtR9R885PoK5q7qNLEU6amB2PDLJZPCf",
+        "iteration": 50,
+        "minter": "tz1feQt3WZPMFJUAY94s4NmuJF1Ed1HJikGE",
+        "fxparams": "004aa71c179374bc6a401c000000000000407c500000000000"
+      }
+    },
+    {
+      "tokenId": 61387,
+      "name": "台灣建築記憶 #51",
+      "iteration": 51,
+      "fxhash": "oogWEi2sSgSGM1Re94S1c78JbtDfXGcBjjYqCW1sZS1pwudijRU",
+      "minter": "tz1bz3RpamvkvNCLfsjN22VCqs4LCVrFnNEB",
+      "fxparams": "0490a0d7d0df50e96340180000000000004061600000000000",
+      "owner": "tz1bz3RpamvkvNCLfsjN22VCqs4LCVrFnNEB",
+      "thumbnailUri": "ipfs://QmbDXj4V5ex7p5mxYE2FjNETPii2MEPxHWer2G1U1mrGdi",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oogWEi2sSgSGM1Re94S1c78JbtDfXGcBjjYqCW1sZS1pwudijRU",
+        "iteration": 51,
+        "minter": "tz1bz3RpamvkvNCLfsjN22VCqs4LCVrFnNEB",
+        "fxparams": "0490a0d7d0df50e96340180000000000004061600000000000"
+      }
+    },
+    {
+      "tokenId": 61682,
+      "name": "台灣建築記憶 #52",
+      "iteration": 52,
+      "fxhash": "ooshdFQ5ENu6kVSazT9gxkkAJoTMVzd7cf4BiujnHdKJcufbJSB",
+      "minter": "tz1WGQFiDnFgDYveKpzGxfGbvSZLWhNiesJ7",
+      "fxparams": "003fa47ae12f531d7a40240000000000004033000000000000",
+      "owner": "tz1WGQFiDnFgDYveKpzGxfGbvSZLWhNiesJ7",
+      "thumbnailUri": "ipfs://QmZRDxSQGrWAsUicPqndbS6hLo2ryv5FYtC6Fwhvq3Fh4E",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooshdFQ5ENu6kVSazT9gxkkAJoTMVzd7cf4BiujnHdKJcufbJSB",
+        "iteration": 52,
+        "minter": "tz1WGQFiDnFgDYveKpzGxfGbvSZLWhNiesJ7",
+        "fxparams": "003fa47ae12f531d7a40240000000000004033000000000000"
+      }
+    },
+    {
+      "tokenId": 61703,
+      "name": "台灣建築記憶 #53",
+      "iteration": 53,
+      "fxhash": "opPkSzosziwfV1hGSHFsqS15RFbQLbqqZa48WSoCeC8pv14FWVE",
+      "minter": "tz1ePy7JPbV7jaw57rKavh3mCdteUazLUEMG",
+      "fxparams": "060d0b0cffff0303ff401c0000000000004073a00000000000",
+      "owner": "tz1ePy7JPbV7jaw57rKavh3mCdteUazLUEMG",
+      "thumbnailUri": "ipfs://QmZiJpNRwt3jMAnigNPbQBMx3Pmnh28yfpjDWeK7EXZYMi",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opPkSzosziwfV1hGSHFsqS15RFbQLbqqZa48WSoCeC8pv14FWVE",
+        "iteration": 53,
+        "minter": "tz1ePy7JPbV7jaw57rKavh3mCdteUazLUEMG",
+        "fxparams": "060d0b0cffff0303ff401c0000000000004073a00000000000"
+      }
+    },
+    {
+      "tokenId": 61756,
+      "name": "台灣建築記憶 #54",
+      "iteration": 54,
+      "fxhash": "opMYWhHgwCtxA5jKdZXQgEJ5PqLHbtEmJkSuLWfqtPbaTQmXy6A",
+      "minter": "tz1ZAFgvPt1ktqvtZag6bvZUFPGh6NLiP462",
+      "fxparams": "07d2cb8eff8bacbcff401c0000000000004066200000000000",
+      "owner": "tz1ZAFgvPt1ktqvtZag6bvZUFPGh6NLiP462",
+      "thumbnailUri": "ipfs://QmXhCwnGEQxxqGSrs7pwMpfumVR7gKuFiNdNZ1YQffBoGs",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opMYWhHgwCtxA5jKdZXQgEJ5PqLHbtEmJkSuLWfqtPbaTQmXy6A",
+        "iteration": 54,
+        "minter": "tz1ZAFgvPt1ktqvtZag6bvZUFPGh6NLiP462",
+        "fxparams": "07d2cb8eff8bacbcff401c0000000000004066200000000000"
+      }
+    },
+    {
+      "tokenId": 61766,
+      "name": "台灣建築記憶 #55",
+      "iteration": 55,
+      "fxhash": "ooU9mxEaywB2X8dtaAewLpmfcEmkeNpzAuYjMyguSydWMDSM6pV",
+      "minter": "tz1M5rC6wwWkjbvpBsEXbN2MWdSSXv3ZMoA9",
+      "fxparams": "0714e39e8f81f0e3a340180000000000004018000000000000",
+      "owner": "tz1M5rC6wwWkjbvpBsEXbN2MWdSSXv3ZMoA9",
+      "thumbnailUri": "ipfs://QmdpNq48WboRCXQbg9nyZTKYjBBxvYLsUSkLz2Z5mCRvwM",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooU9mxEaywB2X8dtaAewLpmfcEmkeNpzAuYjMyguSydWMDSM6pV",
+        "iteration": 55,
+        "minter": "tz1M5rC6wwWkjbvpBsEXbN2MWdSSXv3ZMoA9",
+        "fxparams": "0714e39e8f81f0e3a340180000000000004018000000000000"
+      }
+    },
+    {
+      "tokenId": 62017,
+      "name": "台灣建築記憶 #56",
+      "iteration": 56,
+      "fxhash": "ooeJx73DewiBkxi5D4X6oZeZMwt6Y9YPEmMzJAFhYwyAGrJ5n2q",
+      "minter": "tz1RgndZs5f842TuF43VA4PjHFT9uoERzyGr",
+      "fxparams": "05a7c9d877ff0000f54024000000000000403d000000000000",
+      "owner": "tz1RgndZs5f842TuF43VA4PjHFT9uoERzyGr",
+      "thumbnailUri": "ipfs://QmV6s67YdWNyNd7R2U8jc1Nb5a4ox2HpxsfHWUtfSCtPv6",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooeJx73DewiBkxi5D4X6oZeZMwt6Y9YPEmMzJAFhYwyAGrJ5n2q",
+        "iteration": 56,
+        "minter": "tz1RgndZs5f842TuF43VA4PjHFT9uoERzyGr",
+        "fxparams": "05a7c9d877ff0000f54024000000000000403d000000000000"
+      }
+    },
+    {
+      "tokenId": 62038,
+      "name": "台灣建築記憶 #57",
+      "iteration": 57,
+      "fxhash": "oomdgf3orVWAGd6pXMug6FkSNVPDKypHeZ2nKZXQFCVfwKB6BkQ",
+      "minter": "tz1RHkAB4tE2tKcM3LRWHCtPAsz4oAbQpVFG",
+      "fxparams": "067a91049ec2500ab34018000000000000406f000000000000",
+      "owner": "tz1TwxZrUUmfJWEbgLPSyPJBL4Lzau21DzMU",
+      "thumbnailUri": "ipfs://QmPZDSJ1R4yMppfxtW7C3RUSj6EEP7cgPmJv2Pc77mbAFE",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oomdgf3orVWAGd6pXMug6FkSNVPDKypHeZ2nKZXQFCVfwKB6BkQ",
+        "iteration": 57,
+        "minter": "tz1RHkAB4tE2tKcM3LRWHCtPAsz4oAbQpVFG",
+        "fxparams": "067a91049ec2500ab34018000000000000406f000000000000"
+      }
+    },
+    {
+      "tokenId": 62047,
+      "name": "台灣建築記憶 #58",
+      "iteration": 58,
+      "fxhash": "op1XkCaXiAWtRbtsrmaWBjmDoucDYGUvn4f5udMrEQkAhX5A7jK",
+      "minter": "tz1TwxZrUUmfJWEbgLPSyPJBL4Lzau21DzMU",
+      "fxparams": "067100e3db1aff00424020000000000000407f200000000000",
+      "owner": "tz1TwxZrUUmfJWEbgLPSyPJBL4Lzau21DzMU",
+      "thumbnailUri": "ipfs://QmSxJdWRtnbLFkLuLn72eJppVxzVxqJ4s8PeCB75QXToM8",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "op1XkCaXiAWtRbtsrmaWBjmDoucDYGUvn4f5udMrEQkAhX5A7jK",
+        "iteration": 58,
+        "minter": "tz1TwxZrUUmfJWEbgLPSyPJBL4Lzau21DzMU",
+        "fxparams": "067100e3db1aff00424020000000000000407f200000000000"
+      }
+    },
+    {
+      "tokenId": 62347,
+      "name": "台灣建築記憶 #59",
+      "iteration": 59,
+      "fxhash": "onodDXXXUMJcFKTaroK7yTGnismrEDZtJakjEJWqgmcagP9svCm",
+      "minter": "tz1RPZp6NLzn7x4g7jhqHtCkhCQVnhbVMj8y",
+      "fxparams": "008632ffff80ffaeff40200000000000004087500000000000",
+      "owner": "tz1RPZp6NLzn7x4g7jhqHtCkhCQVnhbVMj8y",
+      "thumbnailUri": "ipfs://Qmbh3AjM6TdqwFLQ9mqPW7BECYgw8nBHnTz2gHagYXnwHW",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onodDXXXUMJcFKTaroK7yTGnismrEDZtJakjEJWqgmcagP9svCm",
+        "iteration": 59,
+        "minter": "tz1RPZp6NLzn7x4g7jhqHtCkhCQVnhbVMj8y",
+        "fxparams": "008632ffff80ffaeff40200000000000004087500000000000"
+      }
+    },
+    {
+      "tokenId": 62657,
+      "name": "台灣建築記憶 #60",
+      "iteration": 60,
+      "fxhash": "ooAptmETVXjBXUg9VvLGKpNbZDmj7Ena3tmcxxtdqQhdHZEfmmK",
+      "minter": "tz1hqkEd29UZ4npTKWjoKHfSRar75zSZVqbr",
+      "fxparams": "000b08ccffefd6d7ff401c0000000000004080480000000000",
+      "owner": "tz1hqkEd29UZ4npTKWjoKHfSRar75zSZVqbr",
+      "thumbnailUri": "ipfs://QmS6nsuz8nPKuJ56iiEax3884iBXnq3bXw87bjdqgvRAYg",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooAptmETVXjBXUg9VvLGKpNbZDmj7Ena3tmcxxtdqQhdHZEfmmK",
+        "iteration": 60,
+        "minter": "tz1hqkEd29UZ4npTKWjoKHfSRar75zSZVqbr",
+        "fxparams": "000b08ccffefd6d7ff401c0000000000004080480000000000"
+      }
+    },
+    {
+      "tokenId": 62905,
+      "name": "台灣建築記憶 #61",
+      "iteration": 61,
+      "fxhash": "opH6Ak5ZpYaVs8g1F8uZ3MTFE9CG3ccAx9EtdPtAHDVDmf6ngDW",
+      "minter": "tz29FjqWzKMnWyybgsEuoUBp93CsLd3Rt2Qa",
+      "fxparams": "07071340fffde9c7ff4018000000000000408b580000000000",
+      "owner": "tz29FjqWzKMnWyybgsEuoUBp93CsLd3Rt2Qa",
+      "thumbnailUri": "ipfs://QmVjWHrEmR82TP6Jo7dLaCCt3XFMNBj1P99X4V4Sm8vAiZ",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opH6Ak5ZpYaVs8g1F8uZ3MTFE9CG3ccAx9EtdPtAHDVDmf6ngDW",
+        "iteration": 61,
+        "minter": "tz29FjqWzKMnWyybgsEuoUBp93CsLd3Rt2Qa",
+        "fxparams": "07071340fffde9c7ff4018000000000000408b580000000000"
+      }
+    },
+    {
+      "tokenId": 63823,
+      "name": "台灣建築記憶 #62",
+      "iteration": 62,
+      "fxhash": "op1Lv3d2PYbQsajEjwzHwdX77HPJZqYbPwshLcs1LH46Q9uMqwp",
+      "minter": "tz1ZsTSSczUkFkkTijk5smEgKpGLm3vmza3F",
+      "fxparams": "07e0f4fff61b42131c40140000000000004088600000000000",
+      "owner": "tz1ZsTSSczUkFkkTijk5smEgKpGLm3vmza3F",
+      "thumbnailUri": "ipfs://QmUAFEDHcgiS8PDNJnK4KxQadSWVX3ycZBQerEeh8M8ZyW",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "op1Lv3d2PYbQsajEjwzHwdX77HPJZqYbPwshLcs1LH46Q9uMqwp",
+        "iteration": 62,
+        "minter": "tz1ZsTSSczUkFkkTijk5smEgKpGLm3vmza3F",
+        "fxparams": "07e0f4fff61b42131c40140000000000004088600000000000"
+      }
+    },
+    {
+      "tokenId": 64612,
+      "name": "台灣建築記憶 #63",
+      "iteration": 63,
+      "fxhash": "onrHXUUEfHCPbkjxZJXuduGMQNhwQ9w9wvBWK51E8JVSJD6M7gB",
+      "minter": "tz1QDkAea9R3ChnHFpZQhKshUBvcNRCGooDt",
+      "fxparams": "023c3366ff4e4d4bff4014000000000000bff0000000000000",
+      "owner": "tz1QDkAea9R3ChnHFpZQhKshUBvcNRCGooDt",
+      "thumbnailUri": "ipfs://QmRewnKFVcvgRiSAvxxXAvsLMQVsZHEBZnpmZEwDG62o2f",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onrHXUUEfHCPbkjxZJXuduGMQNhwQ9w9wvBWK51E8JVSJD6M7gB",
+        "iteration": 63,
+        "minter": "tz1QDkAea9R3ChnHFpZQhKshUBvcNRCGooDt",
+        "fxparams": "023c3366ff4e4d4bff4014000000000000bff0000000000000"
+      }
+    },
+    {
+      "tokenId": 66680,
+      "name": "台灣建築記憶 #64",
+      "iteration": 64,
+      "fxhash": "ooTkjWWVezpgDWNstU764dCfkXHwFed9ZGcKHDa7oVS8Xn8Kyg8",
+      "minter": "tz1LjLozEE4zMc5FHTySXbmkKdC6cner1Ptb",
+      "fxparams": "0790e8e824ebe4911f40220000000000004072700000000000",
+      "owner": "tz1LjLozEE4zMc5FHTySXbmkKdC6cner1Ptb",
+      "thumbnailUri": "ipfs://QmUfVpeUATeahuBeWFEYxSN8y7TUf9eQ7wK5WEBgxTqypf",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooTkjWWVezpgDWNstU764dCfkXHwFed9ZGcKHDa7oVS8Xn8Kyg8",
+        "iteration": 64,
+        "minter": "tz1LjLozEE4zMc5FHTySXbmkKdC6cner1Ptb",
+        "fxparams": "0790e8e824ebe4911f40220000000000004072700000000000"
+      }
+    },
+    {
+      "tokenId": 66778,
+      "name": "台灣建築記憶 #65",
+      "iteration": 65,
+      "fxhash": "opZzMEtfWeFcp1VXzF5qqW1nYXnh5c7o17vBUGTiYkmmPLaW7bn",
+      "minter": "tz1cdYognc8ijJHSyvKemon5MWA9Vuyiz2Yx",
+      "fxparams": "00112fcc7d215da47d4022000000000000408c480000000000",
+      "owner": "tz1gdB433mLvsbtzPT547j82t6ve3b2JDw9F",
+      "thumbnailUri": "ipfs://QmeV3tzJn3bCbB4vLZZ8HvMGf2LoRDN82NPcn2jkwUr1tm",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opZzMEtfWeFcp1VXzF5qqW1nYXnh5c7o17vBUGTiYkmmPLaW7bn",
+        "iteration": 65,
+        "minter": "tz1cdYognc8ijJHSyvKemon5MWA9Vuyiz2Yx",
+        "fxparams": "00112fcc7d215da47d4022000000000000408c480000000000"
+      }
+    },
+    {
+      "tokenId": 67159,
+      "name": "台灣建築記憶 #66",
+      "iteration": 66,
+      "fxhash": "ooSxR2gTuq3gmpMpAJcAndRqAxd9o9oQeXELVkwC61thxaJDinH",
+      "minter": "tz1UouXqe39RwEauqcLPdWRyQkFNqjULfLsv",
+      "fxparams": "07efecec1a10c29c0d40240000000000004071800000000000",
+      "owner": "tz1UouXqe39RwEauqcLPdWRyQkFNqjULfLsv",
+      "thumbnailUri": "ipfs://QmXpckjDg3EDSzYbyJJXMTmP3T2AsHzyR8f7389e19qVD7",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooSxR2gTuq3gmpMpAJcAndRqAxd9o9oQeXELVkwC61thxaJDinH",
+        "iteration": 66,
+        "minter": "tz1UouXqe39RwEauqcLPdWRyQkFNqjULfLsv",
+        "fxparams": "07efecec1a10c29c0d40240000000000004071800000000000"
+      }
+    },
+    {
+      "tokenId": 67558,
+      "name": "台灣建築記憶 #67",
+      "iteration": 67,
+      "fxhash": "ooBbgo6UVtnfEJBF8JMFokHywKa9Z8muqtSqm7amo7X6aAu3nc2",
+      "minter": "tz2RGx14U1PWJ9L8MnAYVGKF59P6prRvz2MH",
+      "fxparams": "070abaf2f522f2d382401c000000000000407da00000000000",
+      "owner": "tz2RGx14U1PWJ9L8MnAYVGKF59P6prRvz2MH",
+      "thumbnailUri": "ipfs://QmeRsuKcEmH69PWF3jLp7wi4FtSQ6ujCtNG9ZxPhJgiQ7j",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooBbgo6UVtnfEJBF8JMFokHywKa9Z8muqtSqm7amo7X6aAu3nc2",
+        "iteration": 67,
+        "minter": "tz2RGx14U1PWJ9L8MnAYVGKF59P6prRvz2MH",
+        "fxparams": "070abaf2f522f2d382401c000000000000407da00000000000"
+      }
+    },
+    {
+      "tokenId": 67600,
+      "name": "台灣建築記憶 #68",
+      "iteration": 68,
+      "fxhash": "ooKxRnLBzEL3FZ6e5LQGDtvvBVuzpi3KBPgYtEUYgf1m7aXJF7t",
+      "minter": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "fxparams": "0121a5799dadae14144020000000000000408a200000000000",
+      "owner": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "thumbnailUri": "ipfs://Qmamq9w52ZUzF9WB2NbkTayFWqCNzsTJDxizeY5Lf4ppKh",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooKxRnLBzEL3FZ6e5LQGDtvvBVuzpi3KBPgYtEUYgf1m7aXJF7t",
+        "iteration": 68,
+        "minter": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+        "fxparams": "0121a5799dadae14144020000000000000408a200000000000"
+      }
+    },
+    {
+      "tokenId": 68002,
+      "name": "台灣建築記憶 #69",
+      "iteration": 69,
+      "fxhash": "opGWfycGuvebqZJwR7KVLczj4mEBYNLYsnfrgoanmSCsUyNb576",
+      "minter": "tz2UuZUKj4xbkk1M6YD2iMAuLg3SjUdMJKhf",
+      "fxparams": "00b3ffe8ffd4b2b2ff40180000000000004062600000000000",
+      "owner": "tz2UuZUKj4xbkk1M6YD2iMAuLg3SjUdMJKhf",
+      "thumbnailUri": "ipfs://QmQrM4GadicRhMXD6UwyDaT3ffUj2LdmR3bg9ztAjKgKEk",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opGWfycGuvebqZJwR7KVLczj4mEBYNLYsnfrgoanmSCsUyNb576",
+        "iteration": 69,
+        "minter": "tz2UuZUKj4xbkk1M6YD2iMAuLg3SjUdMJKhf",
+        "fxparams": "00b3ffe8ffd4b2b2ff40180000000000004062600000000000"
+      }
+    },
+    {
+      "tokenId": 68438,
+      "name": "台灣建築記憶 #70",
+      "iteration": 70,
+      "fxhash": "opHZAbkTJZAyt5Jy1Qr1FEnE6LnXgDbDh2qJC4QJZmK5EHbMx7w",
+      "minter": "tz1Ni4oMi1cv4seoFyjdkzmvkBEsUCLPKRKV",
+      "fxparams": "06ffffffff2c2c2cff40140000000000004082e00000000000",
+      "owner": "tz2Hdi3Tx9Tsti3XGmMR32k2Khrh5G8nM9Hq",
+      "thumbnailUri": "ipfs://QmNxxfcy9kWynEau6seAiDPXjQYK91gzUoocq5kHFm18Ux",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opHZAbkTJZAyt5Jy1Qr1FEnE6LnXgDbDh2qJC4QJZmK5EHbMx7w",
+        "iteration": 70,
+        "minter": "tz1Ni4oMi1cv4seoFyjdkzmvkBEsUCLPKRKV",
+        "fxparams": "06ffffffff2c2c2cff40140000000000004082e00000000000"
+      }
+    },
+    {
+      "tokenId": 68807,
+      "name": "台灣建築記憶 #71",
+      "iteration": 71,
+      "fxhash": "ooHCH9u5HRS9oufkLZsJLdRcmtXqHCFGXXJmXib4FrpXuKp83u2",
+      "minter": "tz1UhiQXVYzSXWF2m6QNEtir5VViQrUXg4by",
+      "fxparams": "00474747e3f2af29e34024000000000000408c000000000000",
+      "owner": "tz1UhiQXVYzSXWF2m6QNEtir5VViQrUXg4by",
+      "thumbnailUri": "ipfs://QmZJAMUUcSHVzgmrC8iaTGHaUsuwmfVVFurwv46APfNuUH",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooHCH9u5HRS9oufkLZsJLdRcmtXqHCFGXXJmXib4FrpXuKp83u2",
+        "iteration": 71,
+        "minter": "tz1UhiQXVYzSXWF2m6QNEtir5VViQrUXg4by",
+        "fxparams": "00474747e3f2af29e34024000000000000408c000000000000"
+      }
+    },
+    {
+      "tokenId": 69427,
+      "name": "台灣建築記憶 #72",
+      "iteration": 72,
+      "fxhash": "opSYc8ifmPsPkYYmH8g8MyUk3JNdZwsHatYDVUXtSksXRuBFjnq",
+      "minter": "tz1dJAbmkUDEq1UDvkck1UWVkpdMqH3CmKCx",
+      "fxparams": "0036377bba78bdcf5740220000000000004057000000000000",
+      "owner": "tz1f3AsNPPUDvkD39MpRdnht4Up4uJ6xkG7s",
+      "thumbnailUri": "ipfs://QmVfEqjcJN8hgRwzKF35fGneuzzDViUDRgAtDB7c8wFR8f",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opSYc8ifmPsPkYYmH8g8MyUk3JNdZwsHatYDVUXtSksXRuBFjnq",
+        "iteration": 72,
+        "minter": "tz1dJAbmkUDEq1UDvkck1UWVkpdMqH3CmKCx",
+        "fxparams": "0036377bba78bdcf5740220000000000004057000000000000"
+      }
+    },
+    {
+      "tokenId": 73432,
+      "name": "台灣建築記憶 #73",
+      "iteration": 73,
+      "fxhash": "opXckyjAnDQ3B2CyE1ow8xBZQmX2ddgZKnzJeYmoteQSkc3qoDp",
+      "minter": "tz2TAGYk1vmg4n3kXXBrWUdfUZbqiS6KtNBv",
+      "fxparams": "0611143eff1b1f56ff40200000000000004088400000000000",
+      "owner": "tz2TAGYk1vmg4n3kXXBrWUdfUZbqiS6KtNBv",
+      "thumbnailUri": "ipfs://QmNc8TXfxFAMXDjRt6r7SvVttoA9Fi9H24WBMtFmsbCq3Z",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opXckyjAnDQ3B2CyE1ow8xBZQmX2ddgZKnzJeYmoteQSkc3qoDp",
+        "iteration": 73,
+        "minter": "tz2TAGYk1vmg4n3kXXBrWUdfUZbqiS6KtNBv",
+        "fxparams": "0611143eff1b1f56ff40200000000000004088400000000000"
+      }
+    },
+    {
+      "tokenId": 78202,
+      "name": "台灣建築記憶 #74",
+      "iteration": 74,
+      "fxhash": "oobW8XzJAexW5FzY6LjMF2Gp5ZPRNNyxENEzcQVSuk23gmRaYvw",
+      "minter": "tz1inAmGmBnHuLWV8Srq91hiGi4sFLGLran3",
+      "fxparams": "079c9c9c2b0000002e4014000000000000407a600000000000",
+      "owner": "tz1inAmGmBnHuLWV8Srq91hiGi4sFLGLran3",
+      "thumbnailUri": "ipfs://QmXPMG1pgXhZ4Fzb5kvwKwLZJJGQ8Ms4sWboNEzzce85xY",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oobW8XzJAexW5FzY6LjMF2Gp5ZPRNNyxENEzcQVSuk23gmRaYvw",
+        "iteration": 74,
+        "minter": "tz1inAmGmBnHuLWV8Srq91hiGi4sFLGLran3",
+        "fxparams": "079c9c9c2b0000002e4014000000000000407a600000000000"
+      }
+    },
+    {
+      "tokenId": 78316,
+      "name": "台灣建築記憶 #75",
+      "iteration": 75,
+      "fxhash": "ooBww1YPvN4KDj2mniPUGxgD3TjgCeAMwUSCL8gueWE49bamLaf",
+      "minter": "tz1PgMiRHHCjLaJZPS739cJKnNHGaRXYnsCn",
+      "fxparams": "00ffbd5bff95c0ffff4024000000000000408f380000000000",
+      "owner": "tz1TjcQ9Skcb41H1pirYZ51edB7HE4S5h4QK",
+      "thumbnailUri": "ipfs://QmYX5vNJQEE3JNKLs1bhkynKcnRurJ1Wdy7PEdgzprA4Jy",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooBww1YPvN4KDj2mniPUGxgD3TjgCeAMwUSCL8gueWE49bamLaf",
+        "iteration": 75,
+        "minter": "tz1PgMiRHHCjLaJZPS739cJKnNHGaRXYnsCn",
+        "fxparams": "00ffbd5bff95c0ffff4024000000000000408f380000000000"
+      }
+    },
+    {
+      "tokenId": 80329,
+      "name": "台灣建築記憶 #76",
+      "iteration": 76,
+      "fxhash": "oodWJ1frqwBxUKH1BTxTUjzd9V1g5MGkNSV91jDieMfeegkHwbN",
+      "minter": "tz1gdB433mLvsbtzPT547j82t6ve3b2JDw9F",
+      "fxparams": "005fff399de9b53fe9401c0000000000004070300000000000",
+      "owner": "tz1gdB433mLvsbtzPT547j82t6ve3b2JDw9F",
+      "thumbnailUri": "ipfs://QmexehveYDzaGHvNU7zRgrxaoMQCwc4tbZJdxcHhqJZXMh",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oodWJ1frqwBxUKH1BTxTUjzd9V1g5MGkNSV91jDieMfeegkHwbN",
+        "iteration": 76,
+        "minter": "tz1gdB433mLvsbtzPT547j82t6ve3b2JDw9F",
+        "fxparams": "005fff399de9b53fe9401c0000000000004070300000000000"
+      }
+    },
+    {
+      "tokenId": 100031,
+      "name": "台灣建築記憶 #77",
+      "iteration": 77,
+      "fxhash": "ooDUx2jtBavGFhjCScAmjdHJBZ8EibgJvx1dMG5SnJJUyR8fEFe",
+      "minter": "tz2QtF8BZuMYj65RiczWoHD7JpQbWohPfLFE",
+      "fxparams": "07006382ffffed90ff401c0000000000004080f00000000000",
+      "owner": "tz2QtF8BZuMYj65RiczWoHD7JpQbWohPfLFE",
+      "thumbnailUri": "ipfs://QmUQwyJRqPCwN1pdqem9kZEkEwGqmuecHXR6edKW3higCE",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooDUx2jtBavGFhjCScAmjdHJBZ8EibgJvx1dMG5SnJJUyR8fEFe",
+        "iteration": 77,
+        "minter": "tz2QtF8BZuMYj65RiczWoHD7JpQbWohPfLFE",
+        "fxparams": "07006382ffffed90ff401c0000000000004080f00000000000"
+      }
+    },
+    {
+      "tokenId": 101747,
+      "name": "台灣建築記憶 #78",
+      "iteration": 78,
+      "fxhash": "ooEomPVAqk1oQH5qM8AzjpxQ8sZdgRAfPvA9ieCH9wPoAbqEZKE",
+      "minter": "tz1M5rC6wwWkjbvpBsEXbN2MWdSSXv3ZMoA9",
+      "fxparams": "047ab8d2ffff1717004014000000000000408cb00000000000",
+      "owner": "tz1M5rC6wwWkjbvpBsEXbN2MWdSSXv3ZMoA9",
+      "thumbnailUri": "ipfs://QmNW5UraMqpTpJXmXZoafvFU3PZru8YHcXqAsBk5gJGG5d",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooEomPVAqk1oQH5qM8AzjpxQ8sZdgRAfPvA9ieCH9wPoAbqEZKE",
+        "iteration": 78,
+        "minter": "tz1M5rC6wwWkjbvpBsEXbN2MWdSSXv3ZMoA9",
+        "fxparams": "047ab8d2ffff1717004014000000000000408cb00000000000"
+      }
+    },
+    {
+      "tokenId": 107002,
+      "name": "台灣建築記憶 #79",
+      "iteration": 79,
+      "fxhash": "ooEK18K38vW23imN7d8jjpL1SazLxsaP6Lf765WiuhKFvii2rLG",
+      "minter": "tz1XwEFXDv1CuaAn234khhYjkk7jH1hoSkkA",
+      "fxparams": "06e90000ffff6300ff401c000000000000408a780000000000",
+      "owner": "tz1XwEFXDv1CuaAn234khhYjkk7jH1hoSkkA",
+      "thumbnailUri": "ipfs://QmRoaBB8nHNR9oYZy7LXboKCPfiytMMBQBdQwqrZoUh48U",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooEK18K38vW23imN7d8jjpL1SazLxsaP6Lf765WiuhKFvii2rLG",
+        "iteration": 79,
+        "minter": "tz1XwEFXDv1CuaAn234khhYjkk7jH1hoSkkA",
+        "fxparams": "06e90000ffff6300ff401c000000000000408a780000000000"
+      }
+    },
+    {
+      "tokenId": 108702,
+      "name": "台灣建築記憶 #80",
+      "iteration": 80,
+      "fxhash": "onyHX5QeVbZ453Gei4GLvBDPLasa2gpY7pyGh5mW3qxhmADPUqc",
+      "minter": "tz1YKSP8ysZNZjq4BamUMggaxcnyRnR8MxmT",
+      "fxparams": "04cceeffffffffffff40140000000000004075c00000000000",
+      "owner": "tz1YKSP8ysZNZjq4BamUMggaxcnyRnR8MxmT",
+      "thumbnailUri": "ipfs://QmPsPPx26RwmGZ41Hx7kDqxdSybpYwgnVDhRAm1vQZJgKv",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onyHX5QeVbZ453Gei4GLvBDPLasa2gpY7pyGh5mW3qxhmADPUqc",
+        "iteration": 80,
+        "minter": "tz1YKSP8ysZNZjq4BamUMggaxcnyRnR8MxmT",
+        "fxparams": "04cceeffffffffffff40140000000000004075c00000000000"
+      }
+    },
+    {
+      "tokenId": 209122,
+      "name": "台灣建築記憶 #81",
+      "iteration": 81,
+      "fxhash": "ooX4PqzDSoEEeCMoQwTPKbTK8SmFhZVLhAozxq3rqaZwfS9LUmb",
+      "minter": "tz2NtUeUWqEPFrWSQGY3G5Du47fQVE8oD6mw",
+      "fxparams": "07e9ef412e3535c0754014000000000000408f380000000000",
+      "owner": "tz2NtUeUWqEPFrWSQGY3G5Du47fQVE8oD6mw",
+      "thumbnailUri": "ipfs://QmdYK17P8gBH7MKmUhzyhxf69w9P5rVnSUPFhq5REzbC3j",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooX4PqzDSoEEeCMoQwTPKbTK8SmFhZVLhAozxq3rqaZwfS9LUmb",
+        "iteration": 81,
+        "minter": "tz2NtUeUWqEPFrWSQGY3G5Du47fQVE8oD6mw",
+        "fxparams": "07e9ef412e3535c0754014000000000000408f380000000000"
+      }
+    },
+    {
+      "tokenId": 209123,
+      "name": "台灣建築記憶 #82",
+      "iteration": 82,
+      "fxhash": "opRdxayaopYZUA9DA18diA72QLnVJsz3TU5tAyojEtZXknC4VVQ",
+      "minter": "tz1MQ3nQaE3rTvvnjkjbCN2UdtDZrJi28uwk",
+      "fxparams": "02ffe1b3ffe6dfdfff40200000000000004081f80000000000",
+      "owner": "tz1MQ3nQaE3rTvvnjkjbCN2UdtDZrJi28uwk",
+      "thumbnailUri": "ipfs://Qmd5NFmhKnBDJjmfiguWE1GP1skD3WNMTcXmCwiNh4doX7",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opRdxayaopYZUA9DA18diA72QLnVJsz3TU5tAyojEtZXknC4VVQ",
+        "iteration": 82,
+        "minter": "tz1MQ3nQaE3rTvvnjkjbCN2UdtDZrJi28uwk",
+        "fxparams": "02ffe1b3ffe6dfdfff40200000000000004081f80000000000"
+      }
+    },
+    {
+      "tokenId": 209127,
+      "name": "台灣建築記憶 #83",
+      "iteration": 83,
+      "fxhash": "oosq2ydj53MFVdVXhvdGrXH2YUD6uyEe8uzLLD2AoTCAMqfd9YS",
+      "minter": "tz1hya8VQGYwpy42qX1Z1o5JebPXMKS3qPJW",
+      "fxparams": "03bec3faff1698c7e84022000000000000407d600000000000",
+      "owner": "tz1hya8VQGYwpy42qX1Z1o5JebPXMKS3qPJW",
+      "thumbnailUri": "ipfs://QmXxw8MhNqLC4ETffsEcMrZurozuRvebTBAGrnvbtCyxaz",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oosq2ydj53MFVdVXhvdGrXH2YUD6uyEe8uzLLD2AoTCAMqfd9YS",
+        "iteration": 83,
+        "minter": "tz1hya8VQGYwpy42qX1Z1o5JebPXMKS3qPJW",
+        "fxparams": "03bec3faff1698c7e84022000000000000407d600000000000"
+      }
+    },
+    {
+      "tokenId": 209217,
+      "name": "台灣建築記憶 #84",
+      "iteration": 84,
+      "fxhash": "onyQSaXU7ezqSKMnEZjw2Cg1KusNoU2jLj1djxpBXb5BLQ6S8iF",
+      "minter": "tz1PQRJ8wVtFgkZWGfJ6JajjjtJDYUNuKqKc",
+      "fxparams": "07d22b2ff7fcbe1a3e40200000000000004083e80000000000",
+      "owner": "tz1PQRJ8wVtFgkZWGfJ6JajjjtJDYUNuKqKc",
+      "thumbnailUri": "ipfs://QmZTxxHqVbjmARs3Rz5NKSGiuEuLQ6cdYGySDKVJFvNsEa",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onyQSaXU7ezqSKMnEZjw2Cg1KusNoU2jLj1djxpBXb5BLQ6S8iF",
+        "iteration": 84,
+        "minter": "tz1PQRJ8wVtFgkZWGfJ6JajjjtJDYUNuKqKc",
+        "fxparams": "07d22b2ff7fcbe1a3e40200000000000004083e80000000000"
+      }
+    },
+    {
+      "tokenId": 209692,
+      "name": "台灣建築記憶 #85",
+      "iteration": 85,
+      "fxhash": "onprJGGewyGwZTJ2HndhBzeyfKLVjubY5zpBPvTE3m8bC1HnQvm",
+      "minter": "tz1fg4gu3agTw4BYwySKAq5cMYMnw6wfqrQx",
+      "fxparams": "06e8d7a8479d5af0314022000000000000406e200000000000",
+      "owner": "tz1X95uJRaZkK4VDoPpf2UuSzX4T24E8eCrb",
+      "thumbnailUri": "ipfs://Qmd7rNR1oYbmYjp7evBgKRtD2NKYWDgqG1ARvxpyDLE7HK",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onprJGGewyGwZTJ2HndhBzeyfKLVjubY5zpBPvTE3m8bC1HnQvm",
+        "iteration": 85,
+        "minter": "tz1fg4gu3agTw4BYwySKAq5cMYMnw6wfqrQx",
+        "fxparams": "06e8d7a8479d5af0314022000000000000406e200000000000"
+      }
+    },
+    {
+      "tokenId": 224793,
+      "name": "台灣建築記憶 #86",
+      "iteration": 86,
+      "fxhash": "onxqx7w1KS5PJKyJurVf8uf219BwrpHe19y4x43ZEnxLFx9SQLU",
+      "minter": "tz1LYcURpgZx9pnfUngiu1E6HMVUjvwSvDq7",
+      "fxparams": "00c3b3ffffe6dfdfff401c0000000000004080800000000000",
+      "owner": "tz1LYcURpgZx9pnfUngiu1E6HMVUjvwSvDq7",
+      "thumbnailUri": "ipfs://QmXjiVk9cUqGsxucLh5oqRrFVRDsoBeVPHQwcukjLx5Tzy",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onxqx7w1KS5PJKyJurVf8uf219BwrpHe19y4x43ZEnxLFx9SQLU",
+        "iteration": 86,
+        "minter": "tz1LYcURpgZx9pnfUngiu1E6HMVUjvwSvDq7",
+        "fxparams": "00c3b3ffffe6dfdfff401c0000000000004080800000000000"
+      }
+    },
+    {
+      "tokenId": 224795,
+      "name": "台灣建築記憶 #87",
+      "iteration": 87,
+      "fxhash": "ooh5Ti3msJhnbfRhXLWtskwivhb5Rh4kHVRZ55WY2vd1zUR7a4L",
+      "minter": "tz1Umh9HtuMmaRjvHW1iCeaTu5HbhbxBDKqD",
+      "fxparams": "01030e38ffeba9a9ff40180000000000004075100000000000",
+      "owner": "tz1Umh9HtuMmaRjvHW1iCeaTu5HbhbxBDKqD",
+      "thumbnailUri": "ipfs://QmeemJbmTdVdaBdGtUJxW5witivsKLc7AAFykmAeuzPLum",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooh5Ti3msJhnbfRhXLWtskwivhb5Rh4kHVRZ55WY2vd1zUR7a4L",
+        "iteration": 87,
+        "minter": "tz1Umh9HtuMmaRjvHW1iCeaTu5HbhbxBDKqD",
+        "fxparams": "01030e38ffeba9a9ff40180000000000004075100000000000"
+      }
+    },
+    {
+      "tokenId": 224796,
+      "name": "台灣建築記憶 #88",
+      "iteration": 88,
+      "fxhash": "ooVGz4yxFjt5rR4najVtLFG2BSNXhXmMbY43QDh2SMCMJdK3vrm",
+      "minter": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "fxparams": "070c718c15703ba77940200000000000004067000000000000",
+      "owner": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "thumbnailUri": "ipfs://QmQhZ4kjZkRbrVhQDrUqjgtAAkmUWMr8gvjUDxoKzuxMVi",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooVGz4yxFjt5rR4najVtLFG2BSNXhXmMbY43QDh2SMCMJdK3vrm",
+        "iteration": 88,
+        "minter": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+        "fxparams": "070c718c15703ba77940200000000000004067000000000000"
+      }
+    },
+    {
+      "tokenId": 224797,
+      "name": "台灣建築記憶 #89",
+      "iteration": 89,
+      "fxhash": "opFfA6DyRLZu72KPWzEc5Bbmj3hmwcjyBAL3LXh74txnL2HXN6s",
+      "minter": "tz2UuZUKj4xbkk1M6YD2iMAuLg3SjUdMJKhf",
+      "fxparams": "00ffd4b3ff2191e2ff4018000000000000408bc00000000000",
+      "owner": "tz2UuZUKj4xbkk1M6YD2iMAuLg3SjUdMJKhf",
+      "thumbnailUri": "ipfs://Qmagg5vuswTercmgdBxL7dQ39Y1F3NA6RE9R5iryeAHraj",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opFfA6DyRLZu72KPWzEc5Bbmj3hmwcjyBAL3LXh74txnL2HXN6s",
+        "iteration": 89,
+        "minter": "tz2UuZUKj4xbkk1M6YD2iMAuLg3SjUdMJKhf",
+        "fxparams": "00ffd4b3ff2191e2ff4018000000000000408bc00000000000"
+      }
+    },
+    {
+      "tokenId": 224798,
+      "name": "台灣建築記憶 #90",
+      "iteration": 90,
+      "fxhash": "opADdCymvrwzq41H7h52Y6vqCsgg52rahpgLZzyUEmxrPn3qL8s",
+      "minter": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "fxparams": "031fbca48e1ad6f2a740140000000000004079200000000000",
+      "owner": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "thumbnailUri": "ipfs://QmVzmUkAwBGo2CeSJAhE4DXtvFRhTnEeoFZiEu6WyNf7k7",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opADdCymvrwzq41H7h52Y6vqCsgg52rahpgLZzyUEmxrPn3qL8s",
+        "iteration": 90,
+        "minter": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+        "fxparams": "031fbca48e1ad6f2a740140000000000004079200000000000"
+      }
+    },
+    {
+      "tokenId": 224800,
+      "name": "台灣建築記憶 #91",
+      "iteration": 91,
+      "fxhash": "ooy6z77X4VDWnj9MwRrdkbvZvQD7zBv7rUatxiFSQwcqdat71QB",
+      "minter": "tz2JDmS89qECwqu9cE34nDjm2Ygo7oEyQE9g",
+      "fxparams": "010b4f76806664529f401c000000000000406a600000000000",
+      "owner": "tz2JDmS89qECwqu9cE34nDjm2Ygo7oEyQE9g",
+      "thumbnailUri": "ipfs://QmZqzCpNKucfCyP8M8My7Sj6UyEMxuzqXsXrwp79fdJbsi",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ooy6z77X4VDWnj9MwRrdkbvZvQD7zBv7rUatxiFSQwcqdat71QB",
+        "iteration": 91,
+        "minter": "tz2JDmS89qECwqu9cE34nDjm2Ygo7oEyQE9g",
+        "fxparams": "010b4f76806664529f401c000000000000406a600000000000"
+      }
+    },
+    {
+      "tokenId": 224801,
+      "name": "台灣建築記憶 #92",
+      "iteration": 92,
+      "fxhash": "ootzRfsURtwEJ1PALc8hBNNCVv76NDsf4vWLyddwFW3YvZGYVa2",
+      "minter": "tz1YyT2LRzDyVgy3GZTTvfUkLct42F4zTMJ5",
+      "fxparams": "02dacfb6872c4e15ff4022000000000000405e400000000000",
+      "owner": "tz1YyT2LRzDyVgy3GZTTvfUkLct42F4zTMJ5",
+      "thumbnailUri": "ipfs://QmWXfK5VwwitTjucevqhTVQGTnwym7xomk2hC1fCMSHJYS",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ootzRfsURtwEJ1PALc8hBNNCVv76NDsf4vWLyddwFW3YvZGYVa2",
+        "iteration": 92,
+        "minter": "tz1YyT2LRzDyVgy3GZTTvfUkLct42F4zTMJ5",
+        "fxparams": "02dacfb6872c4e15ff4022000000000000405e400000000000"
+      }
+    },
+    {
+      "tokenId": 224844,
+      "name": "台灣建築記憶 #93",
+      "iteration": 93,
+      "fxhash": "opMcnxuBRnJRabPDT5v5wSnQT8SKzxc3rDKR21ZmntN39HDUJoL",
+      "minter": "tz1bo3KGNK3gSuEP2H4ZinSKBxtXZNr4fTAT",
+      "fxparams": "0300ffe0ffffffffff40240000000000004085d80000000000",
+      "owner": "tz1bo3KGNK3gSuEP2H4ZinSKBxtXZNr4fTAT",
+      "thumbnailUri": "ipfs://QmXfUHhDAVnMcNK1fdtw73G1cZMGHUUKMQQsRRZ8rMm18y",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opMcnxuBRnJRabPDT5v5wSnQT8SKzxc3rDKR21ZmntN39HDUJoL",
+        "iteration": 93,
+        "minter": "tz1bo3KGNK3gSuEP2H4ZinSKBxtXZNr4fTAT",
+        "fxparams": "0300ffe0ffffffffff40240000000000004085d80000000000"
+      }
+    },
+    {
+      "tokenId": 224868,
+      "name": "台灣建築記憶 #94",
+      "iteration": 94,
+      "fxhash": "opCsGiZHHzwZL3sR8mLkKRWVR84fVkwHhF8duSYUs1kUbpivVjW",
+      "minter": "tz1ZSneE1cMWJHb5fjeoahhrNMLJkhXAh1Gu",
+      "fxparams": "01663336ffffe5b3ff401c000000000000408a080000000000",
+      "owner": "tz1ZSneE1cMWJHb5fjeoahhrNMLJkhXAh1Gu",
+      "thumbnailUri": "ipfs://QmfPD5uiaMzo3rEN3rWPjXBh5LKcHYQCGgQfSLAicCvNuq",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "opCsGiZHHzwZL3sR8mLkKRWVR84fVkwHhF8duSYUs1kUbpivVjW",
+        "iteration": 94,
+        "minter": "tz1ZSneE1cMWJHb5fjeoahhrNMLJkhXAh1Gu",
+        "fxparams": "01663336ffffe5b3ff401c000000000000408a080000000000"
+      }
+    },
+    {
+      "tokenId": 224914,
+      "name": "台灣建築記憶 #95",
+      "iteration": 95,
+      "fxhash": "oow1MV3wPuzVGX6UWSjsLZVgEALP5fjRWpvguZPqZMztTzMdjV2",
+      "minter": "tz1SD5gJT3swDaPQCqdPPgxdL2FwchuDqfLn",
+      "fxparams": "028a471cdeff0000ff4024000000000000407aa00000000000",
+      "owner": "tz1bo3KGNK3gSuEP2H4ZinSKBxtXZNr4fTAT",
+      "thumbnailUri": "ipfs://QmWfWs2xiu3nNgXqAFYA5mZWACUda9RszTEcYsUuUBTATy",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oow1MV3wPuzVGX6UWSjsLZVgEALP5fjRWpvguZPqZMztTzMdjV2",
+        "iteration": 95,
+        "minter": "tz1SD5gJT3swDaPQCqdPPgxdL2FwchuDqfLn",
+        "fxparams": "028a471cdeff0000ff4024000000000000407aa00000000000"
+      }
+    },
+    {
+      "tokenId": 224915,
+      "name": "台灣建築記憶 #96",
+      "iteration": 96,
+      "fxhash": "oo2QX3JjHtwgSc7Qyei3B2KuRQVJoFvJh1NGVpXtYrGgBUsmVqo",
+      "minter": "tz1iCG8Q6HdpoFhpRvHKkRqFJte9Fn5Bm7gY",
+      "fxparams": "04030e38ffb2eba9ff4014000000000000407ad00000000000",
+      "owner": "tz1bo3KGNK3gSuEP2H4ZinSKBxtXZNr4fTAT",
+      "thumbnailUri": "ipfs://QmR5bEnWaukiucGF4hzpLW3myZTGM19c2zbsuYcxYmwPnx",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "oo2QX3JjHtwgSc7Qyei3B2KuRQVJoFvJh1NGVpXtYrGgBUsmVqo",
+        "iteration": 96,
+        "minter": "tz1iCG8Q6HdpoFhpRvHKkRqFJte9Fn5Bm7gY",
+        "fxparams": "04030e38ffb2eba9ff4014000000000000407ad00000000000"
+      }
+    },
+    {
+      "tokenId": 224916,
+      "name": "台灣建築記憶 #97",
+      "iteration": 97,
+      "fxhash": "onww3aqH8j9qtzbFBtjiybjMfKVR1fzjUK1DykDoKWtfa2JRoKB",
+      "minter": "tz1iCG8Q6HdpoFhpRvHKkRqFJte9Fn5Bm7gY",
+      "fxparams": "0633bda5691c9a9ecf4024000000000000bff0000000000000",
+      "owner": "tz1bo3KGNK3gSuEP2H4ZinSKBxtXZNr4fTAT",
+      "thumbnailUri": "ipfs://QmVpRUUFtDfUP8ws2A6gKJAN5pE2p12rzEydkEQLzMSyS5",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "onww3aqH8j9qtzbFBtjiybjMfKVR1fzjUK1DykDoKWtfa2JRoKB",
+        "iteration": 97,
+        "minter": "tz1iCG8Q6HdpoFhpRvHKkRqFJte9Fn5Bm7gY",
+        "fxparams": "0633bda5691c9a9ecf4024000000000000bff0000000000000"
+      }
+    },
+    {
+      "tokenId": 224956,
+      "name": "台灣建築記憶 #98",
+      "iteration": 98,
+      "fxhash": "ookaCEKoXJFv4kkggEck8NSCP2n2q7WijawCosuM4oL8ewjnUj7",
+      "minter": "tz1bo3KGNK3gSuEP2H4ZinSKBxtXZNr4fTAT",
+      "fxparams": "01000000ff00ffe0ff40240000000000004078e00000000000",
+      "owner": "tz1bo3KGNK3gSuEP2H4ZinSKBxtXZNr4fTAT",
+      "thumbnailUri": "ipfs://QmYB4A2ZYPFhywWif8HaajnLxTUe7iriXUZ7zxqj7cvqQq",
+      "generativeUri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+      "viewerParams": {
+        "uri": "ipfs://QmNgmKVJfP5b2bkhhQGjLwPJacL9ziZHfA8eWzP4SyLj5D",
+        "fxhash": "ookaCEKoXJFv4kkggEck8NSCP2n2q7WijawCosuM4oL8ewjnUj7",
+        "iteration": 98,
+        "minter": "tz1bo3KGNK3gSuEP2H4ZinSKBxtXZNr4fTAT",
+        "fxparams": "01000000ff00ffe0ff40240000000000004078e00000000000"
+      }
+    }
+  ]
+}

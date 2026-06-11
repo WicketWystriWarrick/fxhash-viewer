@@ -57,7 +57,8 @@ const OVERRIDES = {
   "Turner Light": ["Aluan Wang"],
   "Collage": ["Aluan Wang", "Jinyao Lin", "YI-WEN LIN"],
   "Entangled": ["Bjørn Staal"],
-  "Turtle Vision": ["Daniel Haitink"],
+  "Turtle Vision": ["eziraros", "Casson.tez"],
+  "台灣建築記憶": ["KUMALEON", "eziraros", "Proof of X"],
   "Self, Ego": ["Ty Vek"], // typo "Ty Ver" → unified to "Ty Vek"
   "Self, Id": ["Ty Vek"],
   "Self, Superego": ["Ty Vek"],

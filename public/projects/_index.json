@@ -133,17 +133,6 @@
     "thumbnail": "ipfs://QmeYLk1bzZ41bcXzPJfhXHR72UZuneuyBgBAgTGkNiEMQ8"
   },
   {
-    "filename": "Breakfast.json",
-    "name": "Breakfast",
-    "artist": "Kelly Milligan",
-    "artists": [
-      "Kelly Milligan"
-    ],
-    "chain": "tezos",
-    "count": 150,
-    "thumbnail": "ipfs://QmUxtwSAxuuFh6zYGjCSdepRQWKXqcfMrCgc7pwELUsyX7"
-  },
-  {
     "filename": "buso.json",
     "name": "buso",
     "artist": "patakk",
@@ -1028,6 +1017,19 @@
     "thumbnail": "ipfs://QmcheMZaqNCcfG7u5uzaBcZh2UbGPAYSwLVQD2AjafEwpc"
   },
   {
+    "filename": "Taiwan_Architecture_Memory.json",
+    "name": "台灣建築記憶",
+    "artist": "KUMALEON & eziraros & Proof of X",
+    "artists": [
+      "KUMALEON",
+      "eziraros",
+      "Proof of X"
+    ],
+    "chain": "tezos",
+    "count": 98,
+    "thumbnail": "ipfs://QmUsyuzLBuqM1LFQJzSvZX72cNqsVFeqWB6ihFFQCdvRu2"
+  },
+  {
     "filename": "Take_Wing.json",
     "name": "Take Wing",
     "artist": "Melissa Wiederrecht",
@@ -1185,9 +1187,10 @@
   {
     "filename": "Turtle_Vision.json",
     "name": "Turtle Vision",
-    "artist": "Daniel Haitink",
+    "artist": "eziraros & Casson.tez",
     "artists": [
-      "Daniel Haitink"
+      "eziraros",
+      "Casson.tez"
     ],
     "chain": "tezos",
     "count": 234,
