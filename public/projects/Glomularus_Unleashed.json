@@ -1,0 +1,773 @@
+{
+  "project": {
+    "name": "Glomularus Unleashed",
+    "artist": "Ira Greenberg",
+    "artists": [
+      "Ira Greenberg"
+    ],
+    "contract": "KT1U6EHmNxJTkvaWJ4ThczG4FSDaHC21ssvi",
+    "chain": "tezos",
+    "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+    "totalSupply": 42,
+    "extractedAt": "2026-06-11T02:51:27.703Z",
+    "source": "fxhash-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 993101,
+      "name": "Glomularus Unleashed #1",
+      "iteration": 1,
+      "fxhash": "opEpHGJyywA5JEx8qcRyzvBGBdXimrNrFFoWtdThukKszfoa1Lo",
+      "minter": "tz1isguKP6JYgmpRJMvjwJaFRYmjfkLmY6ug",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmY4NzhL2RF1fYDoLy8yY31LpcAefXomG5BVVuA5C2mKpo",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opEpHGJyywA5JEx8qcRyzvBGBdXimrNrFFoWtdThukKszfoa1Lo",
+        "iteration": 1,
+        "minter": "tz1isguKP6JYgmpRJMvjwJaFRYmjfkLmY6ug",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993102,
+      "name": "Glomularus Unleashed #2",
+      "iteration": 2,
+      "fxhash": "onxWidy4TGhUifNoBmt6xC4AqSkfQemc7JPZLVoAZWZU6YqMtup",
+      "minter": "tz1PjiLw8JQf2DCY4TacbVgrjR3EvkpTBnab",
+      "fxparams": "",
+      "owner": "tz1PjiLw8JQf2DCY4TacbVgrjR3EvkpTBnab",
+      "thumbnailUri": "ipfs://QmNteP6XioDQY47wK4HMQwtx3GFDXNb1hoZ6AHpz7CKzxL",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "onxWidy4TGhUifNoBmt6xC4AqSkfQemc7JPZLVoAZWZU6YqMtup",
+        "iteration": 2,
+        "minter": "tz1PjiLw8JQf2DCY4TacbVgrjR3EvkpTBnab",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993104,
+      "name": "Glomularus Unleashed #3",
+      "iteration": 3,
+      "fxhash": "ooLDYhLjXy3oxj4zq9idmAAq3MwJgM26Z9o3Bn7irduzQEy4DSo",
+      "minter": "tz1e3cpJpzhq2Av7YeAkWg1R1c31QMFhsiCy",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmeWEfFpqp2mUWdFqhKN5ttgKAksbtjtd1ywGcwzKgsg4S",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooLDYhLjXy3oxj4zq9idmAAq3MwJgM26Z9o3Bn7irduzQEy4DSo",
+        "iteration": 3,
+        "minter": "tz1e3cpJpzhq2Av7YeAkWg1R1c31QMFhsiCy",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993107,
+      "name": "Glomularus Unleashed #4",
+      "iteration": 4,
+      "fxhash": "oo9cJYyDK7eeWaXUXoKpBktTTB8JJBzMKDAHX4wddx9PFcieeYt",
+      "minter": "tz1c2SUoWRD8R96imsmY8ii2HeMPjb9XNRcL",
+      "fxparams": "",
+      "owner": "tz1MtMwpTM5o4uMq2g8EjbVEMprYNRki6AAD",
+      "thumbnailUri": "ipfs://QmWSUZ7Wq4XTW6ghcRskPYaqWUeXre1JNudTTc6EuV7Ktp",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "oo9cJYyDK7eeWaXUXoKpBktTTB8JJBzMKDAHX4wddx9PFcieeYt",
+        "iteration": 4,
+        "minter": "tz1c2SUoWRD8R96imsmY8ii2HeMPjb9XNRcL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993108,
+      "name": "Glomularus Unleashed #5",
+      "iteration": 5,
+      "fxhash": "ooRKwrwVNvHnukuy9X3K8ApzoyBqUTtmjCZ1opn9TbFRBkWfXPj",
+      "minter": "tz1dHBE91xZY6JxnzSMkzu27XzjFeBU2ceiW",
+      "fxparams": "",
+      "owner": "tz1dHBE91xZY6JxnzSMkzu27XzjFeBU2ceiW",
+      "thumbnailUri": "ipfs://Qma7768qRM8rM2TEimKkXN6mRSdnfAWzFxz7A5AJ3L9EG3",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooRKwrwVNvHnukuy9X3K8ApzoyBqUTtmjCZ1opn9TbFRBkWfXPj",
+        "iteration": 5,
+        "minter": "tz1dHBE91xZY6JxnzSMkzu27XzjFeBU2ceiW",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993110,
+      "name": "Glomularus Unleashed #6",
+      "iteration": 6,
+      "fxhash": "opHQHY42vfQdDdiocaK1jLmrBpFWBHkiUrVud9LCbGK5F1CLroj",
+      "minter": "tz1hyi8TWU6Jqr3yHk1UZCGavg95dSBdLnLt",
+      "fxparams": "",
+      "owner": "tz1hyi8TWU6Jqr3yHk1UZCGavg95dSBdLnLt",
+      "thumbnailUri": "ipfs://QmTaYoqJb7ULGDj3Nho8ARdKrMenURPerZDhNN6W2yEAYH",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opHQHY42vfQdDdiocaK1jLmrBpFWBHkiUrVud9LCbGK5F1CLroj",
+        "iteration": 6,
+        "minter": "tz1hyi8TWU6Jqr3yHk1UZCGavg95dSBdLnLt",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993111,
+      "name": "Glomularus Unleashed #7",
+      "iteration": 7,
+      "fxhash": "opFyqUknJirps8up8vqw7XE5zckAJj4mQP9gsUMTTzjQ2fd72og",
+      "minter": "tz1NU5L8c2FDdVbcatYqBf8skBbPPmCAazLB",
+      "fxparams": "",
+      "owner": "tz1NU5L8c2FDdVbcatYqBf8skBbPPmCAazLB",
+      "thumbnailUri": "ipfs://QmeepHZc9UhwXYdrwvvsZgMuv3ADypTt7w7nEqRUhTcUxv",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opFyqUknJirps8up8vqw7XE5zckAJj4mQP9gsUMTTzjQ2fd72og",
+        "iteration": 7,
+        "minter": "tz1NU5L8c2FDdVbcatYqBf8skBbPPmCAazLB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993113,
+      "name": "Glomularus Unleashed #8",
+      "iteration": 8,
+      "fxhash": "opBzJx7sYqeAZDNBJURkdHVZdNhQfkt1f82DyV3WsBPYrkdFQWs",
+      "minter": "tz1Kq8NtEjSXkpswLmgod1tPFPVH2TZc8dwM",
+      "fxparams": "",
+      "owner": "tz1Kq8NtEjSXkpswLmgod1tPFPVH2TZc8dwM",
+      "thumbnailUri": "ipfs://QmVYzfTCHGBf4kcFDczXC4KmznmWMgkfksc4adjLeH7e27",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opBzJx7sYqeAZDNBJURkdHVZdNhQfkt1f82DyV3WsBPYrkdFQWs",
+        "iteration": 8,
+        "minter": "tz1Kq8NtEjSXkpswLmgod1tPFPVH2TZc8dwM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993116,
+      "name": "Glomularus Unleashed #9",
+      "iteration": 9,
+      "fxhash": "oogTRfMQ8KrBRRMMKmWKVcf3W6tkkUDzSYKnBEsjpF9wdxh9o7v",
+      "minter": "tz1ddAm4HTMGQpnv7KQ3GWAtmAkXCnYdonJR",
+      "fxparams": "",
+      "owner": "tz1ddAm4HTMGQpnv7KQ3GWAtmAkXCnYdonJR",
+      "thumbnailUri": "ipfs://QmW7aPZ1oq8cnfQr3WTftt5jXc3PgEcZnMKPaPdF3oXi9H",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "oogTRfMQ8KrBRRMMKmWKVcf3W6tkkUDzSYKnBEsjpF9wdxh9o7v",
+        "iteration": 9,
+        "minter": "tz1ddAm4HTMGQpnv7KQ3GWAtmAkXCnYdonJR",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993117,
+      "name": "Glomularus Unleashed #10",
+      "iteration": 10,
+      "fxhash": "onfRpbHKZLE79858RTNYcPVQN1WeB4sTzbbQEL8XWd3v5TAhZvM",
+      "minter": "tz1gKQKVmgU2qeeS98dh74g6t3M7pu6YGvYk",
+      "fxparams": "",
+      "owner": "tz1TTjeFg9kgyvx3aVsFsp9Ku37ECRyWJ58j",
+      "thumbnailUri": "ipfs://QmQt7LHFbCVwYkDy2LbF4FujEhKg8uQxXfTLpfZKhw7N5L",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "onfRpbHKZLE79858RTNYcPVQN1WeB4sTzbbQEL8XWd3v5TAhZvM",
+        "iteration": 10,
+        "minter": "tz1gKQKVmgU2qeeS98dh74g6t3M7pu6YGvYk",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993118,
+      "name": "Glomularus Unleashed #11",
+      "iteration": 11,
+      "fxhash": "ood7783hX65B9GtP9sswe4V55hyT6jpzNwYdWrJ9aiv9sXBr722",
+      "minter": "tz1LwHHzSP3oX4Lwpf2oPD52tViuxGCjCZQv",
+      "fxparams": "",
+      "owner": "tz1h5YWqEWDhdTpWgB4hBtdN7iDavcDkYM6j",
+      "thumbnailUri": "ipfs://QmSu18YRFXLrN4gvcaJe88WcELjEr4SmN2uWfwXjdhgiJQ",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ood7783hX65B9GtP9sswe4V55hyT6jpzNwYdWrJ9aiv9sXBr722",
+        "iteration": 11,
+        "minter": "tz1LwHHzSP3oX4Lwpf2oPD52tViuxGCjCZQv",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993119,
+      "name": "Glomularus Unleashed #12",
+      "iteration": 12,
+      "fxhash": "opTvXpsQ5MeFziajoFqCjiXATdBWvq4cWv8jqZCXjHfcDY692Zb",
+      "minter": "tz1Tw3CjVAPyxRWs2zzoaY4ydKyh4CEY7Qv6",
+      "fxparams": "",
+      "owner": "tz1Tw3CjVAPyxRWs2zzoaY4ydKyh4CEY7Qv6",
+      "thumbnailUri": "ipfs://QmSaGVgpC15t7xvnnHXwtff63rhso6gikJS9NLwoPoPpDN",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opTvXpsQ5MeFziajoFqCjiXATdBWvq4cWv8jqZCXjHfcDY692Zb",
+        "iteration": 12,
+        "minter": "tz1Tw3CjVAPyxRWs2zzoaY4ydKyh4CEY7Qv6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993121,
+      "name": "Glomularus Unleashed #13",
+      "iteration": 13,
+      "fxhash": "oo1jRJDnSYiwVod7G1hfX8CwpzZV8p65J4nJnWeeYXj26ndqPxo",
+      "minter": "tz1PnZU8rXSeKc9KNTqMU9pLaHNJrB1sfng4",
+      "fxparams": "",
+      "owner": "tz1PnZU8rXSeKc9KNTqMU9pLaHNJrB1sfng4",
+      "thumbnailUri": "ipfs://QmfFHN9BihaaNXssfMVrunnvgrXjUmojRtZ46FdeDvT4df",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "oo1jRJDnSYiwVod7G1hfX8CwpzZV8p65J4nJnWeeYXj26ndqPxo",
+        "iteration": 13,
+        "minter": "tz1PnZU8rXSeKc9KNTqMU9pLaHNJrB1sfng4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993125,
+      "name": "Glomularus Unleashed #14",
+      "iteration": 14,
+      "fxhash": "opNiRiAqGdMLmZ2TJT71VjjRnjN8qMuRoNUytdr7V2rfaAAQwPs",
+      "minter": "tz1LrQZuDuGrtozMZxhwQAZjdqJjXHPxVja8",
+      "fxparams": "",
+      "owner": "tz1Yt2YLdwnomdAxi3QwUtQfsbDyBnyuKp33",
+      "thumbnailUri": "ipfs://Qmbkzb9rkYnrbFVNFaYTKfMJqJ9nqqR6SB74Tw9UP5Mj4c",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opNiRiAqGdMLmZ2TJT71VjjRnjN8qMuRoNUytdr7V2rfaAAQwPs",
+        "iteration": 14,
+        "minter": "tz1LrQZuDuGrtozMZxhwQAZjdqJjXHPxVja8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993131,
+      "name": "Glomularus Unleashed #15",
+      "iteration": 15,
+      "fxhash": "oo2wfFutGq8a6JLjbT45AEkxPXHanfkmFjNhYzYgR6PqHhKj3nP",
+      "minter": "tz1UviXymXrWz29QgEgfxiHJTkhq35eUKLn7",
+      "fxparams": "",
+      "owner": "tz1UviXymXrWz29QgEgfxiHJTkhq35eUKLn7",
+      "thumbnailUri": "ipfs://QmYJRXsTWXK9DHKbhirXgeoZksoUJeAQEznGMaJ4kWMgVC",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "oo2wfFutGq8a6JLjbT45AEkxPXHanfkmFjNhYzYgR6PqHhKj3nP",
+        "iteration": 15,
+        "minter": "tz1UviXymXrWz29QgEgfxiHJTkhq35eUKLn7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993133,
+      "name": "Glomularus Unleashed #16",
+      "iteration": 16,
+      "fxhash": "opXpHkaJ8LUJ98yQtsNMUHFRzP8Xr9yc5CcJ23FTSNSTvz1ub7v",
+      "minter": "tz1L55WgfTavHSdeCJpQqvH3eRF3yYE7skuC",
+      "fxparams": "",
+      "owner": "tz1Y24tvbQSQmfed9YReHQv7mBpezVu4C3n9",
+      "thumbnailUri": "ipfs://QmaxNr8UafZD2UHygSTsq4UJuySsyDk51v9ygCphPV94gr",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opXpHkaJ8LUJ98yQtsNMUHFRzP8Xr9yc5CcJ23FTSNSTvz1ub7v",
+        "iteration": 16,
+        "minter": "tz1L55WgfTavHSdeCJpQqvH3eRF3yYE7skuC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993135,
+      "name": "Glomularus Unleashed #17",
+      "iteration": 17,
+      "fxhash": "ookSoZwaMkwcumRRtjheo6PeeWMGcFh58X1qsKVFb4Cwd2EEKRo",
+      "minter": "tz1KihLEv4D3GCVCDYPn8oqhZnQ5Hjh6CYQk",
+      "fxparams": "",
+      "owner": "tz1KihLEv4D3GCVCDYPn8oqhZnQ5Hjh6CYQk",
+      "thumbnailUri": "ipfs://QmSQ8Pv81WwWuiNb8mTqMsehoX4UTSSnVFov9hcrpb1szx",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ookSoZwaMkwcumRRtjheo6PeeWMGcFh58X1qsKVFb4Cwd2EEKRo",
+        "iteration": 17,
+        "minter": "tz1KihLEv4D3GCVCDYPn8oqhZnQ5Hjh6CYQk",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993137,
+      "name": "Glomularus Unleashed #18",
+      "iteration": 18,
+      "fxhash": "opBvA7NzQpcmL6iSKtM5TQdA81VaN6m7MdZbfCtofFQHbiHYcML",
+      "minter": "tz1iEzucUm7VZtyeSKpKCGwWqPFqAtVn412u",
+      "fxparams": "",
+      "owner": "tz1carrwoVAkoxsEJuYRUjaqk3qUtMHxo4zP",
+      "thumbnailUri": "ipfs://QmNiUup5JvPBnPAaTbGrUzdqGsKRfMGHe1HWyJkWb8Zi3V",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opBvA7NzQpcmL6iSKtM5TQdA81VaN6m7MdZbfCtofFQHbiHYcML",
+        "iteration": 18,
+        "minter": "tz1iEzucUm7VZtyeSKpKCGwWqPFqAtVn412u",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993139,
+      "name": "Glomularus Unleashed #19",
+      "iteration": 19,
+      "fxhash": "opXoacKmi6bvzYESWDL2es69yc51Cx4ZfmYRupSTtxjgp7cvWmY",
+      "minter": "tz1UBAytcKypmbx2r7fNWeGBYw8wMj4YEVyz",
+      "fxparams": "",
+      "owner": "tz1UBAytcKypmbx2r7fNWeGBYw8wMj4YEVyz",
+      "thumbnailUri": "ipfs://QmcfuJdGNd445zJPTV53p4Yq1ysBrb5UEWsMfjsD7eTX9e",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opXoacKmi6bvzYESWDL2es69yc51Cx4ZfmYRupSTtxjgp7cvWmY",
+        "iteration": 19,
+        "minter": "tz1UBAytcKypmbx2r7fNWeGBYw8wMj4YEVyz",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993140,
+      "name": "Glomularus Unleashed #20",
+      "iteration": 20,
+      "fxhash": "oogxEGoDj9hrqrV76EHzWbmKCHxGkgGWs7Fofv3hPgNt2feqaK4",
+      "minter": "tz1bH6y4JhRy2cs9bi7RNUYkmzunnTn8SNTC",
+      "fxparams": "",
+      "owner": "tz1grYfjhss4wpZnHzaV1GxFo7zv5zBLr9yF",
+      "thumbnailUri": "ipfs://QmZPjS7Zg5rAjqWQrJhQd7PoAfGikv9vfcYRznJumfctbk",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "oogxEGoDj9hrqrV76EHzWbmKCHxGkgGWs7Fofv3hPgNt2feqaK4",
+        "iteration": 20,
+        "minter": "tz1bH6y4JhRy2cs9bi7RNUYkmzunnTn8SNTC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993148,
+      "name": "Glomularus Unleashed #21",
+      "iteration": 21,
+      "fxhash": "opF2gNe6VVqmc46YCEzjLTEc9dAVKSxu2inuTttUF9sCz8V4uTg",
+      "minter": "tz1RuGiZ1tEs6oLJrQfwpK3uKahn4oWGVQS9",
+      "fxparams": "",
+      "owner": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "thumbnailUri": "ipfs://QmeMT12v2Qj7Km9b7JjJReVRR3V6LC3vMKZyQcHN8iRinZ",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "opF2gNe6VVqmc46YCEzjLTEc9dAVKSxu2inuTttUF9sCz8V4uTg",
+        "iteration": 21,
+        "minter": "tz1RuGiZ1tEs6oLJrQfwpK3uKahn4oWGVQS9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993158,
+      "name": "Glomularus Unleashed #22",
+      "iteration": 22,
+      "fxhash": "ooSLcZMX15orzmbMFJnFXy4uAb27dswGuC8wtqUYnB2eif3Uqkt",
+      "minter": "tz1Xb2K313xkeVFMtWFNEgSgANSTKxLM4BqP",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmYzu584A33G9kShNXWRh2qkN1TvB1VMbEkhM7Xpyd1FzC",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooSLcZMX15orzmbMFJnFXy4uAb27dswGuC8wtqUYnB2eif3Uqkt",
+        "iteration": 22,
+        "minter": "tz1Xb2K313xkeVFMtWFNEgSgANSTKxLM4BqP",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993168,
+      "name": "Glomularus Unleashed #23",
+      "iteration": 23,
+      "fxhash": "ooGc3yj2yqdCNcYLMJcBCCxdC8TiZipE6pGFu2B7YAoWpErQJ5N",
+      "minter": "tz1U6fykZsnkJoFY61hW8dZnTkEf3VmkTcRC",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmWY2by8UdTckcoyNAaHsJdkWtQsus8u7HwMwRV9UQzdXY",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooGc3yj2yqdCNcYLMJcBCCxdC8TiZipE6pGFu2B7YAoWpErQJ5N",
+        "iteration": 23,
+        "minter": "tz1U6fykZsnkJoFY61hW8dZnTkEf3VmkTcRC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993170,
+      "name": "Glomularus Unleashed #24",
+      "iteration": 24,
+      "fxhash": "ooBD3ZW4BgKz2cWHTPwQZEsaGCsRX8PtUBgJvDg1R7qaEFXYdJ4",
+      "minter": "tz1Ne3XbbFpWAZjPf8QJy5fbuRWpcwUyg42X",
+      "fxparams": "",
+      "owner": "tz1grYfjhss4wpZnHzaV1GxFo7zv5zBLr9yF",
+      "thumbnailUri": "ipfs://Qmf3m1NQBGJbH7vbTbuDAku4Rquy6KwZCUqtTAmCBuwRWJ",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooBD3ZW4BgKz2cWHTPwQZEsaGCsRX8PtUBgJvDg1R7qaEFXYdJ4",
+        "iteration": 24,
+        "minter": "tz1Ne3XbbFpWAZjPf8QJy5fbuRWpcwUyg42X",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993173,
+      "name": "Glomularus Unleashed #25",
+      "iteration": 25,
+      "fxhash": "ooxzTAexrPuU12GwfBFUAKFz9mQUCH6YLtCGBjRaMdqCu1FJqUW",
+      "minter": "tz1ehhHuAQXrdXukswG2PP7TnptsEfHDxbZK",
+      "fxparams": "",
+      "owner": "tz1ehhHuAQXrdXukswG2PP7TnptsEfHDxbZK",
+      "thumbnailUri": "ipfs://QmejwS57e8RmFbgyu9eUqbAfJm3hBz3pEece8gm5qhYGBx",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooxzTAexrPuU12GwfBFUAKFz9mQUCH6YLtCGBjRaMdqCu1FJqUW",
+        "iteration": 25,
+        "minter": "tz1ehhHuAQXrdXukswG2PP7TnptsEfHDxbZK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993210,
+      "name": "Glomularus Unleashed #26",
+      "iteration": 26,
+      "fxhash": "ooAvE9Hmt6GsFhwxQd2f3qE1WY58V9vQos77iTzU3ar9JGpjuZL",
+      "minter": "tz1UraXm8CyqneVqUawTppCAYF6zWkxcSsPr",
+      "fxparams": "",
+      "owner": "tz1cujPvmYdXLoB3JavH88Ypo5X9HPu6Dxfn",
+      "thumbnailUri": "ipfs://QmSwPBtRXE2NR3rjWdyEZ3qxma7RdY5VUkz2fHC4voHUok",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooAvE9Hmt6GsFhwxQd2f3qE1WY58V9vQos77iTzU3ar9JGpjuZL",
+        "iteration": 26,
+        "minter": "tz1UraXm8CyqneVqUawTppCAYF6zWkxcSsPr",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993246,
+      "name": "Glomularus Unleashed #27",
+      "iteration": 27,
+      "fxhash": "ooePddh2eUnRsSpbiFcqMAHD3NCdYZK4Yp3jTUahFTTkK72zHeK",
+      "minter": "tz1SvJbECAva9gxczfBmX3CAFUszgQXNgsNm",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmPa1Fm6LkhUpBvbK8Ja9LfZfpvfGsX9HR8XEJyTUYti9p",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooePddh2eUnRsSpbiFcqMAHD3NCdYZK4Yp3jTUahFTTkK72zHeK",
+        "iteration": 27,
+        "minter": "tz1SvJbECAva9gxczfBmX3CAFUszgQXNgsNm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993266,
+      "name": "Glomularus Unleashed #28",
+      "iteration": 28,
+      "fxhash": "ooe12TB7byTkoUwzvpFSgZ5SP1JAxQTfkZSdyFDbKNheG7NdFiy",
+      "minter": "tz1Nv8srf92NBuDip9Zv5tZaKkL1HGf3kUfQ",
+      "fxparams": "",
+      "owner": "tz1PbWMfZhLaH71Rhqx7f8k6SaST6ypja6Sy",
+      "thumbnailUri": "ipfs://QmXX1DEhjhgnNUUpXFgj339331qhHhG19Ks2wWnL8XHWyW",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooe12TB7byTkoUwzvpFSgZ5SP1JAxQTfkZSdyFDbKNheG7NdFiy",
+        "iteration": 28,
+        "minter": "tz1Nv8srf92NBuDip9Zv5tZaKkL1HGf3kUfQ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993275,
+      "name": "Glomularus Unleashed #29",
+      "iteration": 29,
+      "fxhash": "op6nnTWBJaKHT4tVr4yUheYiaQSkfBw5zY4LrVbbVvpfN8gbPtY",
+      "minter": "tz1RRfSJ7m1MVRuPmL4qmXax1tbTkn5hrv6r",
+      "fxparams": "",
+      "owner": "tz1YfcY1soS1KTDAWm1krQp9u2358PxqA4w5",
+      "thumbnailUri": "ipfs://QmXPskoJFsT4TtnutSao5bY7bf7MQEjn5wH99jv3uDBF3o",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "op6nnTWBJaKHT4tVr4yUheYiaQSkfBw5zY4LrVbbVvpfN8gbPtY",
+        "iteration": 29,
+        "minter": "tz1RRfSJ7m1MVRuPmL4qmXax1tbTkn5hrv6r",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993280,
+      "name": "Glomularus Unleashed #30",
+      "iteration": 30,
+      "fxhash": "ooqYwwLsPJFovT1By2RBSRPfUJgYNhdckXXFyMS4U56Gei51mSf",
+      "minter": "tz2BrLcxqBa8Z36LNHJDVnJnisUQbKqr1xZa",
+      "fxparams": "",
+      "owner": "tz2BrLcxqBa8Z36LNHJDVnJnisUQbKqr1xZa",
+      "thumbnailUri": "ipfs://Qme5kTQLCcepPE1DgmAjqJwcZTgFynFBrdJafbvMnH7dvN",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooqYwwLsPJFovT1By2RBSRPfUJgYNhdckXXFyMS4U56Gei51mSf",
+        "iteration": 30,
+        "minter": "tz2BrLcxqBa8Z36LNHJDVnJnisUQbKqr1xZa",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993541,
+      "name": "Glomularus Unleashed #31",
+      "iteration": 31,
+      "fxhash": "ooChsk1iGbkBZfkEMSKm4EDJu9up8kASasYexYLqiPFHV8gLdME",
+      "minter": "tz1PSt5Sc8xXGKZxC7UGbp64UevSWnVMrojC",
+      "fxparams": "",
+      "owner": "tz1PSt5Sc8xXGKZxC7UGbp64UevSWnVMrojC",
+      "thumbnailUri": "ipfs://QmbpLrtnB7HbSt2uikTXjdpenHwQaEtCCzWq1QLVwiwTNp",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooChsk1iGbkBZfkEMSKm4EDJu9up8kASasYexYLqiPFHV8gLdME",
+        "iteration": 31,
+        "minter": "tz1PSt5Sc8xXGKZxC7UGbp64UevSWnVMrojC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 993879,
+      "name": "Glomularus Unleashed #32",
+      "iteration": 32,
+      "fxhash": "ooRVkaDM7KcVMaYBSgqzQr2SzUvLiaDuTitPBZpw98Q5eV4eoLv",
+      "minter": "tz1SCBy5gFnbejrvdV6NwUcLjevZy5fzoQ8D",
+      "fxparams": "",
+      "owner": "tz1Mw8qDtpeg2cwSVQDCQhgsXvG4T7NSLkQJ",
+      "thumbnailUri": "ipfs://QmQ1qZ9buJQEm9R1g3rXexQSZz8Q5o8pMVRpyne1W39UPR",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooRVkaDM7KcVMaYBSgqzQr2SzUvLiaDuTitPBZpw98Q5eV4eoLv",
+        "iteration": 32,
+        "minter": "tz1SCBy5gFnbejrvdV6NwUcLjevZy5fzoQ8D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994399,
+      "name": "Glomularus Unleashed #33",
+      "iteration": 33,
+      "fxhash": "ooSasmYRUmywbYNH9gcJmercVdYdHXHTBz1ysywn5yLfKBYgK3Z",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1hhG3vN2NCoPZepvEbKHBFQ5denwNJwHXP",
+      "thumbnailUri": "ipfs://QmZ9zFxoD2XkGh8JWPJxSStZYQAJ55buHTRgpZvL5sMhiF",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooSasmYRUmywbYNH9gcJmercVdYdHXHTBz1ysywn5yLfKBYgK3Z",
+        "iteration": 33,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994401,
+      "name": "Glomularus Unleashed #34",
+      "iteration": 34,
+      "fxhash": "op3bHT6ML8M5VDFeEzAD179XQZTrrhf27TyJg8TVheSrfWbrYua",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "thumbnailUri": "ipfs://Qmey1wHTehG1MVrzUj28sVbpC5sj8g3UUVy4QNqQRiUTFm",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "op3bHT6ML8M5VDFeEzAD179XQZTrrhf27TyJg8TVheSrfWbrYua",
+        "iteration": 34,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994402,
+      "name": "Glomularus Unleashed #35",
+      "iteration": 35,
+      "fxhash": "onv1JcRwd4JCA1HaxTKHLe8tYXmityrjgMmTJdMJX7ZjWLsZxEC",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1QrBNzR9YSTK3Z3BwZv71o9ZJKRZhXbxWx",
+      "thumbnailUri": "ipfs://QmPb5nAp3iJKtQLtL2ihjfLzt6VJTJf4f3JGX3iENxPBvp",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "onv1JcRwd4JCA1HaxTKHLe8tYXmityrjgMmTJdMJX7ZjWLsZxEC",
+        "iteration": 35,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994403,
+      "name": "Glomularus Unleashed #36",
+      "iteration": 36,
+      "fxhash": "ooLxGfjF4sviX5qi2QA6WMFDAq7JdDoU3sAha16j82Q8HCy1q3d",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1VJUor9UqRyB7XEnRBryLRozKxVgxvSqwZ",
+      "thumbnailUri": "ipfs://QmfDMJmcoVCPzNja1Nu5QaCUHJdf7S4nktdCAwjTUqggN5",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooLxGfjF4sviX5qi2QA6WMFDAq7JdDoU3sAha16j82Q8HCy1q3d",
+        "iteration": 36,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994405,
+      "name": "Glomularus Unleashed #37",
+      "iteration": 37,
+      "fxhash": "oo2kQYZcz175xcJhZfFfJHSk5wnQU3ozMjn7UWv1qf47pZeH3Xb",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "thumbnailUri": "ipfs://QmeFsKgmmFNwdENViatpteS7xSh5xNpys3swqEayJdsd7Y",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "oo2kQYZcz175xcJhZfFfJHSk5wnQU3ozMjn7UWv1qf47pZeH3Xb",
+        "iteration": 37,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994406,
+      "name": "Glomularus Unleashed #38",
+      "iteration": 38,
+      "fxhash": "ooG2DXnEAEQigD1CczhLCuqPh2t8gMC5fcCNUsN6rbFf6jLupbu",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "thumbnailUri": "ipfs://QmYT3aHHdr7WkemPBkMfJcPAvSuoznHsNVSNYR8edWiins",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooG2DXnEAEQigD1CczhLCuqPh2t8gMC5fcCNUsN6rbFf6jLupbu",
+        "iteration": 38,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994407,
+      "name": "Glomularus Unleashed #39",
+      "iteration": 39,
+      "fxhash": "ooMjEfkihHske8nMGCeySAgfMoPELWcc5z6ZSjY8XpaAayTYSuJ",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1gLpxAatiKjZZs3e6xt4yggjE5pAGsvDbT",
+      "thumbnailUri": "ipfs://QmahUqGitzHFaBSQfVLGSghJHK2K62kjLUSAHfB1gScXr1",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "ooMjEfkihHske8nMGCeySAgfMoPELWcc5z6ZSjY8XpaAayTYSuJ",
+        "iteration": 39,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994585,
+      "name": "Glomularus Unleashed #40",
+      "iteration": 40,
+      "fxhash": "onn9SsrfYf9dEjpAvvvjuNiRVceM5QGZZEGe8WkrQGnepVpQMPj",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "thumbnailUri": "ipfs://QmWvhQft6dY4PLxfq1FP9ukc3NYkknYxcTKNqW18ACvtAU",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "onn9SsrfYf9dEjpAvvvjuNiRVceM5QGZZEGe8WkrQGnepVpQMPj",
+        "iteration": 40,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994589,
+      "name": "Glomularus Unleashed #41",
+      "iteration": 41,
+      "fxhash": "oon1MDfWx4AmCXqnhWexMWKApFGJhuYGZfDcfLkBh2t37g3r6En",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "thumbnailUri": "ipfs://QmbdyVrVbebRQox8kQM6QVn7gjhBKCBjvDSVePvXembZu2",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "oon1MDfWx4AmCXqnhWexMWKApFGJhuYGZfDcfLkBh2t37g3r6En",
+        "iteration": 41,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 994591,
+      "name": "Glomularus Unleashed #42",
+      "iteration": 42,
+      "fxhash": "oou2tNDnGogfLLJ7dzWxr594aWi2uF2NGqaoQNSm3UAkmn1UuMB",
+      "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "fxparams": "",
+      "owner": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+      "thumbnailUri": "ipfs://QmTPXKtgL46FZngVrC755XLStNJVPGrfYR92SnvL7skqbz",
+      "generativeUri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+      "viewerParams": {
+        "uri": "ipfs://Qmex8xPHi2W56SVWup4o6fzpeyevws1TBesBkAEHtQuSHx",
+        "fxhash": "oou2tNDnGogfLLJ7dzWxr594aWi2uF2NGqaoQNSm3UAkmn1UuMB",
+        "iteration": 42,
+        "minter": "tz1SmFz7vPbLaCR9fetjFuhHpqB4EUhX6wfd",
+        "fxparams": ""
+      }
+    }
+  ]
+}
