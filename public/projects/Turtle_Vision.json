@@ -1,8 +1,10 @@
 {
   "project": {
     "name": "Turtle Vision",
-    "artist": "",
-    "artists": [],
+    "artist": "Daniel Haitink",
+    "artists": [
+      "Daniel Haitink"
+    ],
     "contract": "KT1EfsNuqwLAWDd3o4pvfUx1CAh5GMdTrRvr",
     "chain": "tezos",
     "generativeUri": "ipfs://QmbASYG7Ge7c8bR2EjTBTZ7oaSk7DGz1g67gD95NgodEan",

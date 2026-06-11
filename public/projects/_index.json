@@ -1185,8 +1185,10 @@
   {
     "filename": "Turtle_Vision.json",
     "name": "Turtle Vision",
-    "artist": "",
-    "artists": [],
+    "artist": "Daniel Haitink",
+    "artists": [
+      "Daniel Haitink"
+    ],
     "chain": "tezos",
     "count": 234,
     "thumbnail": "ipfs://QmYnnKhA1dqAQr4XcMv7WkQk89RcqvdaAYaT7822Rvjigu"
