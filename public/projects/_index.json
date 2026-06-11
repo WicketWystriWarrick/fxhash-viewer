@@ -1,27 +1,5 @@
 [
   {
-    "filename": "ASCII-SCAPE.json",
-    "name": "ASCII-SCAPE",
-    "artist": "toxi",
-    "artists": [
-      "toxi"
-    ],
-    "chain": "tezos",
-    "count": 256,
-    "thumbnail": "ipfs://QmPPsht1BKLNE7C2M9ksPKLuM3rVggdjjzPbsbdnX3og5u"
-  },
-  {
-    "filename": "A_Bugged_Forest.json",
-    "name": "A Bugged Forest",
-    "artist": "zancan",
-    "artists": [
-      "zancan"
-    ],
-    "chain": "tezos",
-    "count": 1000,
-    "thumbnail": "ipfs://QmXYZZHJfqUy7TSzGFbPu2GRaYuUGXYBdCMdDxhr2KxqSS"
-  },
-  {
     "filename": "Acequia.json",
     "name": "Acequia",
     "artist": "Rich Poole & ThePaperCrane",
@@ -32,6 +10,17 @@
     "chain": "tezos",
     "count": 343,
     "thumbnail": "ipfs://QmXSH823zTeQ9F6ekFUcNpSX1ZXB8zk5aadh2QuRVv5kPZ"
+  },
+  {
+    "filename": "adrift.json",
+    "name": "adrift",
+    "artist": "Jacek Markusiewicz",
+    "artists": [
+      "Jacek Markusiewicz"
+    ],
+    "chain": "tezos",
+    "count": 256,
+    "thumbnail": "ipfs://QmTSkWBVDJoXARQ8xYJkdXZeeoJcxTFRHESNPc5Bfhovk2"
   },
   {
     "filename": "Agglo.json",
@@ -56,6 +45,17 @@
     "thumbnail": "ipfs://QmSERVTsazYFeBXbrJMkfEBiDNatKrEG5TN5fTyvwA7wc8"
   },
   {
+    "filename": "ASCII-SCAPE.json",
+    "name": "ASCII-SCAPE",
+    "artist": "toxi",
+    "artists": [
+      "toxi"
+    ],
+    "chain": "tezos",
+    "count": 256,
+    "thumbnail": "ipfs://QmPPsht1BKLNE7C2M9ksPKLuM3rVggdjjzPbsbdnX3og5u"
+  },
+  {
     "filename": "Atoms__Gaze.json",
     "name": "Atoms' Gaze",
     "artist": "KRANKARTA",
@@ -65,6 +65,28 @@
     "chain": "tezos",
     "count": 300,
     "thumbnail": "ipfs://QmTih3184qnzwxDZPBhzoNVDw4PFU4uBQjjjBCWQaA8kJz"
+  },
+  {
+    "filename": "A_Bugged_Forest.json",
+    "name": "A Bugged Forest",
+    "artist": "zancan",
+    "artists": [
+      "zancan"
+    ],
+    "chain": "tezos",
+    "count": 1000,
+    "thumbnail": "ipfs://QmXYZZHJfqUy7TSzGFbPu2GRaYuUGXYBdCMdDxhr2KxqSS"
+  },
+  {
+    "filename": "a_fortiori.json",
+    "name": "a fortiori",
+    "artist": "Thomas Noya",
+    "artists": [
+      "Thomas Noya"
+    ],
+    "chain": "tezos",
+    "count": 500,
+    "thumbnail": "ipfs://QmSSk8L2vvMWj9MAtrwRyXTFKVKBTpmQqRwYijtgpXkxxv"
   },
   {
     "filename": "Bardez.json",
@@ -111,6 +133,28 @@
     "thumbnail": "ipfs://QmeYLk1bzZ41bcXzPJfhXHR72UZuneuyBgBAgTGkNiEMQ8"
   },
   {
+    "filename": "Breakfast.json",
+    "name": "Breakfast",
+    "artist": "Kelly Milligan",
+    "artists": [
+      "Kelly Milligan"
+    ],
+    "chain": "tezos",
+    "count": 150,
+    "thumbnail": "ipfs://QmUxtwSAxuuFh6zYGjCSdepRQWKXqcfMrCgc7pwELUsyX7"
+  },
+  {
+    "filename": "buso.json",
+    "name": "buso",
+    "artist": "patakk",
+    "artists": [
+      "patakk"
+    ],
+    "chain": "base",
+    "count": 593,
+    "thumbnail": "ipfs://QmQKA6ijSrvLi14nBfZSWWau7P217KHy5ZPEjMH3EJinPG"
+  },
+  {
     "filename": "Cables_and_Clouds.json",
     "name": "Cables and Clouds",
     "artist": "DisruptedStar",
@@ -120,6 +164,17 @@
     "chain": "tezos",
     "count": 255,
     "thumbnail": "ipfs://QmStnDnh8ZM24b4RmJNF3GHEpFHRiaA9HGiwqiVJnnMPTj"
+  },
+  {
+    "filename": "char.json",
+    "name": "char",
+    "artist": "patakk",
+    "artists": [
+      "patakk"
+    ],
+    "chain": "tezos",
+    "count": 256,
+    "thumbnail": "ipfs://QmbCVJ337cuiEjq95HYeJ25m8MvS21odGVt1tTCUpCy5cx"
   },
   {
     "filename": "Charcoal_Seeds.json",
@@ -146,6 +201,17 @@
     "thumbnail": "ipfs://QmcaLV5xZR24md37aYLWFWBZUF8PvrM33wLDjHnsh4KB5v"
   },
   {
+    "filename": "contrapuntos.json",
+    "name": "contrapuntos",
+    "artist": "Marcelo Soria-Rodriguez",
+    "artists": [
+      "Marcelo Soria-Rodriguez"
+    ],
+    "chain": "tezos",
+    "count": 771,
+    "thumbnail": "ipfs://QmaMZNAZkMTVH9cMGJpNUgp2fvRFCw2abPKvMiHpTVj57J"
+  },
+  {
     "filename": "Coronado.json",
     "name": "Coronado",
     "artist": "jeres",
@@ -155,61 +221,6 @@
     "chain": "tezos",
     "count": 400,
     "thumbnail": "ipfs://QmVSKxJFuiu2hhXBDsAUyzxhZ7TfP6JQ8tGTryRNT5Z5PQ"
-  },
-  {
-    "filename": "DOM1.json",
-    "name": "DOM1",
-    "artist": "Leander Herzog",
-    "artists": [
-      "Leander Herzog"
-    ],
-    "chain": "tezos",
-    "count": 256,
-    "thumbnail": "ipfs://QmWwkKkxhRH8KKZXuca7zBXJgbXGANyQqVMajYWJqv72fQ"
-  },
-  {
-    "filename": "DOM2.json",
-    "name": "DOM2",
-    "artist": "Leander Herzog",
-    "artists": [
-      "Leander Herzog"
-    ],
-    "chain": "base",
-    "count": 3282,
-    "thumbnail": "ipfs://Qmb8CQQq1wmG63yZksi5Gk4BYioG8SzJGPk4Xw4gDJud35"
-  },
-  {
-    "filename": "De_Frag.json",
-    "name": "De/Frag",
-    "artist": "toxi",
-    "artists": [
-      "toxi"
-    ],
-    "chain": "tezos",
-    "count": 512,
-    "thumbnail": "ipfs://QmPKNowftiBuFSRg7KVoGbRVr9w8FKNWs3hykwm9DfHxuP"
-  },
-  {
-    "filename": "De_FragV2.json",
-    "name": "De/FragV2",
-    "artist": "toxi",
-    "artists": [
-      "toxi"
-    ],
-    "chain": "tezos",
-    "count": 384,
-    "thumbnail": "ipfs://QmUQqQv6uf5S8dbd99JjLzk9FpjPryCZhrtTVEYKZqhfQM"
-  },
-  {
-    "filename": "De_FragV3.json",
-    "name": "De/FragV3",
-    "artist": "toxi",
-    "artists": [
-      "toxi"
-    ],
-    "chain": "tezos",
-    "count": 512,
-    "thumbnail": "ipfs://QmeiKJRSqLzJZbFjFSfR4z6VUjaBhnToA8Lfeuzj7LjhYW"
   },
   {
     "filename": "Dencity.json",
@@ -245,6 +256,61 @@
     "thumbnail": "ipfs://QmZrwdHtwMJnU3cy1JqwVo8wQWCyJu38YFLUockdTDFo3i"
   },
   {
+    "filename": "De_Frag.json",
+    "name": "De/Frag",
+    "artist": "toxi",
+    "artists": [
+      "toxi"
+    ],
+    "chain": "tezos",
+    "count": 512,
+    "thumbnail": "ipfs://QmPKNowftiBuFSRg7KVoGbRVr9w8FKNWs3hykwm9DfHxuP"
+  },
+  {
+    "filename": "De_FragV2.json",
+    "name": "De/FragV2",
+    "artist": "toxi",
+    "artists": [
+      "toxi"
+    ],
+    "chain": "tezos",
+    "count": 384,
+    "thumbnail": "ipfs://QmUQqQv6uf5S8dbd99JjLzk9FpjPryCZhrtTVEYKZqhfQM"
+  },
+  {
+    "filename": "De_FragV3.json",
+    "name": "De/FragV3",
+    "artist": "toxi",
+    "artists": [
+      "toxi"
+    ],
+    "chain": "tezos",
+    "count": 512,
+    "thumbnail": "ipfs://QmeiKJRSqLzJZbFjFSfR4z6VUjaBhnToA8Lfeuzj7LjhYW"
+  },
+  {
+    "filename": "DOM1.json",
+    "name": "DOM1",
+    "artist": "Leander Herzog",
+    "artists": [
+      "Leander Herzog"
+    ],
+    "chain": "tezos",
+    "count": 256,
+    "thumbnail": "ipfs://QmWwkKkxhRH8KKZXuca7zBXJgbXGANyQqVMajYWJqv72fQ"
+  },
+  {
+    "filename": "DOM2.json",
+    "name": "DOM2",
+    "artist": "Leander Herzog",
+    "artists": [
+      "Leander Herzog"
+    ],
+    "chain": "base",
+    "count": 3282,
+    "thumbnail": "ipfs://Qmb8CQQq1wmG63yZksi5Gk4BYioG8SzJGPk4Xw4gDJud35"
+  },
+  {
     "filename": "Dragons.json",
     "name": "Dragons",
     "artist": "William Mapan",
@@ -276,6 +342,17 @@
     "chain": "tezos",
     "count": 320,
     "thumbnail": "ipfs://QmVYChZJ3zFN6i84gM31MWuaYuDjbNdNpzweNWhWbAYWdS"
+  },
+  {
+    "filename": "el_inefable_momento.json",
+    "name": "el inefable momento",
+    "artist": "Marcelo Soria-Rodriguez",
+    "artists": [
+      "Marcelo Soria-Rodriguez"
+    ],
+    "chain": "tezos",
+    "count": 1179,
+    "thumbnail": "ipfs://Qmdn1SXRUSLr3Jqr4rnUsXiqa8TRVF6EdKXM88y7ibp4yE"
   },
   {
     "filename": "Emotional_Shell.json",
@@ -344,17 +421,6 @@
     "thumbnail": "ipfs://QmeWCNpfWDJApCQEAXqASLa4Z1cUCJqrJ37Z7q4f7FpKH1"
   },
   {
-    "filename": "FHX-1.json",
-    "name": "FHX-1",
-    "artist": "Thomas Noya",
-    "artists": [
-      "Thomas Noya"
-    ],
-    "chain": "tezos",
-    "count": 365,
-    "thumbnail": "ipfs://QmVwjoMemwyW64rd7WkL1kjrPMwMkkpyiC5CTKTePPK19j"
-  },
-  {
     "filename": "Faux.json",
     "name": "Faux",
     "artist": "Landlines Art",
@@ -366,6 +432,28 @@
     "thumbnail": "ipfs://QmWTik8NtgNTeskrDNrfEuvUR93C5DzLVnrPfvuMRzAMja"
   },
   {
+    "filename": "FHX-1.json",
+    "name": "FHX-1",
+    "artist": "Thomas Noya",
+    "artists": [
+      "Thomas Noya"
+    ],
+    "chain": "tezos",
+    "count": 365,
+    "thumbnail": "ipfs://QmVwjoMemwyW64rd7WkL1kjrPMwMkkpyiC5CTKTePPK19j"
+  },
+  {
+    "filename": "forsaken.json",
+    "name": "forsaken",
+    "artist": "Jinyao Lin",
+    "artists": [
+      "Jinyao Lin"
+    ],
+    "chain": "tezos",
+    "count": 150,
+    "thumbnail": "ipfs://QmWS1F9gw8qQhpTbRpGffKDjme7rtvTEUFvKRbc4HN1ET9"
+  },
+  {
     "filename": "Fragments_of_a_Wave.json",
     "name": "Fragments of a Wave",
     "artist": "iRyanBell",
@@ -375,17 +463,6 @@
     "chain": "tezos",
     "count": 500,
     "thumbnail": "ipfs://QmUjeDTv7d4DSTpt6xXnHPKbCN6cn2A32eysnM5dH9xMSK"
-  },
-  {
-    "filename": "GEOMORPHISM.json",
-    "name": "GEOMORPHISM",
-    "artist": "Piter Pasma",
-    "artists": [
-      "Piter Pasma"
-    ],
-    "chain": "tezos",
-    "count": 200,
-    "thumbnail": "ipfs://QmQkEsdKbCBmLkqiidTiQFbVCoBVV6CoMj2N1reLMoCZSj"
   },
   {
     "filename": "Garden__Monoliths.json",
@@ -408,6 +485,17 @@
     "chain": "ethereum",
     "count": 2952,
     "thumbnail": "ipfs://QmS6D8scwzjC4GByQoAu3ajtJHHaU23ibBeSWoToD7Ug6F"
+  },
+  {
+    "filename": "GEOMORPHISM.json",
+    "name": "GEOMORPHISM",
+    "artist": "Piter Pasma",
+    "artists": [
+      "Piter Pasma"
+    ],
+    "chain": "tezos",
+    "count": 200,
+    "thumbnail": "ipfs://QmQkEsdKbCBmLkqiidTiQFbVCoBVV6CoMj2N1reLMoCZSj"
   },
   {
     "filename": "Gerhard.json",
@@ -443,6 +531,17 @@
     "thumbnail": "ipfs://QmP77bAy4pDwF6i1utFEoAns8qKdXnA9owfUctq1E98xEo"
   },
   {
+    "filename": "hollow.json",
+    "name": "hollow",
+    "artist": "Jacek Markusiewicz",
+    "artists": [
+      "Jacek Markusiewicz"
+    ],
+    "chain": "tezos",
+    "count": 256,
+    "thumbnail": "ipfs://QmSQRSbWFvTNy651nQXqXWwWTeWKm3iihhvxukmiGdfXnh"
+  },
+  {
     "filename": "Holons.json",
     "name": "Holons",
     "artist": "flight 404",
@@ -454,6 +553,18 @@
     "thumbnail": "ipfs://QmT1i95ZGaVyg6jWu3zn1xuhhZxg1Y3ZB2sbmmcXe6b9rT"
   },
   {
+    "filename": "horizon_te_s.json",
+    "name": "horizon(te)s",
+    "artist": "IskraVelitchkova & zachlieberman",
+    "artists": [
+      "IskraVelitchkova",
+      "zachlieberman"
+    ],
+    "chain": "tezos",
+    "count": 400,
+    "thumbnail": "ipfs://QmQYQUJuBKBjACJWqjqBUyKM1aoEQ9Mr7fvsogT1xbtxb3"
+  },
+  {
     "filename": "Hypergiraffe.json",
     "name": "Hypergiraffe",
     "artist": "Piter Pasma",
@@ -463,17 +574,6 @@
     "chain": "tezos",
     "count": 200,
     "thumbnail": "ipfs://QmbYb8CyUtvY2KJnH5rrh8ShKv1ekwJ6hZLrQZFmfd44KQ"
-  },
-  {
-    "filename": "INTUIT.json",
-    "name": "INTUIT",
-    "artist": "Olga Fradina",
-    "artists": [
-      "Olga Fradina"
-    ],
-    "chain": "base",
-    "count": 436,
-    "thumbnail": "ipfs://QmQrziNFQKN8wMUypcjqtLXD8hr7CHB5NuxaGcJHD6gnAB"
   },
   {
     "filename": "Imi.json",
@@ -520,6 +620,29 @@
     "thumbnail": "ipfs://QmUMLbNu3nGu2b3mx9NGXe7Xkr43aGeXw671KwahdJ9vux"
   },
   {
+    "filename": "INTUIT.json",
+    "name": "INTUIT",
+    "artist": "Olga Fradina",
+    "artists": [
+      "Olga Fradina"
+    ],
+    "chain": "base",
+    "count": 436,
+    "thumbnail": "ipfs://QmQrziNFQKN8wMUypcjqtLXD8hr7CHB5NuxaGcJHD6gnAB"
+  },
+  {
+    "filename": "kinder_Garden__Monuments.json",
+    "name": "(kinder)Garden, Monuments",
+    "artist": "zancan & Yazid",
+    "artists": [
+      "zancan",
+      "Yazid"
+    ],
+    "chain": "tezos",
+    "count": 309,
+    "thumbnail": "ipfs://QmTpHgfkRTEWDdwPN52LQUHXgu64tJdSwqEAz8g4beUZNo"
+  },
+  {
     "filename": "Kinetograms.json",
     "name": "Kinetograms",
     "artist": "Erik Swahn",
@@ -529,6 +652,17 @@
     "chain": "tezos",
     "count": 500,
     "thumbnail": "ipfs://QmaanAvgESVHFxqFnPMqtbV49wtVNS2KHpL7b1NvvpoKYC"
+  },
+  {
+    "filename": "let_me_fall.json",
+    "name": "let me fall",
+    "artist": "Eric Andwer",
+    "artists": [
+      "Eric Andwer"
+    ],
+    "chain": "tezos",
+    "count": 412,
+    "thumbnail": "ipfs://QmRdNGpVanJrxXAzY74B1ei4jGybAjsenovfD4h2j2UtSZ"
   },
   {
     "filename": "Loom.json",
@@ -573,6 +707,17 @@
     "chain": "tezos",
     "count": 390,
     "thumbnail": "ipfs://QmZc6ift1RZLnk6ggoTu5UosiCzdkNEJXRp8mVE5jDJv42"
+  },
+  {
+    "filename": "monogrid_1_1_CE.json",
+    "name": "monogrid 1.1 CE",
+    "artist": "Kim Asendorf",
+    "artists": [
+      "Kim Asendorf"
+    ],
+    "chain": "tezos",
+    "count": 256,
+    "thumbnail": "ipfs://QmaPnjjJicwh9TWBH9cVnZ4XUXsR1sDzZdeyqktPYaq4x8"
   },
   {
     "filename": "Mythic_Latent_Glitches_.json",
@@ -630,6 +775,28 @@
     "thumbnail": "ipfs://QmTjxqdKTs6JR1qLVAeAYiE9SbJFBkVLjTnYSKXoddp6hX"
   },
   {
+    "filename": "project-C-SCAPE.json",
+    "name": "C-SCAPE",
+    "artist": "toxi",
+    "artists": [
+      "toxi"
+    ],
+    "chain": "tezos",
+    "count": 256,
+    "thumbnail": "ipfs://QmW9NVb1uxcVcqa9AagqbG3Jt7B6epBN6n8n3TsVaDzLqU"
+  },
+  {
+    "filename": "project-elektrobotanika_2a.json",
+    "name": "elektrobotanika 2a",
+    "artist": "nekropunk",
+    "artists": [
+      "nekropunk"
+    ],
+    "chain": "base",
+    "count": 97,
+    "thumbnail": "ipfs://QmbpckjvB7qCd6bmVspsdwTSfUw2PwVmG5DSUqGvTtxfi2"
+  },
+  {
     "filename": "Proxima.json",
     "name": "Proxima",
     "artist": "Jacek Markusiewicz",
@@ -650,28 +817,6 @@
     "chain": "tezos",
     "count": 640,
     "thumbnail": "ipfs://QmVnEhupXpPpH1bZWbHgyt9zHMptreF9PcvBpX3MfMwcao"
-  },
-  {
-    "filename": "RGB_Elementary_Cellular_Automaton.json",
-    "name": "RGB Elementary Cellular Automaton",
-    "artist": "ciphrd",
-    "artists": [
-      "ciphrd"
-    ],
-    "chain": "tezos",
-    "count": 998,
-    "thumbnail": "ipfs://QmfGtjgJysRKL2pgkYgx8pdjFLAZHJfAQoDD92uMF7a62X"
-  },
-  {
-    "filename": "R_ckkopplung.json",
-    "name": "Rückkopplung",
-    "artist": "pxlshrd",
-    "artists": [
-      "pxlshrd"
-    ],
-    "chain": "tezos",
-    "count": 400,
-    "thumbnail": "ipfs://QmPsTjDKwPDC5hWWh7Xtp8RbfVa69mHmeyFqhtq1pJqfVi"
   },
   {
     "filename": "Rayincarnations.json",
@@ -729,6 +874,28 @@
     "thumbnail": "ipfs://QmQHCVM1M4ciPpe4p1yfqash7N4xLWhWVVD4yoWRfVde6q"
   },
   {
+    "filename": "re_erosvit.json",
+    "name": "reŠerosvit",
+    "artist": "nekropunk",
+    "artists": [
+      "nekropunk"
+    ],
+    "chain": "tezos",
+    "count": 264,
+    "thumbnail": "ipfs://QmeCihPuVdgcNGkn7CktjZRfvxbGKBk3y94xnWKVCh8a1M"
+  },
+  {
+    "filename": "RGB_Elementary_Cellular_Automaton.json",
+    "name": "RGB Elementary Cellular Automaton",
+    "artist": "ciphrd",
+    "artists": [
+      "ciphrd"
+    ],
+    "chain": "tezos",
+    "count": 998,
+    "thumbnail": "ipfs://QmfGtjgJysRKL2pgkYgx8pdjFLAZHJfAQoDD92uMF7a62X"
+  },
+  {
     "filename": "Richter.json",
     "name": "Richter",
     "artist": "Leander Herzog",
@@ -740,15 +907,15 @@
     "thumbnail": "ipfs://QmSooqMAd1rqWfVoLXLpGgeyZtFWKmm3i1TDCCHUtocpKF"
   },
   {
-    "filename": "SMOLSKULL.json",
-    "name": "SMOLSKULL",
-    "artist": "markknol",
+    "filename": "R_ckkopplung.json",
+    "name": "Rückkopplung",
+    "artist": "pxlshrd",
     "artists": [
-      "markknol"
+      "pxlshrd"
     ],
     "chain": "tezos",
-    "count": 1993,
-    "thumbnail": "ipfs://Qmbtbp2Arti53GYnj6d9KQkEtq6LZMLiZCY9gA8EpwV24Y"
+    "count": 400,
+    "thumbnail": "ipfs://QmPsTjDKwPDC5hWWh7Xtp8RbfVa69mHmeyFqhtq1pJqfVi"
   },
   {
     "filename": "Sedimentary_Dissolution.json",
@@ -817,6 +984,17 @@
     "thumbnail": "ipfs://QmZ3MSYQqibfYjTU6V73EQzL8bFurK9sn4K19Hy9GiqVJp"
   },
   {
+    "filename": "SMOLSKULL.json",
+    "name": "SMOLSKULL",
+    "artist": "markknol",
+    "artists": [
+      "markknol"
+    ],
+    "chain": "tezos",
+    "count": 1993,
+    "thumbnail": "ipfs://Qmbtbp2Arti53GYnj6d9KQkEtq6LZMLiZCY9gA8EpwV24Y"
+  },
+  {
     "filename": "Smooth_Steps.json",
     "name": "Smooth Steps",
     "artist": "Andreas Gysin",
@@ -872,6 +1050,28 @@
     "thumbnail": "ipfs://QmXHsT9XzBypL1m5sKiPxZATW6smyudGg6DHjgGoKMkBca"
   },
   {
+    "filename": "Theoretical_Civilization.json",
+    "name": "Theoretical Civilization",
+    "artist": "Studio Yorktown • Curated",
+    "artists": [
+      "Studio Yorktown • Curated"
+    ],
+    "chain": "base",
+    "count": 62,
+    "thumbnail": "ipfs://Qmao8it1fibTTJ9NoCQGD7j1k9nKRhJCUtMCCQZBgUsYNW"
+  },
+  {
+    "filename": "There_s_No_Distance.json",
+    "name": "There’s No Distance",
+    "artist": "REAS",
+    "artists": [
+      "REAS"
+    ],
+    "chain": "ethereum",
+    "count": 127,
+    "thumbnail": "ipfs://QmXpAhgWvgxiJ6e3y4113ucvn376ZDPFeCJPpqNfNRd6dX"
+  },
+  {
     "filename": "The_Fire_Within.json",
     "name": "The Fire Within",
     "artist": "Yi-Wen LIN",
@@ -905,28 +1105,6 @@
     "thumbnail": "ipfs://QmbGvLxkbqiUjYB72sPEdNoTR7vNbSwFM28T5Vnf5iDFrB"
   },
   {
-    "filename": "Theoretical_Civilization.json",
-    "name": "Theoretical Civilization",
-    "artist": "Studio Yorktown • Curated",
-    "artists": [
-      "Studio Yorktown • Curated"
-    ],
-    "chain": "base",
-    "count": 62,
-    "thumbnail": "ipfs://Qmao8it1fibTTJ9NoCQGD7j1k9nKRhJCUtMCCQZBgUsYNW"
-  },
-  {
-    "filename": "There_s_No_Distance.json",
-    "name": "There’s No Distance",
-    "artist": "REAS",
-    "artists": [
-      "REAS"
-    ],
-    "chain": "ethereum",
-    "count": 127,
-    "thumbnail": "ipfs://QmXpAhgWvgxiJ6e3y4113ucvn376ZDPFeCJPpqNfNRd6dX"
-  },
-  {
     "filename": "Toccata.json",
     "name": "Toccata",
     "artist": "Marcelo Soria-Rodriguez & Andreas Rau",
@@ -948,6 +1126,17 @@
     "chain": "tezos",
     "count": 256,
     "thumbnail": "ipfs://QmPnH2SdTFQ5fqLZZ3AYd1tTSiPWARcz7bqMDMyL9HbJnZ"
+  },
+  {
+    "filename": "tr4ns4ctions.json",
+    "name": "tr4ns4ctions",
+    "artist": "Kim Asendorf",
+    "artists": [
+      "Kim Asendorf"
+    ],
+    "chain": "tezos",
+    "count": 320,
+    "thumbnail": "ipfs://QmW6zfmX5SDmyAahWVbH6MqEaz5o3AawxzkV4opy5pQK8t"
   },
   {
     "filename": "Traces.json",
@@ -994,6 +1183,15 @@
     "thumbnail": "ipfs://QmZXVAnBzWsm2Z39G6uD5vRTTBLd6wmRo8oksmuwyEfpT4"
   },
   {
+    "filename": "Turtle_Vision.json",
+    "name": "Turtle Vision",
+    "artist": "",
+    "artists": [],
+    "chain": "tezos",
+    "count": 234,
+    "thumbnail": "ipfs://QmYnnKhA1dqAQr4XcMv7WkQk89RcqvdaAYaT7822Rvjigu"
+  },
+  {
     "filename": "Tych.json",
     "name": "Tych",
     "artist": "rudxane",
@@ -1003,6 +1201,17 @@
     "chain": "tezos",
     "count": 321,
     "thumbnail": "ipfs://QmUqVyDspcGrDdUfK8KBD5drfSpDg5RULiswCk5KQPx5Di"
+  },
+  {
+    "filename": "unfinished.json",
+    "name": "unfinished",
+    "artist": "rudxane",
+    "artists": [
+      "rudxane"
+    ],
+    "chain": "tezos",
+    "count": 444,
+    "thumbnail": "ipfs://QmeEcEUkP5c5LnDnzpzVURuLm6kY4FA3zsiWnaxD8LJLyV"
   },
   {
     "filename": "Uninhabitable.json",
@@ -1027,206 +1236,6 @@
     "thumbnail": "ipfs://QmUUHbhF8NTuSmHfxjnSAY6DAuQiBKU52nLfYPSpcWbU9p"
   },
   {
-    "filename": "Yuragi.json",
-    "name": "Yuragi",
-    "artist": "Kazuhiro Tanimoto",
-    "artists": [
-      "Kazuhiro Tanimoto"
-    ],
-    "chain": "ethereum",
-    "count": 128,
-    "thumbnail": "ipfs://QmcbcmfzwGG6fvQLWd34EpiNWdGKPNpBTeqsRj9KrM52x2"
-  },
-  {
-    "filename": "a_fortiori.json",
-    "name": "a fortiori",
-    "artist": "Thomas Noya",
-    "artists": [
-      "Thomas Noya"
-    ],
-    "chain": "tezos",
-    "count": 500,
-    "thumbnail": "ipfs://QmSSk8L2vvMWj9MAtrwRyXTFKVKBTpmQqRwYijtgpXkxxv"
-  },
-  {
-    "filename": "adrift.json",
-    "name": "adrift",
-    "artist": "Jacek Markusiewicz",
-    "artists": [
-      "Jacek Markusiewicz"
-    ],
-    "chain": "tezos",
-    "count": 256,
-    "thumbnail": "ipfs://QmTSkWBVDJoXARQ8xYJkdXZeeoJcxTFRHESNPc5Bfhovk2"
-  },
-  {
-    "filename": "buso.json",
-    "name": "buso",
-    "artist": "patakk",
-    "artists": [
-      "patakk"
-    ],
-    "chain": "base",
-    "count": 593,
-    "thumbnail": "ipfs://QmQKA6ijSrvLi14nBfZSWWau7P217KHy5ZPEjMH3EJinPG"
-  },
-  {
-    "filename": "char.json",
-    "name": "char",
-    "artist": "patakk",
-    "artists": [
-      "patakk"
-    ],
-    "chain": "tezos",
-    "count": 256,
-    "thumbnail": "ipfs://QmbCVJ337cuiEjq95HYeJ25m8MvS21odGVt1tTCUpCy5cx"
-  },
-  {
-    "filename": "contrapuntos.json",
-    "name": "contrapuntos",
-    "artist": "Marcelo Soria-Rodriguez",
-    "artists": [
-      "Marcelo Soria-Rodriguez"
-    ],
-    "chain": "tezos",
-    "count": 771,
-    "thumbnail": "ipfs://QmaMZNAZkMTVH9cMGJpNUgp2fvRFCw2abPKvMiHpTVj57J"
-  },
-  {
-    "filename": "el_inefable_momento.json",
-    "name": "el inefable momento",
-    "artist": "Marcelo Soria-Rodriguez",
-    "artists": [
-      "Marcelo Soria-Rodriguez"
-    ],
-    "chain": "tezos",
-    "count": 1179,
-    "thumbnail": "ipfs://Qmdn1SXRUSLr3Jqr4rnUsXiqa8TRVF6EdKXM88y7ibp4yE"
-  },
-  {
-    "filename": "forsaken.json",
-    "name": "forsaken",
-    "artist": "Jinyao Lin",
-    "artists": [
-      "Jinyao Lin"
-    ],
-    "chain": "tezos",
-    "count": 150,
-    "thumbnail": "ipfs://QmWS1F9gw8qQhpTbRpGffKDjme7rtvTEUFvKRbc4HN1ET9"
-  },
-  {
-    "filename": "hollow.json",
-    "name": "hollow",
-    "artist": "Jacek Markusiewicz",
-    "artists": [
-      "Jacek Markusiewicz"
-    ],
-    "chain": "tezos",
-    "count": 256,
-    "thumbnail": "ipfs://QmSQRSbWFvTNy651nQXqXWwWTeWKm3iihhvxukmiGdfXnh"
-  },
-  {
-    "filename": "horizon_te_s.json",
-    "name": "horizon(te)s",
-    "artist": "IskraVelitchkova & zachlieberman",
-    "artists": [
-      "IskraVelitchkova",
-      "zachlieberman"
-    ],
-    "chain": "tezos",
-    "count": 400,
-    "thumbnail": "ipfs://QmQYQUJuBKBjACJWqjqBUyKM1aoEQ9Mr7fvsogT1xbtxb3"
-  },
-  {
-    "filename": "kinder_Garden__Monuments.json",
-    "name": "(kinder)Garden, Monuments",
-    "artist": "zancan & Yazid",
-    "artists": [
-      "zancan",
-      "Yazid"
-    ],
-    "chain": "tezos",
-    "count": 309,
-    "thumbnail": "ipfs://QmTpHgfkRTEWDdwPN52LQUHXgu64tJdSwqEAz8g4beUZNo"
-  },
-  {
-    "filename": "let_me_fall.json",
-    "name": "let me fall",
-    "artist": "Eric Andwer",
-    "artists": [
-      "Eric Andwer"
-    ],
-    "chain": "tezos",
-    "count": 412,
-    "thumbnail": "ipfs://QmRdNGpVanJrxXAzY74B1ei4jGybAjsenovfD4h2j2UtSZ"
-  },
-  {
-    "filename": "monogrid_1_1_CE.json",
-    "name": "monogrid 1.1 CE",
-    "artist": "Kim Asendorf",
-    "artists": [
-      "Kim Asendorf"
-    ],
-    "chain": "tezos",
-    "count": 256,
-    "thumbnail": "ipfs://QmaPnjjJicwh9TWBH9cVnZ4XUXsR1sDzZdeyqktPYaq4x8"
-  },
-  {
-    "filename": "project-C-SCAPE.json",
-    "name": "C-SCAPE",
-    "artist": "toxi",
-    "artists": [
-      "toxi"
-    ],
-    "chain": "tezos",
-    "count": 256,
-    "thumbnail": "ipfs://QmW9NVb1uxcVcqa9AagqbG3Jt7B6epBN6n8n3TsVaDzLqU"
-  },
-  {
-    "filename": "project-elektrobotanika_2a.json",
-    "name": "elektrobotanika 2a",
-    "artist": "nekropunk",
-    "artists": [
-      "nekropunk"
-    ],
-    "chain": "base",
-    "count": 97,
-    "thumbnail": "ipfs://QmbpckjvB7qCd6bmVspsdwTSfUw2PwVmG5DSUqGvTtxfi2"
-  },
-  {
-    "filename": "re_erosvit.json",
-    "name": "reŠerosvit",
-    "artist": "nekropunk",
-    "artists": [
-      "nekropunk"
-    ],
-    "chain": "tezos",
-    "count": 264,
-    "thumbnail": "ipfs://QmeCihPuVdgcNGkn7CktjZRfvxbGKBk3y94xnWKVCh8a1M"
-  },
-  {
-    "filename": "tr4ns4ctions.json",
-    "name": "tr4ns4ctions",
-    "artist": "Kim Asendorf",
-    "artists": [
-      "Kim Asendorf"
-    ],
-    "chain": "tezos",
-    "count": 320,
-    "thumbnail": "ipfs://QmW6zfmX5SDmyAahWVbH6MqEaz5o3AawxzkV4opy5pQK8t"
-  },
-  {
-    "filename": "unfinished.json",
-    "name": "unfinished",
-    "artist": "rudxane",
-    "artists": [
-      "rudxane"
-    ],
-    "chain": "tezos",
-    "count": 444,
-    "thumbnail": "ipfs://QmeEcEUkP5c5LnDnzpzVURuLm6kY4FA3zsiWnaxD8LJLyV"
-  },
-  {
     "filename": "where_awe_fades.json",
     "name": "where awe fades",
     "artist": "RobScalera",
@@ -1236,5 +1245,16 @@
     "chain": "base",
     "count": 366,
     "thumbnail": "ipfs://QmZZeYk8xcT4S7nUhobyDaYRT8MJGkuiobmdbVnKdA76gL"
+  },
+  {
+    "filename": "Yuragi.json",
+    "name": "Yuragi",
+    "artist": "Kazuhiro Tanimoto",
+    "artists": [
+      "Kazuhiro Tanimoto"
+    ],
+    "chain": "ethereum",
+    "count": 128,
+    "thumbnail": "ipfs://QmcbcmfzwGG6fvQLWd34EpiNWdGKPNpBTeqsRj9KrM52x2"
   }
 ]
