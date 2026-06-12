@@ -23,6 +23,17 @@
     "thumbnail": "ipfs://QmXSH823zTeQ9F6ekFUcNpSX1ZXB8zk5aadh2QuRVv5kPZ"
   },
   {
+    "filename": "Action__System.json",
+    "name": "Action; System",
+    "artist": "Anna Lucia",
+    "artists": [
+      "Anna Lucia"
+    ],
+    "chain": "tezos",
+    "count": 50,
+    "thumbnail": "ipfs://QmYeqW6kjEShxiTNWc5SNFdGo7rPrBBRFnTUpyNLbC3Ltx"
+  },
+  {
     "filename": "adrift.json",
     "name": "adrift",
     "artist": "Jacek Markusiewicz",
@@ -175,6 +186,17 @@
     "chain": "tezos",
     "count": 255,
     "thumbnail": "ipfs://QmStnDnh8ZM24b4RmJNF3GHEpFHRiaA9HGiwqiVJnnMPTj"
+  },
+  {
+    "filename": "CENTURY-XXX-METAFRANKE.json",
+    "name": "CENTURY-XXX-METAFRANKE",
+    "artist": "REAS",
+    "artists": [
+      "REAS"
+    ],
+    "chain": "tezos",
+    "count": 1000,
+    "thumbnail": "ipfs://Qmf6khbsDfxeYyEYXMP8PsyvT54ZZKSu3fKZNkJW7gY3Tf"
   },
   {
     "filename": "chaos_memory.json",
@@ -762,6 +784,15 @@
     "thumbnail": "ipfs://QmZ43BvajJ7w2yx3pbZSmkdWZMSN5iDPdmQr5q183sQ7rg"
   },
   {
+    "filename": "Lumina.json",
+    "name": "{Lumina}",
+    "artist": "",
+    "artists": [],
+    "chain": "tezos",
+    "count": 2770,
+    "thumbnail": "ipfs://QmdPoUaJJj6F5Ua7MjaFSuvmKYsT8sgBeENLNctw2UMDT1"
+  },
+  {
     "filename": "Microgravity.json",
     "name": "Microgravity",
     "artist": "iRyanBell",
@@ -870,6 +901,17 @@
     "chain": "tezos",
     "count": 512,
     "thumbnail": "ipfs://QmS84m85STztGmcLdcffgNpVNPWRvXzK2YTeUzKud8ucJp"
+  },
+  {
+    "filename": "Plottable_Era___II__Medieval.json",
+    "name": "Plottable Era: (II) Medieval",
+    "artist": "greweb",
+    "artists": [
+      "greweb"
+    ],
+    "chain": "tezos",
+    "count": 219,
+    "thumbnail": "ipfs://QmXbRfmy8PPEzxFuQDUp4xKnR6tzGPQMxWn1sTWkXC5Tmx"
   },
   {
     "filename": "Poetics_of_Space.json",
@@ -1123,6 +1165,15 @@
     "chain": "tezos",
     "count": 240,
     "thumbnail": "ipfs://QmQ8prjGECNyTLLaTG7iTCZSV921hxqKcKa9puu3ZLxyFg"
+  },
+  {
+    "filename": "Spellbound.json",
+    "name": "Spellbound",
+    "artist": "",
+    "artists": [],
+    "chain": "tezos",
+    "count": 66,
+    "thumbnail": "ipfs://QmUJhgBnFbafHBEGY53ZvCZNefEtgNYz4Jc18A858Wxynv"
   },
   {
     "filename": "Step_by_Step.json",
