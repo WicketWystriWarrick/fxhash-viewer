@@ -1,0 +1,557 @@
+{
+  "project": {
+    "name": "Désorganic",
+    "artist": "ciphrd",
+    "artists": [
+      "ciphrd"
+    ],
+    "contract": "0x6B091df793006F1763F870f950903716945e32B4",
+    "chain": "ethereum",
+    "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+    "totalSupply": 30,
+    "extractedAt": "2026-06-13T14:19:03.941Z",
+    "source": "fxhash-v2-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 1,
+      "name": "Désorganic #1",
+      "iteration": 1,
+      "fxhash": "0x509078ccbd9a529a5265368249ba155251a70ac1e6c62d679c212568e2ca6e20",
+      "minter": "0xaF423481bb944D161EC44e01C8C2015314Ba290B",
+      "fxparams": "",
+      "owner": "0xaF423481bb944D161EC44e01C8C2015314Ba290B",
+      "thumbnailUri": "ipfs://QmUVkxAeDD65QJacNqng3xawRHSbQnYGgnQFpwST2w4mv6",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x509078ccbd9a529a5265368249ba155251a70ac1e6c62d679c212568e2ca6e20",
+        "iteration": 1,
+        "minter": "0xaF423481bb944D161EC44e01C8C2015314Ba290B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 2,
+      "name": "Désorganic #2",
+      "iteration": 2,
+      "fxhash": "0x97743245e33d2f03f72561139d1892eff3bb34ce04d8f22a06be098891241871",
+      "minter": "0x078a4afb6A3cC50e67600945AB7f0f222B170761",
+      "fxparams": "",
+      "owner": "0x078a4afb6A3cC50e67600945AB7f0f222B170761",
+      "thumbnailUri": "ipfs://QmT4g7p2kdNcb3qMrBQGFdWCxiDGc9rGdsVTkNaqhxNJwR",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x97743245e33d2f03f72561139d1892eff3bb34ce04d8f22a06be098891241871",
+        "iteration": 2,
+        "minter": "0x078a4afb6A3cC50e67600945AB7f0f222B170761",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 3,
+      "name": "Désorganic #3",
+      "iteration": 3,
+      "fxhash": "0x3799b37a317e89244fa6a8403db3d2f712674efe59d3b0b9dbda5b8cf2feefd6",
+      "minter": "0xc73459e2D7DfBc96230aD18F0b901a9f358032B7",
+      "fxparams": "",
+      "owner": "0xc73459e2D7DfBc96230aD18F0b901a9f358032B7",
+      "thumbnailUri": "ipfs://Qmb1XBzjVzRoG6HST2w5KPB6dq9umnTPwkSpSPMwpD2yxf",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x3799b37a317e89244fa6a8403db3d2f712674efe59d3b0b9dbda5b8cf2feefd6",
+        "iteration": 3,
+        "minter": "0xc73459e2D7DfBc96230aD18F0b901a9f358032B7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 4,
+      "name": "Désorganic #4",
+      "iteration": 4,
+      "fxhash": "0x9bf912e1e209b11de4aa6c7e2be7300da0209975b978402b8fc4e2ab90cc8a77",
+      "minter": "0xda3c325aB45b30AeB476B026FE6A777443cA04f3",
+      "fxparams": "",
+      "owner": "0x78089705ED807984cF3EDf9149c9369e8FABB9BE",
+      "thumbnailUri": "ipfs://QmfFY4yyR74oboePGZwi88EWJ9ipu4xihjnLu8KifV4FB5",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x9bf912e1e209b11de4aa6c7e2be7300da0209975b978402b8fc4e2ab90cc8a77",
+        "iteration": 4,
+        "minter": "0xda3c325aB45b30AeB476B026FE6A777443cA04f3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 5,
+      "name": "Désorganic #5",
+      "iteration": 5,
+      "fxhash": "0x6bb4e1ee3393b164dc0b5fb8813a8aa2c01d261dc6108541e7c9ce59d609a8c6",
+      "minter": "0x647eb74A5135A0F24bEee3c2d8432ADCBB32c2a8",
+      "fxparams": "",
+      "owner": "0x37769c5bDd7a43b0b52958Ca51BDAcE1556c96Bf",
+      "thumbnailUri": "ipfs://Qmc5wp7jWib6atrUrN6WquM816mXzNWtP5iWpQMZpiqpJf",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x6bb4e1ee3393b164dc0b5fb8813a8aa2c01d261dc6108541e7c9ce59d609a8c6",
+        "iteration": 5,
+        "minter": "0x647eb74A5135A0F24bEee3c2d8432ADCBB32c2a8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 6,
+      "name": "Désorganic #6",
+      "iteration": 6,
+      "fxhash": "0xa81f8dda9b7820f5d53822a97c7f8e3d3e27f77d429eabd4e0451bfe2b0bf386",
+      "minter": "0x47C6FE08fb59dD266991F1076c43aDDa2D5A189d",
+      "fxparams": "",
+      "owner": "0x99fc8AD516FBCC9bA3123D56e63A35d05AA9EFB8",
+      "thumbnailUri": "ipfs://QmXkMjJyNbZGL7eBmaXu7TMSmrSnUDa7t51XYNMu6H6bZx",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0xa81f8dda9b7820f5d53822a97c7f8e3d3e27f77d429eabd4e0451bfe2b0bf386",
+        "iteration": 6,
+        "minter": "0x47C6FE08fb59dD266991F1076c43aDDa2D5A189d",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 7,
+      "name": "Désorganic #7",
+      "iteration": 7,
+      "fxhash": "0x4729a5d230c89445e09211dd9dcf31702533b6b629c05d5ce854b2f1b9b1c191",
+      "minter": "0x722e9468D7F8C2710b6DbfDF70F01B045aCa1851",
+      "fxparams": "",
+      "owner": "0x722e9468D7F8C2710b6DbfDF70F01B045aCa1851",
+      "thumbnailUri": "ipfs://QmaGKRDmmYHsUUNy79Y3HWZTJt93gh1vEFWWmRGmogPnct",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x4729a5d230c89445e09211dd9dcf31702533b6b629c05d5ce854b2f1b9b1c191",
+        "iteration": 7,
+        "minter": "0x722e9468D7F8C2710b6DbfDF70F01B045aCa1851",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 8,
+      "name": "Désorganic #8",
+      "iteration": 8,
+      "fxhash": "0xe1fa6ce4ec0fa33d7f7b2cd7c6e732cff8d14636b48be8ba1184426f67565dd5",
+      "minter": "0xe60Ff879355BF3Df475428f25Fe165fDa7FfbfB3",
+      "fxparams": "",
+      "owner": "0xe60Ff879355BF3Df475428f25Fe165fDa7FfbfB3",
+      "thumbnailUri": "ipfs://QmYHqCrSYsNdiJ1N4zDzwiksCK1cJ4YGpRGC2LE16zxCpK",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0xe1fa6ce4ec0fa33d7f7b2cd7c6e732cff8d14636b48be8ba1184426f67565dd5",
+        "iteration": 8,
+        "minter": "0xe60Ff879355BF3Df475428f25Fe165fDa7FfbfB3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 9,
+      "name": "Désorganic #9",
+      "iteration": 9,
+      "fxhash": "0x39d74a7a5f992c9b9a3c631d291a64b4f0a3f6af87f82ba394e9643991c25a65",
+      "minter": "0x31e99699bCCde902afc7C4B6b23bB322b8459d22",
+      "fxparams": "",
+      "owner": "0x31e99699bCCde902afc7C4B6b23bB322b8459d22",
+      "thumbnailUri": "ipfs://QmdUdEsvc2cuPFaurfRG4QrFT15WVYiP2wvrBrZdEk3DnK",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x39d74a7a5f992c9b9a3c631d291a64b4f0a3f6af87f82ba394e9643991c25a65",
+        "iteration": 9,
+        "minter": "0x31e99699bCCde902afc7C4B6b23bB322b8459d22",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 10,
+      "name": "Désorganic #10",
+      "iteration": 10,
+      "fxhash": "0xa0421fefbda12f7a55d71242d51c67bf9910a90ae44d1a483e73fe7206f32e0e",
+      "minter": "0xd3826Ef5B46A08296f113de60e71fdEBDe55f59A",
+      "fxparams": "",
+      "owner": "0x830C47362766804dc43fb07215c3c50a09Cc572C",
+      "thumbnailUri": "ipfs://Qmb42UgcPzV8jwjSBG8mK1SGMBkaXjjL8zKL3zueTKoVcX",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0xa0421fefbda12f7a55d71242d51c67bf9910a90ae44d1a483e73fe7206f32e0e",
+        "iteration": 10,
+        "minter": "0xd3826Ef5B46A08296f113de60e71fdEBDe55f59A",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 11,
+      "name": "Désorganic #11",
+      "iteration": 11,
+      "fxhash": "0x665770468036a11d6f5d4fe91ec59df5e76875ab2597251c440feff920b5646d",
+      "minter": "0xd3826Ef5B46A08296f113de60e71fdEBDe55f59A",
+      "fxparams": "",
+      "owner": "0x830C47362766804dc43fb07215c3c50a09Cc572C",
+      "thumbnailUri": "ipfs://QmUBZkKkyQNRKFGYYWVEbfp7yhCTMH1M5cmSfAhq79T8Ex",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x665770468036a11d6f5d4fe91ec59df5e76875ab2597251c440feff920b5646d",
+        "iteration": 11,
+        "minter": "0xd3826Ef5B46A08296f113de60e71fdEBDe55f59A",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 12,
+      "name": "Désorganic #12",
+      "iteration": 12,
+      "fxhash": "0x4be501c2a834c04822be197f7c5874cdacfe71583d7659a0fca7b25b435507c9",
+      "minter": "0xd3826Ef5B46A08296f113de60e71fdEBDe55f59A",
+      "fxparams": "",
+      "owner": "0x830C47362766804dc43fb07215c3c50a09Cc572C",
+      "thumbnailUri": "ipfs://Qmef4TiKnm5aC9tCSBxZvqXdyY1ECrQKGuk9GL6yXnxHZ1",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x4be501c2a834c04822be197f7c5874cdacfe71583d7659a0fca7b25b435507c9",
+        "iteration": 12,
+        "minter": "0xd3826Ef5B46A08296f113de60e71fdEBDe55f59A",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 13,
+      "name": "Désorganic #13",
+      "iteration": 13,
+      "fxhash": "0x5cee94afe6bf0cd1f99d130bdcd99bc4f37269bd8b436468232c732a6ddc2554",
+      "minter": "0xAE360003d07C194D47adFC5720D325c9910fe3B0",
+      "fxparams": "",
+      "owner": "0xAE360003d07C194D47adFC5720D325c9910fe3B0",
+      "thumbnailUri": "ipfs://QmTC6NWZ4xmFzk5MhabJq5FbzypiCnbF9GP5xcB4nUo1kL",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x5cee94afe6bf0cd1f99d130bdcd99bc4f37269bd8b436468232c732a6ddc2554",
+        "iteration": 13,
+        "minter": "0xAE360003d07C194D47adFC5720D325c9910fe3B0",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 14,
+      "name": "Désorganic #14",
+      "iteration": 14,
+      "fxhash": "0x9e5b481a45f5dec46eb3282709fddf7307e193f38ad8581a9b8bc8400d62b5ee",
+      "minter": "0x8C9A4427e991c6485e559E3c4F79a88128d8be3E",
+      "fxparams": "",
+      "owner": "0x8C9A4427e991c6485e559E3c4F79a88128d8be3E",
+      "thumbnailUri": "ipfs://QmZbe2nAFw7vCUzuWbiZHwqf6aCDtnTiy6w959KnY3Ru5F",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x9e5b481a45f5dec46eb3282709fddf7307e193f38ad8581a9b8bc8400d62b5ee",
+        "iteration": 14,
+        "minter": "0x8C9A4427e991c6485e559E3c4F79a88128d8be3E",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 15,
+      "name": "Désorganic #15",
+      "iteration": 15,
+      "fxhash": "0x2272da28238700405a5ba82bc09fbdca5656a23e3ef5edae9680eaa1c2e0b3ce",
+      "minter": "0x8F08EE5e3E44bdC28127e050FCB13F5E4671433d",
+      "fxparams": "",
+      "owner": "0x8F08EE5e3E44bdC28127e050FCB13F5E4671433d",
+      "thumbnailUri": "ipfs://QmUHV23PQL8e4u4951PukTwEXGe8ENEQfXdC36S3EF9C7K",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x2272da28238700405a5ba82bc09fbdca5656a23e3ef5edae9680eaa1c2e0b3ce",
+        "iteration": 15,
+        "minter": "0x8F08EE5e3E44bdC28127e050FCB13F5E4671433d",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 16,
+      "name": "Désorganic #16",
+      "iteration": 16,
+      "fxhash": "0xa7b00a132b425a5a3ad2ef849ac6af2361af035583b5432bd33aaef057aba7ef",
+      "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "fxparams": "",
+      "owner": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "thumbnailUri": "ipfs://QmaTAHeoCZ3LyWY9d7nB1gfo1SqC3Y5YMJ3PQaqLd6ocok",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0xa7b00a132b425a5a3ad2ef849ac6af2361af035583b5432bd33aaef057aba7ef",
+        "iteration": 16,
+        "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 17,
+      "name": "Désorganic #17",
+      "iteration": 17,
+      "fxhash": "0x2e3f922ab07f00f0879b5aef9a630190251197fbbbade91c0d70c0de9d75b303",
+      "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "fxparams": "",
+      "owner": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "thumbnailUri": "ipfs://Qmd5cZsjNLiGeVNTvUa5u71NyxXsBckWeFSQ4hrK3xm2Jc",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x2e3f922ab07f00f0879b5aef9a630190251197fbbbade91c0d70c0de9d75b303",
+        "iteration": 17,
+        "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 18,
+      "name": "Désorganic #18",
+      "iteration": 18,
+      "fxhash": "0xbb7eb972ed6b1fe0c65f9c126406c34207164d32d6aa072f0bc292ad6a1297c0",
+      "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "fxparams": "",
+      "owner": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "thumbnailUri": "ipfs://QmcsXo3Bp3PWWYkGkCcgexxNkAQXQCRurB85vuE7MUD7Uo",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0xbb7eb972ed6b1fe0c65f9c126406c34207164d32d6aa072f0bc292ad6a1297c0",
+        "iteration": 18,
+        "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 19,
+      "name": "Désorganic #19",
+      "iteration": 19,
+      "fxhash": "0xc217944aea0683255e33a7cb2d1318c6be8b9f8f86516da403889e60084a13c4",
+      "minter": "0xB630AbD9a5367763B7CBa316e870c4A54064CC9F",
+      "fxparams": "",
+      "owner": "0x99e2e69F98b164c399Cc12D8382a82135EeA6364",
+      "thumbnailUri": "ipfs://QmVXRiNuQiX2zof2qSGjx4gkb5petaitb8cB5Vhnq936Du",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0xc217944aea0683255e33a7cb2d1318c6be8b9f8f86516da403889e60084a13c4",
+        "iteration": 19,
+        "minter": "0xB630AbD9a5367763B7CBa316e870c4A54064CC9F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 20,
+      "name": "Désorganic #20",
+      "iteration": 20,
+      "fxhash": "0x9d9c32a7570b9258ac049086f269ce9b34c003693bff545f4f3a1bd4be9f9974",
+      "minter": "0x380E5b655d459A0cFa6fa2DFBbE586bf40DcFd7F",
+      "fxparams": "",
+      "owner": "0x380E5b655d459A0cFa6fa2DFBbE586bf40DcFd7F",
+      "thumbnailUri": "ipfs://QmYi3wZRqRvrcjJSvWubKZiCjp4d8YCwj16UQ6eRoRNEnd",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x9d9c32a7570b9258ac049086f269ce9b34c003693bff545f4f3a1bd4be9f9974",
+        "iteration": 20,
+        "minter": "0x380E5b655d459A0cFa6fa2DFBbE586bf40DcFd7F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 21,
+      "name": "Désorganic #21",
+      "iteration": 21,
+      "fxhash": "0x4010ac94bdfe133a0d9493154b5a1e0862b3adc8280187eb2a21c1680d022ea6",
+      "minter": "0x380E5b655d459A0cFa6fa2DFBbE586bf40DcFd7F",
+      "fxparams": "",
+      "owner": "0x380E5b655d459A0cFa6fa2DFBbE586bf40DcFd7F",
+      "thumbnailUri": "ipfs://QmU1nzPB4TWFgfDujo2VtA5NVveJCWDCMFTtBXxq1Cziqt",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x4010ac94bdfe133a0d9493154b5a1e0862b3adc8280187eb2a21c1680d022ea6",
+        "iteration": 21,
+        "minter": "0x380E5b655d459A0cFa6fa2DFBbE586bf40DcFd7F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 22,
+      "name": "Désorganic #22",
+      "iteration": 22,
+      "fxhash": "0xcd64a6e4ac2d8c3fa73c1e422a70a56c5e775a80834fde7baac3b7ba756a3c91",
+      "minter": "0xE74abe3BC87a4cF34acfD7C548208700c0e669b0",
+      "fxparams": "",
+      "owner": "0x5b513d7bB62F7F28bc3ABA2d52FE6167A9b3a827",
+      "thumbnailUri": "ipfs://QmRiNB3PHT5kNbGTd2AiGJm3NvUuMz88xws9o6Wx1JScv4",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0xcd64a6e4ac2d8c3fa73c1e422a70a56c5e775a80834fde7baac3b7ba756a3c91",
+        "iteration": 22,
+        "minter": "0xE74abe3BC87a4cF34acfD7C548208700c0e669b0",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 23,
+      "name": "Désorganic #23",
+      "iteration": 23,
+      "fxhash": "0x8ce962f080ae09d0b19779f9f2806e04095ff8ea2e8745c7e9f642994390f2c8",
+      "minter": "0x68bcA5a8BDebe05Fb8A6648C7316b4Eb7e19a064",
+      "fxparams": "",
+      "owner": "0x68bcA5a8BDebe05Fb8A6648C7316b4Eb7e19a064",
+      "thumbnailUri": "ipfs://QmSKpEzHGJ5vZ2GYgGdB854927rpDsoUNDcjt4RwXoRBDr",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x8ce962f080ae09d0b19779f9f2806e04095ff8ea2e8745c7e9f642994390f2c8",
+        "iteration": 23,
+        "minter": "0x68bcA5a8BDebe05Fb8A6648C7316b4Eb7e19a064",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 24,
+      "name": "Désorganic #24",
+      "iteration": 24,
+      "fxhash": "0x6c32194daec2ff6c2dbc91a8a4b2bad5556b76b7597ceb302b37f394ec50c2df",
+      "minter": "0x8754E1eD406a72f8dECa5b4c9654Ad2Db698Ba83",
+      "fxparams": "",
+      "owner": "0x486DA44e46Bd00a63f1AEcbE23b5051c4951fD1f",
+      "thumbnailUri": "ipfs://QmVzDz9m6a3TACxtXTnUVKnGTaSbZPZwkBVf6U92zX2TwQ",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x6c32194daec2ff6c2dbc91a8a4b2bad5556b76b7597ceb302b37f394ec50c2df",
+        "iteration": 24,
+        "minter": "0x8754E1eD406a72f8dECa5b4c9654Ad2Db698Ba83",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 25,
+      "name": "Désorganic #25",
+      "iteration": 25,
+      "fxhash": "0x61c1430a87c3a78c6def7996b7cde88ce66be54846e3b7bef0fc7ef1d16d87dc",
+      "minter": "0xE096290ddDEa11803AC51F58fb64Fc977d70d200",
+      "fxparams": "",
+      "owner": "0xE096290ddDEa11803AC51F58fb64Fc977d70d200",
+      "thumbnailUri": "ipfs://QmUBs4ee1GV965RD1XuskE9sLFeimSRedJoyiwZcsX6PoP",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x61c1430a87c3a78c6def7996b7cde88ce66be54846e3b7bef0fc7ef1d16d87dc",
+        "iteration": 25,
+        "minter": "0xE096290ddDEa11803AC51F58fb64Fc977d70d200",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 26,
+      "name": "Désorganic #26",
+      "iteration": 26,
+      "fxhash": "0x46f9380f977b7a5a9783791efa0b1cad5e41a42be761ea544667869ee37f86fd",
+      "minter": "0xE096290ddDEa11803AC51F58fb64Fc977d70d200",
+      "fxparams": "",
+      "owner": "0xE096290ddDEa11803AC51F58fb64Fc977d70d200",
+      "thumbnailUri": "ipfs://QmekwUxFDoWLp1XgLX5pujPN6Fq4yFYCKWNMEJTvLx5V9j",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x46f9380f977b7a5a9783791efa0b1cad5e41a42be761ea544667869ee37f86fd",
+        "iteration": 26,
+        "minter": "0xE096290ddDEa11803AC51F58fb64Fc977d70d200",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 27,
+      "name": "Désorganic #27",
+      "iteration": 27,
+      "fxhash": "0x19a038a0e5c12979b17b57b037350f2b5cb4b472b3f531c26cf252e039553c00",
+      "minter": "0x38F1DfdcaF2F0d70c29D4AF6a4AA9E920efe8B18",
+      "fxparams": "",
+      "owner": "0x38F1DfdcaF2F0d70c29D4AF6a4AA9E920efe8B18",
+      "thumbnailUri": "ipfs://QmZJegheN4xLCsBC6nKdDgzQaspVo2NZEgAdUDDkcUJQfr",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x19a038a0e5c12979b17b57b037350f2b5cb4b472b3f531c26cf252e039553c00",
+        "iteration": 27,
+        "minter": "0x38F1DfdcaF2F0d70c29D4AF6a4AA9E920efe8B18",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 28,
+      "name": "Désorganic #28",
+      "iteration": 28,
+      "fxhash": "0xbaecd11ef1dfbfc481f5aa78dadee618f3cc847a0778d0270135ccdf4a883c4d",
+      "minter": "0x312111Eb73D1CB99bE22882B6b7f0E5D7dDADC7f",
+      "fxparams": "",
+      "owner": "0xcd5060dB2Baf2A87dAA4C6155877d275D0c0832e",
+      "thumbnailUri": "ipfs://Qma1QhSPdHgGGx7QSQuE9T3KQaG3goodQoE5N74r5cRDpr",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0xbaecd11ef1dfbfc481f5aa78dadee618f3cc847a0778d0270135ccdf4a883c4d",
+        "iteration": 28,
+        "minter": "0x312111Eb73D1CB99bE22882B6b7f0E5D7dDADC7f",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 29,
+      "name": "Désorganic #29",
+      "iteration": 29,
+      "fxhash": "0x3a03f37d4b5226f4ff52427c35a8da066ebf3b8ee0a5406541a4ce27f65c68ce",
+      "minter": "0xfd6e50c8e434A1F49af4f20cC0640BA3Da68f84F",
+      "fxparams": "",
+      "owner": "0xfd6e50c8e434A1F49af4f20cC0640BA3Da68f84F",
+      "thumbnailUri": "ipfs://QmQ3V7R9jxXoCSJwCmkPtDv5BtBUgFhykTyJ73X4Gcu9ja",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0x3a03f37d4b5226f4ff52427c35a8da066ebf3b8ee0a5406541a4ce27f65c68ce",
+        "iteration": 29,
+        "minter": "0xfd6e50c8e434A1F49af4f20cC0640BA3Da68f84F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 30,
+      "name": "Désorganic #30",
+      "iteration": 30,
+      "fxhash": "0xb50b165383374391b1344058b136e5b79e9707b088f8a21e0a48eccc778ad761",
+      "minter": "0xcE76A7B0B3f82b150E70DEa7Ed84eD5Eb33a28E6",
+      "fxparams": "",
+      "owner": "0xcE76A7B0B3f82b150E70DEa7Ed84eD5Eb33a28E6",
+      "thumbnailUri": "ipfs://QmVaQauPxKyieP3jtPEKpx4HtH4QkBsgeGwcVSUrADzzwk",
+      "generativeUri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+      "viewerParams": {
+        "uri": "onchfs://101aabd88c71b385cfef855109c4553d8388c6235a5bb993a49c753ecd06d4d5",
+        "fxhash": "0xb50b165383374391b1344058b136e5b79e9707b088f8a21e0a48eccc778ad761",
+        "iteration": 30,
+        "minter": "0xcE76A7B0B3f82b150E70DEa7Ed84eD5Eb33a28E6",
+        "fxparams": ""
+      }
+    }
+  ]
+}

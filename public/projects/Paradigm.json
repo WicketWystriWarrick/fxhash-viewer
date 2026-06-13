@@ -1,0 +1,2321 @@
+{
+  "project": {
+    "name": "Paradigm",
+    "artist": "ippsketch",
+    "artists": [
+      "ippsketch"
+    ],
+    "contract": "0x159BFA3412F59313f12f873fcd40a8346a2058ff",
+    "chain": "ethereum",
+    "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+    "totalSupply": 128,
+    "extractedAt": "2026-06-13T14:19:01.934Z",
+    "source": "fxhash-v2-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 1,
+      "name": "Paradigm #1",
+      "iteration": 1,
+      "fxhash": "0xa18dac8f426612c5bf88dfdf56dbe4f5083e2583e3b7b47a38a30315705e34c1",
+      "minter": "0xF523011fC571d67beB53ee108FDEB010D1ADdBE9",
+      "fxparams": "",
+      "owner": "0xcb273B1d1425b82F4D5977a8C7407194F1c6f208",
+      "thumbnailUri": "ipfs://QmUbFqPBxBatCsRVv3MwprAHkreJ43m1c5Rp8feZu8n2Bx",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xa18dac8f426612c5bf88dfdf56dbe4f5083e2583e3b7b47a38a30315705e34c1",
+        "iteration": 1,
+        "minter": "0xF523011fC571d67beB53ee108FDEB010D1ADdBE9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 2,
+      "name": "Paradigm #2",
+      "iteration": 2,
+      "fxhash": "0x5090e4150191cbf34e2fc0455d2afeea2f9550e5941a9a9d0cfe89961aa6069e",
+      "minter": "0xB630AbD9a5367763B7CBa316e870c4A54064CC9F",
+      "fxparams": "",
+      "owner": "0x99e2e69F98b164c399Cc12D8382a82135EeA6364",
+      "thumbnailUri": "ipfs://QmQU1fZw76yuDZQz4GadHsbmQWRSsqX4VAnncJQ4uYKpDo",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x5090e4150191cbf34e2fc0455d2afeea2f9550e5941a9a9d0cfe89961aa6069e",
+        "iteration": 2,
+        "minter": "0xB630AbD9a5367763B7CBa316e870c4A54064CC9F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 3,
+      "name": "Paradigm #3",
+      "iteration": 3,
+      "fxhash": "0x8f90ca5ae04b86adf9f2ecaa62fdd76d6a3d961e1a89219d72e6f727f7e4f506",
+      "minter": "0x435a4CCC3712B0B40cE16A1C7Bfa263Ed6e9Bb33",
+      "fxparams": "",
+      "owner": "0x435a4CCC3712B0B40cE16A1C7Bfa263Ed6e9Bb33",
+      "thumbnailUri": "ipfs://QmNziKczP3BvyNcZswY5RS1Kr97acxGa9xPhhZAduiDH3N",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x8f90ca5ae04b86adf9f2ecaa62fdd76d6a3d961e1a89219d72e6f727f7e4f506",
+        "iteration": 3,
+        "minter": "0x435a4CCC3712B0B40cE16A1C7Bfa263Ed6e9Bb33",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 4,
+      "name": "Paradigm #4",
+      "iteration": 4,
+      "fxhash": "0x5787b4e484ce10c61958c178701da590dae122957cd0743f9ca10e34c7b410cd",
+      "minter": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+      "fxparams": "",
+      "owner": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+      "thumbnailUri": "ipfs://QmdtVmZAxwgYc3Npji6NdMgJfdZXqipjE4g4PhoGvPh1zm",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x5787b4e484ce10c61958c178701da590dae122957cd0743f9ca10e34c7b410cd",
+        "iteration": 4,
+        "minter": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 5,
+      "name": "Paradigm #5",
+      "iteration": 5,
+      "fxhash": "0x7a39747b2ec0d4a4eb3dcbc720a532d8f87cd7e38ff7d38188f1c0b5f54a006c",
+      "minter": "0x6b9d4E1A54D5d5AEa1DC961dF1522086F068e94b",
+      "fxparams": "",
+      "owner": "0x6b9d4E1A54D5d5AEa1DC961dF1522086F068e94b",
+      "thumbnailUri": "ipfs://QmdX9wvtu9t9ayKG1xfDpz8gJ952MTNyv6CUxf9gtGLNzK",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x7a39747b2ec0d4a4eb3dcbc720a532d8f87cd7e38ff7d38188f1c0b5f54a006c",
+        "iteration": 5,
+        "minter": "0x6b9d4E1A54D5d5AEa1DC961dF1522086F068e94b",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 6,
+      "name": "Paradigm #6",
+      "iteration": 6,
+      "fxhash": "0x37499130c822e1f72848826bfa5cb1287bfcef5e264409d69e393655a685b56c",
+      "minter": "0xd2aDf54675d1eC4d32Aa752C82466B29E86d729D",
+      "fxparams": "",
+      "owner": "0x0E6e9d2c0Aab646EB4b13808e208fA1c6b308Db1",
+      "thumbnailUri": "ipfs://Qma5NTLZB9E1YeWqrJBrAibmRnLtvPy4ujFsMC1rWXWZUe",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x37499130c822e1f72848826bfa5cb1287bfcef5e264409d69e393655a685b56c",
+        "iteration": 6,
+        "minter": "0xd2aDf54675d1eC4d32Aa752C82466B29E86d729D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 7,
+      "name": "Paradigm #7",
+      "iteration": 7,
+      "fxhash": "0xf94affb3e4b45e56ac4bb3d6c5ea48ec077055a8e8c76c5306aba37885139b57",
+      "minter": "0x837b24455dC3796b1a91707741c8162fbb71c5d6",
+      "fxparams": "",
+      "owner": "0x837b24455dC3796b1a91707741c8162fbb71c5d6",
+      "thumbnailUri": "ipfs://QmUBun5Q6eiXBo6uzc1TZ7oz49kGwaPUFr62GFxFLYyc7a",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xf94affb3e4b45e56ac4bb3d6c5ea48ec077055a8e8c76c5306aba37885139b57",
+        "iteration": 7,
+        "minter": "0x837b24455dC3796b1a91707741c8162fbb71c5d6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 8,
+      "name": "Paradigm #8",
+      "iteration": 8,
+      "fxhash": "0x74a1bcd9fbc19e1be0f0216c7c1b9f9a5045d84d712a64ccfb1c3594825ef909",
+      "minter": "0x3DAc271d1B36A434880C527A678B6487AC9C1F8c",
+      "fxparams": "",
+      "owner": "0x3DAc271d1B36A434880C527A678B6487AC9C1F8c",
+      "thumbnailUri": "ipfs://QmQSsJjqVapSFqhqLYtHWnxLpFVq2jCYyHSJTHxZGM4PhL",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x74a1bcd9fbc19e1be0f0216c7c1b9f9a5045d84d712a64ccfb1c3594825ef909",
+        "iteration": 8,
+        "minter": "0x3DAc271d1B36A434880C527A678B6487AC9C1F8c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 9,
+      "name": "Paradigm #9",
+      "iteration": 9,
+      "fxhash": "0xd94e493f31633d72237f43f38ac5fe427e7425849fda29f0f54ff479fad52af8",
+      "minter": "0xE039C963e6B851D21b255122501E8583F6fc7A95",
+      "fxparams": "",
+      "owner": "0x7795dAf218a0c1A4336e77d39168f80276D4D06c",
+      "thumbnailUri": "ipfs://QmZc3EWE4ELENBYtMum9h1pHwtz1XdxKW6EpDEcCCu2qeN",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xd94e493f31633d72237f43f38ac5fe427e7425849fda29f0f54ff479fad52af8",
+        "iteration": 9,
+        "minter": "0xE039C963e6B851D21b255122501E8583F6fc7A95",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 10,
+      "name": "Paradigm #10",
+      "iteration": 10,
+      "fxhash": "0xca138be063cfbc88aafc97ca3e5d3e0cddc1466616a9eae5613eba8c9416eb95",
+      "minter": "0x0E6e9d2c0Aab646EB4b13808e208fA1c6b308Db1",
+      "fxparams": "",
+      "owner": "0x49FF66D90C67Ca99FEAA5E8e473396d5c25AA71a",
+      "thumbnailUri": "ipfs://QmSL64PVRhCBmYv6PP1Ej9w74yUqDXFvLC2qkuV5iG7QCV",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xca138be063cfbc88aafc97ca3e5d3e0cddc1466616a9eae5613eba8c9416eb95",
+        "iteration": 10,
+        "minter": "0x0E6e9d2c0Aab646EB4b13808e208fA1c6b308Db1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 11,
+      "name": "Paradigm #11",
+      "iteration": 11,
+      "fxhash": "0x53effe9e03cc4d0fd418f6af0b85a4eda7d0015b918ff15d18091967df71c641",
+      "minter": "0x1e5e100141BD09900d402dDB38F9043BBeEA84F1",
+      "fxparams": "",
+      "owner": "0xD1d33b233d9462c0E7CCF9962c9D941a57Af3872",
+      "thumbnailUri": "ipfs://QmXupCKsCZ81vpV5ddGb9wcgkFtiUta7YH3rUzWkBAp2QB",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x53effe9e03cc4d0fd418f6af0b85a4eda7d0015b918ff15d18091967df71c641",
+        "iteration": 11,
+        "minter": "0x1e5e100141BD09900d402dDB38F9043BBeEA84F1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 12,
+      "name": "Paradigm #12",
+      "iteration": 12,
+      "fxhash": "0xa92f0b67a4bedfbcd6a3af2780ce84cbda34bad2117af2f1ff77ad2ebb0047e4",
+      "minter": "0x0Ac5fFEb83C5FF9724a266903Da39DAd0F7299C8",
+      "fxparams": "",
+      "owner": "0x0Ac5fFEb83C5FF9724a266903Da39DAd0F7299C8",
+      "thumbnailUri": "ipfs://QmVw8L8tuqyGbAVykAHZmNF5pQXLgohpsZv3GMHXPrTrtu",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xa92f0b67a4bedfbcd6a3af2780ce84cbda34bad2117af2f1ff77ad2ebb0047e4",
+        "iteration": 12,
+        "minter": "0x0Ac5fFEb83C5FF9724a266903Da39DAd0F7299C8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 13,
+      "name": "Paradigm #13",
+      "iteration": 13,
+      "fxhash": "0x7ba359c1bcf8242ae39aaee0b479d49172b7b156e7885471b6cdad5228d6aa4e",
+      "minter": "0xab68e2CA50CB56e82fdb9ad31414eF35Ec07dF72",
+      "fxparams": "",
+      "owner": "0xab68e2CA50CB56e82fdb9ad31414eF35Ec07dF72",
+      "thumbnailUri": "ipfs://QmS1BaumB7iot6MRRGeMRmVXLEFMK7ConK5APp5XWCEfUd",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x7ba359c1bcf8242ae39aaee0b479d49172b7b156e7885471b6cdad5228d6aa4e",
+        "iteration": 13,
+        "minter": "0xab68e2CA50CB56e82fdb9ad31414eF35Ec07dF72",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 14,
+      "name": "Paradigm #14",
+      "iteration": 14,
+      "fxhash": "0xd7590fba4700e74dc6596e91b05d6433add92ecf79cbaa0cb9269f9e2e014cf9",
+      "minter": "0x4A13A55003EEaf84421ad16799bBbe68D851BbFe",
+      "fxparams": "",
+      "owner": "0x93972484E68415B85B3aFf169b772799E4BAca16",
+      "thumbnailUri": "ipfs://QmV4L2oh64AvV61ARxb9uF2hVCWxP1Sjr28FimXNHXvRBP",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xd7590fba4700e74dc6596e91b05d6433add92ecf79cbaa0cb9269f9e2e014cf9",
+        "iteration": 14,
+        "minter": "0x4A13A55003EEaf84421ad16799bBbe68D851BbFe",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 15,
+      "name": "Paradigm #15",
+      "iteration": 15,
+      "fxhash": "0xb8f482da39cdae09e575bc29dcac5a4ccb3bd66690ac2b4907a98c71c85859f8",
+      "minter": "0x82dF980CB8Ee6E5799bCBDa4f514d949bD6f0c2d",
+      "fxparams": "",
+      "owner": "0x82dF980CB8Ee6E5799bCBDa4f514d949bD6f0c2d",
+      "thumbnailUri": "ipfs://QmQ4HFfaby1GmrSbLAacCMmQJqc1BkDATq9KcKuCJPyF1o",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xb8f482da39cdae09e575bc29dcac5a4ccb3bd66690ac2b4907a98c71c85859f8",
+        "iteration": 15,
+        "minter": "0x82dF980CB8Ee6E5799bCBDa4f514d949bD6f0c2d",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 16,
+      "name": "Paradigm #16",
+      "iteration": 16,
+      "fxhash": "0xafab5c1d685857116140afa81e063a9e9251c56bf7794ec0ec07f1a9c7119285",
+      "minter": "0xB8f65F2297aF02D103b2EdE5681e0101F1557330",
+      "fxparams": "",
+      "owner": "0x78089705ED807984cF3EDf9149c9369e8FABB9BE",
+      "thumbnailUri": "ipfs://QmboPipv36bG7kjyfK36wndmWifCZ6yGAD2e4gHSvdyCCb",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xafab5c1d685857116140afa81e063a9e9251c56bf7794ec0ec07f1a9c7119285",
+        "iteration": 16,
+        "minter": "0xB8f65F2297aF02D103b2EdE5681e0101F1557330",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 17,
+      "name": "Paradigm #17",
+      "iteration": 17,
+      "fxhash": "0x9bf5ebb1c20c6b808402e6b6d9ea73ee0c7d2210144f063364c767016629e648",
+      "minter": "0xADd403e94985eee3108E16987EEa30C10E2dF2Ef",
+      "fxparams": "",
+      "owner": "0xfaBa1e9eD7f667E8C7A851C9eD15aED99aa80289",
+      "thumbnailUri": "ipfs://QmTsn648xMC7qvvUi6UirqZ12ALXJv2uPKrX2Pcbn46L5o",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x9bf5ebb1c20c6b808402e6b6d9ea73ee0c7d2210144f063364c767016629e648",
+        "iteration": 17,
+        "minter": "0xADd403e94985eee3108E16987EEa30C10E2dF2Ef",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 18,
+      "name": "Paradigm #18",
+      "iteration": 18,
+      "fxhash": "0x1c3dfd39a08819e86c48b8dd0077aa6dcd9bc547094c575b7427af458b5c57c6",
+      "minter": "0x435d821Ee5b346850545cB18443ca9808A9d47D0",
+      "fxparams": "",
+      "owner": "0x435d821Ee5b346850545cB18443ca9808A9d47D0",
+      "thumbnailUri": "ipfs://QmQguhDpHLXiqGg544opf1zMC3iZ45MxJomAyyDXtmAqmy",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x1c3dfd39a08819e86c48b8dd0077aa6dcd9bc547094c575b7427af458b5c57c6",
+        "iteration": 18,
+        "minter": "0x435d821Ee5b346850545cB18443ca9808A9d47D0",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 19,
+      "name": "Paradigm #19",
+      "iteration": 19,
+      "fxhash": "0x86e5fe2a9a741042fa30cd2e7c2386a2f0e812cb386eabc2b17283f4e40feedd",
+      "minter": "0x62B74e95447915DD5b1d6c0c9b70621677c67ac8",
+      "fxparams": "",
+      "owner": "0xAD4c2B37c46E824078EaCad89006e6f29752dC4d",
+      "thumbnailUri": "ipfs://QmUSTDMdE5GgN5YCqxqGB52LLPAkZaisnr5NTtA932YT4h",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x86e5fe2a9a741042fa30cd2e7c2386a2f0e812cb386eabc2b17283f4e40feedd",
+        "iteration": 19,
+        "minter": "0x62B74e95447915DD5b1d6c0c9b70621677c67ac8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 20,
+      "name": "Paradigm #20",
+      "iteration": 20,
+      "fxhash": "0xad56fb90a166bdc347d2d5eba81a3f0490261aeaaefe6e015807d6a57440c020",
+      "minter": "0x7ed9Cf5dBf2F68bD33Ea2c95eF2B4634976Ba7f8",
+      "fxparams": "",
+      "owner": "0xFa1be1708F0f6C3b23E0e3339D30AA6A6DDC5e0e",
+      "thumbnailUri": "ipfs://QmYw1qxpTbUrriBSwgS8d1w6hBdR9v93cXGGNa4mmxEPLY",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xad56fb90a166bdc347d2d5eba81a3f0490261aeaaefe6e015807d6a57440c020",
+        "iteration": 20,
+        "minter": "0x7ed9Cf5dBf2F68bD33Ea2c95eF2B4634976Ba7f8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 21,
+      "name": "Paradigm #21",
+      "iteration": 21,
+      "fxhash": "0xbb711adf04d2763d2ea13bdacfd1c0c0e76c5f7965ef7e26d735e7bc06bdd5e8",
+      "minter": "0xa25C0aeCc01afF067df3b174d52AAFF69F56Cd94",
+      "fxparams": "",
+      "owner": "0xa25C0aeCc01afF067df3b174d52AAFF69F56Cd94",
+      "thumbnailUri": "ipfs://QmQoXXsSSdAufgeTpcGQ5E5oCx44iy1hHwz3Y9Ddao5KSR",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xbb711adf04d2763d2ea13bdacfd1c0c0e76c5f7965ef7e26d735e7bc06bdd5e8",
+        "iteration": 21,
+        "minter": "0xa25C0aeCc01afF067df3b174d52AAFF69F56Cd94",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 22,
+      "name": "Paradigm #22",
+      "iteration": 22,
+      "fxhash": "0x724d7751fd4b3563c2b69adcf3d171f3ee56801c474f944b5c717c5f4816cdda",
+      "minter": "0xCB5932213FCDE808E4f20E17740d1A5226Cd7fED",
+      "fxparams": "",
+      "owner": "0xCB5932213FCDE808E4f20E17740d1A5226Cd7fED",
+      "thumbnailUri": "ipfs://QmUSYGRbyMKbaeeDiynMT8FZkz9b8KN7L2KkDkEQeYaTvJ",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x724d7751fd4b3563c2b69adcf3d171f3ee56801c474f944b5c717c5f4816cdda",
+        "iteration": 22,
+        "minter": "0xCB5932213FCDE808E4f20E17740d1A5226Cd7fED",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 23,
+      "name": "Paradigm #23",
+      "iteration": 23,
+      "fxhash": "0x164857b38cd9e739e5861f99e3a42974fa3d2d611e7ebb1d878d4941296ed3ac",
+      "minter": "0x2882898129bfB577f756350d8443265038FCe7cc",
+      "fxparams": "",
+      "owner": "0x2882898129bfB577f756350d8443265038FCe7cc",
+      "thumbnailUri": "ipfs://QmUWT31b6kfAX74x6pVM9AvJoD3okiYVihE59dAk2XCt6V",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x164857b38cd9e739e5861f99e3a42974fa3d2d611e7ebb1d878d4941296ed3ac",
+        "iteration": 23,
+        "minter": "0x2882898129bfB577f756350d8443265038FCe7cc",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 24,
+      "name": "Paradigm #24",
+      "iteration": 24,
+      "fxhash": "0xbb3ae9a54795846c83a179f559af7eb335e04a50830210a9b221fdd9b8f77616",
+      "minter": "0xDc265d18126ba11B414D4BDf10ba4a08F5eb0f03",
+      "fxparams": "",
+      "owner": "0xd0dBf8221003Ce87DD9AdbA82D259f9ff7b186Ff",
+      "thumbnailUri": "ipfs://QmNgrioaAmYSu6APmHuuWG5QRR9P4q7UFpmbEmcvYmaK4B",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xbb3ae9a54795846c83a179f559af7eb335e04a50830210a9b221fdd9b8f77616",
+        "iteration": 24,
+        "minter": "0xDc265d18126ba11B414D4BDf10ba4a08F5eb0f03",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 25,
+      "name": "Paradigm #25",
+      "iteration": 25,
+      "fxhash": "0x3d5267df56d2924161ae3536bae44366e410101f341b3ba44ba786e141129b97",
+      "minter": "0xCbA202F6c6684C497C3FB7740a6f6BA14041CDE8",
+      "fxparams": "",
+      "owner": "0xCbA202F6c6684C497C3FB7740a6f6BA14041CDE8",
+      "thumbnailUri": "ipfs://QmNSod6tVnjqr5CcPorJKRHVHEBDZp3U2RjoMCmdJxLuyH",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x3d5267df56d2924161ae3536bae44366e410101f341b3ba44ba786e141129b97",
+        "iteration": 25,
+        "minter": "0xCbA202F6c6684C497C3FB7740a6f6BA14041CDE8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 26,
+      "name": "Paradigm #26",
+      "iteration": 26,
+      "fxhash": "0xcb590f96ef5f22489eabfd478236132db415940908ba2f0b5274d2c8b176f0dc",
+      "minter": "0xbDa9E411bbEF7147d7b36145715b1952f68512E7",
+      "fxparams": "",
+      "owner": "0x7795dAf218a0c1A4336e77d39168f80276D4D06c",
+      "thumbnailUri": "ipfs://QmXPKW26zMvy4GtyyeeHhrvDk6gLXWLYMSHFxJpMjgt1g8",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xcb590f96ef5f22489eabfd478236132db415940908ba2f0b5274d2c8b176f0dc",
+        "iteration": 26,
+        "minter": "0xbDa9E411bbEF7147d7b36145715b1952f68512E7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 27,
+      "name": "Paradigm #27",
+      "iteration": 27,
+      "fxhash": "0xe00efc59beda4857254cbf28bb15a003d6cbbb29646edec42aea2c89d8a49154",
+      "minter": "0x1E74e3B9aff3180B8Ba336c86e45D591974Ae11c",
+      "fxparams": "",
+      "owner": "0x53b517968dbD242De0348A2f0d70D55C1BF7BcD3",
+      "thumbnailUri": "ipfs://QmVjLyciE39d7kGToR5EJv9vUcA41zs1scSjd6cPLsnkiB",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xe00efc59beda4857254cbf28bb15a003d6cbbb29646edec42aea2c89d8a49154",
+        "iteration": 27,
+        "minter": "0x1E74e3B9aff3180B8Ba336c86e45D591974Ae11c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 28,
+      "name": "Paradigm #28",
+      "iteration": 28,
+      "fxhash": "0x1ff92b1f69f24330b5192528b66db16c447f28b9f6247e5194617f57e28c1eb5",
+      "minter": "0xbE957A475844c127DDD207B4ff1F63900FD13E57",
+      "fxparams": "",
+      "owner": "0x24C3833219AB8128644F37cbb51546cdfbCE6c02",
+      "thumbnailUri": "ipfs://QmTdPiLS1RsQj9kSDHdbq927hzjwHg2mtywDCENbmxtL5t",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x1ff92b1f69f24330b5192528b66db16c447f28b9f6247e5194617f57e28c1eb5",
+        "iteration": 28,
+        "minter": "0xbE957A475844c127DDD207B4ff1F63900FD13E57",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 29,
+      "name": "Paradigm #29",
+      "iteration": 29,
+      "fxhash": "0xeac5dee94c8b33f95470ee6d47f2074add26898136ab46e925f1b8437326ca8b",
+      "minter": "0xC775e0b074c362408148e820B7b45C06c6877ba3",
+      "fxparams": "",
+      "owner": "0xef847ff1bE0CCae9191CF10799ACfa79E639868B",
+      "thumbnailUri": "ipfs://QmWsRxKXX77FXZRD3B8NkGrRh8sBkU6X3UZjVnpQMtqpX7",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xeac5dee94c8b33f95470ee6d47f2074add26898136ab46e925f1b8437326ca8b",
+        "iteration": 29,
+        "minter": "0xC775e0b074c362408148e820B7b45C06c6877ba3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 30,
+      "name": "Paradigm #30",
+      "iteration": 30,
+      "fxhash": "0x1821a0cdbddaa0e86324d48bd93fb415c36cb1ef47dc01880f6401aef97117f7",
+      "minter": "0x553671aC28FE84505c0954371691de74757e613A",
+      "fxparams": "",
+      "owner": "0x553671aC28FE84505c0954371691de74757e613A",
+      "thumbnailUri": "ipfs://QmYfKudraypRGMRszbWMvEFfpyC3JkmnEL8Pi3CWbXxiuY",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x1821a0cdbddaa0e86324d48bd93fb415c36cb1ef47dc01880f6401aef97117f7",
+        "iteration": 30,
+        "minter": "0x553671aC28FE84505c0954371691de74757e613A",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 31,
+      "name": "Paradigm #31",
+      "iteration": 31,
+      "fxhash": "0xf1803407f6bb0acd0ab30a1dcf064b610d1de441d4f477625f877d7cfbc4d458",
+      "minter": "0x4A257E8793Ca3cbcbf2540C44e3f27Cf8f3e2CE6",
+      "fxparams": "",
+      "owner": "0x482293E4c21130f069169E5d7E9c99f239C5eE8E",
+      "thumbnailUri": "ipfs://Qmf8zq2dGnWBHiBzfBgrtmfpwgUiPV7o8QAsDt3wuJaVX2",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xf1803407f6bb0acd0ab30a1dcf064b610d1de441d4f477625f877d7cfbc4d458",
+        "iteration": 31,
+        "minter": "0x4A257E8793Ca3cbcbf2540C44e3f27Cf8f3e2CE6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 32,
+      "name": "Paradigm #32",
+      "iteration": 32,
+      "fxhash": "0xb28dae089073c33c5effc90d4bcec9af089c4a168833ebed63571d1dd8a2a987",
+      "minter": "0x88CB064C83d253095cFE7427f0aD556D4049d1E7",
+      "fxparams": "",
+      "owner": "0x0E6e9d2c0Aab646EB4b13808e208fA1c6b308Db1",
+      "thumbnailUri": "ipfs://QmQngdkPdAimBYfM1ScnLAHJZzGGx4rS4ggvk53dRixtRH",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xb28dae089073c33c5effc90d4bcec9af089c4a168833ebed63571d1dd8a2a987",
+        "iteration": 32,
+        "minter": "0x88CB064C83d253095cFE7427f0aD556D4049d1E7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 33,
+      "name": "Paradigm #33",
+      "iteration": 33,
+      "fxhash": "0xc8db1af5ae0153f339d68fef8fa24ccc07a1333c2fffdc8c1ebdd465374bf449",
+      "minter": "0x7e8B97340F2cD42cba3aB7f207235C57cF89370a",
+      "fxparams": "",
+      "owner": "0x7e8B97340F2cD42cba3aB7f207235C57cF89370a",
+      "thumbnailUri": "ipfs://QmQUQBjti7Rk3AHar1AyzGgxJYnRTsgzuQ4CHWbaFtZ78r",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc8db1af5ae0153f339d68fef8fa24ccc07a1333c2fffdc8c1ebdd465374bf449",
+        "iteration": 33,
+        "minter": "0x7e8B97340F2cD42cba3aB7f207235C57cF89370a",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 34,
+      "name": "Paradigm #34",
+      "iteration": 34,
+      "fxhash": "0x79b635571d26fa63b8660df86d8d3c9080d3d8c355fcf99c8a750159db62613a",
+      "minter": "0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66",
+      "fxparams": "",
+      "owner": "0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66",
+      "thumbnailUri": "ipfs://QmUb8Ud8X5in3uCSGEMJi6gtqezHKaymwMtnV2qnzykVwi",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x79b635571d26fa63b8660df86d8d3c9080d3d8c355fcf99c8a750159db62613a",
+        "iteration": 34,
+        "minter": "0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 35,
+      "name": "Paradigm #35",
+      "iteration": 35,
+      "fxhash": "0x62b580d37715b1ed2b3b59536d3ebf35496f1972564cf7c3bc8bd5285d57056e",
+      "minter": "0xb8dB0BFD726D774C7A0c659503376d3225cF9B7E",
+      "fxparams": "",
+      "owner": "0x1D3A9a01d1476A1eEa9e230CB5Ae4ED3ccf0C041",
+      "thumbnailUri": "ipfs://QmNNymEPgijz3Fk63u1og3HhZ1DLZ9Gk1Ytxvi3xHXpLna",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x62b580d37715b1ed2b3b59536d3ebf35496f1972564cf7c3bc8bd5285d57056e",
+        "iteration": 35,
+        "minter": "0xb8dB0BFD726D774C7A0c659503376d3225cF9B7E",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 36,
+      "name": "Paradigm #36",
+      "iteration": 36,
+      "fxhash": "0x32538bc92bfc6df495c83a8d42ca162b459782bc73f4b4c81d20653c95f3e4e5",
+      "minter": "0x7Ba3D1C4F46516fb975FB012F7db04381188e907",
+      "fxparams": "",
+      "owner": "0x7Ba3D1C4F46516fb975FB012F7db04381188e907",
+      "thumbnailUri": "ipfs://QmPPkh8pLCnrFppWJgGCHBgUU9rywkruhYYDnatwUMEstB",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x32538bc92bfc6df495c83a8d42ca162b459782bc73f4b4c81d20653c95f3e4e5",
+        "iteration": 36,
+        "minter": "0x7Ba3D1C4F46516fb975FB012F7db04381188e907",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 37,
+      "name": "Paradigm #37",
+      "iteration": 37,
+      "fxhash": "0x8a4fe31beeffbf14660b71955df4be103c004797702175b83ecbe0c6cb05ed82",
+      "minter": "0x308Bff328370FC4a9683aB9fCd79A21be6dC5eE4",
+      "fxparams": "",
+      "owner": "0x308Bff328370FC4a9683aB9fCd79A21be6dC5eE4",
+      "thumbnailUri": "ipfs://QmeF5MVXGubxaDmfaW5SMpWtLcoJjx8Y8XZLNonEwFTG5g",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x8a4fe31beeffbf14660b71955df4be103c004797702175b83ecbe0c6cb05ed82",
+        "iteration": 37,
+        "minter": "0x308Bff328370FC4a9683aB9fCd79A21be6dC5eE4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 38,
+      "name": "Paradigm #38",
+      "iteration": 38,
+      "fxhash": "0xc604eb82ae32d0dcc2ccb0d9537eb9bcb7c99151857c2572fdcc71774812b70f",
+      "minter": "0x85F0a0BB2eF4192Bcd79A20c47B26096c99a9907",
+      "fxparams": "",
+      "owner": "0x9E23D2DB65a1b8b6f31fb57C47148907545B3ff5",
+      "thumbnailUri": "ipfs://QmPK4NQUhEUZro5yxpMHx3SwTjU9YQ5LiJSFqCsAVnE1Wt",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc604eb82ae32d0dcc2ccb0d9537eb9bcb7c99151857c2572fdcc71774812b70f",
+        "iteration": 38,
+        "minter": "0x85F0a0BB2eF4192Bcd79A20c47B26096c99a9907",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 39,
+      "name": "Paradigm #39",
+      "iteration": 39,
+      "fxhash": "0x6c280f264ea94b4e57c88942f24c41a7ceaa572323304f0b1c5461eb4cd05c40",
+      "minter": "0x81fe79C8008E4DBd7253c2F772c91A56bEb122D0",
+      "fxparams": "",
+      "owner": "0x81fe79C8008E4DBd7253c2F772c91A56bEb122D0",
+      "thumbnailUri": "ipfs://QmZ47wjzpsBA4WRNq4EqEZXB7h2iLtyrhgq4M8NkqdhYod",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x6c280f264ea94b4e57c88942f24c41a7ceaa572323304f0b1c5461eb4cd05c40",
+        "iteration": 39,
+        "minter": "0x81fe79C8008E4DBd7253c2F772c91A56bEb122D0",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 40,
+      "name": "Paradigm #40",
+      "iteration": 40,
+      "fxhash": "0xc0d70f248409705db8aff6c21e3bcdaa10bf2806c62b7cb94acddd21c984a17d",
+      "minter": "0xec7fb8075A8F06bE74C3a02faBb410395341B96c",
+      "fxparams": "",
+      "owner": "0x6F8e826EFb5d5ea71217D903828cB7118943a89c",
+      "thumbnailUri": "ipfs://QmRC92hFTG17PdbFz2SWbF6LMKXKbYSMRioGwDy2H7cZXp",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc0d70f248409705db8aff6c21e3bcdaa10bf2806c62b7cb94acddd21c984a17d",
+        "iteration": 40,
+        "minter": "0xec7fb8075A8F06bE74C3a02faBb410395341B96c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 41,
+      "name": "Paradigm #41",
+      "iteration": 41,
+      "fxhash": "0xc6dd546ae0c0b13d0f835b30ae43b6c60c36665a98859791ac50c4ae0beb8578",
+      "minter": "0x44B4d430E7C56E4cA04C5799E561063ccC1F1df2",
+      "fxparams": "",
+      "owner": "0x44B4d430E7C56E4cA04C5799E561063ccC1F1df2",
+      "thumbnailUri": "ipfs://QmSrV2caTiWqJFy2SEXrL6h74DukQV8ejQ3xGo8iep3TFH",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc6dd546ae0c0b13d0f835b30ae43b6c60c36665a98859791ac50c4ae0beb8578",
+        "iteration": 41,
+        "minter": "0x44B4d430E7C56E4cA04C5799E561063ccC1F1df2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 42,
+      "name": "Paradigm #42",
+      "iteration": 42,
+      "fxhash": "0x0a382b703ae98faa075e37dafb0002684fdb48f40dcd154845abc30d00651869",
+      "minter": "0xE5CA890A0eF2F128EB3267e4711c6bf3306Ec024",
+      "fxparams": "",
+      "owner": "0x600Fe8ab84b53290cfD8cf6f7a61E2d65119F0cD",
+      "thumbnailUri": "ipfs://QmXjDWjeb8YEMtbEDZfwwA99G8bwREjqS6nMt6CLTGX8dj",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x0a382b703ae98faa075e37dafb0002684fdb48f40dcd154845abc30d00651869",
+        "iteration": 42,
+        "minter": "0xE5CA890A0eF2F128EB3267e4711c6bf3306Ec024",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 43,
+      "name": "Paradigm #43",
+      "iteration": 43,
+      "fxhash": "0xf76ef160e49c2394af4e6af2aec547f1b45d7afe63ae9826179fddd5b5cce839",
+      "minter": "0x999Ece3DECa907b5aCE2DC9174e47C90f1Ff6daF",
+      "fxparams": "",
+      "owner": "0x999Ece3DECa907b5aCE2DC9174e47C90f1Ff6daF",
+      "thumbnailUri": "ipfs://QmSBGdxkQEae2Fekack1k94GBDhT5Mxx6sYzZskVsqFi9T",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xf76ef160e49c2394af4e6af2aec547f1b45d7afe63ae9826179fddd5b5cce839",
+        "iteration": 43,
+        "minter": "0x999Ece3DECa907b5aCE2DC9174e47C90f1Ff6daF",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 44,
+      "name": "Paradigm #44",
+      "iteration": 44,
+      "fxhash": "0x8d1f6a72399f5f5e0ea9293a0c7e7b27aac12b42f84ac095ae29ddd318a5dc99",
+      "minter": "0xF97Fb5035B67Ed96a66cDa66Be342ef7e86f17Ae",
+      "fxparams": "",
+      "owner": "0xF97Fb5035B67Ed96a66cDa66Be342ef7e86f17Ae",
+      "thumbnailUri": "ipfs://QmVGGYjMC8GaoUmMe7ButwQpUyrp1Zq5MiH9Uks4crZjaj",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x8d1f6a72399f5f5e0ea9293a0c7e7b27aac12b42f84ac095ae29ddd318a5dc99",
+        "iteration": 44,
+        "minter": "0xF97Fb5035B67Ed96a66cDa66Be342ef7e86f17Ae",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 45,
+      "name": "Paradigm #45",
+      "iteration": 45,
+      "fxhash": "0xd1d66ee8705918759164ad1b69fcdab0d4bb1713e6b6a54b930c6ac776d4679d",
+      "minter": "0xB47eC2F5cBC67235CEc424217321B6E408CE7067",
+      "fxparams": "",
+      "owner": "0xc34E46f226e1bF81B8a744532d6c28CC624e14E4",
+      "thumbnailUri": "ipfs://QmcCGpvcnUK96NaaUT2oqr4GPHJRJMujW5S3t9rF8ihx79",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xd1d66ee8705918759164ad1b69fcdab0d4bb1713e6b6a54b930c6ac776d4679d",
+        "iteration": 45,
+        "minter": "0xB47eC2F5cBC67235CEc424217321B6E408CE7067",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 46,
+      "name": "Paradigm #46",
+      "iteration": 46,
+      "fxhash": "0x628613415547382cb54567e896b306bc552ae5e56a2bd1801c41ef7f5491f9c9",
+      "minter": "0x02F60fEF631AC1691fe3d38191b8E3430930d2f4",
+      "fxparams": "",
+      "owner": "0x6B67623ff56c10d9dcFc2152425f90285fC74DDD",
+      "thumbnailUri": "ipfs://QmTjQZKH85Jpska9DQ9Hg1Ziwhog3ouDQKatY8zPzFAVkA",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x628613415547382cb54567e896b306bc552ae5e56a2bd1801c41ef7f5491f9c9",
+        "iteration": 46,
+        "minter": "0x02F60fEF631AC1691fe3d38191b8E3430930d2f4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 47,
+      "name": "Paradigm #47",
+      "iteration": 47,
+      "fxhash": "0x17648074efa6c176f06a256388ac74132307e128686821e9600853fc9ad47cdd",
+      "minter": "0x4Fbdb631c56Ac1b2D48FC779bF4044f068a5F4B0",
+      "fxparams": "",
+      "owner": "0x4Fbdb631c56Ac1b2D48FC779bF4044f068a5F4B0",
+      "thumbnailUri": "ipfs://QmfGMgBM1b3LSWax9oW9mSGGhLTdEW4F4mnntSendvauQb",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x17648074efa6c176f06a256388ac74132307e128686821e9600853fc9ad47cdd",
+        "iteration": 47,
+        "minter": "0x4Fbdb631c56Ac1b2D48FC779bF4044f068a5F4B0",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 48,
+      "name": "Paradigm #48",
+      "iteration": 48,
+      "fxhash": "0xc486a610bf580cf91d9f788cb4b6f5592e9af1c005456b76baa5d32fb8633ea7",
+      "minter": "0xe5d009bbcE5a5D7ab9c6c2B1b0A56F9B98297Cff",
+      "fxparams": "",
+      "owner": "0xe5d009bbcE5a5D7ab9c6c2B1b0A56F9B98297Cff",
+      "thumbnailUri": "ipfs://QmeivFiw4fwoXWqcxSjy7cPiPiciwh43YNxnHAQQAN5LvT",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc486a610bf580cf91d9f788cb4b6f5592e9af1c005456b76baa5d32fb8633ea7",
+        "iteration": 48,
+        "minter": "0xe5d009bbcE5a5D7ab9c6c2B1b0A56F9B98297Cff",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 49,
+      "name": "Paradigm #49",
+      "iteration": 49,
+      "fxhash": "0xed13464111fc0f4340b9b6b0a63a65d0e82d9267d98414b5e6bd4ec8563a7b73",
+      "minter": "0x8Ee7B0E6c89Fc259BA9Cd4d6046a2BaA380a1e5B",
+      "fxparams": "",
+      "owner": "0x6B67623ff56c10d9dcFc2152425f90285fC74DDD",
+      "thumbnailUri": "ipfs://QmagDrhNA7DY2HCQ2M1wXNMABg7V1AWnK4tbJWbyPhmMi8",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xed13464111fc0f4340b9b6b0a63a65d0e82d9267d98414b5e6bd4ec8563a7b73",
+        "iteration": 49,
+        "minter": "0x8Ee7B0E6c89Fc259BA9Cd4d6046a2BaA380a1e5B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 50,
+      "name": "Paradigm #50",
+      "iteration": 50,
+      "fxhash": "0xaeee599381bd789edcc79148b85cfe40f45290b959a83a7b12c8e6a92bd6173f",
+      "minter": "0xec9B8Ae830D3BA9851eaB673bFb850b03eFD95Bd",
+      "fxparams": "",
+      "owner": "0xec9B8Ae830D3BA9851eaB673bFb850b03eFD95Bd",
+      "thumbnailUri": "ipfs://QmWQgwJQqNLMbzcsukzg3VhfWsWHWumWXWqmfBSWF1Mytz",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xaeee599381bd789edcc79148b85cfe40f45290b959a83a7b12c8e6a92bd6173f",
+        "iteration": 50,
+        "minter": "0xec9B8Ae830D3BA9851eaB673bFb850b03eFD95Bd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 51,
+      "name": "Paradigm #51",
+      "iteration": 51,
+      "fxhash": "0x201f77af1d300fc5a3f9bf706a43f60836d230ebc32f8bd4d5c2f6b5d1ba24b5",
+      "minter": "0xFa1be1708F0f6C3b23E0e3339D30AA6A6DDC5e0e",
+      "fxparams": "",
+      "owner": "0xFa1be1708F0f6C3b23E0e3339D30AA6A6DDC5e0e",
+      "thumbnailUri": "ipfs://Qmb1SVMxRMdb2W6NCdat3RQGw6aHaKUtDyvKmMSikbczQC",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x201f77af1d300fc5a3f9bf706a43f60836d230ebc32f8bd4d5c2f6b5d1ba24b5",
+        "iteration": 51,
+        "minter": "0xFa1be1708F0f6C3b23E0e3339D30AA6A6DDC5e0e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 52,
+      "name": "Paradigm #52",
+      "iteration": 52,
+      "fxhash": "0x4f66560ac34a852c0c0b1a52061b9a50f36d0d803f9a404cd1a644845f699163",
+      "minter": "0xF9EA99985a56a86001fA459012f595b63FC261BA",
+      "fxparams": "",
+      "owner": "0x88CB064C83d253095cFE7427f0aD556D4049d1E7",
+      "thumbnailUri": "ipfs://QmYkQ41hj7KGFDPbA8m8aegVQSBhoWuc92vMgft5cAohSi",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x4f66560ac34a852c0c0b1a52061b9a50f36d0d803f9a404cd1a644845f699163",
+        "iteration": 52,
+        "minter": "0xF9EA99985a56a86001fA459012f595b63FC261BA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 53,
+      "name": "Paradigm #53",
+      "iteration": 53,
+      "fxhash": "0xeb3ecd43dfa4110d70944b977f3e26f681357ab5bc1aef7aed6ab27b19e4ada5",
+      "minter": "0x58A22caCFB01610b8c4Ce7FdAbc5056f5628B656",
+      "fxparams": "",
+      "owner": "0xE12e1eC31a240960DE8DBaAEfAbE8B3cad0887AB",
+      "thumbnailUri": "ipfs://QmWKsA4zrMUbWEp4Cb4ggZVJyKfLhQNG8DxrCo2m334EDs",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xeb3ecd43dfa4110d70944b977f3e26f681357ab5bc1aef7aed6ab27b19e4ada5",
+        "iteration": 53,
+        "minter": "0x58A22caCFB01610b8c4Ce7FdAbc5056f5628B656",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 54,
+      "name": "Paradigm #54",
+      "iteration": 54,
+      "fxhash": "0xb81aebbc75edc8a142a3c06b822f70bee8108226d8b0d8c3dd74857750f2c29e",
+      "minter": "0x40b767D119dbC81547cC13C6c55B6eD40A6506F1",
+      "fxparams": "",
+      "owner": "0x40b767D119dbC81547cC13C6c55B6eD40A6506F1",
+      "thumbnailUri": "ipfs://Qmbg7VDLErCPsbMtFRKmKiVQ4wogEHVLB43BktoRgCEicu",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xb81aebbc75edc8a142a3c06b822f70bee8108226d8b0d8c3dd74857750f2c29e",
+        "iteration": 54,
+        "minter": "0x40b767D119dbC81547cC13C6c55B6eD40A6506F1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 55,
+      "name": "Paradigm #55",
+      "iteration": 55,
+      "fxhash": "0xbb1f6e4364ad2c7bb7487e17f03ce9a3c075f093a2262505bc3ae236b1194974",
+      "minter": "0x29B2f895343CAdfB3f5101BEF6484B1F01c83Dc9",
+      "fxparams": "",
+      "owner": "0xB98d10d9f6d07bA283bFD21B2dFEc050f9Ae282A",
+      "thumbnailUri": "ipfs://QmPN2B29ePKgpcDtgZ7Sf9XXrgapiVCH8N3AQFNaXsJ7xE",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xbb1f6e4364ad2c7bb7487e17f03ce9a3c075f093a2262505bc3ae236b1194974",
+        "iteration": 55,
+        "minter": "0x29B2f895343CAdfB3f5101BEF6484B1F01c83Dc9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 56,
+      "name": "Paradigm #56",
+      "iteration": 56,
+      "fxhash": "0x06ea4f36baa8050dd131ed13d1f2f9bc4a60851b9c9e4ed62bc75551563a94d3",
+      "minter": "0x53F459607b84f60787F5b7C288e8E440439ecB12",
+      "fxparams": "",
+      "owner": "0x7a1A60dF6f344Ff4BF6149efE2cCD4DA6684E70E",
+      "thumbnailUri": "ipfs://QmVNR2UhqWCHPggQMhjKVViWxm8sD4zgwPJzZP7JuCnt7u",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x06ea4f36baa8050dd131ed13d1f2f9bc4a60851b9c9e4ed62bc75551563a94d3",
+        "iteration": 56,
+        "minter": "0x53F459607b84f60787F5b7C288e8E440439ecB12",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 57,
+      "name": "Paradigm #57",
+      "iteration": 57,
+      "fxhash": "0x66f2ee98a6e51fc451efc214898a62a77492a3f2c34250304c3671aab53e66bc",
+      "minter": "0x55B97e94B29Cd9bF491fe63011cC23daE6392628",
+      "fxparams": "",
+      "owner": "0x1DA1A6E72D30B24c1ee0c9F192Cb1cd382d7Edc3",
+      "thumbnailUri": "ipfs://QmapNY4ifPaF4eRzRSrKZ7C83ii1tJBrtiLD3wfB182ThX",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x66f2ee98a6e51fc451efc214898a62a77492a3f2c34250304c3671aab53e66bc",
+        "iteration": 57,
+        "minter": "0x55B97e94B29Cd9bF491fe63011cC23daE6392628",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 58,
+      "name": "Paradigm #58",
+      "iteration": 58,
+      "fxhash": "0xcfd2440e673b7f3d22ffacf4be540074ff098330b503fe6df268645edfedf43c",
+      "minter": "0xBEb6Ec0023607DF6491E88d909e1531a7Ce71b82",
+      "fxparams": "",
+      "owner": "0xBEb6Ec0023607DF6491E88d909e1531a7Ce71b82",
+      "thumbnailUri": "ipfs://QmUWQp7UFjkMoyju3163YTMU5UMyjJcHAh3vBNHDYg6ypK",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xcfd2440e673b7f3d22ffacf4be540074ff098330b503fe6df268645edfedf43c",
+        "iteration": 58,
+        "minter": "0xBEb6Ec0023607DF6491E88d909e1531a7Ce71b82",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 59,
+      "name": "Paradigm #59",
+      "iteration": 59,
+      "fxhash": "0xe143210f14cc27929b8c0d8b01979717d5d52d8e5ddeb8f885b4759bdb1b6be9",
+      "minter": "0x7685CA5D1B8D7C7e4fEd24bb7e8FB94Cd452f34E",
+      "fxparams": "",
+      "owner": "0x7685CA5D1B8D7C7e4fEd24bb7e8FB94Cd452f34E",
+      "thumbnailUri": "ipfs://Qme4XWZBaXNSHfUr1sq4S1R8p3Vngt8vJxwPEidMTFXacN",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xe143210f14cc27929b8c0d8b01979717d5d52d8e5ddeb8f885b4759bdb1b6be9",
+        "iteration": 59,
+        "minter": "0x7685CA5D1B8D7C7e4fEd24bb7e8FB94Cd452f34E",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 60,
+      "name": "Paradigm #60",
+      "iteration": 60,
+      "fxhash": "0xe0a7bcbacb95c417b1c0dcf47ae1a5ee269c4c6b890758559a521c5ea012bd63",
+      "minter": "0x4aa93c41dEb2bb0E088b1728e40Db6322b6C3010",
+      "fxparams": "",
+      "owner": "0x4aa93c41dEb2bb0E088b1728e40Db6322b6C3010",
+      "thumbnailUri": "ipfs://QmTHQfQonESzbwAcoLH8hbkj2zMKfD1tf6uCeyHTabGRGm",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xe0a7bcbacb95c417b1c0dcf47ae1a5ee269c4c6b890758559a521c5ea012bd63",
+        "iteration": 60,
+        "minter": "0x4aa93c41dEb2bb0E088b1728e40Db6322b6C3010",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 61,
+      "name": "Paradigm #61",
+      "iteration": 61,
+      "fxhash": "0xc8a4294b31e1f9b8dc0553739d67a7055f814d84efcfe50b6256a721b3e5b634",
+      "minter": "0xd70676Cfa67Abc65A8C39f049d62EEA30E3080CF",
+      "fxparams": "",
+      "owner": "0xd70676Cfa67Abc65A8C39f049d62EEA30E3080CF",
+      "thumbnailUri": "ipfs://QmeWKh5pn6wE7uRbYjoRvnkhmmvZKeqyLgAXGUsFRonNSk",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc8a4294b31e1f9b8dc0553739d67a7055f814d84efcfe50b6256a721b3e5b634",
+        "iteration": 61,
+        "minter": "0xd70676Cfa67Abc65A8C39f049d62EEA30E3080CF",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 62,
+      "name": "Paradigm #62",
+      "iteration": 62,
+      "fxhash": "0x357c762092dc11e55f9512f78f38f58d9f5afc0c7921ec4c96f92e44b08d6933",
+      "minter": "0xF1C745B6b47d634097c78722Be6A8e507F4968F3",
+      "fxparams": "",
+      "owner": "0x3a5055Af0724A4B33FbDF09268b84877726b2560",
+      "thumbnailUri": "ipfs://QmfYKQr4LcJEcpzG1uW24rmRAW1DcsnHzcaKCc6GTszpLt",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x357c762092dc11e55f9512f78f38f58d9f5afc0c7921ec4c96f92e44b08d6933",
+        "iteration": 62,
+        "minter": "0xF1C745B6b47d634097c78722Be6A8e507F4968F3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 63,
+      "name": "Paradigm #63",
+      "iteration": 63,
+      "fxhash": "0xa83123690964cdee2217547aa1e526bf6d02c159b8a937d0f57690d145df844a",
+      "minter": "0xc59Af5b5730Fd0D7541Af26D5e7F9Dd13a514947",
+      "fxparams": "",
+      "owner": "0xFa1be1708F0f6C3b23E0e3339D30AA6A6DDC5e0e",
+      "thumbnailUri": "ipfs://QmS38m1LT89oFvjfyUgECwQJjppKoYB8zpC9KQgGrfEDCB",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xa83123690964cdee2217547aa1e526bf6d02c159b8a937d0f57690d145df844a",
+        "iteration": 63,
+        "minter": "0xc59Af5b5730Fd0D7541Af26D5e7F9Dd13a514947",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 64,
+      "name": "Paradigm #64",
+      "iteration": 64,
+      "fxhash": "0xfacf1d001d49549a363a89236db1c9b427de8c01c4cfa8f684c1f94e5e96e15f",
+      "minter": "0x31A45003D644F594B4F615C85326c151a2550de9",
+      "fxparams": "",
+      "owner": "0x31A45003D644F594B4F615C85326c151a2550de9",
+      "thumbnailUri": "ipfs://QmZurHeuzd3v58vB3b8mmXCVdVPBUhXGkG32dV3uGeMtz4",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xfacf1d001d49549a363a89236db1c9b427de8c01c4cfa8f684c1f94e5e96e15f",
+        "iteration": 64,
+        "minter": "0x31A45003D644F594B4F615C85326c151a2550de9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 65,
+      "name": "Paradigm #65",
+      "iteration": 65,
+      "fxhash": "0x7f9847c13bea8a005547d1bbbfe2a82fc26fe515044cf8972ef981f294e97371",
+      "minter": "0xC2B23cd0BfaacA88B8f0f4Dc01A0C46177A7f863",
+      "fxparams": "",
+      "owner": "0xC2B23cd0BfaacA88B8f0f4Dc01A0C46177A7f863",
+      "thumbnailUri": "ipfs://QmWDfm3w56F1PrThJDTN1KwZcSs9fcNQ8TLHUx4QqBGhWm",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x7f9847c13bea8a005547d1bbbfe2a82fc26fe515044cf8972ef981f294e97371",
+        "iteration": 65,
+        "minter": "0xC2B23cd0BfaacA88B8f0f4Dc01A0C46177A7f863",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 66,
+      "name": "Paradigm #66",
+      "iteration": 66,
+      "fxhash": "0x092e9e49ef80e0da5ab39342f5ea69c4fcfaba92a3bc553c2bb800f45a321a20",
+      "minter": "0x93972484E68415B85B3aFf169b772799E4BAca16",
+      "fxparams": "",
+      "owner": "0x93972484E68415B85B3aFf169b772799E4BAca16",
+      "thumbnailUri": "ipfs://QmRc7VUVxAVzypovc6LTSed77td6R8rgxPjBN7FEEyfmqn",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x092e9e49ef80e0da5ab39342f5ea69c4fcfaba92a3bc553c2bb800f45a321a20",
+        "iteration": 66,
+        "minter": "0x93972484E68415B85B3aFf169b772799E4BAca16",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 67,
+      "name": "Paradigm #67",
+      "iteration": 67,
+      "fxhash": "0xcce7209c782a2daeb6387f097188a1fdb0f8883fed54dc88b7f8ac5bcd5836b9",
+      "minter": "0x07EC7860F405FC7B6D6ce4A6409a019e6c073EC7",
+      "fxparams": "",
+      "owner": "0xB98d10d9f6d07bA283bFD21B2dFEc050f9Ae282A",
+      "thumbnailUri": "ipfs://QmSrLZVrchFbowuHyakUp78zH8JcGkmnzmMgoX1DK8qHCw",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xcce7209c782a2daeb6387f097188a1fdb0f8883fed54dc88b7f8ac5bcd5836b9",
+        "iteration": 67,
+        "minter": "0x07EC7860F405FC7B6D6ce4A6409a019e6c073EC7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 68,
+      "name": "Paradigm #68",
+      "iteration": 68,
+      "fxhash": "0x0447b22ea1008fb7e917a9cab0759b1ac023fb0bfa39f26d1cc53a8306f62562",
+      "minter": "0xa8f7d021231063f8BA8FEfE320DE4C97386F505e",
+      "fxparams": "",
+      "owner": "0x6B67623ff56c10d9dcFc2152425f90285fC74DDD",
+      "thumbnailUri": "ipfs://QmSw1DLXhBRjw11xoTkQWCgaMrjpFbCUiqq44QGLpFv9uV",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x0447b22ea1008fb7e917a9cab0759b1ac023fb0bfa39f26d1cc53a8306f62562",
+        "iteration": 68,
+        "minter": "0xa8f7d021231063f8BA8FEfE320DE4C97386F505e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 69,
+      "name": "Paradigm #69",
+      "iteration": 69,
+      "fxhash": "0x705b49324fe7c90fd5092d6a288f180ad9c39a0210160e67329df3af1ba461af",
+      "minter": "0xD1877f096DdE4eA00942F5EBAFf2aC1962838A8A",
+      "fxparams": "",
+      "owner": "0xD1877f096DdE4eA00942F5EBAFf2aC1962838A8A",
+      "thumbnailUri": "ipfs://QmWnZcZbBWe2tmZVBL8Cn66uQT52WKnmFwJv6bxtnrqCYN",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x705b49324fe7c90fd5092d6a288f180ad9c39a0210160e67329df3af1ba461af",
+        "iteration": 69,
+        "minter": "0xD1877f096DdE4eA00942F5EBAFf2aC1962838A8A",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 70,
+      "name": "Paradigm #70",
+      "iteration": 70,
+      "fxhash": "0x3eeee890eced9490ea10df1522f9da56de32a2b4c2db74133e99e5fbcaaad7a2",
+      "minter": "0x2c969e6626cB4e94C855a00d27D33A2f83E40aD1",
+      "fxparams": "",
+      "owner": "0x2c969e6626cB4e94C855a00d27D33A2f83E40aD1",
+      "thumbnailUri": "ipfs://QmTnGvTnkKNqPD6D5r4VoSuzLxSp4UkcuxHq4fFncDspeX",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x3eeee890eced9490ea10df1522f9da56de32a2b4c2db74133e99e5fbcaaad7a2",
+        "iteration": 70,
+        "minter": "0x2c969e6626cB4e94C855a00d27D33A2f83E40aD1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 71,
+      "name": "Paradigm #71",
+      "iteration": 71,
+      "fxhash": "0x5ca05e89ef9ebf4c760e1318715f9396ddf4070870b10c7ed38a817ad6a46c86",
+      "minter": "0x17B626CE61F356Aa0A9d0a1928287844eF279F84",
+      "fxparams": "",
+      "owner": "0x51e957A31B37b7D213922146e8Cfd095c3013f71",
+      "thumbnailUri": "ipfs://QmZ5CzPkpzF8GwXFd9NmwBGobjWnLL1bwV1uTuKdDZXLEA",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x5ca05e89ef9ebf4c760e1318715f9396ddf4070870b10c7ed38a817ad6a46c86",
+        "iteration": 71,
+        "minter": "0x17B626CE61F356Aa0A9d0a1928287844eF279F84",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 72,
+      "name": "Paradigm #72",
+      "iteration": 72,
+      "fxhash": "0x45dedaeee6ea737cf5e45514f1b36cceb54a1261e4f8c1229d929df76190504d",
+      "minter": "0x5D225A0B8734754C1048c1AdeFa8075D9f0AEB29",
+      "fxparams": "",
+      "owner": "0x5D225A0B8734754C1048c1AdeFa8075D9f0AEB29",
+      "thumbnailUri": "ipfs://QmVV9t1XZqo4admzCwGtJ6uFvWncaG27gkcZqDHGCj8v5G",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x45dedaeee6ea737cf5e45514f1b36cceb54a1261e4f8c1229d929df76190504d",
+        "iteration": 72,
+        "minter": "0x5D225A0B8734754C1048c1AdeFa8075D9f0AEB29",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 73,
+      "name": "Paradigm #73",
+      "iteration": 73,
+      "fxhash": "0xe818eaba063d2830ecaec6379453e542533f50476ce07cc1f70b24264edd9b5d",
+      "minter": "0xFc1e354b579f669335dbe645046208c8687875e3",
+      "fxparams": "",
+      "owner": "0xFc1e354b579f669335dbe645046208c8687875e3",
+      "thumbnailUri": "ipfs://QmXz84QW6U9ggRe6k4ixKbytcJ7JqVJ4WhB6QESA8wMcvv",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xe818eaba063d2830ecaec6379453e542533f50476ce07cc1f70b24264edd9b5d",
+        "iteration": 73,
+        "minter": "0xFc1e354b579f669335dbe645046208c8687875e3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 74,
+      "name": "Paradigm #74",
+      "iteration": 74,
+      "fxhash": "0xc2cff58f66d3de696fd758ab36c9530dd0aef3f2838ff8324b6c3912f7006bb9",
+      "minter": "0x79Efb858dcc6Fd7A36786b7ccd0cFf6931d6756E",
+      "fxparams": "",
+      "owner": "0x06273686Ef746fC428c97d47928C9F51b323D47e",
+      "thumbnailUri": "ipfs://QmWnvQcxDCTAWAuXkb3cv3i6oCX5S8UWHuqCJwaV3GY4Kg",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc2cff58f66d3de696fd758ab36c9530dd0aef3f2838ff8324b6c3912f7006bb9",
+        "iteration": 74,
+        "minter": "0x79Efb858dcc6Fd7A36786b7ccd0cFf6931d6756E",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 75,
+      "name": "Paradigm #75",
+      "iteration": 75,
+      "fxhash": "0x4773debfb8f5b75ad5f95f13b90cff3ff8ebfc4cebcabe2717a937cc467e6538",
+      "minter": "0x50F317fbDd222A3a0E89AA73F8F162271f8700a7",
+      "fxparams": "",
+      "owner": "0x50F317fbDd222A3a0E89AA73F8F162271f8700a7",
+      "thumbnailUri": "ipfs://QmXPAAc1xLemGKmPiJCkc6iAYMYfwQdLCPiV7KQcpVR8bo",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x4773debfb8f5b75ad5f95f13b90cff3ff8ebfc4cebcabe2717a937cc467e6538",
+        "iteration": 75,
+        "minter": "0x50F317fbDd222A3a0E89AA73F8F162271f8700a7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 76,
+      "name": "Paradigm #76",
+      "iteration": 76,
+      "fxhash": "0xf7d2eab2b089cd17da0a301e9eef20474195e06523139bf69eb4e426f824ad86",
+      "minter": "0xc9734121f65820D13DaE45Cf6De1494829A59987",
+      "fxparams": "",
+      "owner": "0xc9734121f65820D13DaE45Cf6De1494829A59987",
+      "thumbnailUri": "ipfs://Qmd6zbMDqbm6ffUEdfqHD1qDbRwhu1W7qsNpzsm4DB72A8",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xf7d2eab2b089cd17da0a301e9eef20474195e06523139bf69eb4e426f824ad86",
+        "iteration": 76,
+        "minter": "0xc9734121f65820D13DaE45Cf6De1494829A59987",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 77,
+      "name": "Paradigm #77",
+      "iteration": 77,
+      "fxhash": "0xc11616b391ab1a8420250c83d6205dc7df0b20576e7c3b7cc95ee09cd893402d",
+      "minter": "0x5c75Ed5BEb9a43b68fae73706908b2fdF497f4a0",
+      "fxparams": "",
+      "owner": "0xF4976fecf063709de418Fc8E89498af7e91cDcd2",
+      "thumbnailUri": "ipfs://QmUwQq9gGTX2gsmTwj7gtTp9zEESVkbXaMJbYD8CoMH5zz",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc11616b391ab1a8420250c83d6205dc7df0b20576e7c3b7cc95ee09cd893402d",
+        "iteration": 77,
+        "minter": "0x5c75Ed5BEb9a43b68fae73706908b2fdF497f4a0",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 78,
+      "name": "Paradigm #78",
+      "iteration": 78,
+      "fxhash": "0xbd48bdd883419dc98039d8def4df7a4dd4eafa2d581811cd659a4278bdc8664f",
+      "minter": "0xcC29d64C285f22D3b55796803e201488DD666906",
+      "fxparams": "",
+      "owner": "0xcC29d64C285f22D3b55796803e201488DD666906",
+      "thumbnailUri": "ipfs://QmSG1rSLtctcdNRFTc52HmnW3hxB4z8uBYyCJo2xyKCvfD",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xbd48bdd883419dc98039d8def4df7a4dd4eafa2d581811cd659a4278bdc8664f",
+        "iteration": 78,
+        "minter": "0xcC29d64C285f22D3b55796803e201488DD666906",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 79,
+      "name": "Paradigm #79",
+      "iteration": 79,
+      "fxhash": "0xe7b9ad96cf9e1f4b46e89e2ac8d5494158be903dcfa31c2fc9f10df39e6b28f5",
+      "minter": "0xcDA1cAFc62961086aBCB4866Fc685Aa4aaE78eC8",
+      "fxparams": "",
+      "owner": "0xcDA1cAFc62961086aBCB4866Fc685Aa4aaE78eC8",
+      "thumbnailUri": "ipfs://QmNhbyYLZQ5ek528vovobgibn7upXM5Wic4LMrdfzfv6Km",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xe7b9ad96cf9e1f4b46e89e2ac8d5494158be903dcfa31c2fc9f10df39e6b28f5",
+        "iteration": 79,
+        "minter": "0xcDA1cAFc62961086aBCB4866Fc685Aa4aaE78eC8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 80,
+      "name": "Paradigm #80",
+      "iteration": 80,
+      "fxhash": "0xe8de3a9a791b347ea67584679970ca8522bf0744ed878b9a762769c773ec99c9",
+      "minter": "0x2733FbCD3FdE215D9F4f67757B973A1DD232829D",
+      "fxparams": "",
+      "owner": "0x16Ccd11ed08C9041a0a8B6819dB988922450D75f",
+      "thumbnailUri": "ipfs://Qma1oGpxxempi1GBpiEVuSESNQWUQuDhwRgcviJfZvG9pE",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xe8de3a9a791b347ea67584679970ca8522bf0744ed878b9a762769c773ec99c9",
+        "iteration": 80,
+        "minter": "0x2733FbCD3FdE215D9F4f67757B973A1DD232829D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 81,
+      "name": "Paradigm #81",
+      "iteration": 81,
+      "fxhash": "0x3a2b60f9894dd470a34d2f7917da1faa81ac3a3686817dd4356e08d950a43417",
+      "minter": "0xc5A7E99F85Bc34B8f1707bA7F3954C9bebd19B55",
+      "fxparams": "",
+      "owner": "0xc5A7E99F85Bc34B8f1707bA7F3954C9bebd19B55",
+      "thumbnailUri": "ipfs://QmYCymzkbNMi2DvAAEBWS71hNA7DRQf8EevZRNLwEFUFA6",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x3a2b60f9894dd470a34d2f7917da1faa81ac3a3686817dd4356e08d950a43417",
+        "iteration": 81,
+        "minter": "0xc5A7E99F85Bc34B8f1707bA7F3954C9bebd19B55",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 82,
+      "name": "Paradigm #82",
+      "iteration": 82,
+      "fxhash": "0xb56f006ab57410e6552a4b412ed3c35e0505c66ab954d66e077e75351fc3677b",
+      "minter": "0x7277dec9e8e634dA6Bb6abE486C3da73bfb628a5",
+      "fxparams": "",
+      "owner": "0x7277dec9e8e634dA6Bb6abE486C3da73bfb628a5",
+      "thumbnailUri": "ipfs://QmWdMGUWXFvigtqCjxr5Ci4PeZj2DzYswUdTJbfJQw4W1A",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xb56f006ab57410e6552a4b412ed3c35e0505c66ab954d66e077e75351fc3677b",
+        "iteration": 82,
+        "minter": "0x7277dec9e8e634dA6Bb6abE486C3da73bfb628a5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 83,
+      "name": "Paradigm #83",
+      "iteration": 83,
+      "fxhash": "0x5d2e28271a681c18e67781ba9b2a14a733233399576da220ba5501000bed17c9",
+      "minter": "0xc73459e2D7DfBc96230aD18F0b901a9f358032B7",
+      "fxparams": "",
+      "owner": "0xc73459e2D7DfBc96230aD18F0b901a9f358032B7",
+      "thumbnailUri": "ipfs://QmeEr3ifdmNrsNN3jTCZo2uf4e4WXUB7xmv8gBvKegEpQX",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x5d2e28271a681c18e67781ba9b2a14a733233399576da220ba5501000bed17c9",
+        "iteration": 83,
+        "minter": "0xc73459e2D7DfBc96230aD18F0b901a9f358032B7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 84,
+      "name": "Paradigm #84",
+      "iteration": 84,
+      "fxhash": "0x418973b5db7c78af1134769e005fd2375906da365eaf5786508963f627eab03f",
+      "minter": "0x15A8B95379448698c42e517002091226377E9710",
+      "fxparams": "",
+      "owner": "0x15A8B95379448698c42e517002091226377E9710",
+      "thumbnailUri": "ipfs://QmYkVkxir7UaYGyEg6ARi7vWi357fTVG7RxjsGSkcnBsqS",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x418973b5db7c78af1134769e005fd2375906da365eaf5786508963f627eab03f",
+        "iteration": 84,
+        "minter": "0x15A8B95379448698c42e517002091226377E9710",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 85,
+      "name": "Paradigm #85",
+      "iteration": 85,
+      "fxhash": "0x7c8c90ec9ae76754c7c2e78acd73350ea30ac7c93ba5691f7639ead6fea61515",
+      "minter": "0x49FF66D90C67Ca99FEAA5E8e473396d5c25AA71a",
+      "fxparams": "",
+      "owner": "0x0E6e9d2c0Aab646EB4b13808e208fA1c6b308Db1",
+      "thumbnailUri": "ipfs://QmUaUUwNb7j4wMgLTvmVDNAHQB4PJerTDAjZoq99Bor8gr",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x7c8c90ec9ae76754c7c2e78acd73350ea30ac7c93ba5691f7639ead6fea61515",
+        "iteration": 85,
+        "minter": "0x49FF66D90C67Ca99FEAA5E8e473396d5c25AA71a",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 86,
+      "name": "Paradigm #86",
+      "iteration": 86,
+      "fxhash": "0xc59a4ceef0951d885cdcc7dd89fb2ea39e038db5150342dfe794600c0a33c724",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "fxparams": "",
+      "owner": "0xa194C2492ae0f7e6ffBB6726c03a44853C4c64A1",
+      "thumbnailUri": "ipfs://QmReBtqPiG3r2MeZV8YLRBpNP61Si6xuhjprd6ER2J6JFa",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc59a4ceef0951d885cdcc7dd89fb2ea39e038db5150342dfe794600c0a33c724",
+        "iteration": 86,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 87,
+      "name": "Paradigm #87",
+      "iteration": 87,
+      "fxhash": "0x7754d78aef088bce8e99aeb5c74519ad896b5a0b982e70d541facc370d87c95e",
+      "minter": "0x06cF9Dc387044f58C08F3b79aC50Fdb41dB8095A",
+      "fxparams": "",
+      "owner": "0x8ea690A36c99Be3A595bC4Bc1472EcabF15802df",
+      "thumbnailUri": "ipfs://QmW5nkx9jjCCUSZjqKasjBKuVzAFezDV1oVGoanXqXE3D2",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x7754d78aef088bce8e99aeb5c74519ad896b5a0b982e70d541facc370d87c95e",
+        "iteration": 87,
+        "minter": "0x06cF9Dc387044f58C08F3b79aC50Fdb41dB8095A",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 88,
+      "name": "Paradigm #88",
+      "iteration": 88,
+      "fxhash": "0x629e213f1a5f129c83d667c100b80afd424a5763f125186030dc93c6677a09a0",
+      "minter": "0xfD52f9488c484348615449240b30E48a38EDfd8B",
+      "fxparams": "",
+      "owner": "0x41955ab7d12F9F6C03de972b91d9b895D9c2EaF8",
+      "thumbnailUri": "ipfs://QmS4MCsEAwTkKPkAbXYJAGkcF1jr8UPnziPBanFQcQ58S6",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x629e213f1a5f129c83d667c100b80afd424a5763f125186030dc93c6677a09a0",
+        "iteration": 88,
+        "minter": "0xfD52f9488c484348615449240b30E48a38EDfd8B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 89,
+      "name": "Paradigm #89",
+      "iteration": 89,
+      "fxhash": "0x711572831350a41953e8267b529dd615b2650100bb3a6ca587c92493a185ebde",
+      "minter": "0xb29DDe74b1ba90f3b21F12bA7ae7583976562EDD",
+      "fxparams": "",
+      "owner": "0xb433f5B75e14A334358ADcfeB766609Fc20be203",
+      "thumbnailUri": "ipfs://QmNafkuSBcnPXj4pCG7Hf1WK24C9aTzstaLgkqPAxAYhzC",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x711572831350a41953e8267b529dd615b2650100bb3a6ca587c92493a185ebde",
+        "iteration": 89,
+        "minter": "0xb29DDe74b1ba90f3b21F12bA7ae7583976562EDD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 90,
+      "name": "Paradigm #90",
+      "iteration": 90,
+      "fxhash": "0x2c14e2bc1c73e17b07082c443c8161f5a3b0015193437ca64af4e58921931cc2",
+      "minter": "0x86ce21DFa7385aaE9a1744806D3Fc10862407491",
+      "fxparams": "",
+      "owner": "0x86ce21DFa7385aaE9a1744806D3Fc10862407491",
+      "thumbnailUri": "ipfs://QmWrGfkZmsyizYe6msVg85CnqC6uEMLi2jAXBjRd2sd7Ta",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x2c14e2bc1c73e17b07082c443c8161f5a3b0015193437ca64af4e58921931cc2",
+        "iteration": 90,
+        "minter": "0x86ce21DFa7385aaE9a1744806D3Fc10862407491",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 91,
+      "name": "Paradigm #91",
+      "iteration": 91,
+      "fxhash": "0x45711a3af11486f799a3035602dd1ff1ad1354bc92907b0c10682731f207907f",
+      "minter": "0x7ae77493c900E8d22F689675bEfD628aB0cCDc3E",
+      "fxparams": "",
+      "owner": "0x7ae77493c900E8d22F689675bEfD628aB0cCDc3E",
+      "thumbnailUri": "ipfs://QmZpRDebfjr4o1i1gg1vo4To8XQQNZotcSKXsCUPbJU7M7",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x45711a3af11486f799a3035602dd1ff1ad1354bc92907b0c10682731f207907f",
+        "iteration": 91,
+        "minter": "0x7ae77493c900E8d22F689675bEfD628aB0cCDc3E",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 92,
+      "name": "Paradigm #92",
+      "iteration": 92,
+      "fxhash": "0x098e3d9465e4012305dfe4da0eeb87662227919ea507ad5b59ff825042678675",
+      "minter": "0x5cA616F2BA05Ed7f33780f51401BF8E1b995027F",
+      "fxparams": "",
+      "owner": "0x5cA616F2BA05Ed7f33780f51401BF8E1b995027F",
+      "thumbnailUri": "ipfs://QmQ5M9LBxDnbz5LpaksqXpSizqssPkD9dNKTNd7n64XGuJ",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x098e3d9465e4012305dfe4da0eeb87662227919ea507ad5b59ff825042678675",
+        "iteration": 92,
+        "minter": "0x5cA616F2BA05Ed7f33780f51401BF8E1b995027F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 93,
+      "name": "Paradigm #93",
+      "iteration": 93,
+      "fxhash": "0xdcc5d3356bcb97ad733552afb3ecc2bc1e0ae3df1e00803a5b0bd7f63ca488c0",
+      "minter": "0x3310fd13c6C55F054cC128439e1E51Cd0cb16Fed",
+      "fxparams": "",
+      "owner": "0x2D8a0A8D187bb91E2993985cDb4BD80c68C0Aff2",
+      "thumbnailUri": "ipfs://QmSRntyTJptqAydhe6BZbuZ7GHZBPu7FHiwMfSWbMMZdPe",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xdcc5d3356bcb97ad733552afb3ecc2bc1e0ae3df1e00803a5b0bd7f63ca488c0",
+        "iteration": 93,
+        "minter": "0x3310fd13c6C55F054cC128439e1E51Cd0cb16Fed",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 94,
+      "name": "Paradigm #94",
+      "iteration": 94,
+      "fxhash": "0xd4fdf3192bd934314cd86d0c5d5b9fa2727d4c63342d1c2ed13dea86e9c3c133",
+      "minter": "0xE6CE1BC6255FCC6598f07Fab5d7c851C73C423c3",
+      "fxparams": "",
+      "owner": "0xCaeD26dC97c84A1dD7E5F5F2e42566935dfaDb2a",
+      "thumbnailUri": "ipfs://QmZmAYRDcEYDwsWzozUUgB8fqq4PaqonkdGmjBPH6wS19m",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xd4fdf3192bd934314cd86d0c5d5b9fa2727d4c63342d1c2ed13dea86e9c3c133",
+        "iteration": 94,
+        "minter": "0xE6CE1BC6255FCC6598f07Fab5d7c851C73C423c3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 95,
+      "name": "Paradigm #95",
+      "iteration": 95,
+      "fxhash": "0x5c71c9e923024b25b5544ed920f32f08441561aedeccc79d76fe7757b85fcfff",
+      "minter": "0xa92c6792BbC8035AeFfD50F408CC4510386e8Ef7",
+      "fxparams": "",
+      "owner": "0xa92c6792BbC8035AeFfD50F408CC4510386e8Ef7",
+      "thumbnailUri": "ipfs://QmcteFY6ynKM3vSQGvo9nMLmEGhcNPKqPkYLctHTxf79m7",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x5c71c9e923024b25b5544ed920f32f08441561aedeccc79d76fe7757b85fcfff",
+        "iteration": 95,
+        "minter": "0xa92c6792BbC8035AeFfD50F408CC4510386e8Ef7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 96,
+      "name": "Paradigm #96",
+      "iteration": 96,
+      "fxhash": "0x36147b3ef203504ce263bb3636f153bc62dc300ab1ea7b2713e65b6c7fc681fb",
+      "minter": "0x6f1e3db7D6ae40216904E6891b5c1602a770A252",
+      "fxparams": "",
+      "owner": "0x6f1e3db7D6ae40216904E6891b5c1602a770A252",
+      "thumbnailUri": "ipfs://QmPcqEN3yL4Q1XXA6LEDf8LSi229SPDeH7tyX3TQCrqp7P",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x36147b3ef203504ce263bb3636f153bc62dc300ab1ea7b2713e65b6c7fc681fb",
+        "iteration": 96,
+        "minter": "0x6f1e3db7D6ae40216904E6891b5c1602a770A252",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 97,
+      "name": "Paradigm #97",
+      "iteration": 97,
+      "fxhash": "0xee5da354ed08c04eb715e39e8ef1ca0c656ba80dfb06e059af58e6627b96a35a",
+      "minter": "0xeeA23e6099731442a6529BA29862263aca510e2e",
+      "fxparams": "",
+      "owner": "0x7917a484cDD60bAC4E573D845968063F853c24b6",
+      "thumbnailUri": "ipfs://QmSqqKNRZ66DoWMndmyJr76Uhqsu5fDrZrbLLpSooDEqwC",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xee5da354ed08c04eb715e39e8ef1ca0c656ba80dfb06e059af58e6627b96a35a",
+        "iteration": 97,
+        "minter": "0xeeA23e6099731442a6529BA29862263aca510e2e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 98,
+      "name": "Paradigm #98",
+      "iteration": 98,
+      "fxhash": "0x966726ac3f57746856ac743f25cb396b68fb1f488ac9fd9a12968dda17eeb5cd",
+      "minter": "0xee8C2832dADb706Cfda5D888bE3634e6a566e2D1",
+      "fxparams": "",
+      "owner": "0xc34E46f226e1bF81B8a744532d6c28CC624e14E4",
+      "thumbnailUri": "ipfs://Qmf3hLyRYcKAXaffhd4ijNXU7AQmUW6wma4hzs81Q4y3Vh",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x966726ac3f57746856ac743f25cb396b68fb1f488ac9fd9a12968dda17eeb5cd",
+        "iteration": 98,
+        "minter": "0xee8C2832dADb706Cfda5D888bE3634e6a566e2D1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 99,
+      "name": "Paradigm #99",
+      "iteration": 99,
+      "fxhash": "0xddb6faaf6265e677cc8eb52887b49ea51226148f4772cf10f88bf339a648110d",
+      "minter": "0xCBeBB5B5F0c6Ca63cd450d2CF67312AbA7a706C9",
+      "fxparams": "",
+      "owner": "0xCBeBB5B5F0c6Ca63cd450d2CF67312AbA7a706C9",
+      "thumbnailUri": "ipfs://QmdMqx2xbdqvf6y9M4ofbahAi1NZJjvxuBbj5TqPGRQd6n",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xddb6faaf6265e677cc8eb52887b49ea51226148f4772cf10f88bf339a648110d",
+        "iteration": 99,
+        "minter": "0xCBeBB5B5F0c6Ca63cd450d2CF67312AbA7a706C9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 100,
+      "name": "Paradigm #100",
+      "iteration": 100,
+      "fxhash": "0x0e81e63747fe423031124ce88548b20ac188df0b0aa0af8d24657999de79aab2",
+      "minter": "0xcb273B1d1425b82F4D5977a8C7407194F1c6f208",
+      "fxparams": "",
+      "owner": "0xF523011fC571d67beB53ee108FDEB010D1ADdBE9",
+      "thumbnailUri": "ipfs://QmVRGJmaBFoLDCKMCTYrAjrszmXm418s6ntwiF6XmzWrqZ",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x0e81e63747fe423031124ce88548b20ac188df0b0aa0af8d24657999de79aab2",
+        "iteration": 100,
+        "minter": "0xcb273B1d1425b82F4D5977a8C7407194F1c6f208",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 101,
+      "name": "Paradigm #101",
+      "iteration": 101,
+      "fxhash": "0x4b864e34d6867d1d0f07db2472e9d551988d25aa5d3e6cf8f37aede6c73e9b1f",
+      "minter": "0x488AbF73A0356C5e31F8EDb3C2B5C2c7d262432D",
+      "fxparams": "",
+      "owner": "0xc34E46f226e1bF81B8a744532d6c28CC624e14E4",
+      "thumbnailUri": "ipfs://QmaSo8keHBMcTHGPQbvcFcHE3HeLZzrDqKKta8bSogodoa",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x4b864e34d6867d1d0f07db2472e9d551988d25aa5d3e6cf8f37aede6c73e9b1f",
+        "iteration": 101,
+        "minter": "0x488AbF73A0356C5e31F8EDb3C2B5C2c7d262432D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 102,
+      "name": "Paradigm #102",
+      "iteration": 102,
+      "fxhash": "0xf986f7a3bd5c5b5ce6c9ecd7f9936b8ae67dd9d2719fad9a754f66c8c0eed7c8",
+      "minter": "0xA4BA47858cE9935C69E736C01Af5d4D81Ef641Cf",
+      "fxparams": "",
+      "owner": "0xA4BA47858cE9935C69E736C01Af5d4D81Ef641Cf",
+      "thumbnailUri": "ipfs://QmTbqDiptc7ghR6qthUYKJQP92jocq74Jz7ikMybfH6RTF",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xf986f7a3bd5c5b5ce6c9ecd7f9936b8ae67dd9d2719fad9a754f66c8c0eed7c8",
+        "iteration": 102,
+        "minter": "0xA4BA47858cE9935C69E736C01Af5d4D81Ef641Cf",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 103,
+      "name": "Paradigm #103",
+      "iteration": 103,
+      "fxhash": "0x66015fec8379369c4fdc989fae9b32d062c21094b2fc280b2203612490152bd3",
+      "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "fxparams": "",
+      "owner": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+      "thumbnailUri": "ipfs://Qmeaz5KvRRJVDrauLLnf1rfktVBLg36RBdc3c1ZVvLeNdo",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x66015fec8379369c4fdc989fae9b32d062c21094b2fc280b2203612490152bd3",
+        "iteration": 103,
+        "minter": "0xa3EaC0016f6581AC34768C0D4B99DDcd88071c3C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 104,
+      "name": "Paradigm #104",
+      "iteration": 104,
+      "fxhash": "0xeda3aa600ddf04b1578b80e7379e39279f47b5459b56ff4c77d25078e27a0bf6",
+      "minter": "0xc85e4A180B0c3cb6563b525F34a5304DAB70f172",
+      "fxparams": "",
+      "owner": "0xDd567050d720b76df0ea81C423c132f56Fa8fDf6",
+      "thumbnailUri": "ipfs://QmTVVrRwNxX3aEk6B2w1H8wiMZJ4zVpjEeQ2a2bQBVhpo9",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xeda3aa600ddf04b1578b80e7379e39279f47b5459b56ff4c77d25078e27a0bf6",
+        "iteration": 104,
+        "minter": "0xc85e4A180B0c3cb6563b525F34a5304DAB70f172",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 105,
+      "name": "Paradigm #105",
+      "iteration": 105,
+      "fxhash": "0x44fa0f9e620e256a83713204ce744f92d4f59121ac4db9f7e201276c06c95271",
+      "minter": "0xa1aBF2AA0eEc2598E2eec0125C40c2644f61Dca2",
+      "fxparams": "",
+      "owner": "0xb1e4B15635bEcf67490E687550E9E9F213D022Dc",
+      "thumbnailUri": "ipfs://QmUpc7EJYtSikcnd2mraLqsyPZ7mpwEGiWHD4pEUNiK4Bw",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x44fa0f9e620e256a83713204ce744f92d4f59121ac4db9f7e201276c06c95271",
+        "iteration": 105,
+        "minter": "0xa1aBF2AA0eEc2598E2eec0125C40c2644f61Dca2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 106,
+      "name": "Paradigm #106",
+      "iteration": 106,
+      "fxhash": "0x359cd7fb706f2ceaca529e70740c291db83f6a5d344423a42a21ea504d7fb4ab",
+      "minter": "0xF4976fecf063709de418Fc8E89498af7e91cDcd2",
+      "fxparams": "",
+      "owner": "0x2D8a0A8D187bb91E2993985cDb4BD80c68C0Aff2",
+      "thumbnailUri": "ipfs://QmPpKZ4pc7Uo69ojUANtENU9FhEoiY5QVVjQbVKWf5Cfmp",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x359cd7fb706f2ceaca529e70740c291db83f6a5d344423a42a21ea504d7fb4ab",
+        "iteration": 106,
+        "minter": "0xF4976fecf063709de418Fc8E89498af7e91cDcd2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 107,
+      "name": "Paradigm #107",
+      "iteration": 107,
+      "fxhash": "0xa4efa3b2f8766cf0cfc6f47b18e8661d67647fb51f34ee9131fb04e3ef56db47",
+      "minter": "0x0BbdBEdbF99454aEd3C17637661f64B83b253154",
+      "fxparams": "",
+      "owner": "0xC4AAa66333b5D5e62355478E80A67Ee22f92Ffe7",
+      "thumbnailUri": "ipfs://Qmc7FwktxjPcig4CdBeCMhQp8YrbL2UMAshnktE16srQ3t",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xa4efa3b2f8766cf0cfc6f47b18e8661d67647fb51f34ee9131fb04e3ef56db47",
+        "iteration": 107,
+        "minter": "0x0BbdBEdbF99454aEd3C17637661f64B83b253154",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 108,
+      "name": "Paradigm #108",
+      "iteration": 108,
+      "fxhash": "0x59616aee71c2f42c942a4ed72f4ccd8b820551aca5021f76ae8718bdc85c5e52",
+      "minter": "0x6B67623ff56c10d9dcFc2152425f90285fC74DDD",
+      "fxparams": "",
+      "owner": "0x6B67623ff56c10d9dcFc2152425f90285fC74DDD",
+      "thumbnailUri": "ipfs://Qmb4zFfpxz1h8T1ABP1iwM2kuBMCeU3PzqC3mMSB6LE1PS",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x59616aee71c2f42c942a4ed72f4ccd8b820551aca5021f76ae8718bdc85c5e52",
+        "iteration": 108,
+        "minter": "0x6B67623ff56c10d9dcFc2152425f90285fC74DDD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 109,
+      "name": "Paradigm #109",
+      "iteration": 109,
+      "fxhash": "0xbb111361fb82542370ef86d38b4bd5c446b9eb7c8781584ea0b73e67fc0b083d",
+      "minter": "0x2d005A140fA26857f88aeCCf361eB6EA6136A58B",
+      "fxparams": "",
+      "owner": "0x2d005A140fA26857f88aeCCf361eB6EA6136A58B",
+      "thumbnailUri": "ipfs://QmehdG9p8Hawxg8sSh69jaNXiZDJV2tzG5NCtzKbw9cNUL",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xbb111361fb82542370ef86d38b4bd5c446b9eb7c8781584ea0b73e67fc0b083d",
+        "iteration": 109,
+        "minter": "0x2d005A140fA26857f88aeCCf361eB6EA6136A58B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 110,
+      "name": "Paradigm #110",
+      "iteration": 110,
+      "fxhash": "0x08e544d16f9f59010ae3abb336c696678b7408a77c6c02fd820d534518ba2c0b",
+      "minter": "0x6Ec2997Cf35457daA9de4CDC989c697d921b5285",
+      "fxparams": "",
+      "owner": "0xaD18dc2068C0e09d49D9289654829567D734Bfee",
+      "thumbnailUri": "ipfs://QmaimhUZTyxp2uH1hgsH2zrVrC6MQZM4wZQ2u4Xz2DSfFG",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x08e544d16f9f59010ae3abb336c696678b7408a77c6c02fd820d534518ba2c0b",
+        "iteration": 110,
+        "minter": "0x6Ec2997Cf35457daA9de4CDC989c697d921b5285",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 111,
+      "name": "Paradigm #111",
+      "iteration": 111,
+      "fxhash": "0x2fb5fe0049c907c5808f625fca32e0a068a054664a8ea269e3496d5f494175e7",
+      "minter": "0xFa1be1708F0f6C3b23E0e3339D30AA6A6DDC5e0e",
+      "fxparams": "",
+      "owner": "0xFa1be1708F0f6C3b23E0e3339D30AA6A6DDC5e0e",
+      "thumbnailUri": "ipfs://QmU8fy1838rdzCUKhM2Ex52AB6zXpqQw8uw86yaUqCq3B5",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x2fb5fe0049c907c5808f625fca32e0a068a054664a8ea269e3496d5f494175e7",
+        "iteration": 111,
+        "minter": "0xFa1be1708F0f6C3b23E0e3339D30AA6A6DDC5e0e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 112,
+      "name": "Paradigm #112",
+      "iteration": 112,
+      "fxhash": "0x0e070c9866ec683cb2431e4e97d9a382edb403491093734e266725502bfe0ca9",
+      "minter": "0x4B8D0a803e0446A277a3dDD049D7E3EC2cE65Def",
+      "fxparams": "",
+      "owner": "0x4B8D0a803e0446A277a3dDD049D7E3EC2cE65Def",
+      "thumbnailUri": "ipfs://QmcchjXLrA8yNLer2shfPHWQypiZbCu9LGkLmzipQ1WsKk",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x0e070c9866ec683cb2431e4e97d9a382edb403491093734e266725502bfe0ca9",
+        "iteration": 112,
+        "minter": "0x4B8D0a803e0446A277a3dDD049D7E3EC2cE65Def",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 113,
+      "name": "Paradigm #113",
+      "iteration": 113,
+      "fxhash": "0x449c48d9ada98e96a74ecdcdae0c4be52fcf71071143befd97a7c458ca907260",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0xc73459e2D7DfBc96230aD18F0b901a9f358032B7",
+      "thumbnailUri": "ipfs://QmVu9hhAGKNF2S4zwADrxJb9pUTy7GWtoMyypH8PbvSsv4",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x449c48d9ada98e96a74ecdcdae0c4be52fcf71071143befd97a7c458ca907260",
+        "iteration": 113,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 114,
+      "name": "Paradigm #114",
+      "iteration": 114,
+      "fxhash": "0x8324779ea7809746a3f7bcd47cd4195e495cb28f378acef67c2324666db03007",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0xD056BFd533c3cd90E702E4Dc06737C6d07d6d84c",
+      "thumbnailUri": "ipfs://QmQZbo9KGNqNw5CXMTZ9ZjPkXpasFk7MRQCLbUinzvu5H7",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x8324779ea7809746a3f7bcd47cd4195e495cb28f378acef67c2324666db03007",
+        "iteration": 114,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 115,
+      "name": "Paradigm #115",
+      "iteration": 115,
+      "fxhash": "0x0c7cc88386c24691824610765453ccd8dd91b39dd0a1db264c68203bdf2b2d37",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0x891872283C926fEB6cf2fc40c07004F46437fb96",
+      "thumbnailUri": "ipfs://QmS2SMv2mGF6nGMHP5cZnWRCwjzFo6pBo7Z7xqZfE7cxcD",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x0c7cc88386c24691824610765453ccd8dd91b39dd0a1db264c68203bdf2b2d37",
+        "iteration": 115,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 116,
+      "name": "Paradigm #116",
+      "iteration": 116,
+      "fxhash": "0x8da60184e9432db90278d4126bc1af80a8e761ce3bda3ab8757991ca1cfc497c",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0x3c9240441cB5E062Df79CDF73d970314445b4c03",
+      "thumbnailUri": "ipfs://QmdqCFQ76ta3btTDe23EnLnLJ5QXWVfkxB9qUdn699hZhg",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x8da60184e9432db90278d4126bc1af80a8e761ce3bda3ab8757991ca1cfc497c",
+        "iteration": 116,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 117,
+      "name": "Paradigm #117",
+      "iteration": 117,
+      "fxhash": "0x9ad0a39fdf2115bd6155b32aa2822ac9e42add920179fe133194c338c2cf80a7",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0x1738d9efF0CE8462724C6cD9a5e1C96Af95CCE59",
+      "thumbnailUri": "ipfs://QmY6Jkitx1FNYGN5auEVh79Kg29Z9rw1RvasqGSDx7nhvt",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x9ad0a39fdf2115bd6155b32aa2822ac9e42add920179fe133194c338c2cf80a7",
+        "iteration": 117,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 118,
+      "name": "Paradigm #118",
+      "iteration": 118,
+      "fxhash": "0xec5e382f97db130e6c32525d17c37cae5b1a61fb5fba1b872b59355632364267",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0x886478D3cf9581B624CB35b5446693Fc8A58B787",
+      "thumbnailUri": "ipfs://QmRe3pcdhWwmHBRQw7Z4sASEADqFpyWRxMk7TcFwrsfGkY",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xec5e382f97db130e6c32525d17c37cae5b1a61fb5fba1b872b59355632364267",
+        "iteration": 118,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 119,
+      "name": "Paradigm #119",
+      "iteration": 119,
+      "fxhash": "0x34b154d9ce0c26b28518e1aa7c5b203836477aef04e7321f957e95b838718d61",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0xc34E46f226e1bF81B8a744532d6c28CC624e14E4",
+      "thumbnailUri": "ipfs://Qmf1knMTokKf2WderkiaozwvN3CdVy9iMBChm2DT4X6jbg",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x34b154d9ce0c26b28518e1aa7c5b203836477aef04e7321f957e95b838718d61",
+        "iteration": 119,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 120,
+      "name": "Paradigm #120",
+      "iteration": 120,
+      "fxhash": "0xc97dab7a8df075d6fbdc5d0059d9dcb659fe4f827ba8dded04a241c8921ddd6e",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0x5A74e336290AD84DaD9f220dfEe032A4DcCE1001",
+      "thumbnailUri": "ipfs://QmUbhhEgErcvioDcJDv2BTk1Lu9wHJVXM5QepQRLTr7BHB",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xc97dab7a8df075d6fbdc5d0059d9dcb659fe4f827ba8dded04a241c8921ddd6e",
+        "iteration": 120,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 121,
+      "name": "Paradigm #121",
+      "iteration": 121,
+      "fxhash": "0xeed9362fe47630024e619d33d7789245d9ad7827c70f9cbb14b8c21cb5c20c36",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0x0E6e9d2c0Aab646EB4b13808e208fA1c6b308Db1",
+      "thumbnailUri": "ipfs://QmWuAy7NcG2HZuGi9XNXXGLZmvLU4WWdMNqQh6qyagmAoc",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xeed9362fe47630024e619d33d7789245d9ad7827c70f9cbb14b8c21cb5c20c36",
+        "iteration": 121,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 122,
+      "name": "Paradigm #122",
+      "iteration": 122,
+      "fxhash": "0x333b562616a9854e6c2f90d86545c45e52bc8050d3dda22482501c5adf35dfb5",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0xe60Ff879355BF3Df475428f25Fe165fDa7FfbfB3",
+      "thumbnailUri": "ipfs://QmcPMWQ91wjsF8DmBtdJnTne995emnvDWyaG3Wk25t4Y5R",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x333b562616a9854e6c2f90d86545c45e52bc8050d3dda22482501c5adf35dfb5",
+        "iteration": 122,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 123,
+      "name": "Paradigm #123",
+      "iteration": 123,
+      "fxhash": "0x3533d4cee5675be9b0c1f0ea186d8198172ac93777317136ace720784d01520c",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0x886478D3cf9581B624CB35b5446693Fc8A58B787",
+      "thumbnailUri": "ipfs://QmP4nwvnEpK8aCTUQDMsNCfB3gBF2rJhzJbyj3BZyuHimu",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x3533d4cee5675be9b0c1f0ea186d8198172ac93777317136ace720784d01520c",
+        "iteration": 123,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 124,
+      "name": "Paradigm #124",
+      "iteration": 124,
+      "fxhash": "0xa83f935d5b25293bf637840b2220c0a94c2a3fb70a3826b8ee006fe8632772ce",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0x886478D3cf9581B624CB35b5446693Fc8A58B787",
+      "thumbnailUri": "ipfs://QmdvykwvJm1ct5o53xSRuHtJoQvRSnv4wEJNGjRystYiya",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xa83f935d5b25293bf637840b2220c0a94c2a3fb70a3826b8ee006fe8632772ce",
+        "iteration": 124,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 125,
+      "name": "Paradigm #125",
+      "iteration": 125,
+      "fxhash": "0xdce9a6ff08a2aa0a5aa302b4141b6bee397ac21bf7ed39fb1a804561dbd01e5e",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0x1738d9efF0CE8462724C6cD9a5e1C96Af95CCE59",
+      "thumbnailUri": "ipfs://Qma6583yzrV1fSFmAtaGcJKbWJ9ZUVkpYJVzxPhqD8fwak",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xdce9a6ff08a2aa0a5aa302b4141b6bee397ac21bf7ed39fb1a804561dbd01e5e",
+        "iteration": 125,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 126,
+      "name": "Paradigm #126",
+      "iteration": 126,
+      "fxhash": "0xfa49db7b374c08c0872dd66a5460a2ca7263da0c2e9efec6fe46fc17fd905007",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0xc73459e2D7DfBc96230aD18F0b901a9f358032B7",
+      "thumbnailUri": "ipfs://QmeGuaVxEqsU5EaFP1xYuiC1Sxqvt2mdAkVYiTTDgpE39g",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0xfa49db7b374c08c0872dd66a5460a2ca7263da0c2e9efec6fe46fc17fd905007",
+        "iteration": 126,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 127,
+      "name": "Paradigm #127",
+      "iteration": 127,
+      "fxhash": "0x5bce64ba907085bcc14f91b9066d934cc6f9fb2e84bd956ee57072ce0d8c5806",
+      "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+      "fxparams": "",
+      "owner": "0xD056BFd533c3cd90E702E4Dc06737C6d07d6d84c",
+      "thumbnailUri": "ipfs://QmNpqTRZeS1dWwq596ffpNXSa2EyLMFvmwkJzyY33wEbqK",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x5bce64ba907085bcc14f91b9066d934cc6f9fb2e84bd956ee57072ce0d8c5806",
+        "iteration": 127,
+        "minter": "0x661dCd4d0fD1b48D32271f4297c0E272821D4b02",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 128,
+      "name": "Paradigm #128",
+      "iteration": 128,
+      "fxhash": "0x4e2fccf4a165b1e10f76d8fc0043c22e5bcf1aa14dd7c5164d282688710bffc0",
+      "minter": "0xF523011fC571d67beB53ee108FDEB010D1ADdBE9",
+      "fxparams": "",
+      "owner": "0x9075b54DF817a1631ce3c496bd1FCD7A76c7FE99",
+      "thumbnailUri": "ipfs://QmcV4zNxqqXot2ZWu4JB3XbDDeg3TV3ZUxfixMeH5ae4w7",
+      "generativeUri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+      "viewerParams": {
+        "uri": "onchfs://d2fedd0d7849fbf12b1d3496afe45b5425b24500f2706106d8ee6cdfe54ad363",
+        "fxhash": "0x4e2fccf4a165b1e10f76d8fc0043c22e5bcf1aa14dd7c5164d282688710bffc0",
+        "iteration": 128,
+        "minter": "0xF523011fC571d67beB53ee108FDEB010D1ADdBE9",
+        "fxparams": ""
+      }
+    }
+  ]
+}

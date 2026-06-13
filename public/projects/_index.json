@@ -22,6 +22,17 @@
     "thumbnail": "ipfs://QmXYZZHJfqUy7TSzGFbPu2GRaYuUGXYBdCMdDxhr2KxqSS"
   },
   {
+    "filename": "A_Strange_Dream.json",
+    "name": "A Strange Dream",
+    "artist": "Florian Zumbrunn",
+    "artists": [
+      "Florian Zumbrunn"
+    ],
+    "chain": "ethereum",
+    "count": 1,
+    "thumbnail": "ipfs://QmbKFZwdbxAsPGWugBiZ9fE9bL1GCCRiuQ7ob6fnzJoQoa"
+  },
+  {
     "filename": "Acequia.json",
     "name": "Acequia",
     "artist": "Rich Poole & ThePaperCrane",
@@ -199,6 +210,17 @@
     "chain": "base",
     "count": 3282,
     "thumbnail": "ipfs://Qmb8CQQq1wmG63yZksi5Gk4BYioG8SzJGPk4Xw4gDJud35"
+  },
+  {
+    "filename": "D_sorganic.json",
+    "name": "Désorganic",
+    "artist": "ciphrd",
+    "artists": [
+      "ciphrd"
+    ],
+    "chain": "ethereum",
+    "count": 30,
+    "thumbnail": "ipfs://QmUVkxAeDD65QJacNqng3xawRHSbQnYGgnQFpwST2w4mv6"
   },
   {
     "filename": "De_Frag.json",
@@ -386,6 +408,17 @@
     "chain": "tezos",
     "count": 397,
     "thumbnail": "ipfs://QmWTik8NtgNTeskrDNrfEuvUR93C5DzLVnrPfvuMRzAMja"
+  },
+  {
+    "filename": "Forma_y_Orden.json",
+    "name": "Forma y Orden",
+    "artist": "juanrg92",
+    "artists": [
+      "juanrg92"
+    ],
+    "chain": "ethereum",
+    "count": 100,
+    "thumbnail": "ipfs://QmWjuFZ3V6tfpxEtgUSphgFkJnRdweLN5hRiT3cEB8Wkcs"
   },
   {
     "filename": "Fragments_of_a_Wave.json",
@@ -650,6 +683,28 @@
     "chain": "ethereum",
     "count": 200,
     "thumbnail": "ipfs://QmYshbttPmNx2ATPASU3Xp3ZMbRvMu5c87eP768oWMJy5R"
+  },
+  {
+    "filename": "Nowhere_Else.json",
+    "name": "Nowhere Else",
+    "artist": "teaboswell",
+    "artists": [
+      "teaboswell"
+    ],
+    "chain": "ethereum",
+    "count": 300,
+    "thumbnail": "ipfs://QmTsbZYdhEPxCaMfhjskcmg4gvcQmEt2gvwALMG2vbFJUR"
+  },
+  {
+    "filename": "Paradigm.json",
+    "name": "Paradigm",
+    "artist": "ippsketch",
+    "artists": [
+      "ippsketch"
+    ],
+    "chain": "ethereum",
+    "count": 128,
+    "thumbnail": "ipfs://QmUbFqPBxBatCsRVv3MwprAHkreJ43m1c5Rp8feZu8n2Bx"
   },
   {
     "filename": "Perpendicular_Inhabitation.json",
@@ -1258,6 +1313,17 @@
     "chain": "tezos",
     "count": 264,
     "thumbnail": "ipfs://QmeCihPuVdgcNGkn7CktjZRfvxbGKBk3y94xnWKVCh8a1M"
+  },
+  {
+    "filename": "stranded_ness_.json",
+    "name": "stranded(ness)",
+    "artist": "loackme",
+    "artists": [
+      "loackme"
+    ],
+    "chain": "ethereum",
+    "count": 64,
+    "thumbnail": "ipfs://QmZkPFK5cUzizQXUMYG8pyr77uNxwi2DEgA8om13vsT1i3"
   },
   {
     "filename": "tr4ns4ctions.json",

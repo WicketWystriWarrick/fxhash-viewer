@@ -1,0 +1,35 @@
+{
+  "project": {
+    "name": "A Strange Dream",
+    "artist": "Florian Zumbrunn",
+    "artists": [
+      "Florian Zumbrunn"
+    ],
+    "contract": "0x52aD7a8abe851edB4bB7b59F47c3461f9a66f93a",
+    "chain": "ethereum",
+    "generativeUri": "ipfs://QmUgMUQmPoMt56HbJYhc1ivkGETvuzETPR3S4EqBgnBdmP",
+    "totalSupply": 1,
+    "extractedAt": "2026-06-13T14:19:04.560Z",
+    "source": "fxhash-v2-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 1,
+      "name": "A Strange Dream #1",
+      "iteration": 1,
+      "fxhash": "0x500f2de4ef420ed3eeb780aef189162e7fcc348f7c6fb6f7ef9c07f270315a52",
+      "minter": "0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66",
+      "fxparams": "",
+      "owner": "0xE5CA890A0eF2F128EB3267e4711c6bf3306Ec024",
+      "thumbnailUri": "ipfs://QmbKFZwdbxAsPGWugBiZ9fE9bL1GCCRiuQ7ob6fnzJoQoa",
+      "generativeUri": "ipfs://QmUgMUQmPoMt56HbJYhc1ivkGETvuzETPR3S4EqBgnBdmP",
+      "viewerParams": {
+        "uri": "ipfs://QmUgMUQmPoMt56HbJYhc1ivkGETvuzETPR3S4EqBgnBdmP",
+        "fxhash": "0x500f2de4ef420ed3eeb780aef189162e7fcc348f7c6fb6f7ef9c07f270315a52",
+        "iteration": 1,
+        "minter": "0x764aBE778aa96Cd04972444a8E1DB83dF13f7E66",
+        "fxparams": ""
+      }
+    }
+  ]
+}
