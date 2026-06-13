@@ -1,0 +1,1025 @@
+{
+  "project": {
+    "name": "elektromedusae",
+    "artist": "nekropunk",
+    "artists": [
+      "nekropunk"
+    ],
+    "contract": "0x045808302Ea23aC9fccd333BeE2867fFbdc15e02",
+    "chain": "base",
+    "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+    "totalSupply": 56,
+    "extractedAt": "2026-06-13T14:10:53.241Z",
+    "source": "fxhash-v2-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 1,
+      "name": "elektromedusae #1",
+      "iteration": 1,
+      "fxhash": "0x2e76d7c5a6147a58d1ead8e0519324294831e4940cf0faac261d587fc4df62dd",
+      "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+      "fxparams": "",
+      "owner": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+      "thumbnailUri": "ipfs://QmQdn27B3QbkSG2hn81v3zWg9mjobV7vQEThzyHv8ngrWf",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x2e76d7c5a6147a58d1ead8e0519324294831e4940cf0faac261d587fc4df62dd",
+        "iteration": 1,
+        "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 2,
+      "name": "elektromedusae #2",
+      "iteration": 2,
+      "fxhash": "0x4e72b39fa34a6f749d344a33f8fa08e286d4d6ec388cdf09baeaff0faa91fc1b",
+      "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+      "fxparams": "",
+      "owner": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+      "thumbnailUri": "ipfs://QmV5ecbzrRjYoZxoFFiKNc7HQaenQ56Jx3cBjCAodHKeAU",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x4e72b39fa34a6f749d344a33f8fa08e286d4d6ec388cdf09baeaff0faa91fc1b",
+        "iteration": 2,
+        "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 3,
+      "name": "elektromedusae #3",
+      "iteration": 3,
+      "fxhash": "0x04d6839acab435aa7cdb40d5d00dd573f8a0cda7815205b9fcab059a46ae3dab",
+      "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+      "fxparams": "",
+      "owner": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+      "thumbnailUri": "ipfs://QmYjQM86Z8QrvF6ToZqXLKR9vhpZc75e2MpbGGQgQya3bq",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x04d6839acab435aa7cdb40d5d00dd573f8a0cda7815205b9fcab059a46ae3dab",
+        "iteration": 3,
+        "minter": "0x75A317940c7C8FF2125d63e9c8b0B7B9269e599C",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 4,
+      "name": "elektromedusae #4",
+      "iteration": 4,
+      "fxhash": "0xa86b6c0167b4fc561b1649880a0411c4592e51a531e6fb9f0e3a10a68d3a53bc",
+      "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+      "fxparams": "",
+      "owner": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+      "thumbnailUri": "ipfs://QmezZEc8FrG2VzS5c2mBw9zftFgDbsihDXVGhLSaA2WkpW",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xa86b6c0167b4fc561b1649880a0411c4592e51a531e6fb9f0e3a10a68d3a53bc",
+        "iteration": 4,
+        "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 5,
+      "name": "elektromedusae #5",
+      "iteration": 5,
+      "fxhash": "0xbdfa457f223757e53c6caf30efbd4fdd3e1f254dc6c8df40bd40d22f72ec028c",
+      "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+      "fxparams": "",
+      "owner": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+      "thumbnailUri": "ipfs://QmaTQ6aLaRYtFH7oN7NQdns6taZDP3PGF8hRkv1qVmcGQm",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xbdfa457f223757e53c6caf30efbd4fdd3e1f254dc6c8df40bd40d22f72ec028c",
+        "iteration": 5,
+        "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 6,
+      "name": "elektromedusae #6",
+      "iteration": 6,
+      "fxhash": "0x4dee48112d5b5e074525343a4e0bacd56e3d01abfcfcd6f4bbc0ba0dd60bb4b4",
+      "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+      "fxparams": "",
+      "owner": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+      "thumbnailUri": "ipfs://QmUJhEH4TiQT18r5qbgt34JUDR5sm9vMggD96pV2XigHea",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x4dee48112d5b5e074525343a4e0bacd56e3d01abfcfcd6f4bbc0ba0dd60bb4b4",
+        "iteration": 6,
+        "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 7,
+      "name": "elektromedusae #7",
+      "iteration": 7,
+      "fxhash": "0x8b3ddacaab7fadf3c8031334a2771f61b9359b4d198b0fc0ecf43c147b3a0fc0",
+      "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+      "fxparams": "",
+      "owner": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+      "thumbnailUri": "ipfs://QmPZBEh9ii24NVnFrQmG2tmXLn3kRWiRnYjXm5SdBuw8Ef",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x8b3ddacaab7fadf3c8031334a2771f61b9359b4d198b0fc0ecf43c147b3a0fc0",
+        "iteration": 7,
+        "minter": "0x2ce8641036f22627402bD4b1B7d1ed8A8499b205",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 8,
+      "name": "elektromedusae #8",
+      "iteration": 8,
+      "fxhash": "0x8c5f1371fe2fc1706650aeaddd682721a9f1536439329d611d244941d736cd8e",
+      "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+      "fxparams": "",
+      "owner": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+      "thumbnailUri": "ipfs://QmWDut82BM83jWx7iGS9w4SoYTqFAamhEQ43RRsYowowq8",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x8c5f1371fe2fc1706650aeaddd682721a9f1536439329d611d244941d736cd8e",
+        "iteration": 8,
+        "minter": "0xdc25E048c3CDAfacC71C391053815f548E55dae8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 9,
+      "name": "elektromedusae #9",
+      "iteration": 9,
+      "fxhash": "0x5f9317fac4b9edd88a96729183ae34d05a36fbce2184b47f183b7136d12e9143",
+      "minter": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "fxparams": "",
+      "owner": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+      "thumbnailUri": "ipfs://Qmek7rNCpaqQrePjRWupN9wNknQBm5SmhduwSyvx7mQQnQ",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x5f9317fac4b9edd88a96729183ae34d05a36fbce2184b47f183b7136d12e9143",
+        "iteration": 9,
+        "minter": "0x7fF3c36212F5B10846B7A2569b7b8a822a900050",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 10,
+      "name": "elektromedusae #10",
+      "iteration": 10,
+      "fxhash": "0xb8cc15c59feb602ab198b7f9e969ed2c24c4a80a57a96836cdf3fb2faaed15a8",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "fxparams": "",
+      "owner": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "thumbnailUri": "ipfs://QmRZJzRcR3XGsdS7Li5cqvQvEmt6Ev9wf4xuccRd3Aeysi",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xb8cc15c59feb602ab198b7f9e969ed2c24c4a80a57a96836cdf3fb2faaed15a8",
+        "iteration": 10,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 11,
+      "name": "elektromedusae #11",
+      "iteration": 11,
+      "fxhash": "0x2f7638ca192e6529edefdcf6ad4212f42f3887cb1807c4b17c545573ae228f46",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "fxparams": "",
+      "owner": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "thumbnailUri": "ipfs://QmWxv9J67AEtqKRAgg4dHtK3gCW716Hno6nHQYro7S4tPA",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x2f7638ca192e6529edefdcf6ad4212f42f3887cb1807c4b17c545573ae228f46",
+        "iteration": 11,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 12,
+      "name": "elektromedusae #12",
+      "iteration": 12,
+      "fxhash": "0x8ae78991fe1c910eed57f6860c1ce3e90fe558e17e17aad6832542f11f08eb42",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "fxparams": "",
+      "owner": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "thumbnailUri": "ipfs://QmVkfuhrp338GTUM5jrBTZSnc3tfoMtLpXsJhTaEaa6sXY",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x8ae78991fe1c910eed57f6860c1ce3e90fe558e17e17aad6832542f11f08eb42",
+        "iteration": 12,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 13,
+      "name": "elektromedusae #13",
+      "iteration": 13,
+      "fxhash": "0xed393aadd058a6b695ea5b471875ee6e50fab7aa22d0fb195ea1c19245ba2b6a",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "fxparams": "",
+      "owner": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "thumbnailUri": "ipfs://Qmbnr9EeUXeFPRCoJDKbjMTiMe8dz6HmVQcM4aFwB4fv35",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xed393aadd058a6b695ea5b471875ee6e50fab7aa22d0fb195ea1c19245ba2b6a",
+        "iteration": 13,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 14,
+      "name": "elektromedusae #14",
+      "iteration": 14,
+      "fxhash": "0x90b63574cb05e9693ede968610d2fc6dcd72b0f2938faff6f0a54ce8f0a3815d",
+      "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "fxparams": "",
+      "owner": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+      "thumbnailUri": "ipfs://QmQ8sbqV8rqde77eWz9XVvHKrVcqp3qYPnUuS3ycJyPdfW",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x90b63574cb05e9693ede968610d2fc6dcd72b0f2938faff6f0a54ce8f0a3815d",
+        "iteration": 14,
+        "minter": "0x8A05e5EEcaB2C1b5dfAf26CF11c9845bF971fB45",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 15,
+      "name": "elektromedusae #15",
+      "iteration": 15,
+      "fxhash": "0x815a3afa0aa89750420b31c61fdfa6c285fdd1cb1a47f90d2c78f19fc0f5c68b",
+      "minter": "0x896Ad7c1a8f93A48258beA5B6BB43f8FCbcA945B",
+      "fxparams": "",
+      "owner": "0x896Ad7c1a8f93A48258beA5B6BB43f8FCbcA945B",
+      "thumbnailUri": "ipfs://QmcZBQrq135RQMWovANiPzywaQ1oA8n8e7QxpPhxi7gbfr",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x815a3afa0aa89750420b31c61fdfa6c285fdd1cb1a47f90d2c78f19fc0f5c68b",
+        "iteration": 15,
+        "minter": "0x896Ad7c1a8f93A48258beA5B6BB43f8FCbcA945B",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 16,
+      "name": "elektromedusae #16",
+      "iteration": 16,
+      "fxhash": "0x3b9a1e857c38842910af79cec0dcddb2c26c4f84b24bcaa6164432d801cd5769",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmVY3uvrM7M5hpNWzLutZrVRxg3LD9oXgWGjj2ZCkbGa7i",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x3b9a1e857c38842910af79cec0dcddb2c26c4f84b24bcaa6164432d801cd5769",
+        "iteration": 16,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 17,
+      "name": "elektromedusae #17",
+      "iteration": 17,
+      "fxhash": "0x19d4f782d255a97016de79d8b8e05408cc0c00aa1363fa3247e10fab5438bad8",
+      "minter": "0xEdd47f01133D82445815890B7cbD857783DBD64D",
+      "fxparams": "",
+      "owner": "0xEdd47f01133D82445815890B7cbD857783DBD64D",
+      "thumbnailUri": "ipfs://Qmbyfe4mQjmdGb7Hq74yNupoZfBJ8CNTp84zg2XVmqzKT6",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x19d4f782d255a97016de79d8b8e05408cc0c00aa1363fa3247e10fab5438bad8",
+        "iteration": 17,
+        "minter": "0xEdd47f01133D82445815890B7cbD857783DBD64D",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 18,
+      "name": "elektromedusae #18",
+      "iteration": 18,
+      "fxhash": "0xc652cb1eab02e3c7347caab586ce1df13ab3a62406c3cdb9a9c85b689af363a7",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmQtYAXYDsh3AQxVC32mf9EJSmRviPaaAVLUVFQucAwZ3s",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xc652cb1eab02e3c7347caab586ce1df13ab3a62406c3cdb9a9c85b689af363a7",
+        "iteration": 18,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 19,
+      "name": "elektromedusae #19",
+      "iteration": 19,
+      "fxhash": "0x0d9bde7663bc9cdb328a4ee1d5568af79f7ac75bf875c1ca5d70a1d79dbc1314",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmXLUp22LWfMbjWVy9JM6srAvR8S5miCNt3LWnSyCtBhWi",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x0d9bde7663bc9cdb328a4ee1d5568af79f7ac75bf875c1ca5d70a1d79dbc1314",
+        "iteration": 19,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 20,
+      "name": "elektromedusae #20",
+      "iteration": 20,
+      "fxhash": "0xb80d513a33520ed18d8234ca7d5071cc492fa9e728eb6c10fa419129a69b6cbb",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmNze3qJ9KZ5Z8GBLg7peNBUJSiKrLqrxtKpZgxSp8xPm8",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xb80d513a33520ed18d8234ca7d5071cc492fa9e728eb6c10fa419129a69b6cbb",
+        "iteration": 20,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 21,
+      "name": "elektromedusae #21",
+      "iteration": 21,
+      "fxhash": "0xa6aaa08be47f2f65ed6b05a0722c0a4abc8c1dd47e077d441468f492db5d73fc",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmRM4q9E6soR6wR6LEphfpEi3ZDdj53zN6acruGZ1hT3mx",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xa6aaa08be47f2f65ed6b05a0722c0a4abc8c1dd47e077d441468f492db5d73fc",
+        "iteration": 21,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 22,
+      "name": "elektromedusae #22",
+      "iteration": 22,
+      "fxhash": "0x64996bd623e4574fd1da617d8edf4a4214621ac58cac359f881be255384cfb7a",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmNeY62uAh1R3ABmhP8ATyTJzfoLrpD72rLBCtXXnP2ym4",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x64996bd623e4574fd1da617d8edf4a4214621ac58cac359f881be255384cfb7a",
+        "iteration": 22,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 23,
+      "name": "elektromedusae #23",
+      "iteration": 23,
+      "fxhash": "0xa56aba99062647b3d1e1138f120547c519598090332d9d833991e71b39aabdd5",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmYjb8yoFWRETMpWXXr3mohmZq4sFFqi8hVZbfBdQNfnEY",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xa56aba99062647b3d1e1138f120547c519598090332d9d833991e71b39aabdd5",
+        "iteration": 23,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 24,
+      "name": "elektromedusae #24",
+      "iteration": 24,
+      "fxhash": "0x2effaced6261dd1302371f5f4c51a6ecaa346a18e6b37b86a872e03eda1ce77b",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmdDcvpgSJ1jsFWttYj9WVenu6ctF4HzCobPeeKgehXtnL",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x2effaced6261dd1302371f5f4c51a6ecaa346a18e6b37b86a872e03eda1ce77b",
+        "iteration": 24,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 25,
+      "name": "elektromedusae #25",
+      "iteration": 25,
+      "fxhash": "0x32a6e3059d3dd6d8af7577eefade7ee8343a0f956259235196fafaeb2a4ff5a7",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmYfwEJc9cq4PNehcXAVr84njWL6tDiTRuVd2spVfJYG5r",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x32a6e3059d3dd6d8af7577eefade7ee8343a0f956259235196fafaeb2a4ff5a7",
+        "iteration": 25,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 26,
+      "name": "elektromedusae #26",
+      "iteration": 26,
+      "fxhash": "0x36c66501587dfeeb8124d9658039c4360cee81504d8e2bea4ef50183dc217c8e",
+      "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "fxparams": "",
+      "owner": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+      "thumbnailUri": "ipfs://QmT3xr9YKokF5drZNmBv8ujhXoXHZPDyvuywN8JWp3CH4Q",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x36c66501587dfeeb8124d9658039c4360cee81504d8e2bea4ef50183dc217c8e",
+        "iteration": 26,
+        "minter": "0x2886fbc5AC6320C95909C2C95189FdB02C667748",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 27,
+      "name": "elektromedusae #27",
+      "iteration": 27,
+      "fxhash": "0xc80ae9f54f3478b45ed9e974cbe5bca6240de5baede0485f57fe2955324974a1",
+      "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+      "fxparams": "",
+      "owner": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+      "thumbnailUri": "ipfs://QmVcmyiMgpKWcCVdkttMdSFgBdJRTkPdmHUVHRcykHm3ax",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xc80ae9f54f3478b45ed9e974cbe5bca6240de5baede0485f57fe2955324974a1",
+        "iteration": 27,
+        "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 28,
+      "name": "elektromedusae #28",
+      "iteration": 28,
+      "fxhash": "0x249f64eca8e65ff5bb2509d1a4664038ed25d456f704a610702f399333c95e36",
+      "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+      "fxparams": "",
+      "owner": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+      "thumbnailUri": "ipfs://QmUfHjYSZBD2Lg7azemwq5XhDDeD18uqGhotRvoW2kUf1c",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x249f64eca8e65ff5bb2509d1a4664038ed25d456f704a610702f399333c95e36",
+        "iteration": 28,
+        "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 29,
+      "name": "elektromedusae #29",
+      "iteration": 29,
+      "fxhash": "0xa3a4e472f264b31c27bf61f870bf6593ec80103581a1e1ff4e5db6b23d63cfd4",
+      "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+      "fxparams": "",
+      "owner": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+      "thumbnailUri": "ipfs://QmPkgM18szh1Q6geLhgDGLJzgEjDk3z9jM6DsnmSc6a9aN",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xa3a4e472f264b31c27bf61f870bf6593ec80103581a1e1ff4e5db6b23d63cfd4",
+        "iteration": 29,
+        "minter": "0x22eD28A32d92b7EaD66C4fFb6B3d79fDF186cE00",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 30,
+      "name": "elektromedusae #30",
+      "iteration": 30,
+      "fxhash": "0xfd84f015d8e52dee71b5567e2aeb5e2d9eb051b5ad77b57d3036ebd41f28fe2d",
+      "minter": "0xA58E3c0f4Bb44188199ce1D214d68DEFeD987a63",
+      "fxparams": "",
+      "owner": "0xA58E3c0f4Bb44188199ce1D214d68DEFeD987a63",
+      "thumbnailUri": "ipfs://Qmd38ATU33vrBvFdh7jRc67bEMQSMsYu4hEc7BTfCuLL6k",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xfd84f015d8e52dee71b5567e2aeb5e2d9eb051b5ad77b57d3036ebd41f28fe2d",
+        "iteration": 30,
+        "minter": "0xA58E3c0f4Bb44188199ce1D214d68DEFeD987a63",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 31,
+      "name": "elektromedusae #31",
+      "iteration": 31,
+      "fxhash": "0x37f93d39b85e9a2e8b143e5c161e577697ace675e4bf00e855a73c46be0d17dc",
+      "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE",
+      "fxparams": "",
+      "owner": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE",
+      "thumbnailUri": "ipfs://QmSdCRco3K8axY4BfxSeWtjYqooVYCEziJRM2apyJdPyiH",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x37f93d39b85e9a2e8b143e5c161e577697ace675e4bf00e855a73c46be0d17dc",
+        "iteration": 31,
+        "minter": "0x207412225ed2B71f06d339179F888dE4AD1A7DbE",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 32,
+      "name": "elektromedusae #32",
+      "iteration": 32,
+      "fxhash": "0xb0bbd764dbc02e239e653afb898776b24748fab8d7f2dc19f912ddbe76b86128",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmYyJgqKCaHVqdCGqGyYtJ48Xi8oZTzwEgPaED6vAC86rp",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xb0bbd764dbc02e239e653afb898776b24748fab8d7f2dc19f912ddbe76b86128",
+        "iteration": 32,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 33,
+      "name": "elektromedusae #33",
+      "iteration": 33,
+      "fxhash": "0xc52f2629d330e33c7d8ba321250f510d321ac04171ad5df6763a99bd80fa9146",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmPeLXCTZBmfXhRLfAvcVnXpxLGaxqHGbZPzMcrpsnGRh2",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xc52f2629d330e33c7d8ba321250f510d321ac04171ad5df6763a99bd80fa9146",
+        "iteration": 33,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 34,
+      "name": "elektromedusae #34",
+      "iteration": 34,
+      "fxhash": "0x54fb03bdf97959b840b7f01b98a8b1a00536a8b372c6b4204b4441e5bfcde678",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmW1beQw2HGteNGTTZgJQ6CxLh6mF58pF273sZzCZg3Drp",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x54fb03bdf97959b840b7f01b98a8b1a00536a8b372c6b4204b4441e5bfcde678",
+        "iteration": 34,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 35,
+      "name": "elektromedusae #35",
+      "iteration": 35,
+      "fxhash": "0x2d04f0b3caadb81847ecfcd4388c7878eb7787cb6853d0e48a84724897be0e9c",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmSvgiZzSqthtNvmtFMXdnDy5BueezjofBQqHxxtUjRAAM",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x2d04f0b3caadb81847ecfcd4388c7878eb7787cb6853d0e48a84724897be0e9c",
+        "iteration": 35,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 36,
+      "name": "elektromedusae #36",
+      "iteration": 36,
+      "fxhash": "0x2d5373595916de579922ba8356caf28afaa12565230d4b01de42b455f5117a26",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://Qmf35C7oQS6fbtQohPkqWGP9qD2LN7tS9r9XjSxcsvnihS",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x2d5373595916de579922ba8356caf28afaa12565230d4b01de42b455f5117a26",
+        "iteration": 36,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 37,
+      "name": "elektromedusae #37",
+      "iteration": 37,
+      "fxhash": "0x26a146d63690b07521f4c828eceada3c37fe81c928a975d53375103ca50867b7",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmRhBjQANvzYPNWzRLoykTJnPf16RkACXqxdbnFSKLi1Wn",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x26a146d63690b07521f4c828eceada3c37fe81c928a975d53375103ca50867b7",
+        "iteration": 37,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 38,
+      "name": "elektromedusae #38",
+      "iteration": 38,
+      "fxhash": "0xfaa16d5b6e76e45124dd9235560da9fac5b4ee6a226a1dacf236689566bf8a98",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmYKHjYjYsriksfqyUNvQPCUayqRZ8JKryfYqTLKSGSH9Z",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xfaa16d5b6e76e45124dd9235560da9fac5b4ee6a226a1dacf236689566bf8a98",
+        "iteration": 38,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 39,
+      "name": "elektromedusae #39",
+      "iteration": 39,
+      "fxhash": "0x94101c7ea17dcb8991c7b33528406fc616b9a2fadb6c7f0b265fbcfa59f96b9c",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmUcBrtzH7WGqRCRCW4pgE9tEwG7Sfye1VevsjH1srEBsr",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x94101c7ea17dcb8991c7b33528406fc616b9a2fadb6c7f0b265fbcfa59f96b9c",
+        "iteration": 39,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 40,
+      "name": "elektromedusae #40",
+      "iteration": 40,
+      "fxhash": "0x1f291ee658f97bb053117afae37ed0c3577afbd777124777c47749b3464f420f",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmYpUd3kcMYQgeudKzWjgGbk6PyoEJPZMbLqg4zTkchdp9",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x1f291ee658f97bb053117afae37ed0c3577afbd777124777c47749b3464f420f",
+        "iteration": 40,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 41,
+      "name": "elektromedusae #41",
+      "iteration": 41,
+      "fxhash": "0x2d2e7068c29987149916a864a15da234bb3a0e391b5e8756056f7987f00c0f66",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmWEB38PTQbuyzcFyCuxiiowH1CQn1BYpJ62HhxE7iASz7",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x2d2e7068c29987149916a864a15da234bb3a0e391b5e8756056f7987f00c0f66",
+        "iteration": 41,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 42,
+      "name": "elektromedusae #42",
+      "iteration": 42,
+      "fxhash": "0x3788fbcaaa8081109f54579bfba9fcbd8d9cea0354ad15c86b56dcdb29b60f38",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmSY415qZ2HeTdiqC7B2PKGh8EX4ePV2LQWkS7tme1P8ss",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x3788fbcaaa8081109f54579bfba9fcbd8d9cea0354ad15c86b56dcdb29b60f38",
+        "iteration": 42,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 43,
+      "name": "elektromedusae #43",
+      "iteration": 43,
+      "fxhash": "0x8362fc02960fc10d375bbb94be96e72d5ce1b0a1c21ad82dfa64fa34a3d6fafb",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "fxparams": "",
+      "owner": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "thumbnailUri": "ipfs://QmaMjxnLXouvwbrWCVZbbAMsVUmjQLGgng96SvmkrDpMB3",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x8362fc02960fc10d375bbb94be96e72d5ce1b0a1c21ad82dfa64fa34a3d6fafb",
+        "iteration": 43,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 44,
+      "name": "elektromedusae #44",
+      "iteration": 44,
+      "fxhash": "0xe70d318598b3fb000371a54b87c7d807a59364545874c21f7643c220e9f78c80",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "fxparams": "",
+      "owner": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "thumbnailUri": "ipfs://Qma3AFV6zboCAF6mYHx5JYRH2TDy5yseoESQkFXX42tfy7",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xe70d318598b3fb000371a54b87c7d807a59364545874c21f7643c220e9f78c80",
+        "iteration": 44,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 45,
+      "name": "elektromedusae #45",
+      "iteration": 45,
+      "fxhash": "0x146e3ed9154a08da515c437ba5cf8694aaad29bcd9f1ef06646183d0a02b9b5e",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "fxparams": "",
+      "owner": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "thumbnailUri": "ipfs://QmeuEC1VtonJDXXjhpYGJjv9tJXG7mXXFkrNZGvxoYQxVJ",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x146e3ed9154a08da515c437ba5cf8694aaad29bcd9f1ef06646183d0a02b9b5e",
+        "iteration": 45,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 46,
+      "name": "elektromedusae #46",
+      "iteration": 46,
+      "fxhash": "0x06bc301a30a0a8579aab4a9a62fd52e57c53f4918ae7928b1594ffe2563ca66f",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "fxparams": "",
+      "owner": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "thumbnailUri": "ipfs://QmcysiS5nS73VobvH7y7kZBTyx3idHRhAGoM2nec2MS4oY",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x06bc301a30a0a8579aab4a9a62fd52e57c53f4918ae7928b1594ffe2563ca66f",
+        "iteration": 46,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 47,
+      "name": "elektromedusae #47",
+      "iteration": 47,
+      "fxhash": "0x31fd5862391fead451539c8111478c80051b946ee43f2ea137f258f802e7ed2c",
+      "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "fxparams": "",
+      "owner": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+      "thumbnailUri": "ipfs://QmZyP3yU99fcTap5UqhY1SHQcQ5hoP1rVd4SA4sDB5ivYz",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x31fd5862391fead451539c8111478c80051b946ee43f2ea137f258f802e7ed2c",
+        "iteration": 47,
+        "minter": "0x4EC5B2606aC7d20B1b0030D156F6D789b5873ABD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 48,
+      "name": "elektromedusae #48",
+      "iteration": 48,
+      "fxhash": "0xa137707bd6335ea01a2a3b63371dd0bc11ad09cb9c1c8d9eccb5d323e162c1fc",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmW8aHUog3kwfVw6knUXxoXVWBhtd7kHqD9RPrhCCRdM7J",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xa137707bd6335ea01a2a3b63371dd0bc11ad09cb9c1c8d9eccb5d323e162c1fc",
+        "iteration": 48,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 49,
+      "name": "elektromedusae #49",
+      "iteration": 49,
+      "fxhash": "0xf39231502280370bc167599c26588dbe647c0bb88f3a3ebcddf5cb444c3b582d",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmUwtyk618kA2Z42ZwdDduoFLZirgDkLvyumahZq84HZPU",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xf39231502280370bc167599c26588dbe647c0bb88f3a3ebcddf5cb444c3b582d",
+        "iteration": 49,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 50,
+      "name": "elektromedusae #50",
+      "iteration": 50,
+      "fxhash": "0x5d52fe23c14892b3aa46b8c7a704dd0945682d663205a1ad8a0011065fae3946",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmY6STXsPfJBSSU62z5dHPNDjKxAXWHKMa8b3tVMdUY9Tz",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x5d52fe23c14892b3aa46b8c7a704dd0945682d663205a1ad8a0011065fae3946",
+        "iteration": 50,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 51,
+      "name": "elektromedusae #51",
+      "iteration": 51,
+      "fxhash": "0xc32cd03337c1385630398828b5cdd8524bffe9f2a9e45c43ddf9bdb7b50ee625",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmZwoMqAD3UEtDxjcZ8scCR1zEDm9KpbZV8drQ7bYmifjA",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xc32cd03337c1385630398828b5cdd8524bffe9f2a9e45c43ddf9bdb7b50ee625",
+        "iteration": 51,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 52,
+      "name": "elektromedusae #52",
+      "iteration": 52,
+      "fxhash": "0x703c1d5043c519ec05667e2f087b2e9447af895f0df7ed16712977c9d4cdfd54",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmYKHjYjYsriksfqyUNvQPCUayqRZ8JKryfYqTLKSGSH9Z",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x703c1d5043c519ec05667e2f087b2e9447af895f0df7ed16712977c9d4cdfd54",
+        "iteration": 52,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 53,
+      "name": "elektromedusae #53",
+      "iteration": 53,
+      "fxhash": "0xa3393d3f2fdb9f35f73885c0cc329f7297a92fbb0a16d562914491950488e5de",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmZZqCP5ktY9Er3Txa3Thj77a3DD5vnit1pt9LeEdYifJj",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xa3393d3f2fdb9f35f73885c0cc329f7297a92fbb0a16d562914491950488e5de",
+        "iteration": 53,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 54,
+      "name": "elektromedusae #54",
+      "iteration": 54,
+      "fxhash": "0x7094160def7bffa970ee83eebaf6a3e98500c83554a54567d2de5828f4c660bb",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmQWfiZR6KYYiZQSuBNFjywkZkXyUcWiYTcWymT57RdXA3",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x7094160def7bffa970ee83eebaf6a3e98500c83554a54567d2de5828f4c660bb",
+        "iteration": 54,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 55,
+      "name": "elektromedusae #55",
+      "iteration": 55,
+      "fxhash": "0xd782c587743a6e43029d28b6211f5d074dfc8a1a7a771d00de17cc2de0fa430d",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://Qmb9au3NeaGaTYZ8XjySgKhDTF9edK3fNkYNqpEm9RZ6TT",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0xd782c587743a6e43029d28b6211f5d074dfc8a1a7a771d00de17cc2de0fa430d",
+        "iteration": 55,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 56,
+      "name": "elektromedusae #56",
+      "iteration": 56,
+      "fxhash": "0x081a7101c4593ecf854e303343baee4a62f40f5c1f24cd113473b55ee667c8ca",
+      "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+      "fxparams": "",
+      "owner": "0xe468530be97757E9e1aDFBa122d27Bf1B9517e87",
+      "thumbnailUri": "ipfs://QmYKHjYjYsriksfqyUNvQPCUayqRZ8JKryfYqTLKSGSH9Z",
+      "generativeUri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+      "viewerParams": {
+        "uri": "onchfs://8995f40392ffacf286091fa1f1d90206e2f3b96ea8ea78170457969154ef6d52",
+        "fxhash": "0x081a7101c4593ecf854e303343baee4a62f40f5c1f24cd113473b55ee667c8ca",
+        "iteration": 56,
+        "minter": "0xb737Dd67AeFce02f9BA77a33711083e830EC57E9",
+        "fxparams": ""
+      }
+    }
+  ]
+}

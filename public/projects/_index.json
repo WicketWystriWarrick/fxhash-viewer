@@ -146,6 +146,17 @@
     "thumbnail": "ipfs://QmcaLV5xZR24md37aYLWFWBZUF8PvrM33wLDjHnsh4KB5v"
   },
   {
+    "filename": "Complex_Assemblies.json",
+    "name": "Complex Assemblies",
+    "artist": "HAL09999",
+    "artists": [
+      "HAL09999"
+    ],
+    "chain": "base",
+    "count": 300,
+    "thumbnail": "ipfs://QmWcw5FWChKzswxCGBjCnkNCwVc9ZH97TxUNt53bb4TgAM"
+  },
+  {
     "filename": "Coronado.json",
     "name": "Coronado",
     "artist": "jeres",
@@ -155,6 +166,17 @@
     "chain": "tezos",
     "count": 400,
     "thumbnail": "ipfs://QmVSKxJFuiu2hhXBDsAUyzxhZ7TfP6JQ8tGTryRNT5Z5PQ"
+  },
+  {
+    "filename": "DIORAMAS.json",
+    "name": "DIORAMAS",
+    "artist": "itsgalo",
+    "artists": [
+      "itsgalo"
+    ],
+    "chain": "base",
+    "count": 824,
+    "thumbnail": "ipfs://QmbnPzk11sSXMi9SmxMV1YYv1WC6xFx65JJwxn8JHqRxGL"
   },
   {
     "filename": "DOM1.json",
@@ -399,6 +421,17 @@
     "thumbnail": "ipfs://QmPcR3asPPVrx7hJkE39iAPYvPToN51YNv7mK5Fa2DQaci"
   },
   {
+    "filename": "Generations.json",
+    "name": "Generations",
+    "artist": "ciphrd",
+    "artists": [
+      "ciphrd"
+    ],
+    "chain": "base",
+    "count": 2287,
+    "thumbnail": "ipfs://QmT5QxHBa2ha4FCvtLEWJcoqQHCib3wrHm8H1PPbt8u8qz"
+  },
+  {
     "filename": "Genomes.json",
     "name": "Genomes",
     "artist": "Ciphrd",
@@ -529,6 +562,17 @@
     "chain": "tezos",
     "count": 500,
     "thumbnail": "ipfs://QmaanAvgESVHFxqFnPMqtbV49wtVNS2KHpL7b1NvvpoKYC"
+  },
+  {
+    "filename": "Ledina.json",
+    "name": "Ledina",
+    "artist": "Qotonana",
+    "artists": [
+      "Qotonana"
+    ],
+    "chain": "base",
+    "count": 512,
+    "thumbnail": "ipfs://QmSvqvBcsa2tX4TtafpwZ72YM3drecJ3KCzSx7Lfw6bd6B"
   },
   {
     "filename": "Loom.json",
@@ -1104,6 +1148,17 @@
     "thumbnail": "ipfs://Qmdn1SXRUSLr3Jqr4rnUsXiqa8TRVF6EdKXM88y7ibp4yE"
   },
   {
+    "filename": "elektromedusae.json",
+    "name": "elektromedusae",
+    "artist": "nekropunk",
+    "artists": [
+      "nekropunk"
+    ],
+    "chain": "base",
+    "count": 56,
+    "thumbnail": "ipfs://QmQdn27B3QbkSG2hn81v3zWg9mjobV7vQEThzyHv8ngrWf"
+  },
+  {
     "filename": "forsaken.json",
     "name": "forsaken",
     "artist": "Jinyao Lin",
@@ -1214,6 +1269,17 @@
     "chain": "tezos",
     "count": 320,
     "thumbnail": "ipfs://QmW6zfmX5SDmyAahWVbH6MqEaz5o3AawxzkV4opy5pQK8t"
+  },
+  {
+    "filename": "undeniable_failure.json",
+    "name": "undeniable failure",
+    "artist": "p1xelfool",
+    "artists": [
+      "p1xelfool"
+    ],
+    "chain": "base",
+    "count": 1195,
+    "thumbnail": "ipfs://QmYeuiNcBPDjTmjWGjsfkUoe4hDhTqoJmodFPWoJgs4XwV"
   },
   {
     "filename": "unfinished.json",
