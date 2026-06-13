@@ -696,7 +696,8 @@ select:focus {
 .backbtn--float {
   position: absolute;
   top: 12px;
-  left: 12px;
+  /* Top-right per the live-view spec (右上＝コレクションに戻る). */
+  right: 12px;
   z-index: 5;
   background: rgba(0, 0, 0, 0.55);
   backdrop-filter: blur(6px);
@@ -868,4 +869,32 @@ select:focus {
 .live:fullscreen,
 .live:fullscreen .live__iframe {
   background: #fff;
+}
+
+/* Auto-hiding chrome (genartLiveViewer の目的: 鑑賞中はアートを遮らない).
+   All three overlays fade out; the two interactive ones reappear only when
+   the cursor reaches their corner (right via :hover). The caption has no
+   hover target, so it stays hidden until the next re-arm. */
+.live .backbtn--float,
+.live .live__fullscreen,
+.live .live__caption {
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.live .backbtn--float:hover,
+.live .live__fullscreen:hover {
+  opacity: 1;
+}
+
+/* Re-armed on entry / fullscreen toggle: show everything for a few seconds. */
+.live--armed .backbtn--float,
+.live--armed .live__fullscreen,
+.live--armed .live__caption {
+  opacity: 1;
+}
+
+/* The global Classic/Gallery switch overlaps the art while live — hide it. */
+body.live-active .ui-switch {
+  display: none;
 }

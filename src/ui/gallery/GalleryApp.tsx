@@ -302,6 +302,23 @@ function LiveView({
 }) {
   const stageRef = useRef<HTMLDivElement>(null);
   const [isFullscreen, setIsFullscreen] = useState(false);
+  // "armed" = all controls visible for a few seconds, then they fade away so
+  // the artwork is shown unobstructed. Re-armed on entry and on every
+  // fullscreen toggle, giving the viewer a moment to orient each time.
+  const [armed, setArmed] = useState(true);
+
+  useEffect(() => {
+    setArmed(true);
+    const t = window.setTimeout(() => setArmed(false), 3000);
+    return () => window.clearTimeout(t);
+  }, [isFullscreen]);
+
+  // The global Classic/Gallery switch (rendered by App) overlaps the art and
+  // isn't one of the two controls we keep, so hide it while an artwork plays.
+  useEffect(() => {
+    document.body.classList.add("live-active");
+    return () => document.body.classList.remove("live-active");
+  }, []);
 
   useEffect(() => {
     const onChange = () => setIsFullscreen(Boolean(document.fullscreenElement));
@@ -327,7 +344,7 @@ function LiveView({
   }, []);
 
   return (
-    <div className="live" ref={stageRef}>
+    <div className={`live${armed ? " live--armed" : ""}`} ref={stageRef}>
       <iframe
         className="live__iframe"
         src={screen.iframeSrc}
