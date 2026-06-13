@@ -1,0 +1,1817 @@
+{
+  "project": {
+    "name": "Zbageti",
+    "artist": "Melissa Wiederrecht",
+    "artists": [
+      "Melissa Wiederrecht"
+    ],
+    "contract": "KT1U6EHmNxJTkvaWJ4ThczG4FSDaHC21ssvi",
+    "chain": "tezos",
+    "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+    "totalSupply": 100,
+    "extractedAt": "2026-06-13T14:44:40.142Z",
+    "source": "fxhash-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 1074028,
+      "name": "Zbageti #1",
+      "iteration": 1,
+      "fxhash": "opR1BX9P3UMRUEAC8SjWieKnYsXRT4vtnZMXx3eit65fgURtahg",
+      "minter": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://QmQAXxaMy4XgZBeCF3bNUorAXdRoubUUABADjEtA3Y6miY",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opR1BX9P3UMRUEAC8SjWieKnYsXRT4vtnZMXx3eit65fgURtahg",
+        "iteration": 1,
+        "minter": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074039,
+      "name": "Zbageti #2",
+      "iteration": 2,
+      "fxhash": "oosmFewGNtSYjUQh5je6ppsJpc9WUjoSUrAu4NpofHp9BXgHLkJ",
+      "minter": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://QmYWK696WgUr2Xeu8Xvrkssx6PF5WFzATT81AXrbnhL6F1",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oosmFewGNtSYjUQh5je6ppsJpc9WUjoSUrAu4NpofHp9BXgHLkJ",
+        "iteration": 2,
+        "minter": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074057,
+      "name": "Zbageti #3",
+      "iteration": 3,
+      "fxhash": "op8CbCa5MwNejjKCSqWR1dbmwStttDFe2u7mAam89uxfcSg2m12",
+      "minter": "tz1Rakav1r6xMmrvYiXZjdvz3T1wNU4igoQM",
+      "fxparams": "",
+      "owner": "tz1Rakav1r6xMmrvYiXZjdvz3T1wNU4igoQM",
+      "thumbnailUri": "ipfs://QmUDChggB2teSC6gsZR6v1JszX2QeM1aZLUnUytBVfv6fy",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op8CbCa5MwNejjKCSqWR1dbmwStttDFe2u7mAam89uxfcSg2m12",
+        "iteration": 3,
+        "minter": "tz1Rakav1r6xMmrvYiXZjdvz3T1wNU4igoQM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074058,
+      "name": "Zbageti #4",
+      "iteration": 4,
+      "fxhash": "ooTU4XetT4QCFJiPsaS5EpaTAF9pyF1jCTEgz8wonFjGd7GQtjB",
+      "minter": "tz1S2AQs2wdx7vfBMWmT77EkwUf615ZLWigK",
+      "fxparams": "",
+      "owner": "tz1ZhXjXNJ6eaEw42jvQBbvT1gW4dkBt5GxJ",
+      "thumbnailUri": "ipfs://QmRFwLuwQT6ky4CvzqSA2RMge2bEcb5CPnD3biQvecH5VH",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooTU4XetT4QCFJiPsaS5EpaTAF9pyF1jCTEgz8wonFjGd7GQtjB",
+        "iteration": 4,
+        "minter": "tz1S2AQs2wdx7vfBMWmT77EkwUf615ZLWigK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074059,
+      "name": "Zbageti #5",
+      "iteration": 5,
+      "fxhash": "oo2MP7p3eE13miDW7XwKdHxRehGpWkCLVfPtNGkaB8RijaPREyc",
+      "minter": "tz1bBgjBboqksQDxTpADTe22otokenRajpmq",
+      "fxparams": "",
+      "owner": "tz1Pmk4iwKztVs2uwrtBgrmCh7eYY4paYdyo",
+      "thumbnailUri": "ipfs://QmcYcdMzAXVqpLiigC2jEfPTvyJTwxSXQJzwJjvUCHAbFE",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oo2MP7p3eE13miDW7XwKdHxRehGpWkCLVfPtNGkaB8RijaPREyc",
+        "iteration": 5,
+        "minter": "tz1bBgjBboqksQDxTpADTe22otokenRajpmq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074060,
+      "name": "Zbageti #6",
+      "iteration": 6,
+      "fxhash": "oojyRX9hBdT9MVpEww9wtiETubLmuBeCcmuDCNXBx4QYLyrFrfh",
+      "minter": "tz1aNZttacWt7Q2kmvDnLjXkxC27MnigTZtV",
+      "fxparams": "",
+      "owner": "tz1UszoGTYFvfusbE56XFuppmgQepzaAwbW2",
+      "thumbnailUri": "ipfs://Qmf8nK2eZMvnZTW4AbWeffC7NaBf4jJuvgVAfggZFVYMze",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oojyRX9hBdT9MVpEww9wtiETubLmuBeCcmuDCNXBx4QYLyrFrfh",
+        "iteration": 6,
+        "minter": "tz1aNZttacWt7Q2kmvDnLjXkxC27MnigTZtV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074061,
+      "name": "Zbageti #7",
+      "iteration": 7,
+      "fxhash": "opApHF7GYVSvrqLKmC3zxkrGnMdZUoJmcvGN1sov2R54PKRUSEn",
+      "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+      "fxparams": "",
+      "owner": "tz1bAET2fB4KKwmEr3nLrDr96vune7oVX1HG",
+      "thumbnailUri": "ipfs://Qmf7wD1shyG6D4DVuHsRaEfP1s8rA5xQ9ZctFFw5wamt74",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opApHF7GYVSvrqLKmC3zxkrGnMdZUoJmcvGN1sov2R54PKRUSEn",
+        "iteration": 7,
+        "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074062,
+      "name": "Zbageti #8",
+      "iteration": 8,
+      "fxhash": "op2Zgc9nJ3m69tsLFQLAkBNkfJbdrPKRrzug9FxLUm24H8ac4cs",
+      "minter": "tz1choNzEVu2U2uEXg1xEMBpgK6WvxQvXgHK",
+      "fxparams": "",
+      "owner": "tz1gaPjAHp9TPNLFDqPPLX9hViJfpinipSws",
+      "thumbnailUri": "ipfs://QmWUA2nc1yTvLJhpDievqjDNZYE3NAaF3iQ8DmRW1scHsy",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op2Zgc9nJ3m69tsLFQLAkBNkfJbdrPKRrzug9FxLUm24H8ac4cs",
+        "iteration": 8,
+        "minter": "tz1choNzEVu2U2uEXg1xEMBpgK6WvxQvXgHK",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074063,
+      "name": "Zbageti #9",
+      "iteration": 9,
+      "fxhash": "onogmZBDf9p7ugGzQc5n2cmCw4jWuoqsmR1XiNoF4JcRgAmyQzw",
+      "minter": "tz1fhbgTaxYwmJKCZWGUgu2RbzFzRhKHuT1q",
+      "fxparams": "",
+      "owner": "tz1fFAabkT756jEFzry2GBd7JSdV6z7ARXq2",
+      "thumbnailUri": "ipfs://QmQTQwfpMmtYeZLYZGFoATBiR4r3YkPdYV9tva33dJfLQa",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onogmZBDf9p7ugGzQc5n2cmCw4jWuoqsmR1XiNoF4JcRgAmyQzw",
+        "iteration": 9,
+        "minter": "tz1fhbgTaxYwmJKCZWGUgu2RbzFzRhKHuT1q",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074064,
+      "name": "Zbageti #10",
+      "iteration": 10,
+      "fxhash": "opQhL4owJxCoBAxyc96h1yniqedZ9xzSHhxfWnWRH3s8mqtKy2B",
+      "minter": "tz1M4nnFqMnGHBKBEr5jt6rg78pMcsKdktUn",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmYab6gtQqBDJFQ5Ga5KRxShvz9UBqS6xSjKbfKZS7WHRe",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opQhL4owJxCoBAxyc96h1yniqedZ9xzSHhxfWnWRH3s8mqtKy2B",
+        "iteration": 10,
+        "minter": "tz1M4nnFqMnGHBKBEr5jt6rg78pMcsKdktUn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074065,
+      "name": "Zbageti #11",
+      "iteration": 11,
+      "fxhash": "ootFah361b4UsYY8u433U8oviM8zuhnwZVrGQj4rQtpRyQE1FBZ",
+      "minter": "tz1b4g9oudSZ4pT6RozSAjYmDLpxsSRPYm2L",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmVHDjrpCBSNEtQFumr4mB4pxc9Vv4dVfz481X9zKsZjez",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ootFah361b4UsYY8u433U8oviM8zuhnwZVrGQj4rQtpRyQE1FBZ",
+        "iteration": 11,
+        "minter": "tz1b4g9oudSZ4pT6RozSAjYmDLpxsSRPYm2L",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074066,
+      "name": "Zbageti #12",
+      "iteration": 12,
+      "fxhash": "opPpoYiVsxiHLCwVD4JwvW4AdMABGx8Sp1NfMK3tYYLB84Xk1FG",
+      "minter": "tz1KjKfC69fqBFZZDTcLbLJpo4aGbLJP33KJ",
+      "fxparams": "",
+      "owner": "tz1PLJrbaqPbFjqhVXjccW6UuwK9koPkoUAu",
+      "thumbnailUri": "ipfs://QmTaqiJHjSPwpoVF8vfcmNeJwAuEvpPoJ2CFV4DHvSnVVN",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opPpoYiVsxiHLCwVD4JwvW4AdMABGx8Sp1NfMK3tYYLB84Xk1FG",
+        "iteration": 12,
+        "minter": "tz1KjKfC69fqBFZZDTcLbLJpo4aGbLJP33KJ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074067,
+      "name": "Zbageti #13",
+      "iteration": 13,
+      "fxhash": "oocG9WPQ7F6cx8ZtNWeryG8uLwUFyqhgNXRtckh1XLh4yFnBgRH",
+      "minter": "tz1UmHjn8V7MTfhph9S8yo6mLpBdtA89pJFQ",
+      "fxparams": "",
+      "owner": "tz1ZuQ7K1rwZHjAQbvswCJGnARyUiYCGrdFb",
+      "thumbnailUri": "ipfs://QmVV9MEGVjNThpQRNLVcJk5pSLLxrYUbFUaqUf3uHvAiig",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oocG9WPQ7F6cx8ZtNWeryG8uLwUFyqhgNXRtckh1XLh4yFnBgRH",
+        "iteration": 13,
+        "minter": "tz1UmHjn8V7MTfhph9S8yo6mLpBdtA89pJFQ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074068,
+      "name": "Zbageti #14",
+      "iteration": 14,
+      "fxhash": "opM4HbwNkjap86mnxmYeuzpLXMya33G1vJHt28V11ynoWLg2LYP",
+      "minter": "tz1dbnB4StzYKpeTY3sDkWnziiqmwq9tyuXu",
+      "fxparams": "",
+      "owner": "tz1ftu1iV7gWM5wiQjH215nk4yFkEne7BAg9",
+      "thumbnailUri": "ipfs://QmXBXUKV2vJLNCUpSkug66Mk6GP95WB8NY73mhTC45HTuk",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opM4HbwNkjap86mnxmYeuzpLXMya33G1vJHt28V11ynoWLg2LYP",
+        "iteration": 14,
+        "minter": "tz1dbnB4StzYKpeTY3sDkWnziiqmwq9tyuXu",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074069,
+      "name": "Zbageti #15",
+      "iteration": 15,
+      "fxhash": "ooHgSepwQCPt7EtqWPMHgQDGKBYeEVxS2xdiPNPU7PX5h8ER4pw",
+      "minter": "tz1iUA1igBxdN1C4rBy6MdC39q7w1nRLP2Kq",
+      "fxparams": "",
+      "owner": "tz1hnnCaYDiRPH8apoJQB9wvytwpYQSJEzCK",
+      "thumbnailUri": "ipfs://QmcDikYdAj5SJMTu4VQ5zmrDGc6r8ALwC5ThuZzUp65qHT",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooHgSepwQCPt7EtqWPMHgQDGKBYeEVxS2xdiPNPU7PX5h8ER4pw",
+        "iteration": 15,
+        "minter": "tz1iUA1igBxdN1C4rBy6MdC39q7w1nRLP2Kq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074070,
+      "name": "Zbageti #16",
+      "iteration": 16,
+      "fxhash": "ooubye8XrWogSdYundKMmzRPPW452LeN5D8NCP4yFHAePxG48HY",
+      "minter": "tz1YhneiDYz1NztbZg9xyxaBJbsvtJzk5ZPv",
+      "fxparams": "",
+      "owner": "tz1PeYqYxGSWHFTkoJfJ2gBe9Z35D2826QMN",
+      "thumbnailUri": "ipfs://QmRF4YWHGfwJwUBtq8NCiPNtBETQjV4nSqFCdJSbcGiYj9",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooubye8XrWogSdYundKMmzRPPW452LeN5D8NCP4yFHAePxG48HY",
+        "iteration": 16,
+        "minter": "tz1YhneiDYz1NztbZg9xyxaBJbsvtJzk5ZPv",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074071,
+      "name": "Zbageti #17",
+      "iteration": 17,
+      "fxhash": "opTPSSZpuZrpiMg2S2BuZtcqLW6RuA8aesTS2uzofEZZaqBZa63",
+      "minter": "tz1UUS7ja5xtDHgXFJcwWPvemKEusrf2knqL",
+      "fxparams": "",
+      "owner": "tz1fBy2Awps5D3Xfyp9odZuKtUbykke5mXsX",
+      "thumbnailUri": "ipfs://QmeMCshc5Tg4UMHFdY6ZbHtifnqBsm3EowsJS4vHdLmre6",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opTPSSZpuZrpiMg2S2BuZtcqLW6RuA8aesTS2uzofEZZaqBZa63",
+        "iteration": 17,
+        "minter": "tz1UUS7ja5xtDHgXFJcwWPvemKEusrf2knqL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074072,
+      "name": "Zbageti #18",
+      "iteration": 18,
+      "fxhash": "opMEJk4cXReVNmkze8C3qs7MNtyHvVfBEdZqML66MsKLTmiT6YE",
+      "minter": "tz1RRfSJ7m1MVRuPmL4qmXax1tbTkn5hrv6r",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmVjeGNASKoxwjFk5TTkoxNocB2bd7PQB7UraDYnPjeNoj",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opMEJk4cXReVNmkze8C3qs7MNtyHvVfBEdZqML66MsKLTmiT6YE",
+        "iteration": 18,
+        "minter": "tz1RRfSJ7m1MVRuPmL4qmXax1tbTkn5hrv6r",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074073,
+      "name": "Zbageti #19",
+      "iteration": 19,
+      "fxhash": "onsQau4AMScvs3pc34DtzbnifGxH2F2m4s7Xhg2xBekEHZX2Kwo",
+      "minter": "tz1MVqWiyfMbSESTaGEPxFjDWdM9zSXy1hcg",
+      "fxparams": "",
+      "owner": "tz1gVKxpEGC7QW1fZyEEMEW2kgJRbpgWLNpD",
+      "thumbnailUri": "ipfs://QmfE4Vqr9mJjgRYJxvpwMtgoAA8sv3Z9gmH8Q8r3ihqFxZ",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onsQau4AMScvs3pc34DtzbnifGxH2F2m4s7Xhg2xBekEHZX2Kwo",
+        "iteration": 19,
+        "minter": "tz1MVqWiyfMbSESTaGEPxFjDWdM9zSXy1hcg",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074074,
+      "name": "Zbageti #20",
+      "iteration": 20,
+      "fxhash": "opJR4sFoxhYfCwMbK13ixTeR3nmqW8vm6C2L1AdSK31ibiH7ng6",
+      "minter": "tz1MguckT84YVv7uGoQeNLFMCf1RQwjSiqT1",
+      "fxparams": "",
+      "owner": "tz1fBy2Awps5D3Xfyp9odZuKtUbykke5mXsX",
+      "thumbnailUri": "ipfs://QmPDFn9xPwSvjUXtA2F43CYZaWVbMhzMPQLKNQs3Q7D6VV",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opJR4sFoxhYfCwMbK13ixTeR3nmqW8vm6C2L1AdSK31ibiH7ng6",
+        "iteration": 20,
+        "minter": "tz1MguckT84YVv7uGoQeNLFMCf1RQwjSiqT1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074075,
+      "name": "Zbageti #21",
+      "iteration": 21,
+      "fxhash": "oofY36cVbZL9tqamxiezvmFv83dpJKwRH9SVvFXyt5JhSzKMnuC",
+      "minter": "tz1QRjdEo2vYGPFaVcyy6Wag7YR2fuRW4shL",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmX1Yp3MpUbZ7rEtK1hxc9UJs1M9Jwr9V46NgDPdfRDhZo",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oofY36cVbZL9tqamxiezvmFv83dpJKwRH9SVvFXyt5JhSzKMnuC",
+        "iteration": 21,
+        "minter": "tz1QRjdEo2vYGPFaVcyy6Wag7YR2fuRW4shL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074076,
+      "name": "Zbageti #22",
+      "iteration": 22,
+      "fxhash": "ooN7SMY959HbQyM2zzDzi68PMCWomCjy4xgcAogY6HNTBNVGwjx",
+      "minter": "tz1gv5fk2hygxbW6fEnsUJVvEWtTjxagHMbA",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmPNgWyaiUYC42VxY1VTBn5Gt29CPE3L5htPEVccGcYQUj",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooN7SMY959HbQyM2zzDzi68PMCWomCjy4xgcAogY6HNTBNVGwjx",
+        "iteration": 22,
+        "minter": "tz1gv5fk2hygxbW6fEnsUJVvEWtTjxagHMbA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074077,
+      "name": "Zbageti #23",
+      "iteration": 23,
+      "fxhash": "op81923grCC4N1LFQmEfJkEdJ5UWYt27o79HwuqJcjwo2G83fzE",
+      "minter": "tz1Ym9Ued9v2N2wwsrtQ52HRGGn7qDmzuUZU",
+      "fxparams": "",
+      "owner": "tz1N64TWNCZR3yJZmmzBE4DRidN1tCaZCw8Q",
+      "thumbnailUri": "ipfs://QmdgRwQoSX8CFQcWC7pT4udAKpgsb5R8DxPusCpNWs43fS",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op81923grCC4N1LFQmEfJkEdJ5UWYt27o79HwuqJcjwo2G83fzE",
+        "iteration": 23,
+        "minter": "tz1Ym9Ued9v2N2wwsrtQ52HRGGn7qDmzuUZU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074078,
+      "name": "Zbageti #24",
+      "iteration": 24,
+      "fxhash": "ooB3sW68MtjZTSS9zafFBz2cNeVAHBkwXyyXcphxr56uorsjgZP",
+      "minter": "tz1MDWoyAhAAtKFCGX4Qbcsw8dse7QsG7DEQ",
+      "fxparams": "",
+      "owner": "tz1L3uGom5kP9jTxYHNb4M1p4kwAJ6HFVgXa",
+      "thumbnailUri": "ipfs://QmP7VCSP4ExuuuEEKmE8tSgkRWDCRCUZtCzNKcopFHucK2",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooB3sW68MtjZTSS9zafFBz2cNeVAHBkwXyyXcphxr56uorsjgZP",
+        "iteration": 24,
+        "minter": "tz1MDWoyAhAAtKFCGX4Qbcsw8dse7QsG7DEQ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074079,
+      "name": "Zbageti #25",
+      "iteration": 25,
+      "fxhash": "ooDduM4qx2nzVzPEXXKWuZcgAj2JChoyNPM88Q2uXLPy1NMu3P6",
+      "minter": "tz1TB3dG8fKHc6aZimgkoCTWfQr2EGGpjDfA",
+      "fxparams": "",
+      "owner": "tz1NwNDbKBp7DriDv79iFY3YHJKQ9ewUQQKm",
+      "thumbnailUri": "ipfs://QmTC4EKdqxn9KwZCXomTf2nMuNgPRhQrAT2ntRys6yNjvv",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooDduM4qx2nzVzPEXXKWuZcgAj2JChoyNPM88Q2uXLPy1NMu3P6",
+        "iteration": 25,
+        "minter": "tz1TB3dG8fKHc6aZimgkoCTWfQr2EGGpjDfA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074080,
+      "name": "Zbageti #26",
+      "iteration": 26,
+      "fxhash": "onmgsQcoDYajxsGA9agDuP5cBB7sTu2jtdFTdjwibopTpC61X7n",
+      "minter": "tz1Z48SWHJiGBP7GXMeF2WrvBfA69fzpKAvL",
+      "fxparams": "",
+      "owner": "tz1fcyoV7wNsLHaE19LbeUcx3t7xJMBT4etk",
+      "thumbnailUri": "ipfs://QmSFKdHQ89vXJHxgTcqc1gL1vyUeCKu7mLpt3Ba4JXeKVL",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onmgsQcoDYajxsGA9agDuP5cBB7sTu2jtdFTdjwibopTpC61X7n",
+        "iteration": 26,
+        "minter": "tz1Z48SWHJiGBP7GXMeF2WrvBfA69fzpKAvL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074081,
+      "name": "Zbageti #27",
+      "iteration": 27,
+      "fxhash": "opJ2sjBjqKyuWQzZDN5h7reSU3t594Yx4ydpwcQWjQeZtfktxzv",
+      "minter": "tz1XZ8qGWQ4MukcDsgrNzUZ9VubmCRZaYGMX",
+      "fxparams": "",
+      "owner": "tz1ZhXjXNJ6eaEw42jvQBbvT1gW4dkBt5GxJ",
+      "thumbnailUri": "ipfs://QmY5e6TibsFWAbHhHD5zNXSVHdUMaLouuykrq5d6MuGjAo",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opJ2sjBjqKyuWQzZDN5h7reSU3t594Yx4ydpwcQWjQeZtfktxzv",
+        "iteration": 27,
+        "minter": "tz1XZ8qGWQ4MukcDsgrNzUZ9VubmCRZaYGMX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074082,
+      "name": "Zbageti #28",
+      "iteration": 28,
+      "fxhash": "onsY8nRdyfpdUceybrrsU6Aq2Lm7DXqE9a5KzUHDRSgCkpTKSK7",
+      "minter": "tz1fn1T57h9icKEeG97XtymQ2AJjVY56p9oN",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://QmfDk5XJwkCfELaGbtvEf4wLjFfFydc5ELK3T2973JXXMt",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onsY8nRdyfpdUceybrrsU6Aq2Lm7DXqE9a5KzUHDRSgCkpTKSK7",
+        "iteration": 28,
+        "minter": "tz1fn1T57h9icKEeG97XtymQ2AJjVY56p9oN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074083,
+      "name": "Zbageti #29",
+      "iteration": 29,
+      "fxhash": "opMPSY3FKgtjjrH6mmWiVE4Ef1oMMWGyMcgTThgjwR9JfRsVLRY",
+      "minter": "tz1Y77kaHdwiAYLLQRcMcAoVjsK2jXWA1dLh",
+      "fxparams": "",
+      "owner": "tz1WrWHA4sT1NvPdCQefWSndi87WgB5iwdwH",
+      "thumbnailUri": "ipfs://QmbX9UEB1SBoZjjH9oW2KYnr2aFMsFACWBMFax5uzNjzUF",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opMPSY3FKgtjjrH6mmWiVE4Ef1oMMWGyMcgTThgjwR9JfRsVLRY",
+        "iteration": 29,
+        "minter": "tz1Y77kaHdwiAYLLQRcMcAoVjsK2jXWA1dLh",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074084,
+      "name": "Zbageti #30",
+      "iteration": 30,
+      "fxhash": "ooPko6Ynxsy64R22Qceoab3kznzqD7jzdyLNnj7J9k7PFYaWZ8e",
+      "minter": "tz1Qe89qNyUUEjpPwjW64AWvneHxVrd5wYqw",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://QmRFPjb74v4xx8ZRJ2wEbRY5G42okHqfm9dTxfxJyFZBxR",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooPko6Ynxsy64R22Qceoab3kznzqD7jzdyLNnj7J9k7PFYaWZ8e",
+        "iteration": 30,
+        "minter": "tz1Qe89qNyUUEjpPwjW64AWvneHxVrd5wYqw",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074085,
+      "name": "Zbageti #31",
+      "iteration": 31,
+      "fxhash": "opGvdunGjfee2j4CBWeQcVBZxbexyhT4ke5HTPzDtQpimQrj6bU",
+      "minter": "tz1hYsWvjE4jPKcQjdpkEC77gdVdVQ6GS9S6",
+      "fxparams": "",
+      "owner": "tz1ZhXjXNJ6eaEw42jvQBbvT1gW4dkBt5GxJ",
+      "thumbnailUri": "ipfs://QmenQrbywwqJn14yisL2NrS5BMHMRwXi8A3Rv9KPZrwbh2",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opGvdunGjfee2j4CBWeQcVBZxbexyhT4ke5HTPzDtQpimQrj6bU",
+        "iteration": 31,
+        "minter": "tz1hYsWvjE4jPKcQjdpkEC77gdVdVQ6GS9S6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074086,
+      "name": "Zbageti #32",
+      "iteration": 32,
+      "fxhash": "ooTBrMzVNmJrBvBbmLszMQ2ijm8f32YQZ5wH5eGSjMxzs7ZBfVM",
+      "minter": "tz1i1jcNK8N9XDR5NTuNNYJLGX7S568KHYa4",
+      "fxparams": "",
+      "owner": "tz1f4wAosUT4eq9fWo55SocsUm8x3PX9WzuR",
+      "thumbnailUri": "ipfs://QmR15XybzAuMqFJUyTDcn7NxPcydLM2piSRpsGvBh1H7yU",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooTBrMzVNmJrBvBbmLszMQ2ijm8f32YQZ5wH5eGSjMxzs7ZBfVM",
+        "iteration": 32,
+        "minter": "tz1i1jcNK8N9XDR5NTuNNYJLGX7S568KHYa4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074087,
+      "name": "Zbageti #33",
+      "iteration": 33,
+      "fxhash": "ontndyF4gAk6zoLapKQ3irhpxF9xmDRfEWCMvbXRKjVu1z1EYbM",
+      "minter": "tz1bLAQPii67TrHkQio5XJLPtfLEVxbe2MnJ",
+      "fxparams": "",
+      "owner": "tz1fFAabkT756jEFzry2GBd7JSdV6z7ARXq2",
+      "thumbnailUri": "ipfs://Qmc3cn7KWYoYZEbwnVhX3JGqxwyAyLom3iAMR6uM5x7KFn",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ontndyF4gAk6zoLapKQ3irhpxF9xmDRfEWCMvbXRKjVu1z1EYbM",
+        "iteration": 33,
+        "minter": "tz1bLAQPii67TrHkQio5XJLPtfLEVxbe2MnJ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074088,
+      "name": "Zbageti #34",
+      "iteration": 34,
+      "fxhash": "ooFCavEioxkCqGNarMAMrgh1D2z29mDWxz2TLLP7FQukSmgekoN",
+      "minter": "tz1VL8NB9bouRiDcRRx77k5WynkVK9k5mUxb",
+      "fxparams": "",
+      "owner": "tz1eSoR26GCXBGVPZtzNxSrxX9LjfbXkuB6M",
+      "thumbnailUri": "ipfs://QmbQCVcqmrj533LAednYuvYm9ztSKwyNMbKjuZKtL7Uksd",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooFCavEioxkCqGNarMAMrgh1D2z29mDWxz2TLLP7FQukSmgekoN",
+        "iteration": 34,
+        "minter": "tz1VL8NB9bouRiDcRRx77k5WynkVK9k5mUxb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074089,
+      "name": "Zbageti #35",
+      "iteration": 35,
+      "fxhash": "oohZrPnuwsAC6m6vdq6g7iizeaxqXJRqznBux7qfGXXLvHyXK87",
+      "minter": "tz1gmR7ZFLynw8hYkgr8jjfFZpsnav5EqVrV",
+      "fxparams": "",
+      "owner": "tz1gmR7ZFLynw8hYkgr8jjfFZpsnav5EqVrV",
+      "thumbnailUri": "ipfs://QmVAJzYceeATfhumcCw2Cx7tatuPJy7rqMoFGCdUpa5EMH",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oohZrPnuwsAC6m6vdq6g7iizeaxqXJRqznBux7qfGXXLvHyXK87",
+        "iteration": 35,
+        "minter": "tz1gmR7ZFLynw8hYkgr8jjfFZpsnav5EqVrV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074090,
+      "name": "Zbageti #36",
+      "iteration": 36,
+      "fxhash": "ooNXDJfyTxxwg28QLA2HyVDb9TGN1D7wpQW7eBshUqKM9ebBEie",
+      "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "fxparams": "",
+      "owner": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "thumbnailUri": "ipfs://QmSAJmciSB5DGqxVAVDGftw1Zy4Wqz5NscDE4u7dDQcxgQ",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooNXDJfyTxxwg28QLA2HyVDb9TGN1D7wpQW7eBshUqKM9ebBEie",
+        "iteration": 36,
+        "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074094,
+      "name": "Zbageti #37",
+      "iteration": 37,
+      "fxhash": "oo3uX1q7WM9JhSc1TsRf5rYNMuSAV48Zox83CaMQwjxSeFdjXqs",
+      "minter": "tz1N8aumRsypoeiXUn19xtp2sYMiYDQvpgrX",
+      "fxparams": "",
+      "owner": "tz1N8aumRsypoeiXUn19xtp2sYMiYDQvpgrX",
+      "thumbnailUri": "ipfs://QmYmbUZDR1xby6jkQsU597nTWNDAPZvMjvJJdTPQEwns1d",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oo3uX1q7WM9JhSc1TsRf5rYNMuSAV48Zox83CaMQwjxSeFdjXqs",
+        "iteration": 37,
+        "minter": "tz1N8aumRsypoeiXUn19xtp2sYMiYDQvpgrX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074095,
+      "name": "Zbageti #38",
+      "iteration": 38,
+      "fxhash": "opRG95zUyNovCeVxp5rwjLrZjfkNvYV9qajE36SFDqeWwpApQb4",
+      "minter": "tz1R9Ky1Ut9tC4HWDtjbpJntNWLdgATbX1gp",
+      "fxparams": "",
+      "owner": "tz1R9Ky1Ut9tC4HWDtjbpJntNWLdgATbX1gp",
+      "thumbnailUri": "ipfs://QmVgJP8KZWJpTpXgf9ufMyUS4gNcCMjQsJQaYwaRvAfmLT",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opRG95zUyNovCeVxp5rwjLrZjfkNvYV9qajE36SFDqeWwpApQb4",
+        "iteration": 38,
+        "minter": "tz1R9Ky1Ut9tC4HWDtjbpJntNWLdgATbX1gp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074096,
+      "name": "Zbageti #39",
+      "iteration": 39,
+      "fxhash": "opSajeaV5Nrpt82eqTJm3b6dMrphMo3AWgLZEKSskBZxqKk8wKL",
+      "minter": "tz1TGTSbA8rVCCDq4JydXd7TqR2Jo7LJn4W7",
+      "fxparams": "",
+      "owner": "tz1fFAabkT756jEFzry2GBd7JSdV6z7ARXq2",
+      "thumbnailUri": "ipfs://QmXRPkVgdb558phwBf8dpbDQcF2S5ZQyHPqWfUCvp8ZdTS",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opSajeaV5Nrpt82eqTJm3b6dMrphMo3AWgLZEKSskBZxqKk8wKL",
+        "iteration": 39,
+        "minter": "tz1TGTSbA8rVCCDq4JydXd7TqR2Jo7LJn4W7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074097,
+      "name": "Zbageti #40",
+      "iteration": 40,
+      "fxhash": "opCZg1tc7gca9W2U8K3ewe6vb91XKSDKzmpPV4Zq6HALBznqgPZ",
+      "minter": "tz1VymPMaRnZDWojxs1puBgtJjLGKxnTpcS3",
+      "fxparams": "",
+      "owner": "tz1KhTbYaY6yhXBiXq56aXNj52NJbMyaxGUg",
+      "thumbnailUri": "ipfs://QmSrvuUZrpaxqtPHxd6F6awsaS72Pmte3KhP7vA3Ewuz7Z",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opCZg1tc7gca9W2U8K3ewe6vb91XKSDKzmpPV4Zq6HALBznqgPZ",
+        "iteration": 40,
+        "minter": "tz1VymPMaRnZDWojxs1puBgtJjLGKxnTpcS3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074098,
+      "name": "Zbageti #41",
+      "iteration": 41,
+      "fxhash": "opY7oq5uXVcRYC5Xkbah2qFVJKqDYUvw22yqBKMD53S1VVTBTZ4",
+      "minter": "tz1YhAXQFfX2umDgD7gUES1wFjvLHzbRr7P5",
+      "fxparams": "",
+      "owner": "tz1SWwpTDpvf8PAYnenfsXF9bbUwJRzksJND",
+      "thumbnailUri": "ipfs://QmR2TSRuFDRxDth1iCKLfEZfGdVFRmURQBMqNkGZVMFfEP",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opY7oq5uXVcRYC5Xkbah2qFVJKqDYUvw22yqBKMD53S1VVTBTZ4",
+        "iteration": 41,
+        "minter": "tz1YhAXQFfX2umDgD7gUES1wFjvLHzbRr7P5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074099,
+      "name": "Zbageti #42",
+      "iteration": 42,
+      "fxhash": "opNELfLgg2pWxx55N4mCo9xNJCgAJnPgbGQ7EA2iUwHGg2U7nSG",
+      "minter": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmXX7Jf7jbEUkg8N7mXbEcu2sbeaJ744wubTEvDZHsgpEw",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opNELfLgg2pWxx55N4mCo9xNJCgAJnPgbGQ7EA2iUwHGg2U7nSG",
+        "iteration": 42,
+        "minter": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074100,
+      "name": "Zbageti #43",
+      "iteration": 43,
+      "fxhash": "ooSuLikx3vQ1QpzExiEcHzhPddq1owC4FdBmbfHzw356MD7T2Ja",
+      "minter": "tz1dLULTTY43o5pAR3WEtrPgFEo9wvAaZDSc",
+      "fxparams": "",
+      "owner": "tz1dtzYqHrdToQz4esMBZjcCK2yVHAx1KNA1",
+      "thumbnailUri": "ipfs://QmVEZdHZQSt6mn4S7L8xcGpdg7T5jZQftE9pKBZQypztNe",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooSuLikx3vQ1QpzExiEcHzhPddq1owC4FdBmbfHzw356MD7T2Ja",
+        "iteration": 43,
+        "minter": "tz1dLULTTY43o5pAR3WEtrPgFEo9wvAaZDSc",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074101,
+      "name": "Zbageti #44",
+      "iteration": 44,
+      "fxhash": "ooFoAu4aeTcqaMhgo9FaJLasb3ruGu5RzXZXgMLAHhpiRAH7Jk7",
+      "minter": "tz1dj24MNd637pgGXGx4i499DgAqdsehkfFd",
+      "fxparams": "",
+      "owner": "tz1eJF2r9JsfDLAswoo5iCDk6Qv2yWt6fbMX",
+      "thumbnailUri": "ipfs://QmS4HKvgkyJ8zTZecbbjUrMzWmPhxp8YNLhRjSYioRs1Ef",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooFoAu4aeTcqaMhgo9FaJLasb3ruGu5RzXZXgMLAHhpiRAH7Jk7",
+        "iteration": 44,
+        "minter": "tz1dj24MNd637pgGXGx4i499DgAqdsehkfFd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074102,
+      "name": "Zbageti #45",
+      "iteration": 45,
+      "fxhash": "opZBMPbRzeXwfVRk2mb2U9fGnyEfGUtaLReVAniYdk6T4TzUjAC",
+      "minter": "tz1irpd3STXLP7PYLJz9xhS77vSYzHiyxSDA",
+      "fxparams": "",
+      "owner": "tz1irpd3STXLP7PYLJz9xhS77vSYzHiyxSDA",
+      "thumbnailUri": "ipfs://QmNqHvjYVLXWiWtN1TVQKqWTYEMGGSkCQnYsQ64q5i5jNc",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opZBMPbRzeXwfVRk2mb2U9fGnyEfGUtaLReVAniYdk6T4TzUjAC",
+        "iteration": 45,
+        "minter": "tz1irpd3STXLP7PYLJz9xhS77vSYzHiyxSDA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074103,
+      "name": "Zbageti #46",
+      "iteration": 46,
+      "fxhash": "onwDJuznG4yN7edBakNtCMTsywiAvMVoLcxb9TRnikUKqw7PZw7",
+      "minter": "tz1VpaAR1pd8g6ZncYzALuMEaiB1iJcQyC89",
+      "fxparams": "",
+      "owner": "tz1VpaAR1pd8g6ZncYzALuMEaiB1iJcQyC89",
+      "thumbnailUri": "ipfs://QmWCq8BQ6aMn1VqhpXH9CAfwCM1wJgbdw8NGSzMwmaacAP",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onwDJuznG4yN7edBakNtCMTsywiAvMVoLcxb9TRnikUKqw7PZw7",
+        "iteration": 46,
+        "minter": "tz1VpaAR1pd8g6ZncYzALuMEaiB1iJcQyC89",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074104,
+      "name": "Zbageti #47",
+      "iteration": 47,
+      "fxhash": "ooDLMqtzhNVzSbXaF4EcK8toFei5es2T5c647ok7Lr2u6GyvYaf",
+      "minter": "tz1hyWYR2udBmJ8cKCAsBZAG9Lkm5CHgkbrU",
+      "fxparams": "",
+      "owner": "tz1hyWYR2udBmJ8cKCAsBZAG9Lkm5CHgkbrU",
+      "thumbnailUri": "ipfs://QmNgA5zFqNHZNv6Puy4TdDByf27k6r6JV7mwJbeD7JyLKU",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooDLMqtzhNVzSbXaF4EcK8toFei5es2T5c647ok7Lr2u6GyvYaf",
+        "iteration": 47,
+        "minter": "tz1hyWYR2udBmJ8cKCAsBZAG9Lkm5CHgkbrU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074105,
+      "name": "Zbageti #48",
+      "iteration": 48,
+      "fxhash": "ooXJ82hRVVH3mkgVQ1Vhcp6jkUYis4gUjvAiTDT4Z3wTHVKfp6U",
+      "minter": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+      "fxparams": "",
+      "owner": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+      "thumbnailUri": "ipfs://QmYTZbXqv3WxiKiuSdLWyadmEsT9jttkNe81LLgXSmS3tT",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooXJ82hRVVH3mkgVQ1Vhcp6jkUYis4gUjvAiTDT4Z3wTHVKfp6U",
+        "iteration": 48,
+        "minter": "tz1b4D34XekDYaqiXraCKG31sWLgqThDzxc3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074106,
+      "name": "Zbageti #49",
+      "iteration": 49,
+      "fxhash": "ooo3rQF23wshjXgLfhXRo4SHguaemK1k3jLLFVFWwTkrqioGkoa",
+      "minter": "tz1UWkHdS5Zz847fDsULyYoVbWKpUjU38u4J",
+      "fxparams": "",
+      "owner": "tz1gBXG9fg8RMDH69KfKqwoTH5sFDmzt5yzm",
+      "thumbnailUri": "ipfs://QmeBoRCmeug5EHGrKcmiTWLJfy9SkfenJ8DHP1ZJmuboof",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooo3rQF23wshjXgLfhXRo4SHguaemK1k3jLLFVFWwTkrqioGkoa",
+        "iteration": 49,
+        "minter": "tz1UWkHdS5Zz847fDsULyYoVbWKpUjU38u4J",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074107,
+      "name": "Zbageti #50",
+      "iteration": 50,
+      "fxhash": "onvHqAcBSKWUxjzoG3QpwWMdDaLVHvQrKUVa9DzxFpisHZPL5T3",
+      "minter": "tz1aGMr2PA3CfWcSpdQvyJWrkUURcsJxYj2k",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmRR3FEN2S52rTuzs4PUNKPkyJLPDXhNAsniWnHQd6UR43",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onvHqAcBSKWUxjzoG3QpwWMdDaLVHvQrKUVa9DzxFpisHZPL5T3",
+        "iteration": 50,
+        "minter": "tz1aGMr2PA3CfWcSpdQvyJWrkUURcsJxYj2k",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074108,
+      "name": "Zbageti #51",
+      "iteration": 51,
+      "fxhash": "onsPgJ65LT99ogwuc7oP4JqErXypjzBC7PFcaTBQwWpGLWecCs8",
+      "minter": "tz1RsFrbkJync4shc9ZxfjG4DMLXBDRbLXt9",
+      "fxparams": "",
+      "owner": "tz1KySQ8LS1MjUc44ioU6p9Etpe5cLqnikwb",
+      "thumbnailUri": "ipfs://QmeCxPVFNBmEhuwxqxeLfqB8YBkdqYUC9hUL8cYFJsMuyd",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onsPgJ65LT99ogwuc7oP4JqErXypjzBC7PFcaTBQwWpGLWecCs8",
+        "iteration": 51,
+        "minter": "tz1RsFrbkJync4shc9ZxfjG4DMLXBDRbLXt9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074109,
+      "name": "Zbageti #52",
+      "iteration": 52,
+      "fxhash": "ooQKouvPayNha7jHUsk36w7uTVMBiXZNUbnV8cQYvQyR7Bp1DtU",
+      "minter": "tz1Rakav1r6xMmrvYiXZjdvz3T1wNU4igoQM",
+      "fxparams": "",
+      "owner": "tz2SXiCuk4zfZfzrSfLuBdV9d84YHZwVESsT",
+      "thumbnailUri": "ipfs://QmdsEhdK8wQhE4hBDCAST9urAyReVJN1TK7yGHqE86fttn",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooQKouvPayNha7jHUsk36w7uTVMBiXZNUbnV8cQYvQyR7Bp1DtU",
+        "iteration": 52,
+        "minter": "tz1Rakav1r6xMmrvYiXZjdvz3T1wNU4igoQM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074110,
+      "name": "Zbageti #53",
+      "iteration": 53,
+      "fxhash": "opWubTuX4VK8zRCSsXoAZ3epM4CRv6b7jrrHn198ZwdyzamTJYV",
+      "minter": "tz1aGS2uW4xHV67aZKsSUk7dGXDhT6SCixX9",
+      "fxparams": "",
+      "owner": "tz1R5CMvYnpteLY3aLcxwgMG2vGK6FiN94DA",
+      "thumbnailUri": "ipfs://QmScbd3H7dpUr8nAwKUxx9HcSpjJ4TaMeTfTeGLZ9N5PNk",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opWubTuX4VK8zRCSsXoAZ3epM4CRv6b7jrrHn198ZwdyzamTJYV",
+        "iteration": 53,
+        "minter": "tz1aGS2uW4xHV67aZKsSUk7dGXDhT6SCixX9",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074111,
+      "name": "Zbageti #54",
+      "iteration": 54,
+      "fxhash": "ooBZF4TCG2NA6ZMA38Yxw2agHbQ4vqfXJFnWqmh32mhtGJQQEwt",
+      "minter": "tz1Si9n9HytF3qnszqZGH8BtU73zBAxWsm3c",
+      "fxparams": "",
+      "owner": "tz1ZR5JKcHzU8Xn5m3w3pMGHiYnHwQNPDkSm",
+      "thumbnailUri": "ipfs://QmYBuddJgw3r2rbscb9VmdFjXpKUpFfWMMBE56PSAJB1GT",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooBZF4TCG2NA6ZMA38Yxw2agHbQ4vqfXJFnWqmh32mhtGJQQEwt",
+        "iteration": 54,
+        "minter": "tz1Si9n9HytF3qnszqZGH8BtU73zBAxWsm3c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074112,
+      "name": "Zbageti #55",
+      "iteration": 55,
+      "fxhash": "oo7Eos15mRX6niQb7CxwmT1kSLxkfdpKLB2JV8Wwg3fqc8UdAC8",
+      "minter": "tz1WeoHcf6qafYMstzs8RVvNTeYcDX7dNKTX",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmPu6to7Hjs9pKMSDAyq1gib3P5Xy45dp2sU1E4cdzCUZW",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oo7Eos15mRX6niQb7CxwmT1kSLxkfdpKLB2JV8Wwg3fqc8UdAC8",
+        "iteration": 55,
+        "minter": "tz1WeoHcf6qafYMstzs8RVvNTeYcDX7dNKTX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074113,
+      "name": "Zbageti #56",
+      "iteration": 56,
+      "fxhash": "ooXiLoqqnrw4kYfHz1HA4KxtvCnkkdfNADv64VfGFtMjkstBiUZ",
+      "minter": "tz1imejUcBVcHqoChpGFifds73MHzj3N73mh",
+      "fxparams": "",
+      "owner": "tz1N64TWNCZR3yJZmmzBE4DRidN1tCaZCw8Q",
+      "thumbnailUri": "ipfs://QmWhXdJ7EwuW8BJkDaKLzfxNrSLYP7aJyBKDVvuCuSARF8",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooXiLoqqnrw4kYfHz1HA4KxtvCnkkdfNADv64VfGFtMjkstBiUZ",
+        "iteration": 56,
+        "minter": "tz1imejUcBVcHqoChpGFifds73MHzj3N73mh",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074114,
+      "name": "Zbageti #57",
+      "iteration": 57,
+      "fxhash": "oonuZpFer8Ny6z86yUr8RUd5aRgqzSpTo3Wa6QK1UXfrpokuHYs",
+      "minter": "tz1NwU2n65NtsVjWWBRDvCS8a573aWLbZ2Vm",
+      "fxparams": "",
+      "owner": "tz1NwU2n65NtsVjWWBRDvCS8a573aWLbZ2Vm",
+      "thumbnailUri": "ipfs://QmNPJJYJYbEZKHiF6gUihCmMWztHHLqXWh6TujTAxJXNWt",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oonuZpFer8Ny6z86yUr8RUd5aRgqzSpTo3Wa6QK1UXfrpokuHYs",
+        "iteration": 57,
+        "minter": "tz1NwU2n65NtsVjWWBRDvCS8a573aWLbZ2Vm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074115,
+      "name": "Zbageti #58",
+      "iteration": 58,
+      "fxhash": "ooD2ke8R2uSd3vBBW5Ku1c449q1ArifgfjXqqGE3GkJCC4jeMwP",
+      "minter": "tz1Q17EMNrpUEHDH47dVVT8K6Xt9SiWDsYVS",
+      "fxparams": "",
+      "owner": "tz1gmR7ZFLynw8hYkgr8jjfFZpsnav5EqVrV",
+      "thumbnailUri": "ipfs://QmQc168Lzb4JiMaysM9ft6HnFU5ox5kCST2bZrG7VGbpoK",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooD2ke8R2uSd3vBBW5Ku1c449q1ArifgfjXqqGE3GkJCC4jeMwP",
+        "iteration": 58,
+        "minter": "tz1Q17EMNrpUEHDH47dVVT8K6Xt9SiWDsYVS",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074116,
+      "name": "Zbageti #59",
+      "iteration": 59,
+      "fxhash": "opa8v9grekHRuyKHwgsgFb2ciWyjbHepQ88ckrDscmVD44yhZah",
+      "minter": "tz1UuujYk2VUaCLiRG8VzqFumMAikD4hLNQt",
+      "fxparams": "",
+      "owner": "tz1YyLW3Wd1UzV7XL8gBZV23dLSh8wu6ijFm",
+      "thumbnailUri": "ipfs://QmQfDzFrevL3UfhTgzrLvXeXWq3n9Tyw5i3v2pcb4VTHBL",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opa8v9grekHRuyKHwgsgFb2ciWyjbHepQ88ckrDscmVD44yhZah",
+        "iteration": 59,
+        "minter": "tz1UuujYk2VUaCLiRG8VzqFumMAikD4hLNQt",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074117,
+      "name": "Zbageti #60",
+      "iteration": 60,
+      "fxhash": "oo89gzwKW7oFfY2BZ6SAgWbWGfYyQtKw2boRhfYTF7xzr2yNurH",
+      "minter": "tz1eJZpxgGKeCEaju54Ff98TimukrvnZYZV4",
+      "fxparams": "",
+      "owner": "tz1VdsJgBJksi1yVFb7iDaMu2GmithRvEihj",
+      "thumbnailUri": "ipfs://QmYgVuZKxX3YWhCFzrrRbTHkQWBi1aqxKjWjingURd5dMJ",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oo89gzwKW7oFfY2BZ6SAgWbWGfYyQtKw2boRhfYTF7xzr2yNurH",
+        "iteration": 60,
+        "minter": "tz1eJZpxgGKeCEaju54Ff98TimukrvnZYZV4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074118,
+      "name": "Zbageti #61",
+      "iteration": 61,
+      "fxhash": "opVhyx59fTy7Pxb7f8ToeFZrggQRbyz6QFcxi6stcGyrr7zN5of",
+      "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+      "fxparams": "",
+      "owner": "tz1PE415ckPNF9SD9VrxT2MgL8fpwXSk9F1k",
+      "thumbnailUri": "ipfs://Qmd63F4BaUAay22gb7GdqFW3Nf5BZe2uY2UXCfX9eDVHaD",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opVhyx59fTy7Pxb7f8ToeFZrggQRbyz6QFcxi6stcGyrr7zN5of",
+        "iteration": 61,
+        "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074119,
+      "name": "Zbageti #62",
+      "iteration": 62,
+      "fxhash": "onjFxqFAGmivxiEzpvvfEG2Me2TzFmQL9qHSqPsZ8k34w8VcsCe",
+      "minter": "tz1NhfEvAoFcXEBBHVZxPQmeegpSYawszjxx",
+      "fxparams": "",
+      "owner": "tz1hnnCaYDiRPH8apoJQB9wvytwpYQSJEzCK",
+      "thumbnailUri": "ipfs://QmXj4qBZFJPmVcSUqoD7BaB3j6j6tLp3uvQkyGaEU8Y5rv",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onjFxqFAGmivxiEzpvvfEG2Me2TzFmQL9qHSqPsZ8k34w8VcsCe",
+        "iteration": 62,
+        "minter": "tz1NhfEvAoFcXEBBHVZxPQmeegpSYawszjxx",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074120,
+      "name": "Zbageti #63",
+      "iteration": 63,
+      "fxhash": "ooNmo7pBYgJUMFmE5hZUCL3gyFtKqfYA45zSkbUAkHwgiGAF8PA",
+      "minter": "tz1bmPatnVaBa8brRzQ15i4vWzcBtdwJAkbn",
+      "fxparams": "",
+      "owner": "tz1aC5guqeYZgXsmY3BZVKWff2GMBZGoiPEV",
+      "thumbnailUri": "ipfs://QmRZekdEZFfUdBvpLwP4H7MZ3J9upSGkposztt8HG8hwxi",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooNmo7pBYgJUMFmE5hZUCL3gyFtKqfYA45zSkbUAkHwgiGAF8PA",
+        "iteration": 63,
+        "minter": "tz1bmPatnVaBa8brRzQ15i4vWzcBtdwJAkbn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074121,
+      "name": "Zbageti #64",
+      "iteration": 64,
+      "fxhash": "oo3i5irgkk7EFDowKUmQ2W7F9WsrnuNDsWSfhpbucEKWQYH7MMR",
+      "minter": "tz1hKq7ufbAhoUUF6cZT2WoNJikAGbHCjyBi",
+      "fxparams": "",
+      "owner": "tz1QpvURES6sBsL6gGh4aeBRtw6ShcAjYj6u",
+      "thumbnailUri": "ipfs://QmRFdJbrbd46tZHXJyHqoyn7bncuA1z17R39okTmUg6vxJ",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oo3i5irgkk7EFDowKUmQ2W7F9WsrnuNDsWSfhpbucEKWQYH7MMR",
+        "iteration": 64,
+        "minter": "tz1hKq7ufbAhoUUF6cZT2WoNJikAGbHCjyBi",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074122,
+      "name": "Zbageti #65",
+      "iteration": 65,
+      "fxhash": "op4UK6m3tCeNTf6ELqoPbZ235qr9yyEM9fpN1gDUi13VpjmqKGg",
+      "minter": "tz1XSEJntpQEuhiN5jhFY2fXLDDKhe5p41jH",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://Qmey5sAjfBFn4tDKYx9diHVuRf6fe1tyMHoMAdask6jfy5",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op4UK6m3tCeNTf6ELqoPbZ235qr9yyEM9fpN1gDUi13VpjmqKGg",
+        "iteration": 65,
+        "minter": "tz1XSEJntpQEuhiN5jhFY2fXLDDKhe5p41jH",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074123,
+      "name": "Zbageti #66",
+      "iteration": 66,
+      "fxhash": "ooJF4WEAawYGT8x3GVQcZHXiNMXqqc3rUPMWK1tgAoodeCzKqrB",
+      "minter": "tz1iCWKj4FLFeBSr5rPH3rdFCedg4RWrqh9w",
+      "fxparams": "",
+      "owner": "tz1eCX4smQ3LbxwDR3pqNoLQvNNKiHJtpwYz",
+      "thumbnailUri": "ipfs://Qmcjg41NT8d1etjNpxVKWN2UoPFtjTvVsZGmvyXYyH7qyP",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooJF4WEAawYGT8x3GVQcZHXiNMXqqc3rUPMWK1tgAoodeCzKqrB",
+        "iteration": 66,
+        "minter": "tz1iCWKj4FLFeBSr5rPH3rdFCedg4RWrqh9w",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074124,
+      "name": "Zbageti #67",
+      "iteration": 67,
+      "fxhash": "oo54gcBtAZ52VBW44GHGswCvKZ1RYCpLZhRMWdjCpn6HdtgTewm",
+      "minter": "tz2G1CHPPJM7eCgBsUwYVWiw9ZkkbXHvBWDT",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmbsnsJP8cn25qyY7MmjX7mm471zRQ5MtjKF5qadGLKKcW",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oo54gcBtAZ52VBW44GHGswCvKZ1RYCpLZhRMWdjCpn6HdtgTewm",
+        "iteration": 67,
+        "minter": "tz2G1CHPPJM7eCgBsUwYVWiw9ZkkbXHvBWDT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074125,
+      "name": "Zbageti #68",
+      "iteration": 68,
+      "fxhash": "onxh5aCwAT3Wzgye5hVosasFKHkMUeVCudVW5mWY6gQNhwqqev5",
+      "minter": "tz1TLqerK5ewqygRUG5TcCN8tkEbuSFBQVv3",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://QmdVzizxnULrWYTGkJkWzYgkkEnfWcjQxZkZNjaYdUyZRR",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onxh5aCwAT3Wzgye5hVosasFKHkMUeVCudVW5mWY6gQNhwqqev5",
+        "iteration": 68,
+        "minter": "tz1TLqerK5ewqygRUG5TcCN8tkEbuSFBQVv3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074126,
+      "name": "Zbageti #69",
+      "iteration": 69,
+      "fxhash": "oogEw4tCEjRPSwGswCHi8u5ADVgtfL4weg87vhWFnu3pqeCb4ap",
+      "minter": "tz1QaiiYsKv24ht4wmXg6yba8w6VE5qAADQS",
+      "fxparams": "",
+      "owner": "tz1c9U9x3y2RMJYfCoT5kcgCnYnr7o9ifh9T",
+      "thumbnailUri": "ipfs://QmaWeypYnaAL3vikK1uKKsRJ9aJedW9gsEtrHMtYKLhzRe",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oogEw4tCEjRPSwGswCHi8u5ADVgtfL4weg87vhWFnu3pqeCb4ap",
+        "iteration": 69,
+        "minter": "tz1QaiiYsKv24ht4wmXg6yba8w6VE5qAADQS",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074127,
+      "name": "Zbageti #70",
+      "iteration": 70,
+      "fxhash": "onxUY3i8E4JbXpfFCgurgpNwdeg4QHGvHRdikNryX27ic8eegty",
+      "minter": "tz1SwdC6BGEeabqjkDDUvrcZaWYkMNaGbLhi",
+      "fxparams": "",
+      "owner": "tz1g6RchtW9x4hRNR2JXJ67rpoAQ6gXUpAdo",
+      "thumbnailUri": "ipfs://QmbE1ChZbHBTJPnFnrouYzU56zxstE7JR2sPg7Cb26u6rT",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onxUY3i8E4JbXpfFCgurgpNwdeg4QHGvHRdikNryX27ic8eegty",
+        "iteration": 70,
+        "minter": "tz1SwdC6BGEeabqjkDDUvrcZaWYkMNaGbLhi",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074128,
+      "name": "Zbageti #71",
+      "iteration": 71,
+      "fxhash": "op8qzeJUFmUXSSP3XNCR6xdrXuq4Shgjtmf2v83fZ2XNLffHovy",
+      "minter": "tz1MguckT84YVv7uGoQeNLFMCf1RQwjSiqT1",
+      "fxparams": "",
+      "owner": "tz1Q6koSLYMvmPn6ZABZ3qV6ejUEqwTfCYqW",
+      "thumbnailUri": "ipfs://QmXySPdQ9fdSprt4rVv2dmAJXZ2m4XLY5vhX8oo2Dsitu3",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op8qzeJUFmUXSSP3XNCR6xdrXuq4Shgjtmf2v83fZ2XNLffHovy",
+        "iteration": 71,
+        "minter": "tz1MguckT84YVv7uGoQeNLFMCf1RQwjSiqT1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074129,
+      "name": "Zbageti #72",
+      "iteration": 72,
+      "fxhash": "oo78syn1KZsrydCLuLh8kBt6KpyJLgXGf2ZpkPE5skz1Zw53Uv6",
+      "minter": "tz1QRjdEo2vYGPFaVcyy6Wag7YR2fuRW4shL",
+      "fxparams": "",
+      "owner": "tz1eCX4smQ3LbxwDR3pqNoLQvNNKiHJtpwYz",
+      "thumbnailUri": "ipfs://QmNwKdktYC3PmdcUd9aZMsHFZPPNHfSQkjrQHpakSwmntj",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oo78syn1KZsrydCLuLh8kBt6KpyJLgXGf2ZpkPE5skz1Zw53Uv6",
+        "iteration": 72,
+        "minter": "tz1QRjdEo2vYGPFaVcyy6Wag7YR2fuRW4shL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074130,
+      "name": "Zbageti #73",
+      "iteration": 73,
+      "fxhash": "oniG3c6DiZGQaZg3YQPTFHd3FJio89i5AP1DC6TyBNoca9YH26Y",
+      "minter": "tz1QYY9R3DxHSqZeEZ3JwGa48UKoBWyWiTCY",
+      "fxparams": "",
+      "owner": "tz1R5CMvYnpteLY3aLcxwgMG2vGK6FiN94DA",
+      "thumbnailUri": "ipfs://QmaLX4hmJdnxXcmkySqmAQ6V2XCj3hVWiXdzATzbUpesDD",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oniG3c6DiZGQaZg3YQPTFHd3FJio89i5AP1DC6TyBNoca9YH26Y",
+        "iteration": 73,
+        "minter": "tz1QYY9R3DxHSqZeEZ3JwGa48UKoBWyWiTCY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074131,
+      "name": "Zbageti #74",
+      "iteration": 74,
+      "fxhash": "op8FXgQi9jk6BmRzwbpEGnWesju1rzjEeNJCu7YTuuhoY2tEaKY",
+      "minter": "tz1P3Tui1vMu86qkx2WCbKHSunwRa31d1EiX",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://QmTKjKdnbG8KiGiJL4babqB3ANF2Gj4b5ihwVJ6vR1By92",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op8FXgQi9jk6BmRzwbpEGnWesju1rzjEeNJCu7YTuuhoY2tEaKY",
+        "iteration": 74,
+        "minter": "tz1P3Tui1vMu86qkx2WCbKHSunwRa31d1EiX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074132,
+      "name": "Zbageti #75",
+      "iteration": 75,
+      "fxhash": "op2XyjDifFmMjsGyYf3J9nHM73NyfZnAnYhszrVeeXiG85mNPSU",
+      "minter": "tz1RX7SnDkLeeh82xTh5kPCZNT3TbxS6rtMS",
+      "fxparams": "",
+      "owner": "tz1NLG4FKBRaWdzJgkMLq6J4MSmk2T2RARXb",
+      "thumbnailUri": "ipfs://QmVyzTjgcfchvSTTshUMvzhbYzYaqtCJsxmFAX8tBAxFWZ",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op2XyjDifFmMjsGyYf3J9nHM73NyfZnAnYhszrVeeXiG85mNPSU",
+        "iteration": 75,
+        "minter": "tz1RX7SnDkLeeh82xTh5kPCZNT3TbxS6rtMS",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074133,
+      "name": "Zbageti #76",
+      "iteration": 76,
+      "fxhash": "ooLLFJ4KJUi9BEP2yoQvhmAJREWbpRgM3idXWsav1TYXeCRLSLw",
+      "minter": "tz1WgHw43eVLLoTaF2XcBnHKupVJ5WYmHNzC",
+      "fxparams": "",
+      "owner": "tz1P4iM5y89uzQomRZPZ7XFuHV6Uw3b7YTQ9",
+      "thumbnailUri": "ipfs://QmQcpEiqBQjv2t3voeNNgizSH2yiidU7hegNpQxXvRLrcp",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooLLFJ4KJUi9BEP2yoQvhmAJREWbpRgM3idXWsav1TYXeCRLSLw",
+        "iteration": 76,
+        "minter": "tz1WgHw43eVLLoTaF2XcBnHKupVJ5WYmHNzC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074134,
+      "name": "Zbageti #77",
+      "iteration": 77,
+      "fxhash": "op9D9WDm4xqsghtBH2h3VKawCT4SRqrGsfLDRhFchAAvrXYeqza",
+      "minter": "tz1g6CmQCaa5t9tvD6u2NqNSQTA6NTVRK4VC",
+      "fxparams": "",
+      "owner": "tz1hnnCaYDiRPH8apoJQB9wvytwpYQSJEzCK",
+      "thumbnailUri": "ipfs://QmZ4NvexZgfoJiNQf8wdcvZcahYj5mYj9LfrNQK7phDr1c",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op9D9WDm4xqsghtBH2h3VKawCT4SRqrGsfLDRhFchAAvrXYeqza",
+        "iteration": 77,
+        "minter": "tz1g6CmQCaa5t9tvD6u2NqNSQTA6NTVRK4VC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074135,
+      "name": "Zbageti #78",
+      "iteration": 78,
+      "fxhash": "oobpYW3VS2gE7nQyhWSM8KoQ3qZvErKTzUqJuuUyGp93Z4qqsuV",
+      "minter": "tz1W75eqnJ1wZMZ8ha1GTyD1gjHX3siwnr9n",
+      "fxparams": "",
+      "owner": "tz1Q6koSLYMvmPn6ZABZ3qV6ejUEqwTfCYqW",
+      "thumbnailUri": "ipfs://QmQJPRsjgig44dNbYzWoqjUwQqPSs8vYSykwo5bNCVcdQD",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oobpYW3VS2gE7nQyhWSM8KoQ3qZvErKTzUqJuuUyGp93Z4qqsuV",
+        "iteration": 78,
+        "minter": "tz1W75eqnJ1wZMZ8ha1GTyD1gjHX3siwnr9n",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074136,
+      "name": "Zbageti #79",
+      "iteration": 79,
+      "fxhash": "onwPHU4MN9uPVFKwBPfPD7QcJ8FFgM3dqYKRHJWN7ZEvffMoqwc",
+      "minter": "tz1NoMeiJPBThC9R6mBghNr3kfvVaw7Xr48p",
+      "fxparams": "",
+      "owner": "tz1R5CMvYnpteLY3aLcxwgMG2vGK6FiN94DA",
+      "thumbnailUri": "ipfs://QmaQfkqwFJgQshQdeVeHTtC8x5WNhn22JszJxY1SaoGFXw",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onwPHU4MN9uPVFKwBPfPD7QcJ8FFgM3dqYKRHJWN7ZEvffMoqwc",
+        "iteration": 79,
+        "minter": "tz1NoMeiJPBThC9R6mBghNr3kfvVaw7Xr48p",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074137,
+      "name": "Zbageti #80",
+      "iteration": 80,
+      "fxhash": "oofeejkyRNhAjkDeeWqK8hLPDZ6nGairDkAJFYD9chFS8fNtHSs",
+      "minter": "tz1UDEV4RAYqjRCHKQD72Z2WjfyChmXECRNB",
+      "fxparams": "",
+      "owner": "tz1Z3omvUUHPzxxTFnbDDYozHKSx9Mq5dvZQ",
+      "thumbnailUri": "ipfs://QmQceBK3Lnf9gNDCudyfeqHiNCASPVJCMyJV7aBZDScnXB",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oofeejkyRNhAjkDeeWqK8hLPDZ6nGairDkAJFYD9chFS8fNtHSs",
+        "iteration": 80,
+        "minter": "tz1UDEV4RAYqjRCHKQD72Z2WjfyChmXECRNB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074138,
+      "name": "Zbageti #81",
+      "iteration": 81,
+      "fxhash": "oocfhzuVGEoGtV35JPyWdgfLdFj4kVPBZeJbshWX1uHkYyWWQLG",
+      "minter": "tz1cpjd74Mjk4GsToDQ6vj3LDx8WtnG8fvia",
+      "fxparams": "",
+      "owner": "tz1Z3omvUUHPzxxTFnbDDYozHKSx9Mq5dvZQ",
+      "thumbnailUri": "ipfs://QmZFEJK5WGBuTbMXdPDvrsBY6J1FznT1ysPsyPaVvGPimS",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oocfhzuVGEoGtV35JPyWdgfLdFj4kVPBZeJbshWX1uHkYyWWQLG",
+        "iteration": 81,
+        "minter": "tz1cpjd74Mjk4GsToDQ6vj3LDx8WtnG8fvia",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074139,
+      "name": "Zbageti #82",
+      "iteration": 82,
+      "fxhash": "ooHmNkG61AKkKL1ujzViPw9dYJgRxW2CYtQSJe7XW9fL6SrkWXr",
+      "minter": "tz1TvxSFqZvN2vBnc7wPLPtTFHBeq4kTyKP1",
+      "fxparams": "",
+      "owner": "tz1c7zSkZF4rJg6xtjhVJ49WQYFpRpGxWkJV",
+      "thumbnailUri": "ipfs://QmbjE39NQxLTDZWW1GtfhGCGjafM1uWCya7NTyva6oLgcK",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooHmNkG61AKkKL1ujzViPw9dYJgRxW2CYtQSJe7XW9fL6SrkWXr",
+        "iteration": 82,
+        "minter": "tz1TvxSFqZvN2vBnc7wPLPtTFHBeq4kTyKP1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074140,
+      "name": "Zbageti #83",
+      "iteration": 83,
+      "fxhash": "opVn4mqWEGNGydNEBuVVhuX1Ary7XZ5KUSoHCdi8YipZqBj3bpj",
+      "minter": "tz2WdJfCmwKLynAodgHVx4UT81zEfGRYQUB8",
+      "fxparams": "",
+      "owner": "tz1ftu1iV7gWM5wiQjH215nk4yFkEne7BAg9",
+      "thumbnailUri": "ipfs://QmYRxRzJy5P7bfzQ3FVw2ZGHpX8UYxrSTWnfSQKRpNXjtW",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opVn4mqWEGNGydNEBuVVhuX1Ary7XZ5KUSoHCdi8YipZqBj3bpj",
+        "iteration": 83,
+        "minter": "tz2WdJfCmwKLynAodgHVx4UT81zEfGRYQUB8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074141,
+      "name": "Zbageti #84",
+      "iteration": 84,
+      "fxhash": "ooaQu4gBax7vsTj57e1eKsWtQx6EwhvNmRpH7Wgu6oPnCXyiohf",
+      "minter": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+      "fxparams": "",
+      "owner": "tz1U11KWKcwGa3zicF3nsKDxqe5mpsckQ5oe",
+      "thumbnailUri": "ipfs://QmNhn4KjZPtqej4DhnP2ZjPs47qhjrXTn7Mdvyi75A5p6r",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooaQu4gBax7vsTj57e1eKsWtQx6EwhvNmRpH7Wgu6oPnCXyiohf",
+        "iteration": 84,
+        "minter": "tz1TQwgFBgLjz5YGrjAUMg8r9eTMwbkeZqM7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074142,
+      "name": "Zbageti #85",
+      "iteration": 85,
+      "fxhash": "ooxaq95xgHANBD5sWj9kV6MiK32bWgtdLD63dEBMSGA5hHbWdcR",
+      "minter": "tz1RrNG1HEuwLZeQPuJEmwETGvL79rE3F2dT",
+      "fxparams": "",
+      "owner": "tz1ZWFUPcEj89VvYhX6mG5Mbww67XtyySY2A",
+      "thumbnailUri": "ipfs://QmQRPoQxJZyP5krt8hAdUBg5YNGaNfqAuusTRkg3zjrkUF",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooxaq95xgHANBD5sWj9kV6MiK32bWgtdLD63dEBMSGA5hHbWdcR",
+        "iteration": 85,
+        "minter": "tz1RrNG1HEuwLZeQPuJEmwETGvL79rE3F2dT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074143,
+      "name": "Zbageti #86",
+      "iteration": 86,
+      "fxhash": "oom1xQCxkeDrZrL4kJwejp5dEcRsFyc3BDwt2jQdYHeyNFeG8M5",
+      "minter": "tz1bH1uKAvf1f2Unxi9DJn4U5UbY3GUBPLG8",
+      "fxparams": "",
+      "owner": "tz1ZqGDd6x7hVrniPCLeRTpNZDwUchcSjNKY",
+      "thumbnailUri": "ipfs://QmPhz8WvXYYDeNG2sfepiWQq3D6LLLYwK2vESw3FHfvTSB",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oom1xQCxkeDrZrL4kJwejp5dEcRsFyc3BDwt2jQdYHeyNFeG8M5",
+        "iteration": 86,
+        "minter": "tz1bH1uKAvf1f2Unxi9DJn4U5UbY3GUBPLG8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074144,
+      "name": "Zbageti #87",
+      "iteration": 87,
+      "fxhash": "ooUQFE92RYKcm2QvnnNEWYEok4QbDcmaW2uzusE9vyNx54MHmG1",
+      "minter": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+      "fxparams": "",
+      "owner": "tz1UszoGTYFvfusbE56XFuppmgQepzaAwbW2",
+      "thumbnailUri": "ipfs://QmYnQrXCvfEXbpuxVkzGMqw4yL7ax1WFWa2SJu4z6U2gXt",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooUQFE92RYKcm2QvnnNEWYEok4QbDcmaW2uzusE9vyNx54MHmG1",
+        "iteration": 87,
+        "minter": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074145,
+      "name": "Zbageti #88",
+      "iteration": 88,
+      "fxhash": "ooQS2EppAYVUDz8YF6iVBM4TxPwNYtDVRVs5wdahPSb1AKTB3TE",
+      "minter": "tz1V3Yn92PycCij8CZpt4eeTb5GsRvrqjm6a",
+      "fxparams": "",
+      "owner": "tz1Sqhrj49cW9aTuwQrDa4mycnA7n5dDd7rF",
+      "thumbnailUri": "ipfs://QmPSbRAWZo4bh4nYyssExj8jKjNhHvxT444kyxwNL4Ndyy",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooQS2EppAYVUDz8YF6iVBM4TxPwNYtDVRVs5wdahPSb1AKTB3TE",
+        "iteration": 88,
+        "minter": "tz1V3Yn92PycCij8CZpt4eeTb5GsRvrqjm6a",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074146,
+      "name": "Zbageti #89",
+      "iteration": 89,
+      "fxhash": "ooj93PRbgAKtdXxKPNucyPdjtJy63uwNwiQcnVnR4WZU51ugh7V",
+      "minter": "tz1UPdmE4NUqdJrVnhuXuuzb6WN27Evi7ac4",
+      "fxparams": "",
+      "owner": "tz1iJk9FYMEe17ELvPUGdzWrpZx5iVBGj4Yn",
+      "thumbnailUri": "ipfs://QmQjTMe16YAvvs7NZs9Z289h4KzLxu4NsiKhM4U12YkFir",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooj93PRbgAKtdXxKPNucyPdjtJy63uwNwiQcnVnR4WZU51ugh7V",
+        "iteration": 89,
+        "minter": "tz1UPdmE4NUqdJrVnhuXuuzb6WN27Evi7ac4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074147,
+      "name": "Zbageti #90",
+      "iteration": 90,
+      "fxhash": "opH1Sd7bMTruo5iqE31eq1zJtPyxwcoZ2jETVuLxo42Z79z8B9q",
+      "minter": "tz1WxNJDLbuMj25NE6j4ejXUFohdeZULM6Uw",
+      "fxparams": "",
+      "owner": "tz1SHGzpFjuAm2HdfSceQRs3C8WGRqLn6KdX",
+      "thumbnailUri": "ipfs://QmXhkRwffTCyXfq1hLDauLwSd3HNiTRtWu4oVfT2e84vDU",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opH1Sd7bMTruo5iqE31eq1zJtPyxwcoZ2jETVuLxo42Z79z8B9q",
+        "iteration": 90,
+        "minter": "tz1WxNJDLbuMj25NE6j4ejXUFohdeZULM6Uw",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074148,
+      "name": "Zbageti #91",
+      "iteration": 91,
+      "fxhash": "ooJFtgVz4WnsBiK22g366CkqdsP7zdDrMxDU64MBWBrT7L7pCrH",
+      "minter": "tz1ZtkTnPvYD4j6E1KVxFppgXmEjtbijMM9W",
+      "fxparams": "",
+      "owner": "tz1RKAK88z71SGmipocZqVXQrtWJxo7dfH7Z",
+      "thumbnailUri": "ipfs://QmbWPd9ERNbP6qZe3GkRyxvqX4oC3V1K3sjMFT3tHnvxdL",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ooJFtgVz4WnsBiK22g366CkqdsP7zdDrMxDU64MBWBrT7L7pCrH",
+        "iteration": 91,
+        "minter": "tz1ZtkTnPvYD4j6E1KVxFppgXmEjtbijMM9W",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074149,
+      "name": "Zbageti #92",
+      "iteration": 92,
+      "fxhash": "opSNmdKJxxynXs9cURihrJPavh3j7nVVkryAH4W3qQVaZGkbako",
+      "minter": "tz1dEXH1Qzm8cYHBuykJ7DLZw2zvK7wqtoxP",
+      "fxparams": "",
+      "owner": "tz1W3kA8oQ6RdaPAdUaV5os3CuqE6rFw7Qx7",
+      "thumbnailUri": "ipfs://QmZhPJgxsj64zAPssBnvYKHsw3PbLSwqxTYhtosh1jM1uy",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "opSNmdKJxxynXs9cURihrJPavh3j7nVVkryAH4W3qQVaZGkbako",
+        "iteration": 92,
+        "minter": "tz1dEXH1Qzm8cYHBuykJ7DLZw2zvK7wqtoxP",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074150,
+      "name": "Zbageti #93",
+      "iteration": 93,
+      "fxhash": "ootpH41LjXs1WTgPM9KYEhMDFzA1VegWcpnSvJPPgZ4oCEZRvhL",
+      "minter": "tz1LMSy1LfnQMTYnepFE2ZAQPxhL91dUApK2",
+      "fxparams": "",
+      "owner": "tz2KDeWyeCeu2eZYLav9PrRAQmFCyESNF4Es",
+      "thumbnailUri": "ipfs://QmXW3EEta6Z8tLhVCUgKrFQbq67NxphLhGdNdUFtXQjGoH",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "ootpH41LjXs1WTgPM9KYEhMDFzA1VegWcpnSvJPPgZ4oCEZRvhL",
+        "iteration": 93,
+        "minter": "tz1LMSy1LfnQMTYnepFE2ZAQPxhL91dUApK2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074151,
+      "name": "Zbageti #94",
+      "iteration": 94,
+      "fxhash": "op7wcViWdmA8mfJmnmFJpC2fsAZ51kCT7JCxdw2BttawvGFBT28",
+      "minter": "tz1bKAVWNtaDnbx4voU6jUXm8spX12xTTudo",
+      "fxparams": "",
+      "owner": "tz1N64TWNCZR3yJZmmzBE4DRidN1tCaZCw8Q",
+      "thumbnailUri": "ipfs://QmWTfdmZXL8wna2manQWrRpWoRQqAnAzEt2tcT89ztR5BC",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op7wcViWdmA8mfJmnmFJpC2fsAZ51kCT7JCxdw2BttawvGFBT28",
+        "iteration": 94,
+        "minter": "tz1bKAVWNtaDnbx4voU6jUXm8spX12xTTudo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074163,
+      "name": "Zbageti #95",
+      "iteration": 95,
+      "fxhash": "onuu5aXTuaY77jsgfDWaSfnkUaKezytexwceHwWZwLdf5X6iM5e",
+      "minter": "tz1KseHTTyqJNcd5Jt8nGJgQw3Kd8VQ9qvth",
+      "fxparams": "",
+      "owner": "tz1NBuUcLnVJ7oCjxNd35k3ftvsZTGGcvV6w",
+      "thumbnailUri": "ipfs://Qmch3jTrkwfzCxJrG9iad57y7KHK2c24SToaQfj4aJZRSt",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onuu5aXTuaY77jsgfDWaSfnkUaKezytexwceHwWZwLdf5X6iM5e",
+        "iteration": 95,
+        "minter": "tz1KseHTTyqJNcd5Jt8nGJgQw3Kd8VQ9qvth",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074170,
+      "name": "Zbageti #96",
+      "iteration": 96,
+      "fxhash": "onxvPT6mNACwigBLqvgZ1QrgBQa6HGsHKqCLmxdx5WoXfUy69er",
+      "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "fxparams": "",
+      "owner": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "thumbnailUri": "ipfs://QmNigEnKKJYWDeKvwD4wMJDRdLSX6xLtEPe96UF76y2oeQ",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onxvPT6mNACwigBLqvgZ1QrgBQa6HGsHKqCLmxdx5WoXfUy69er",
+        "iteration": 96,
+        "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074173,
+      "name": "Zbageti #97",
+      "iteration": 97,
+      "fxhash": "op4RmSH7AfgZM4YsZPfwQZPJeJP3ZmPeVhyr8iyvqe5d2ba6E8z",
+      "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "fxparams": "",
+      "owner": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "thumbnailUri": "ipfs://QmUaYA5P8iWXUBbncV7f9WND5HJGE4Keva6s2trWafafP9",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "op4RmSH7AfgZM4YsZPfwQZPJeJP3ZmPeVhyr8iyvqe5d2ba6E8z",
+        "iteration": 97,
+        "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074174,
+      "name": "Zbageti #98",
+      "iteration": 98,
+      "fxhash": "oonjYsxWTqHHQLBoPM6t9s6K81KZ4JXKoxCqaE552VScun4rsLw",
+      "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "fxparams": "",
+      "owner": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "thumbnailUri": "ipfs://QmW2k6tECPwdTrjEBv7TAWLQo5D6jUiWhgpyYKCKhxJ9cx",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oonjYsxWTqHHQLBoPM6t9s6K81KZ4JXKoxCqaE552VScun4rsLw",
+        "iteration": 98,
+        "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074177,
+      "name": "Zbageti #99",
+      "iteration": 99,
+      "fxhash": "onfKb7GN3KX4dTAshz1qAKbcyfrKfqayFiEirrU9343GvRxJ83W",
+      "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "fxparams": "",
+      "owner": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "thumbnailUri": "ipfs://QmUrCqHuP9FSq9F51nf7nRMeXzQEXYcWASRACkNGmWkYgN",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "onfKb7GN3KX4dTAshz1qAKbcyfrKfqayFiEirrU9343GvRxJ83W",
+        "iteration": 99,
+        "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1074178,
+      "name": "Zbageti #100",
+      "iteration": 100,
+      "fxhash": "oogBfgp5VspQTyK4Y1cFq9Esjf5WN6TurNyRffAGyhYkuyUEswM",
+      "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "fxparams": "",
+      "owner": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+      "thumbnailUri": "ipfs://QmTLJvvaeM9ERyWsMVpmCkxngL8JhRBvycDnBSpqJe4Js7",
+      "generativeUri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+      "viewerParams": {
+        "uri": "ipfs://QmSiNazFMBbanXs6yHrEMLvaZFJc3JJixDPvM7CGSfARSh",
+        "fxhash": "oogBfgp5VspQTyK4Y1cFq9Esjf5WN6TurNyRffAGyhYkuyUEswM",
+        "iteration": 100,
+        "minter": "tz1amUZ31Ua4qDTNXvRRs1CFYn415xEWq5Kb",
+        "fxparams": ""
+      }
+    }
+  ]
+}

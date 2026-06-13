@@ -1,0 +1,179 @@
+{
+  "project": {
+    "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧",
+    "artist": "Daniel Oropeza",
+    "artists": [
+      "Daniel Oropeza"
+    ],
+    "contract": "KT1EfsNuqwLAWDd3o4pvfUx1CAh5GMdTrRvr",
+    "chain": "tezos",
+    "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+    "totalSupply": 9,
+    "extractedAt": "2026-06-13T14:43:58.673Z",
+    "source": "fxhash-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 60905,
+      "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 #1",
+      "iteration": 1,
+      "fxhash": "onmhQq2roFq2wAe8o5wTPyw9vqCEAbNeztBmXG67mvYzkdSEFaT",
+      "minter": "tz29kBPKt2LwcjC7vSLichgD9zyJAF52Uous",
+      "fxparams": "",
+      "owner": "tz29kBPKt2LwcjC7vSLichgD9zyJAF52Uous",
+      "thumbnailUri": "ipfs://QmTCZPUswCYjhmTGqUCvRrRsBbmvsnAAnqYmo1zT633Vaj",
+      "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+      "viewerParams": {
+        "uri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+        "fxhash": "onmhQq2roFq2wAe8o5wTPyw9vqCEAbNeztBmXG67mvYzkdSEFaT",
+        "iteration": 1,
+        "minter": "tz29kBPKt2LwcjC7vSLichgD9zyJAF52Uous",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 60907,
+      "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 #2",
+      "iteration": 2,
+      "fxhash": "opV4dbyKgyxYQf8vFn6QXS675FbKvYNyufdrreXAPCemdgqkZBh",
+      "minter": "tz2Pr4TedPb5UxE4af5SXXy4Jauj58pEFGG1",
+      "fxparams": "",
+      "owner": "tz2Pr4TedPb5UxE4af5SXXy4Jauj58pEFGG1",
+      "thumbnailUri": "ipfs://QmbGeopvQ8CZrGDh44ZGYH1ymRmDTZLRR9ug4uVsocJbeb",
+      "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+      "viewerParams": {
+        "uri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+        "fxhash": "opV4dbyKgyxYQf8vFn6QXS675FbKvYNyufdrreXAPCemdgqkZBh",
+        "iteration": 2,
+        "minter": "tz2Pr4TedPb5UxE4af5SXXy4Jauj58pEFGG1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 60949,
+      "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 #3",
+      "iteration": 3,
+      "fxhash": "opEcHdSJNLuLb9ZoAXWU9wRrxhjkKqFHmvqZTzbAY4APeiWNjfn",
+      "minter": "tz1L5FwzJ2HYAiZonZhDbHXHUBT4yvEkfWLV",
+      "fxparams": "",
+      "owner": "tz1L5FwzJ2HYAiZonZhDbHXHUBT4yvEkfWLV",
+      "thumbnailUri": "ipfs://QmPCpNUaBQ4PArAvgmV5Qx9WuhxHVj6DMzXrhMUFuMmAaN",
+      "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+      "viewerParams": {
+        "uri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+        "fxhash": "opEcHdSJNLuLb9ZoAXWU9wRrxhjkKqFHmvqZTzbAY4APeiWNjfn",
+        "iteration": 3,
+        "minter": "tz1L5FwzJ2HYAiZonZhDbHXHUBT4yvEkfWLV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 60975,
+      "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 #4",
+      "iteration": 4,
+      "fxhash": "ooU593VQtte5Xpek34nYVjLbUWGtsGFwQdaikYE23rQVJtWarqG",
+      "minter": "tz1TZGnYQdiuycSpNHuBP91uXyQ8pzkjifue",
+      "fxparams": "",
+      "owner": "tz1TZGnYQdiuycSpNHuBP91uXyQ8pzkjifue",
+      "thumbnailUri": "ipfs://QmUfBgoAu5TBKDhMpcarY7E91svXupRNfLqCVaND9q8o7w",
+      "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+      "viewerParams": {
+        "uri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+        "fxhash": "ooU593VQtte5Xpek34nYVjLbUWGtsGFwQdaikYE23rQVJtWarqG",
+        "iteration": 4,
+        "minter": "tz1TZGnYQdiuycSpNHuBP91uXyQ8pzkjifue",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 61108,
+      "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 #5",
+      "iteration": 5,
+      "fxhash": "onsYHEWp3wTCq7J3wuT68kdLijbS6GYfugDrR1LdsVtCpWDkaXs",
+      "minter": "tz1h4Bn4B8AJWqjnD77qLYEWsCcg6XuG5feo",
+      "fxparams": "",
+      "owner": "tz1h4Bn4B8AJWqjnD77qLYEWsCcg6XuG5feo",
+      "thumbnailUri": "ipfs://Qmbu46TFNwRvUEk4J4YMuLj8uiXuN2JiSMv2BgyN7pGu9j",
+      "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+      "viewerParams": {
+        "uri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+        "fxhash": "onsYHEWp3wTCq7J3wuT68kdLijbS6GYfugDrR1LdsVtCpWDkaXs",
+        "iteration": 5,
+        "minter": "tz1h4Bn4B8AJWqjnD77qLYEWsCcg6XuG5feo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 61109,
+      "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 #6",
+      "iteration": 6,
+      "fxhash": "ooE5GKLYoYBTooXDZ19NWz34iXMsYMjevtvBkFneU8qAvm45P5K",
+      "minter": "tz1a7stoSYQgCXe191eBXJFjfsQABYD5FAUb",
+      "fxparams": "",
+      "owner": "tz1a7stoSYQgCXe191eBXJFjfsQABYD5FAUb",
+      "thumbnailUri": "ipfs://QmeLPMryCVPM3QSiFbDqun2L2ZGpnJAy4oBv7FZhTBu6k9",
+      "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+      "viewerParams": {
+        "uri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+        "fxhash": "ooE5GKLYoYBTooXDZ19NWz34iXMsYMjevtvBkFneU8qAvm45P5K",
+        "iteration": 6,
+        "minter": "tz1a7stoSYQgCXe191eBXJFjfsQABYD5FAUb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 61190,
+      "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 #7",
+      "iteration": 7,
+      "fxhash": "ooY1on28VjSc3Er63jn24kgXokwKQkzvtjvC6LdSxLQcydEcHwg",
+      "minter": "tz1VFZJdgCUBB1YAPELmj1bh5nkp1TAr6RRH",
+      "fxparams": "",
+      "owner": "tz1VFZJdgCUBB1YAPELmj1bh5nkp1TAr6RRH",
+      "thumbnailUri": "ipfs://QmeNjud9dsdsBUW8pZiCQVBQXV75A6Fa6CrZTqqnxBzSGX",
+      "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+      "viewerParams": {
+        "uri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+        "fxhash": "ooY1on28VjSc3Er63jn24kgXokwKQkzvtjvC6LdSxLQcydEcHwg",
+        "iteration": 7,
+        "minter": "tz1VFZJdgCUBB1YAPELmj1bh5nkp1TAr6RRH",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 61763,
+      "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 #8",
+      "iteration": 8,
+      "fxhash": "onmEbRSqw64TtSpzoyRcZ2UC7Z3xNBV1ct3ctvEAdkSfTnQPUHz",
+      "minter": "tz1N53ukDnVVkuqa4LNFTrbTMvFNj48xAxsS",
+      "fxparams": "",
+      "owner": "tz1N53ukDnVVkuqa4LNFTrbTMvFNj48xAxsS",
+      "thumbnailUri": "ipfs://QmRPnNoQ4T6o6WQMaKfTq47YqH9wSon1LsTBmqMoiCmLrY",
+      "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+      "viewerParams": {
+        "uri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+        "fxhash": "onmEbRSqw64TtSpzoyRcZ2UC7Z3xNBV1ct3ctvEAdkSfTnQPUHz",
+        "iteration": 8,
+        "minter": "tz1N53ukDnVVkuqa4LNFTrbTMvFNj48xAxsS",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 61768,
+      "name": "𝐖𝐢𝐥𝐝 𝐀𝐛𝐬𝐭𝐫𝐚𝐜𝐭𝐢𝐨𝐧 #9",
+      "iteration": 9,
+      "fxhash": "ooxBCBvWfxqTFYHVTjUgxq4hmDtRg4durnSbUGyMhkXVXXXvD5h",
+      "minter": "tz1Tw3CjVAPyxRWs2zzoaY4ydKyh4CEY7Qv6",
+      "fxparams": "",
+      "owner": "tz1Tw3CjVAPyxRWs2zzoaY4ydKyh4CEY7Qv6",
+      "thumbnailUri": "ipfs://QmQUZtoEEUhMck9rumb1W2JuhZ8m499MvLft3LhQmhSK8R",
+      "generativeUri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+      "viewerParams": {
+        "uri": "ipfs://QmPAPasGbpvKadzpF8RdmmtBKq2fbiRoXwmhEwvjteZ1jV",
+        "fxhash": "ooxBCBvWfxqTFYHVTjUgxq4hmDtRg4durnSbUGyMhkXVXXXvD5h",
+        "iteration": 9,
+        "minter": "tz1Tw3CjVAPyxRWs2zzoaY4ydKyh4CEY7Qv6",
+        "fxparams": ""
+      }
+    }
+  ]
+}

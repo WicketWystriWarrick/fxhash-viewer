@@ -1,0 +1,1169 @@
+{
+  "project": {
+    "name": "Un bouquet pour Papa",
+    "artist": "0xma",
+    "artists": [
+      "0xma"
+    ],
+    "contract": "KT1U6EHmNxJTkvaWJ4ThczG4FSDaHC21ssvi",
+    "chain": "tezos",
+    "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+    "totalSupply": 64,
+    "extractedAt": "2026-06-13T14:43:33.930Z",
+    "source": "fxhash-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 1166542,
+      "name": "Un bouquet pour Papa #1",
+      "iteration": 1,
+      "fxhash": "opCFe9e4dnAjuZdda9YNiyYj8hgRFwMt1HsWBXadWyisW1VJSea",
+      "minter": "tz1XyJeGD8hNMLcVHju6GaNTG3Zj6yLz3mpr",
+      "fxparams": "",
+      "owner": "tz2RXosjAZdS85oCrguy7Eom757144dcU1FT",
+      "thumbnailUri": "ipfs://QmeK9vAqbG8rrGXZK3WxTi7WZ4G5Pmmrq5Xqe685rXSnXL",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opCFe9e4dnAjuZdda9YNiyYj8hgRFwMt1HsWBXadWyisW1VJSea",
+        "iteration": 1,
+        "minter": "tz1XyJeGD8hNMLcVHju6GaNTG3Zj6yLz3mpr",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166670,
+      "name": "Un bouquet pour Papa #2",
+      "iteration": 2,
+      "fxhash": "op7G8P4VT3vsPvs6x91PJAzofDgZDscQq2Ls3LFqLHACnGixayk",
+      "minter": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+      "fxparams": "",
+      "owner": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+      "thumbnailUri": "ipfs://QmVG9efAD16BQzrWq697zrvha8zWFWHUJ6ZSPd11BC9keA",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "op7G8P4VT3vsPvs6x91PJAzofDgZDscQq2Ls3LFqLHACnGixayk",
+        "iteration": 2,
+        "minter": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166860,
+      "name": "Un bouquet pour Papa #3",
+      "iteration": 3,
+      "fxhash": "ooFxAWzdGp599J5aArDjg5NToJw4mJJkThm4bL3RDeMsEsQ9UmE",
+      "minter": "tz1ejxAvgwpHFGuZFhJ9dGCfPACR7gbNcTP2",
+      "fxparams": "",
+      "owner": "tz1iUBEpt2VA2RA1CsHMKcne4MUhvNV7hT3z",
+      "thumbnailUri": "ipfs://QmYBy9aQwoZNiARSJkcC2XbUiWAsoCGiThBpLMGZjExEeq",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooFxAWzdGp599J5aArDjg5NToJw4mJJkThm4bL3RDeMsEsQ9UmE",
+        "iteration": 3,
+        "minter": "tz1ejxAvgwpHFGuZFhJ9dGCfPACR7gbNcTP2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166862,
+      "name": "Un bouquet pour Papa #4",
+      "iteration": 4,
+      "fxhash": "ooLCjPGcsAUbSX7PaRUKJznW5voqEs1Eb3LpipggbTeetHjnB2Q",
+      "minter": "tz1gHKwt2rFCiTSMTQxNCAbKPTAby1V8it1z",
+      "fxparams": "",
+      "owner": "tz1NMvVB48fNzrG3rPZS58Eo1nSJ6p3RjRyz",
+      "thumbnailUri": "ipfs://QmZT8iCS8NjCaAprq2pmGq31BWf9xCwraotpo2kLtf2k8b",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooLCjPGcsAUbSX7PaRUKJznW5voqEs1Eb3LpipggbTeetHjnB2Q",
+        "iteration": 4,
+        "minter": "tz1gHKwt2rFCiTSMTQxNCAbKPTAby1V8it1z",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166863,
+      "name": "Un bouquet pour Papa #5",
+      "iteration": 5,
+      "fxhash": "ooBkUg24Dv88mL5G5G3VYt8k5QjnmrDJXNf6UhL5SuqjUzv6cZF",
+      "minter": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+      "fxparams": "",
+      "owner": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+      "thumbnailUri": "ipfs://Qmeq6owh8F6coxxdsgiMsvH3xGovAhkZZ4RZNZhEHGjiEx",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooBkUg24Dv88mL5G5G3VYt8k5QjnmrDJXNf6UhL5SuqjUzv6cZF",
+        "iteration": 5,
+        "minter": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166864,
+      "name": "Un bouquet pour Papa #6",
+      "iteration": 6,
+      "fxhash": "ootpRunoS7NneQiLNDqyii2HVfWcjUpHqZqN3aY7MAD3ErKofy3",
+      "minter": "tz1fcyoV7wNsLHaE19LbeUcx3t7xJMBT4etk",
+      "fxparams": "",
+      "owner": "tz1fcyoV7wNsLHaE19LbeUcx3t7xJMBT4etk",
+      "thumbnailUri": "ipfs://QmTN52kqwX7R1aXrtnrsY4VyeyzJkKRE5Bq42Sp3eiGfij",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ootpRunoS7NneQiLNDqyii2HVfWcjUpHqZqN3aY7MAD3ErKofy3",
+        "iteration": 6,
+        "minter": "tz1fcyoV7wNsLHaE19LbeUcx3t7xJMBT4etk",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166865,
+      "name": "Un bouquet pour Papa #7",
+      "iteration": 7,
+      "fxhash": "opWNeWcfBq1X1pfUHscS7mnvnFncPmPVUs2fRxhfPbbVDBE7JZ8",
+      "minter": "tz1iG16d1G7jutBWiYmZZqGsrjM3aPbx1VB5",
+      "fxparams": "",
+      "owner": "tz1Yu24ewNX9S5tUMBzBbjMpdwV8zB25dPcq",
+      "thumbnailUri": "ipfs://QmcKyDdD1vWP4o8y1pVJDDNN4fK53ZVk4ctwhzwSrQgg27",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opWNeWcfBq1X1pfUHscS7mnvnFncPmPVUs2fRxhfPbbVDBE7JZ8",
+        "iteration": 7,
+        "minter": "tz1iG16d1G7jutBWiYmZZqGsrjM3aPbx1VB5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166873,
+      "name": "Un bouquet pour Papa #8",
+      "iteration": 8,
+      "fxhash": "opVGNGKHtLr3b82BgqnrtrgbyhGCLTubq9vjhs9fkfFP8zWnp7G",
+      "minter": "tz1PFn43VioBKHUy363FceSKEy7vGhm1Rcqd",
+      "fxparams": "",
+      "owner": "tz1Umh9HtuMmaRjvHW1iCeaTu5HbhbxBDKqD",
+      "thumbnailUri": "ipfs://QmTVbzL8zN1uNuFKnYfWhvCyYcD7Hbi9iwoHb4gaAiNNKo",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opVGNGKHtLr3b82BgqnrtrgbyhGCLTubq9vjhs9fkfFP8zWnp7G",
+        "iteration": 8,
+        "minter": "tz1PFn43VioBKHUy363FceSKEy7vGhm1Rcqd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166875,
+      "name": "Un bouquet pour Papa #9",
+      "iteration": 9,
+      "fxhash": "opJ8tw5ggcVjSPDLZXp42ewvA3tvttphMHkDbPCPzbDrTJeQUhH",
+      "minter": "tz1XpJxHNAjvGrzfvLvu3z2tqE4cqU4pqTtp",
+      "fxparams": "",
+      "owner": "tz1XpJxHNAjvGrzfvLvu3z2tqE4cqU4pqTtp",
+      "thumbnailUri": "ipfs://QmWngTNtCzET96KEYUGxCvB5hksMG8XcAbmyF459BhdWyi",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opJ8tw5ggcVjSPDLZXp42ewvA3tvttphMHkDbPCPzbDrTJeQUhH",
+        "iteration": 9,
+        "minter": "tz1XpJxHNAjvGrzfvLvu3z2tqE4cqU4pqTtp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166876,
+      "name": "Un bouquet pour Papa #10",
+      "iteration": 10,
+      "fxhash": "opCCauLjNwXa9QMJcVjKf3tXtyqb73kvCgN4XBVedrgQfExUpo1",
+      "minter": "tz1cN74fePmR9hW6FkJBVzAWwjsLfxXtczkk",
+      "fxparams": "",
+      "owner": "tz1goDFu5aGo8CveLKJ6XS6ivfotGukgY8gt",
+      "thumbnailUri": "ipfs://QmUZ7f3bKzkGassETpk5AkGe9KpK12zAvbiMaX4FZKL2x5",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opCCauLjNwXa9QMJcVjKf3tXtyqb73kvCgN4XBVedrgQfExUpo1",
+        "iteration": 10,
+        "minter": "tz1cN74fePmR9hW6FkJBVzAWwjsLfxXtczkk",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166877,
+      "name": "Un bouquet pour Papa #11",
+      "iteration": 11,
+      "fxhash": "ooLawHeX696yHcwLpDUme5TwVpd1rFW4BTEXzReEUuNfeBGp7KJ",
+      "minter": "tz1Lgo4CiqAMz61wkdNsNDza6UKj9UVvbrb3",
+      "fxparams": "",
+      "owner": "tz1Lgo4CiqAMz61wkdNsNDza6UKj9UVvbrb3",
+      "thumbnailUri": "ipfs://QmfQ5jMcVt5dR9yeyXEgDZYKWQDUfuMiWbyEbNhFbFpBdW",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooLawHeX696yHcwLpDUme5TwVpd1rFW4BTEXzReEUuNfeBGp7KJ",
+        "iteration": 11,
+        "minter": "tz1Lgo4CiqAMz61wkdNsNDza6UKj9UVvbrb3",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166878,
+      "name": "Un bouquet pour Papa #12",
+      "iteration": 12,
+      "fxhash": "ooSghuaMm1Mo4vW7tJTwu1MshrUMB96iWEkG9fax2pBuA6BP5SH",
+      "minter": "tz1asdA3hubZm543qdD4SsV4hH6KhPG8r4bj",
+      "fxparams": "",
+      "owner": "tz1asdA3hubZm543qdD4SsV4hH6KhPG8r4bj",
+      "thumbnailUri": "ipfs://QmUg1HB1QSnKFx69XHR8DB9mYdYreTqkvqbLCPLMLeHBwx",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooSghuaMm1Mo4vW7tJTwu1MshrUMB96iWEkG9fax2pBuA6BP5SH",
+        "iteration": 12,
+        "minter": "tz1asdA3hubZm543qdD4SsV4hH6KhPG8r4bj",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166879,
+      "name": "Un bouquet pour Papa #13",
+      "iteration": 13,
+      "fxhash": "ooVcgTeXv8qVVUUozKhqJC3cPmU45ZJ5HCDWUpoLwt3D9GoK4P6",
+      "minter": "tz1iCWKj4FLFeBSr5rPH3rdFCedg4RWrqh9w",
+      "fxparams": "",
+      "owner": "tz1fgrhpCz2SdsJhQCWMeqcXa7kHgK9fuEPH",
+      "thumbnailUri": "ipfs://QmWWnKcmbeWqMXy7usTk1L5uHuAwhzg7KvCXu5rz39ufZ8",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooVcgTeXv8qVVUUozKhqJC3cPmU45ZJ5HCDWUpoLwt3D9GoK4P6",
+        "iteration": 13,
+        "minter": "tz1iCWKj4FLFeBSr5rPH3rdFCedg4RWrqh9w",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166880,
+      "name": "Un bouquet pour Papa #14",
+      "iteration": 14,
+      "fxhash": "opVJFxX8FFKKppRGWZWgwq1ATjdZaydstCcWmPoH49gpEq6qbQr",
+      "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "fxparams": "",
+      "owner": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "thumbnailUri": "ipfs://Qmb2vDtoittLGdqbKSWrMF2J6K8YRoKKGGASraVEEKJnfE",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opVJFxX8FFKKppRGWZWgwq1ATjdZaydstCcWmPoH49gpEq6qbQr",
+        "iteration": 14,
+        "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166884,
+      "name": "Un bouquet pour Papa #15",
+      "iteration": 15,
+      "fxhash": "oocVsAu2KDdqzurgv8hGm9Q1Pxh44NUvvihoi1ZSfQsBzMewoLP",
+      "minter": "tz1aCrnJwKayMTeABWVMuVj4kMUoYptVJcYW",
+      "fxparams": "",
+      "owner": "tz1RnJG1MLR2eTSVNXFvZPMd1ck8SNRN2f3w",
+      "thumbnailUri": "ipfs://QmcKaW1oqVCsPFNmEvnNnRjp174xpyKeuvqnctJGgfAogL",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oocVsAu2KDdqzurgv8hGm9Q1Pxh44NUvvihoi1ZSfQsBzMewoLP",
+        "iteration": 15,
+        "minter": "tz1aCrnJwKayMTeABWVMuVj4kMUoYptVJcYW",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166886,
+      "name": "Un bouquet pour Papa #16",
+      "iteration": 16,
+      "fxhash": "oobM595wfYSG2gRDDM3RW2jXcyFmKPnmwC6MV1nobHF4nQEPHx3",
+      "minter": "tz1cHT6KCYyoUX8QnDc6RJD7mx8ZCaN9Lj4E",
+      "fxparams": "",
+      "owner": "tz1cD2TEyfuEgzvUtTzdBAPAGJytdhCcpa2U",
+      "thumbnailUri": "ipfs://QmSyxNfAAa9bu3xoiXEzqwpztLt7L51Kdv3JU8Gk4DEyP7",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oobM595wfYSG2gRDDM3RW2jXcyFmKPnmwC6MV1nobHF4nQEPHx3",
+        "iteration": 16,
+        "minter": "tz1cHT6KCYyoUX8QnDc6RJD7mx8ZCaN9Lj4E",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166887,
+      "name": "Un bouquet pour Papa #17",
+      "iteration": 17,
+      "fxhash": "opQbM4gwVvzMpwviWeBfgYeWrau7MumgbjnZLaav7tJQc5WjJym",
+      "minter": "tz1fcyoV7wNsLHaE19LbeUcx3t7xJMBT4etk",
+      "fxparams": "",
+      "owner": "tz1fcyoV7wNsLHaE19LbeUcx3t7xJMBT4etk",
+      "thumbnailUri": "ipfs://QmbP48Qd7Z9tmPpdJGjBHmy16D7Sf9bPs3Kz8JefrkRdcu",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opQbM4gwVvzMpwviWeBfgYeWrau7MumgbjnZLaav7tJQc5WjJym",
+        "iteration": 17,
+        "minter": "tz1fcyoV7wNsLHaE19LbeUcx3t7xJMBT4etk",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166896,
+      "name": "Un bouquet pour Papa #18",
+      "iteration": 18,
+      "fxhash": "ooao55gnDrdmksZJu96ZGCMFmWaF55g2fycdkKqKXd96U1akAAN",
+      "minter": "tz1MgYSz47CAS1STxfyQsBKSrjGKMLV6tLys",
+      "fxparams": "",
+      "owner": "tz1MgYSz47CAS1STxfyQsBKSrjGKMLV6tLys",
+      "thumbnailUri": "ipfs://QmfLKPn55EvCQiQLkFDKDerY8Yab6a9QGCFzsN1jEFNQHz",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooao55gnDrdmksZJu96ZGCMFmWaF55g2fycdkKqKXd96U1akAAN",
+        "iteration": 18,
+        "minter": "tz1MgYSz47CAS1STxfyQsBKSrjGKMLV6tLys",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166898,
+      "name": "Un bouquet pour Papa #19",
+      "iteration": 19,
+      "fxhash": "onxLX7tW2AQDUsAm1AMrntNfHk6x1tpHyCmGDsryyzFgZk76ws3",
+      "minter": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+      "fxparams": "",
+      "owner": "tz1N8zighdJHWZtmsHrtyaJQpPkDBEMJn9H9",
+      "thumbnailUri": "ipfs://QmPn2emRg4WmeUyyxX33EWr8jmLJiQHkKZQpp5xjbaVBuu",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "onxLX7tW2AQDUsAm1AMrntNfHk6x1tpHyCmGDsryyzFgZk76ws3",
+        "iteration": 19,
+        "minter": "tz1MjpCteKcQwWFJAgGR9NYEcWdcsdVFxSo2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166911,
+      "name": "Un bouquet pour Papa #20",
+      "iteration": 20,
+      "fxhash": "op42VWNQYSzhUxmpaxNxKfvrxTMKqyEWkR8doWvCpscbJCAL9SL",
+      "minter": "tz1bTb1TkHCP6CEK9fFiCaMrJLtWXpM6yjva",
+      "fxparams": "",
+      "owner": "tz1g8m5zhEYGaPA7KGa6PhM6CUk8ayaavHV6",
+      "thumbnailUri": "ipfs://Qmc7LENcfk1FYocQvpyVCdQr6MxD8YpP2pD1PH3Xr5SXbA",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "op42VWNQYSzhUxmpaxNxKfvrxTMKqyEWkR8doWvCpscbJCAL9SL",
+        "iteration": 20,
+        "minter": "tz1bTb1TkHCP6CEK9fFiCaMrJLtWXpM6yjva",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166912,
+      "name": "Un bouquet pour Papa #21",
+      "iteration": 21,
+      "fxhash": "oni8sBp9sJysgn96twVJxA5hai7Com8sXTHsriSR6pqmdXJhAUC",
+      "minter": "tz1Yxu43AfJGGzqLGcKhdEHBDUq6vjsPxgks",
+      "fxparams": "",
+      "owner": "tz1cS7jMUDbHGjzeyJ9tQMkXjWoYvc3qK555",
+      "thumbnailUri": "ipfs://QmVj8fLi94WMV3uzNWCyJLLa3kU4e692aFcGCgg7CrBj5V",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oni8sBp9sJysgn96twVJxA5hai7Com8sXTHsriSR6pqmdXJhAUC",
+        "iteration": 21,
+        "minter": "tz1Yxu43AfJGGzqLGcKhdEHBDUq6vjsPxgks",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166915,
+      "name": "Un bouquet pour Papa #22",
+      "iteration": 22,
+      "fxhash": "ooYfJKmBNsBmN9jiCSqWNykiHYvnz9uYaaVLErGh2ZeamRNBHDD",
+      "minter": "tz1NN5Gdj7gnGZiJSsKRx9d7mFJVu2Wy2Tp8",
+      "fxparams": "",
+      "owner": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+      "thumbnailUri": "ipfs://QmSo2EMMyDbpfeivctMxheUb27X36k8Z1Wy11Q8DvPvpZ1",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooYfJKmBNsBmN9jiCSqWNykiHYvnz9uYaaVLErGh2ZeamRNBHDD",
+        "iteration": 22,
+        "minter": "tz1NN5Gdj7gnGZiJSsKRx9d7mFJVu2Wy2Tp8",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166916,
+      "name": "Un bouquet pour Papa #23",
+      "iteration": 23,
+      "fxhash": "op18RuLqZN5UTp5s9F5fQE4uFf3wCxe2n4ibrdRWKFsQZVzvVKg",
+      "minter": "tz1gHKwt2rFCiTSMTQxNCAbKPTAby1V8it1z",
+      "fxparams": "",
+      "owner": "tz1LU8FFJ8P28RXRGvBPmgDuVykknUtMKJhi",
+      "thumbnailUri": "ipfs://QmVBm31EMFZmpuvC1EJpzVGHYvehcxMCnJSWgg3CUZv6K5",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "op18RuLqZN5UTp5s9F5fQE4uFf3wCxe2n4ibrdRWKFsQZVzvVKg",
+        "iteration": 23,
+        "minter": "tz1gHKwt2rFCiTSMTQxNCAbKPTAby1V8it1z",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166919,
+      "name": "Un bouquet pour Papa #24",
+      "iteration": 24,
+      "fxhash": "opVrUbWdybqHnTfzRFgiuysurNYD26rXPC1t5jJje1tHTKE9uZs",
+      "minter": "tz1ifq2XczVkQsyiN73Hqxnnqs692jdtEoam",
+      "fxparams": "",
+      "owner": "tz1ifq2XczVkQsyiN73Hqxnnqs692jdtEoam",
+      "thumbnailUri": "ipfs://QmXctxfCzyiXKWauW7KTJPmVB6zsCwBgy232Lnxpyrzyw9",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opVrUbWdybqHnTfzRFgiuysurNYD26rXPC1t5jJje1tHTKE9uZs",
+        "iteration": 24,
+        "minter": "tz1ifq2XczVkQsyiN73Hqxnnqs692jdtEoam",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166921,
+      "name": "Un bouquet pour Papa #25",
+      "iteration": 25,
+      "fxhash": "ooSNcuUVdVei7B76qhYJSwmc5oVaAT4qGVUR1YWsE3yYYi8fsDZ",
+      "minter": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+      "fxparams": "",
+      "owner": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+      "thumbnailUri": "ipfs://QmSCF45yVks46RYtVwYskN4PrjVuRKWMCCCzRcnanp45be",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooSNcuUVdVei7B76qhYJSwmc5oVaAT4qGVUR1YWsE3yYYi8fsDZ",
+        "iteration": 25,
+        "minter": "tz1atty2sByMsyAAN18X8Yk5JrtU7N2XF6yT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166932,
+      "name": "Un bouquet pour Papa #26",
+      "iteration": 26,
+      "fxhash": "opMCuauz9JxrxURy1SmKNDEqp7NWSVwFdNfxhCe1YR4hmfntgts",
+      "minter": "tz1bTb1TkHCP6CEK9fFiCaMrJLtWXpM6yjva",
+      "fxparams": "",
+      "owner": "tz1bTb1TkHCP6CEK9fFiCaMrJLtWXpM6yjva",
+      "thumbnailUri": "ipfs://Qmah3nVK6WR6jr9UWLyoYc3oVcTC1yvTLE7Y9V1viQ5n3e",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opMCuauz9JxrxURy1SmKNDEqp7NWSVwFdNfxhCe1YR4hmfntgts",
+        "iteration": 26,
+        "minter": "tz1bTb1TkHCP6CEK9fFiCaMrJLtWXpM6yjva",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166937,
+      "name": "Un bouquet pour Papa #27",
+      "iteration": 27,
+      "fxhash": "oor9qYEvE3QqfU3nQETFf41aEuLSYpZeiggpMCyzAhKi5Y9DwqG",
+      "minter": "tz2N7vizqwuzSwK6uV1srNvDyEFSEsJuo1KQ",
+      "fxparams": "",
+      "owner": "tz1io5LYvPmVfFFq6z6LTf1umVbirSsd22rD",
+      "thumbnailUri": "ipfs://QmR7PCH2SKT3cSQVDdo68hCpFcyZmiQJxh68UBdVYE9idA",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oor9qYEvE3QqfU3nQETFf41aEuLSYpZeiggpMCyzAhKi5Y9DwqG",
+        "iteration": 27,
+        "minter": "tz2N7vizqwuzSwK6uV1srNvDyEFSEsJuo1KQ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1166955,
+      "name": "Un bouquet pour Papa #28",
+      "iteration": 28,
+      "fxhash": "ooiMnhVZBBpiWqbXXZUubw6FjwRfSz2qqH5JquCsfmJZudi7Y6B",
+      "minter": "tz1TFjv1rC41koxYBVczv4zwVqDSs9xNDvZ1",
+      "fxparams": "",
+      "owner": "tz1Umh9HtuMmaRjvHW1iCeaTu5HbhbxBDKqD",
+      "thumbnailUri": "ipfs://QmXxSxoBF8FLsKkK4SxMav41T7Xh3dLYCDgCiUF2UdoYGK",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooiMnhVZBBpiWqbXXZUubw6FjwRfSz2qqH5JquCsfmJZudi7Y6B",
+        "iteration": 28,
+        "minter": "tz1TFjv1rC41koxYBVczv4zwVqDSs9xNDvZ1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167065,
+      "name": "Un bouquet pour Papa #29",
+      "iteration": 29,
+      "fxhash": "oo2P5c4cuXQpXJk3SMucyjqP5wmxLWSvXeQnA7RNJ7pisEUti23",
+      "minter": "tz1NRhXR6Abru7tZ28MVEpfPiTGsZbZpBEeS",
+      "fxparams": "",
+      "owner": "tz1fUw1Xkfg522z6gfJqHzxXz4v9tUSh9jXF",
+      "thumbnailUri": "ipfs://QmQUP88kGGsTcTXvF6GRouedp7B6wJhPfkjQwUxK7zb1be",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oo2P5c4cuXQpXJk3SMucyjqP5wmxLWSvXeQnA7RNJ7pisEUti23",
+        "iteration": 29,
+        "minter": "tz1NRhXR6Abru7tZ28MVEpfPiTGsZbZpBEeS",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167163,
+      "name": "Un bouquet pour Papa #30",
+      "iteration": 30,
+      "fxhash": "ooUySJMW5pTQ7vSgVtX3rZzsuehVgirtEHo8BSziAxiJKnKqcjg",
+      "minter": "tz1h26D7vVgCar7Ht8qGxuWJB2L12ovPWzKW",
+      "fxparams": "",
+      "owner": "tz1ii7PQ6nFVnoPXgu6C8zthjL3RvWPnHMBr",
+      "thumbnailUri": "ipfs://QmWXe7VtQYkiZrN8FG9K8CY52mr6kc289WTeaAGGz7qKJZ",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooUySJMW5pTQ7vSgVtX3rZzsuehVgirtEHo8BSziAxiJKnKqcjg",
+        "iteration": 30,
+        "minter": "tz1h26D7vVgCar7Ht8qGxuWJB2L12ovPWzKW",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167172,
+      "name": "Un bouquet pour Papa #31",
+      "iteration": 31,
+      "fxhash": "ooD47EVqZqmcg3w5K7D39DVGdA6hRUfueFEZKF5t5gNfAzcvEJg",
+      "minter": "tz1gPGEQwGDKGTRN2TQ6Bf9g8sgcB8tTgcZZ",
+      "fxparams": "",
+      "owner": "tz1gPGEQwGDKGTRN2TQ6Bf9g8sgcB8tTgcZZ",
+      "thumbnailUri": "ipfs://QmUN6VSNcnSFUfPibSRCH5YSUPpQCUgyM456MDTR1CGq3U",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooD47EVqZqmcg3w5K7D39DVGdA6hRUfueFEZKF5t5gNfAzcvEJg",
+        "iteration": 31,
+        "minter": "tz1gPGEQwGDKGTRN2TQ6Bf9g8sgcB8tTgcZZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167205,
+      "name": "Un bouquet pour Papa #32",
+      "iteration": 32,
+      "fxhash": "onsoNzebyixdf8MN9n1uXpFyFv4SBnek5JiXCbERcyiQonXaYk6",
+      "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+      "fxparams": "",
+      "owner": "tz1gL9kgJu6e9xM6gUWFStS9R13zmcdn3mPV",
+      "thumbnailUri": "ipfs://QmSrPf7yQMXgrqQ3KUNrpRG913HGn42JbpTWKKDxr8GB8y",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "onsoNzebyixdf8MN9n1uXpFyFv4SBnek5JiXCbERcyiQonXaYk6",
+        "iteration": 32,
+        "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167208,
+      "name": "Un bouquet pour Papa #33",
+      "iteration": 33,
+      "fxhash": "oop762LyhCCmTJWLUPmzsdcfCpGw419dLS1iY7W4stP6S2DKZzD",
+      "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+      "fxparams": "",
+      "owner": "tz1NKrkJHjubh8ecGkG3u5qDwcL1TAgpGSf7",
+      "thumbnailUri": "ipfs://QmVD6RyeT2CkaT2x2fjX6wEJfNyuwqzTJZDRj4qHtkURdv",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oop762LyhCCmTJWLUPmzsdcfCpGw419dLS1iY7W4stP6S2DKZzD",
+        "iteration": 33,
+        "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167212,
+      "name": "Un bouquet pour Papa #34",
+      "iteration": 34,
+      "fxhash": "ooAwVdx4DNb49fn5TUDtJMzPKP3paotiZ8bGhxBpBmTp9AL2MCg",
+      "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+      "fxparams": "",
+      "owner": "tz1Q8cS4Hhac37jyLe2WNvz8CZZphncV6DMU",
+      "thumbnailUri": "ipfs://QmeMXmtzA7pyhrhQ9hs7sRsbW274mdy1WS1uHPRQmxvfH3",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooAwVdx4DNb49fn5TUDtJMzPKP3paotiZ8bGhxBpBmTp9AL2MCg",
+        "iteration": 34,
+        "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167370,
+      "name": "Un bouquet pour Papa #35",
+      "iteration": 35,
+      "fxhash": "opPTVjdXeKJixMcf3DHodxysX4TS5S82SpVN4KJUbKQvk6shwqv",
+      "minter": "tz1VoR2LqBzgCSrmEB2HQUUgtMgjm6g5kQy2",
+      "fxparams": "",
+      "owner": "tz1VdsJgBJksi1yVFb7iDaMu2GmithRvEihj",
+      "thumbnailUri": "ipfs://QmT7Ye5ueJFKM62GrEuR5PQRDAeb5yCjstcxDRCYvrUqsa",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opPTVjdXeKJixMcf3DHodxysX4TS5S82SpVN4KJUbKQvk6shwqv",
+        "iteration": 35,
+        "minter": "tz1VoR2LqBzgCSrmEB2HQUUgtMgjm6g5kQy2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167388,
+      "name": "Un bouquet pour Papa #36",
+      "iteration": 36,
+      "fxhash": "onydJ8TxutT7wwwHtWRwdfXYVFhz6Pn8yhyGrQDSUKBaLJBL1eS",
+      "minter": "tz1aXGyiGrRMBsax1aTEid7wBCce1YFvvp1q",
+      "fxparams": "",
+      "owner": "tz1aXGyiGrRMBsax1aTEid7wBCce1YFvvp1q",
+      "thumbnailUri": "ipfs://QmPWGrB5EBtf9ArhJ1MacRyKjL7oXFdAj2Ewxjy3cPykto",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "onydJ8TxutT7wwwHtWRwdfXYVFhz6Pn8yhyGrQDSUKBaLJBL1eS",
+        "iteration": 36,
+        "minter": "tz1aXGyiGrRMBsax1aTEid7wBCce1YFvvp1q",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167506,
+      "name": "Un bouquet pour Papa #37",
+      "iteration": 37,
+      "fxhash": "opLwQMBhksVYMGqeQiKgrPsVYKzKfxyk7796SZFGEyBNGSJBaRA",
+      "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://QmddiBLrdY4m9GnQwYqhoUSfL8hFhJ86U15VKJJS4rBQcL",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opLwQMBhksVYMGqeQiKgrPsVYKzKfxyk7796SZFGEyBNGSJBaRA",
+        "iteration": 37,
+        "minter": "tz1V9EauaVkNMQMqzhmVdgZm2sKLaH9GsuRU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167642,
+      "name": "Un bouquet pour Papa #38",
+      "iteration": 38,
+      "fxhash": "ooJWVJpe3qHKzzwgiJovPsNPPRxH3YYtbQAxR4Q7pLrLhNQn8Xx",
+      "minter": "tz1RxdMQhHoQKxmtwqEC8h5yLHVghHdEPqEk",
+      "fxparams": "",
+      "owner": "tz1RxdMQhHoQKxmtwqEC8h5yLHVghHdEPqEk",
+      "thumbnailUri": "ipfs://QmRbg31kZxmwJ6u5ZeJeeWNnKp98U5dNf4RnkQKYQHZbnm",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooJWVJpe3qHKzzwgiJovPsNPPRxH3YYtbQAxR4Q7pLrLhNQn8Xx",
+        "iteration": 38,
+        "minter": "tz1RxdMQhHoQKxmtwqEC8h5yLHVghHdEPqEk",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167644,
+      "name": "Un bouquet pour Papa #39",
+      "iteration": 39,
+      "fxhash": "op7k6noCYxESpyrY5viJbx2VbBGCQprdqQcvhwwkab4nfjVZ4Gu",
+      "minter": "tz1RxdMQhHoQKxmtwqEC8h5yLHVghHdEPqEk",
+      "fxparams": "",
+      "owner": "tz1RxdMQhHoQKxmtwqEC8h5yLHVghHdEPqEk",
+      "thumbnailUri": "ipfs://QmPAwRHbmk9YTFsBaNydaRYTDwRpTWjKzbmHaC3EQ6LZ97",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "op7k6noCYxESpyrY5viJbx2VbBGCQprdqQcvhwwkab4nfjVZ4Gu",
+        "iteration": 39,
+        "minter": "tz1RxdMQhHoQKxmtwqEC8h5yLHVghHdEPqEk",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167654,
+      "name": "Un bouquet pour Papa #40",
+      "iteration": 40,
+      "fxhash": "ooaJqQvkhXSv7SzQ9pwAmQ3CFpjpFkFb5XfHyaR8eUCjr1LgZ7u",
+      "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "fxparams": "",
+      "owner": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+      "thumbnailUri": "ipfs://QmWui9uWS4kUidCKsYNdr1zwckZFyjpH58GSb4MFiVFDuJ",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooaJqQvkhXSv7SzQ9pwAmQ3CFpjpFkFb5XfHyaR8eUCjr1LgZ7u",
+        "iteration": 40,
+        "minter": "tz1TEL6xFJx1hJKukx21NCufAfGEEr9yYoKX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167854,
+      "name": "Un bouquet pour Papa #41",
+      "iteration": 41,
+      "fxhash": "onwjvQyP96wTTfyK6HKRQ1ZgbDih78URUQKASCyYMndPdmZosQp",
+      "minter": "tz1Q6koSLYMvmPn6ZABZ3qV6ejUEqwTfCYqW",
+      "fxparams": "",
+      "owner": "tz1Q6koSLYMvmPn6ZABZ3qV6ejUEqwTfCYqW",
+      "thumbnailUri": "ipfs://Qme7E4f8aMu3YXVfosujNTHCjqrQKaAjJHJLgnYkPQE33J",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "onwjvQyP96wTTfyK6HKRQ1ZgbDih78URUQKASCyYMndPdmZosQp",
+        "iteration": 41,
+        "minter": "tz1Q6koSLYMvmPn6ZABZ3qV6ejUEqwTfCYqW",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167874,
+      "name": "Un bouquet pour Papa #42",
+      "iteration": 42,
+      "fxhash": "opAE3oumMPG8YfjMDVhVkkBd2tWbTQnqcTz4QLQzesiH4F2SUPQ",
+      "minter": "tz2CeapCYrWMZ7jSruo7KJevabwboqHjiwsQ",
+      "fxparams": "",
+      "owner": "tz2CeapCYrWMZ7jSruo7KJevabwboqHjiwsQ",
+      "thumbnailUri": "ipfs://QmetZ5UKj6dKwJ33rxtPQEJUfkfDDFs1gTPFEvAEWENbqg",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opAE3oumMPG8YfjMDVhVkkBd2tWbTQnqcTz4QLQzesiH4F2SUPQ",
+        "iteration": 42,
+        "minter": "tz2CeapCYrWMZ7jSruo7KJevabwboqHjiwsQ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167875,
+      "name": "Un bouquet pour Papa #43",
+      "iteration": 43,
+      "fxhash": "oork7qtMJDASk1oQExBSzet17eNrbqBoSTer3fdmqcS5xMMwCeu",
+      "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "fxparams": "",
+      "owner": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "thumbnailUri": "ipfs://QmSk8E15o7fr7Gn8qMhnDHu2ZqC8ufKYQzsGboeUwhpPfi",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oork7qtMJDASk1oQExBSzet17eNrbqBoSTer3fdmqcS5xMMwCeu",
+        "iteration": 43,
+        "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167879,
+      "name": "Un bouquet pour Papa #44",
+      "iteration": 44,
+      "fxhash": "ooXt3XpuWDifSBnGCNbuP6TzvDUMMTzGNWg7oitfSc5Ji2q5KKp",
+      "minter": "tz1W1GYYv7Lmb4L6SNXv7D3nptnRygoA6AUr",
+      "fxparams": "",
+      "owner": "tz1W1GYYv7Lmb4L6SNXv7D3nptnRygoA6AUr",
+      "thumbnailUri": "ipfs://QmcYTU1KojGr1NeukyNqMQ3YFP5DfyWxeyWGvFgxj51LRa",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooXt3XpuWDifSBnGCNbuP6TzvDUMMTzGNWg7oitfSc5Ji2q5KKp",
+        "iteration": 44,
+        "minter": "tz1W1GYYv7Lmb4L6SNXv7D3nptnRygoA6AUr",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167887,
+      "name": "Un bouquet pour Papa #45",
+      "iteration": 45,
+      "fxhash": "oobZUchXzdFTnPb4oBm6Skcj7TiRoBw1cpVz25ZXf6f4EEn56wP",
+      "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "fxparams": "",
+      "owner": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "thumbnailUri": "ipfs://QmcYxAGbGgy9EDo1jt9MW9fwr1a9BCSbLqaTE6FhEmSWFH",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oobZUchXzdFTnPb4oBm6Skcj7TiRoBw1cpVz25ZXf6f4EEn56wP",
+        "iteration": 45,
+        "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167892,
+      "name": "Un bouquet pour Papa #46",
+      "iteration": 46,
+      "fxhash": "opSSYnqhbFhREwzBcRdvn2UswASF4AjyK1rxjAAK8jBu4Fc23aH",
+      "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "fxparams": "",
+      "owner": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "thumbnailUri": "ipfs://QmXHc11S8A7RH5U9H84EMeSfgtfhwCEnPTpaSPupSRi7cM",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opSSYnqhbFhREwzBcRdvn2UswASF4AjyK1rxjAAK8jBu4Fc23aH",
+        "iteration": 46,
+        "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1167894,
+      "name": "Un bouquet pour Papa #47",
+      "iteration": 47,
+      "fxhash": "ooFndmJV91JZnrFhiidpG7Pb6uysN9pde1Drw75kaeHYXsgeodx",
+      "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "fxparams": "",
+      "owner": "tz1ceASrfmVgYDQagfDaMWbGwQw73KWLyDo6",
+      "thumbnailUri": "ipfs://QmVEqSoCzUS4XiwXKQcM1Hgr6UrURW6vx53vDM5uJsspQc",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "ooFndmJV91JZnrFhiidpG7Pb6uysN9pde1Drw75kaeHYXsgeodx",
+        "iteration": 47,
+        "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1170785,
+      "name": "Un bouquet pour Papa #48",
+      "iteration": 48,
+      "fxhash": "oobpmuN2GcrP35ydewkuddL8SL2pxthd6ach1SxxVK6AASe54r2",
+      "minter": "tz1aRgMh54kYvofN4ZLCv6SquUhD8o7KUS4c",
+      "fxparams": "",
+      "owner": "tz1aRgMh54kYvofN4ZLCv6SquUhD8o7KUS4c",
+      "thumbnailUri": "ipfs://QmSa6e71LKebPBK1p5pPzvtvrpxp7h45R4V6g9vkJVL7sj",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oobpmuN2GcrP35ydewkuddL8SL2pxthd6ach1SxxVK6AASe54r2",
+        "iteration": 48,
+        "minter": "tz1aRgMh54kYvofN4ZLCv6SquUhD8o7KUS4c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1174765,
+      "name": "Un bouquet pour Papa #49",
+      "iteration": 49,
+      "fxhash": "oo4KZNuAGogUdYJhxz1YSULJz3YJdG1zPNbwaEimfhG7CPPq6yC",
+      "minter": "tz1f4imKZTYTJ98bWukhSfXnki87LgV3xEAA",
+      "fxparams": "",
+      "owner": "tz1f4imKZTYTJ98bWukhSfXnki87LgV3xEAA",
+      "thumbnailUri": "ipfs://QmR8sevcY8uf5fesrqzeCZoeEdyXMQagaUrKqDfHZ7zdmZ",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oo4KZNuAGogUdYJhxz1YSULJz3YJdG1zPNbwaEimfhG7CPPq6yC",
+        "iteration": 49,
+        "minter": "tz1f4imKZTYTJ98bWukhSfXnki87LgV3xEAA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1174900,
+      "name": "Un bouquet pour Papa #50",
+      "iteration": 50,
+      "fxhash": "oorkatbUPPeAnAUy4i4pDiV26GrQCideFZwFCQgXERLngAqeJvX",
+      "minter": "tz1g5didsuCUBYdHqJY6HPD8XaRfmpAvHXRp",
+      "fxparams": "",
+      "owner": "tz1duKQQ1k3PJp5K5QD3cwSHF6i8ReTQEvDL",
+      "thumbnailUri": "ipfs://QmNabUvWc4G6qo4ZRbpAzWm2GomqeLBmaQpAPuNEpDGhiq",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oorkatbUPPeAnAUy4i4pDiV26GrQCideFZwFCQgXERLngAqeJvX",
+        "iteration": 50,
+        "minter": "tz1g5didsuCUBYdHqJY6HPD8XaRfmpAvHXRp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1175854,
+      "name": "Un bouquet pour Papa #51",
+      "iteration": 51,
+      "fxhash": "onfBjaFFDpAtJEWjinXCbR5U1QMtg2nQ6pSD1bLiFvCecJmG6kE",
+      "minter": "tz1g5didsuCUBYdHqJY6HPD8XaRfmpAvHXRp",
+      "fxparams": "",
+      "owner": "tz1VdsJgBJksi1yVFb7iDaMu2GmithRvEihj",
+      "thumbnailUri": "ipfs://QmY4jEWwMiFaxnMNbdcUP4oHGiEdFzrS3jpw3fYNgjRBuR",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "onfBjaFFDpAtJEWjinXCbR5U1QMtg2nQ6pSD1bLiFvCecJmG6kE",
+        "iteration": 51,
+        "minter": "tz1g5didsuCUBYdHqJY6HPD8XaRfmpAvHXRp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1180236,
+      "name": "Un bouquet pour Papa #52",
+      "iteration": 52,
+      "fxhash": "oofS49xWwVQsxKtJFJgP8jPbwLUFQK399Zjrgcq1W2roqoyncH3",
+      "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "fxparams": "",
+      "owner": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "thumbnailUri": "ipfs://QmXazx9hAE2saGr3Sz2dhVkbNNxfkPNqs2ZzQNQ7TfTp2u",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oofS49xWwVQsxKtJFJgP8jPbwLUFQK399Zjrgcq1W2roqoyncH3",
+        "iteration": 52,
+        "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1180241,
+      "name": "Un bouquet pour Papa #53",
+      "iteration": 53,
+      "fxhash": "op25DM1TXPbQTWX6P1KVMaMdwjPxNCZfa5UqHPAcBbZiTWLx28k",
+      "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "fxparams": "",
+      "owner": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "thumbnailUri": "ipfs://QmSMG56Hi4jWnpQS3XD4fRRF5jy6Van1Jd2s3a4DXGxgDZ",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "op25DM1TXPbQTWX6P1KVMaMdwjPxNCZfa5UqHPAcBbZiTWLx28k",
+        "iteration": 53,
+        "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1180242,
+      "name": "Un bouquet pour Papa #54",
+      "iteration": 54,
+      "fxhash": "opVvm9pE8tFiG1L9B7k6eN5jSnsNK5WPdaWNKgpe6ronzfdDv6X",
+      "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+      "fxparams": "",
+      "owner": "tz1gL9kgJu6e9xM6gUWFStS9R13zmcdn3mPV",
+      "thumbnailUri": "ipfs://QmNiqKKoXN859tGdxoNBJ9ZS88hDPut6xDLXiZzamhv2cT",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opVvm9pE8tFiG1L9B7k6eN5jSnsNK5WPdaWNKgpe6ronzfdDv6X",
+        "iteration": 54,
+        "minter": "tz1WtbcACsCduN22r4jup9ZcpTa8MX5ibAdV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1184005,
+      "name": "Un bouquet pour Papa #55",
+      "iteration": 55,
+      "fxhash": "opTJpCF46E1LXRxgdwgM1Hq5aXU25xbgjTzb1782ZcUzH4eqLvA",
+      "minter": "tz1QUhUTWmYH7i4Krh5FECzDKsCpK4uRGAXs",
+      "fxparams": "",
+      "owner": "tz1cS7jMUDbHGjzeyJ9tQMkXjWoYvc3qK555",
+      "thumbnailUri": "ipfs://QmSSs8C3gFmVRQFSseffSYviTN5A1Ccc6p4viZTS4EHaxs",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opTJpCF46E1LXRxgdwgM1Hq5aXU25xbgjTzb1782ZcUzH4eqLvA",
+        "iteration": 55,
+        "minter": "tz1QUhUTWmYH7i4Krh5FECzDKsCpK4uRGAXs",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1188971,
+      "name": "Un bouquet pour Papa #56",
+      "iteration": 56,
+      "fxhash": "oo2oE4DvpbAAvYfMXE7Vp7QGWZadV2RS2Zp2SXBLfVrwuSmaAmB",
+      "minter": "tz1QQc7qkDAAAGerTKcLPUqC5h1bfZwwhQvS",
+      "fxparams": "",
+      "owner": "tz1QQc7qkDAAAGerTKcLPUqC5h1bfZwwhQvS",
+      "thumbnailUri": "ipfs://QmRpJi3VLBtSDUeh6U5T6pbJxAs99BY7cAsw4gwWZBpAFr",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oo2oE4DvpbAAvYfMXE7Vp7QGWZadV2RS2Zp2SXBLfVrwuSmaAmB",
+        "iteration": 56,
+        "minter": "tz1QQc7qkDAAAGerTKcLPUqC5h1bfZwwhQvS",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1191736,
+      "name": "Un bouquet pour Papa #57",
+      "iteration": 57,
+      "fxhash": "opNfcTTCGxCh9WZwKLXM8WTZzkux856W5fRucmhFPQGg25xNFhs",
+      "minter": "tz1TFSs68LH5f5WcQg11qmEs6xRhmUVpkSpd",
+      "fxparams": "",
+      "owner": "tz1TFSs68LH5f5WcQg11qmEs6xRhmUVpkSpd",
+      "thumbnailUri": "ipfs://QmaKSoxBC2qutCdPr5dZBn4RoJmPpgWLvc5LywHN4CvvmC",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opNfcTTCGxCh9WZwKLXM8WTZzkux856W5fRucmhFPQGg25xNFhs",
+        "iteration": 57,
+        "minter": "tz1TFSs68LH5f5WcQg11qmEs6xRhmUVpkSpd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1191739,
+      "name": "Un bouquet pour Papa #58",
+      "iteration": 58,
+      "fxhash": "oob1pp9G1FEEMigdoUmY8EH5CFeaMtN5ugPJJnFcS4vsn8Wgo9B",
+      "minter": "tz1TFSs68LH5f5WcQg11qmEs6xRhmUVpkSpd",
+      "fxparams": "",
+      "owner": "tz1TFSs68LH5f5WcQg11qmEs6xRhmUVpkSpd",
+      "thumbnailUri": "ipfs://QmWaK3GsJoo5Efid3tLR2fG66Q6XGMtjavfMi2X59yCfbu",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oob1pp9G1FEEMigdoUmY8EH5CFeaMtN5ugPJJnFcS4vsn8Wgo9B",
+        "iteration": 58,
+        "minter": "tz1TFSs68LH5f5WcQg11qmEs6xRhmUVpkSpd",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1192056,
+      "name": "Un bouquet pour Papa #59",
+      "iteration": 59,
+      "fxhash": "oogWoA8ewsTw7aZmxKDbUTPiZtXxBxhzevUFfKEWSoaVNURsFfo",
+      "minter": "tz1QYS8AVVSiEQFc6yvmzFaGptgW9Hd9Sv9F",
+      "fxparams": "",
+      "owner": "tz1QYS8AVVSiEQFc6yvmzFaGptgW9Hd9Sv9F",
+      "thumbnailUri": "ipfs://QmZgnAzQhk8gF3X1KjkGdzj7VwZBcYQtYjrWFHoTf59gY5",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oogWoA8ewsTw7aZmxKDbUTPiZtXxBxhzevUFfKEWSoaVNURsFfo",
+        "iteration": 59,
+        "minter": "tz1QYS8AVVSiEQFc6yvmzFaGptgW9Hd9Sv9F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1192067,
+      "name": "Un bouquet pour Papa #60",
+      "iteration": 60,
+      "fxhash": "opEWc7FAFqMH7jDqGr8SdtRpp3QnyWr3D9zyJprZwJ8WafWhn5S",
+      "minter": "tz1QYS8AVVSiEQFc6yvmzFaGptgW9Hd9Sv9F",
+      "fxparams": "",
+      "owner": "tz1QYS8AVVSiEQFc6yvmzFaGptgW9Hd9Sv9F",
+      "thumbnailUri": "ipfs://QmdDoc51qqxngR9Nsu3MhSHF9Bkn7UBBNRcmd588a5MNDi",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opEWc7FAFqMH7jDqGr8SdtRpp3QnyWr3D9zyJprZwJ8WafWhn5S",
+        "iteration": 60,
+        "minter": "tz1QYS8AVVSiEQFc6yvmzFaGptgW9Hd9Sv9F",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208651,
+      "name": "Un bouquet pour Papa #61",
+      "iteration": 61,
+      "fxhash": "opVi3AsSCE1NVsjNJC6s3t1nkanUMQnJTQsKMrgqpZeSdcHjjLz",
+      "minter": "tz29LshcQgCCr7MSnGU9BRBYGpUbv2N5G8Lz",
+      "fxparams": "",
+      "owner": "tz29LshcQgCCr7MSnGU9BRBYGpUbv2N5G8Lz",
+      "thumbnailUri": "ipfs://QmaWqya7HzbyKC4shCEgdVrQ9VqHeWgE19HGyib15SwFgg",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "opVi3AsSCE1NVsjNJC6s3t1nkanUMQnJTQsKMrgqpZeSdcHjjLz",
+        "iteration": 61,
+        "minter": "tz29LshcQgCCr7MSnGU9BRBYGpUbv2N5G8Lz",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208875,
+      "name": "Un bouquet pour Papa #62",
+      "iteration": 62,
+      "fxhash": "onf5APCUQ4KZXZTnzUbuypdLCwbSBLCB8udeSQDJsmm86nhdGUA",
+      "minter": "tz1QUUkPE6oGJa9e8mucQ3kJw9qj5prvzvPq",
+      "fxparams": "",
+      "owner": "tz1QUUkPE6oGJa9e8mucQ3kJw9qj5prvzvPq",
+      "thumbnailUri": "ipfs://QmQC5zu1cPPdxHqN7PugLRUPic6XEnFNWctW1waPn36rvH",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "onf5APCUQ4KZXZTnzUbuypdLCwbSBLCB8udeSQDJsmm86nhdGUA",
+        "iteration": 62,
+        "minter": "tz1QUUkPE6oGJa9e8mucQ3kJw9qj5prvzvPq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208877,
+      "name": "Un bouquet pour Papa #63",
+      "iteration": 63,
+      "fxhash": "oorCCQ1mjQV2wkZ3mFDg5cFohfqnuujMoutT2CZdFmpCwbZtdyw",
+      "minter": "tz1QUUkPE6oGJa9e8mucQ3kJw9qj5prvzvPq",
+      "fxparams": "",
+      "owner": "tz1QUUkPE6oGJa9e8mucQ3kJw9qj5prvzvPq",
+      "thumbnailUri": "ipfs://QmTMsTPoshBrfH3bvAoJTXCKZAYHpMqQ6BtUi3NEoFq8Xm",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "oorCCQ1mjQV2wkZ3mFDg5cFohfqnuujMoutT2CZdFmpCwbZtdyw",
+        "iteration": 63,
+        "minter": "tz1QUUkPE6oGJa9e8mucQ3kJw9qj5prvzvPq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1209098,
+      "name": "Un bouquet pour Papa #64",
+      "iteration": 64,
+      "fxhash": "onowGtdXoZvbNYdM9qeWcdCXN9GnuBTKBUxT3UHicCc6JP1DmhW",
+      "minter": "tz1ceASrfmVgYDQagfDaMWbGwQw73KWLyDo6",
+      "fxparams": "",
+      "owner": "tz1Z5KuUhoZukj6Rc6zRxscoaGcdYtobSFPX",
+      "thumbnailUri": "ipfs://QmX6aa7n6pLAfJvA2yXcaALUrBcrW5Bm1VWfvkukHoftHF",
+      "generativeUri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+      "viewerParams": {
+        "uri": "ipfs://QmQJ6ebEV15TZB6tgya6HAkBsQLx4NLEs9jhCnrZTuxEJa",
+        "fxhash": "onowGtdXoZvbNYdM9qeWcdCXN9GnuBTKBUxT3UHicCc6JP1DmhW",
+        "iteration": 64,
+        "minter": "tz1ceASrfmVgYDQagfDaMWbGwQw73KWLyDo6",
+        "fxparams": ""
+      }
+    }
+  ]
+}

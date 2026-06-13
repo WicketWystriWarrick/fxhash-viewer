@@ -1,0 +1,1817 @@
+{
+  "project": {
+    "name": "Industrial Devolution",
+    "artist": "Piter Pasma",
+    "artists": [
+      "Piter Pasma"
+    ],
+    "contract": "KT1U6EHmNxJTkvaWJ4ThczG4FSDaHC21ssvi",
+    "chain": "tezos",
+    "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+    "totalSupply": 100,
+    "extractedAt": "2026-06-13T14:44:10.209Z",
+    "source": "fxhash-graphql"
+  },
+  "iterations": [
+    {
+      "tokenId": 1207488,
+      "name": "Industrial Devolution #1",
+      "iteration": 1,
+      "fxhash": "ooqoZUGq8LymTCXZVBaJa2dxQSZkCzMTBxn2U8BZkALt2Z3CZ9u",
+      "minter": "tz2Lvcoe6sCfyYEMKtAVAD2i48du397qeVwT",
+      "fxparams": "",
+      "owner": "tz1Kw8cEFuNLj21e5b42NBn1ANW7hupmbDbo",
+      "thumbnailUri": "ipfs://QmSvYTAygsAHLLnTLVFQFxFdczDabEYNTSkSWZY2S5NegU",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooqoZUGq8LymTCXZVBaJa2dxQSZkCzMTBxn2U8BZkALt2Z3CZ9u",
+        "iteration": 1,
+        "minter": "tz2Lvcoe6sCfyYEMKtAVAD2i48du397qeVwT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207490,
+      "name": "Industrial Devolution #2",
+      "iteration": 2,
+      "fxhash": "onvWV5ZQyRqJH62w6ncbvrV7wVhX3eJ4M7XXAzCSthXjyYGsZcs",
+      "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+      "fxparams": "",
+      "owner": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+      "thumbnailUri": "ipfs://QmXTTvJrqoRiJXb4kY8NaHG1KM9J7SkvaLtkhL2zRKAUov",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onvWV5ZQyRqJH62w6ncbvrV7wVhX3eJ4M7XXAzCSthXjyYGsZcs",
+        "iteration": 2,
+        "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207491,
+      "name": "Industrial Devolution #3",
+      "iteration": 3,
+      "fxhash": "ooDziQtf6exCieaA7ULeBwJm1gD58UMW7MLsU3e1vBh76Nm7sLW",
+      "minter": "tz1PXKRxDWwvFMWVUm4cBKGvNFMeuQP8wovq",
+      "fxparams": "",
+      "owner": "tz1PXKRxDWwvFMWVUm4cBKGvNFMeuQP8wovq",
+      "thumbnailUri": "ipfs://QmWruvrkAenFxjYmmtaX3PYkjHmsH7EuNpYgYEPQa8Xgig",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooDziQtf6exCieaA7ULeBwJm1gD58UMW7MLsU3e1vBh76Nm7sLW",
+        "iteration": 3,
+        "minter": "tz1PXKRxDWwvFMWVUm4cBKGvNFMeuQP8wovq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207493,
+      "name": "Industrial Devolution #4",
+      "iteration": 4,
+      "fxhash": "ooW4T3hFeNJCZrovTqZFRyusbGN6ote75hbw739yNaT2N4xXA3P",
+      "minter": "tz1fiXgJMUVFUn2o1HnnEE17cTmFs2UcSh3u",
+      "fxparams": "",
+      "owner": "tz1KzVdMTyLDeeVcsR5mWPAiXWcUSDVLetBk",
+      "thumbnailUri": "ipfs://QmdUehXrvCf9aaAGW6zRRqB7EMEWxM2HXMCYdoHGtwTZit",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooW4T3hFeNJCZrovTqZFRyusbGN6ote75hbw739yNaT2N4xXA3P",
+        "iteration": 4,
+        "minter": "tz1fiXgJMUVFUn2o1HnnEE17cTmFs2UcSh3u",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207495,
+      "name": "Industrial Devolution #5",
+      "iteration": 5,
+      "fxhash": "opEDur7yVVTAX3P31Mvztmhdk2ZxuA7toDGBEFjSaeGP7DGkksJ",
+      "minter": "tz1fV9iLjn6cFbWPtqTLsJjQy9JU5dHHUEUB",
+      "fxparams": "",
+      "owner": "tz1aqUbcmWWduXtoDDKqi42dDH3DsqCAu2m4",
+      "thumbnailUri": "ipfs://QmXVP5HgtGEPtyXTMykxyrzzniVZMdvJFDqx4HypQqTtUf",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opEDur7yVVTAX3P31Mvztmhdk2ZxuA7toDGBEFjSaeGP7DGkksJ",
+        "iteration": 5,
+        "minter": "tz1fV9iLjn6cFbWPtqTLsJjQy9JU5dHHUEUB",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207496,
+      "name": "Industrial Devolution #6",
+      "iteration": 6,
+      "fxhash": "opHEATAokJuLkgoGJAYG5Eipwuku9qmh2E3Smyj3RSCdyJxbLH6",
+      "minter": "tz1aS2NBMpL9NVkWjniUk9Rno2nx2vDgxXuk",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://QmTxSZQGuVqrZzVXzeEh92LEYUsUciku5DVFxUWbsfNKRK",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opHEATAokJuLkgoGJAYG5Eipwuku9qmh2E3Smyj3RSCdyJxbLH6",
+        "iteration": 6,
+        "minter": "tz1aS2NBMpL9NVkWjniUk9Rno2nx2vDgxXuk",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207497,
+      "name": "Industrial Devolution #7",
+      "iteration": 7,
+      "fxhash": "ooSHCAxf3ZG7mnn4ozjrLHbN7HL6FXUPJ12hmYv6q3fkn4smFBC",
+      "minter": "tz1aSozeBSNPwx1X8YWZVkSnBYzFsZpGj4HZ",
+      "fxparams": "",
+      "owner": "tz1aSozeBSNPwx1X8YWZVkSnBYzFsZpGj4HZ",
+      "thumbnailUri": "ipfs://QmecoXz5kxjvNzRYoEMLSGiPmn5DVy2UtrhUw2jr5NquDk",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooSHCAxf3ZG7mnn4ozjrLHbN7HL6FXUPJ12hmYv6q3fkn4smFBC",
+        "iteration": 7,
+        "minter": "tz1aSozeBSNPwx1X8YWZVkSnBYzFsZpGj4HZ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207499,
+      "name": "Industrial Devolution #8",
+      "iteration": 8,
+      "fxhash": "oo22vC24bza7UZLtpc41V4Cdbf3XrExGDaEf6RzpJxukit9aCsu",
+      "minter": "tz1UmFEcmbDcJE3gteZP7gDbMNqtdq4GM7ck",
+      "fxparams": "",
+      "owner": "tz1UmFEcmbDcJE3gteZP7gDbMNqtdq4GM7ck",
+      "thumbnailUri": "ipfs://QmcMr2wHZmwT1sPARrWJPzwJK66tZZtCxD4J6RRmmuu1zP",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oo22vC24bza7UZLtpc41V4Cdbf3XrExGDaEf6RzpJxukit9aCsu",
+        "iteration": 8,
+        "minter": "tz1UmFEcmbDcJE3gteZP7gDbMNqtdq4GM7ck",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207500,
+      "name": "Industrial Devolution #9",
+      "iteration": 9,
+      "fxhash": "opRFkNGq3N8foqKdcDzBXPEqn16Hz5MfW2uXSxXKYhTLxMxSjy7",
+      "minter": "tz1iJk9FYMEe17ELvPUGdzWrpZx5iVBGj4Yn",
+      "fxparams": "",
+      "owner": "tz1iJk9FYMEe17ELvPUGdzWrpZx5iVBGj4Yn",
+      "thumbnailUri": "ipfs://Qma6qfBSnytJLviqFxNhyzDevDePtHVmyQghrXY3Hy6vKh",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opRFkNGq3N8foqKdcDzBXPEqn16Hz5MfW2uXSxXKYhTLxMxSjy7",
+        "iteration": 9,
+        "minter": "tz1iJk9FYMEe17ELvPUGdzWrpZx5iVBGj4Yn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207501,
+      "name": "Industrial Devolution #10",
+      "iteration": 10,
+      "fxhash": "ooco4GawUWdyKjVVnGGQzhS31QtGiHJbGaPZUYURiEdhrgDfMDW",
+      "minter": "tz1LM7ZX3xL1kQbRpnysFTn1RFHfY5mzDbre",
+      "fxparams": "",
+      "owner": "tz1dKYWcevnpRY42UVBpSKSdUT95F32k1mDx",
+      "thumbnailUri": "ipfs://QmSEoAddGrjRtRYmMq8Ad7Bc2SryAtojdWbRQr87G7Y8GJ",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooco4GawUWdyKjVVnGGQzhS31QtGiHJbGaPZUYURiEdhrgDfMDW",
+        "iteration": 10,
+        "minter": "tz1LM7ZX3xL1kQbRpnysFTn1RFHfY5mzDbre",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207502,
+      "name": "Industrial Devolution #11",
+      "iteration": 11,
+      "fxhash": "ooRxwJGXbCb6ptKSLZXDgumuApggHttyLGne4bHTfPgMMYicZXt",
+      "minter": "tz1ejWPSisZbtGmmG7j61ECNGJa6vYDPWYfQ",
+      "fxparams": "",
+      "owner": "tz1gbSJRBw2spyjRWB6oobbHB5KH9jtLvQgB",
+      "thumbnailUri": "ipfs://QmSCFDuoB2TaMZeLRf9fTACfVMRcomZAcfjiCNJBsQ8crq",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooRxwJGXbCb6ptKSLZXDgumuApggHttyLGne4bHTfPgMMYicZXt",
+        "iteration": 11,
+        "minter": "tz1ejWPSisZbtGmmG7j61ECNGJa6vYDPWYfQ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207503,
+      "name": "Industrial Devolution #12",
+      "iteration": 12,
+      "fxhash": "onj7Ggrzjyxgh4QgNdctZ9wY4NHqNF7T1BtLvYwfqwTQBXXApEb",
+      "minter": "tz1haDrB17FdURYNF9MJfniYSy5SxcYnv9YL",
+      "fxparams": "",
+      "owner": "tz1NGDuYTuuB1geX1K5b88cqa8JinFLdd3d5",
+      "thumbnailUri": "ipfs://QmWAFam97igwiZLBgKR3Puby9Q8fdkhGeRyYkPG2APvDMc",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onj7Ggrzjyxgh4QgNdctZ9wY4NHqNF7T1BtLvYwfqwTQBXXApEb",
+        "iteration": 12,
+        "minter": "tz1haDrB17FdURYNF9MJfniYSy5SxcYnv9YL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207504,
+      "name": "Industrial Devolution #13",
+      "iteration": 13,
+      "fxhash": "ooqYvL19W5oUVoNeLSPeZJsiSp4ozi3YuzD3HiZyCH3kKP8goew",
+      "minter": "tz1W5zoZrEZ2g5FgNwwqq9AqJETaCy5YSf3p",
+      "fxparams": "",
+      "owner": "tz1VY543f4YJvbCp2QpgvspvRtP5ucQJi4oZ",
+      "thumbnailUri": "ipfs://QmYjqUZ9wjGXwPG3mp9e55TMpjAvY444pPgc1uNRjtiJXo",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooqYvL19W5oUVoNeLSPeZJsiSp4ozi3YuzD3HiZyCH3kKP8goew",
+        "iteration": 13,
+        "minter": "tz1W5zoZrEZ2g5FgNwwqq9AqJETaCy5YSf3p",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207508,
+      "name": "Industrial Devolution #14",
+      "iteration": 14,
+      "fxhash": "ooNUiNRCsUKV6U1QRjiMRh5V8wbRwynFQcX1TpXzpNmxrhiWiQ9",
+      "minter": "tz1Wym8jtQcmtqcgxsQjGSu64zhMRjXgNM6d",
+      "fxparams": "",
+      "owner": "tz1KzVdMTyLDeeVcsR5mWPAiXWcUSDVLetBk",
+      "thumbnailUri": "ipfs://QmNvrV3pQhxZkfHJMxHHYNhoaiKQuh5Q8tbguyGf6B6TEv",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooNUiNRCsUKV6U1QRjiMRh5V8wbRwynFQcX1TpXzpNmxrhiWiQ9",
+        "iteration": 14,
+        "minter": "tz1Wym8jtQcmtqcgxsQjGSu64zhMRjXgNM6d",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207516,
+      "name": "Industrial Devolution #15",
+      "iteration": 15,
+      "fxhash": "oogofK6i83DTDjsJTFPPhiXab1YcotFArmsKAxK7ekG6cLuAxqX",
+      "minter": "tz1i9dVrmewtm4eE6pLfpCPD1y7FSuwSJphX",
+      "fxparams": "",
+      "owner": "tz1PANb3zQ9TjFj8vHuvmes6AVy5PLi1F7dZ",
+      "thumbnailUri": "ipfs://QmVR1xpKQVGi4kXW9snCzhRspiZSoj5tB3LbCYNCas8cSS",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oogofK6i83DTDjsJTFPPhiXab1YcotFArmsKAxK7ekG6cLuAxqX",
+        "iteration": 15,
+        "minter": "tz1i9dVrmewtm4eE6pLfpCPD1y7FSuwSJphX",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207519,
+      "name": "Industrial Devolution #16",
+      "iteration": 16,
+      "fxhash": "ooCqYmKgVXGBHqEL9TBVJLuWCmG48nAtibEN5Vmvp6srv3tWgJA",
+      "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+      "fxparams": "",
+      "owner": "tz2Ve6wgJkViLfFEDtpY9jKmBAYQCZNaJGwL",
+      "thumbnailUri": "ipfs://QmbieUhYMponmBVpkv5Sr8rsWu1BHJE4SuJVLFLceZqZrX",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooCqYmKgVXGBHqEL9TBVJLuWCmG48nAtibEN5Vmvp6srv3tWgJA",
+        "iteration": 16,
+        "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207520,
+      "name": "Industrial Devolution #17",
+      "iteration": 17,
+      "fxhash": "opEuKmTqZgxfAxb9NU97iWmnHL4zhtvrRBo91yypivjFZsrQXTx",
+      "minter": "tz1cKWBMNbp42wSbLw89eMcUMWPsd5a1aUKC",
+      "fxparams": "",
+      "owner": "tz1cKWBMNbp42wSbLw89eMcUMWPsd5a1aUKC",
+      "thumbnailUri": "ipfs://QmQXTb3DYeXpQGQHhNFtA2kBHQR4sVewSRpebPn2o1Ewew",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opEuKmTqZgxfAxb9NU97iWmnHL4zhtvrRBo91yypivjFZsrQXTx",
+        "iteration": 17,
+        "minter": "tz1cKWBMNbp42wSbLw89eMcUMWPsd5a1aUKC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207521,
+      "name": "Industrial Devolution #18",
+      "iteration": 18,
+      "fxhash": "oouWNd2jK5EPWCFNf1dbiGP91ycPnjucA1JM8roHGX7DKAcJ7Xw",
+      "minter": "tz1dNxsDz6UrVThmC3ftu5g3jkwEEKpu5gKt",
+      "fxparams": "",
+      "owner": "tz1MmQjmC3yn67MZnU3MzYyYictLShFMPYgD",
+      "thumbnailUri": "ipfs://QmNz5DPPLvSmcojTmo8yLBTNYjsB8SrdoLmYxqQ7csR69A",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oouWNd2jK5EPWCFNf1dbiGP91ycPnjucA1JM8roHGX7DKAcJ7Xw",
+        "iteration": 18,
+        "minter": "tz1dNxsDz6UrVThmC3ftu5g3jkwEEKpu5gKt",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207522,
+      "name": "Industrial Devolution #19",
+      "iteration": 19,
+      "fxhash": "opQZVdphKTazRhxDRg4vMquUjqhqRwhPJrCuQGtTHAkr6G1Fzdz",
+      "minter": "tz1bzREeKtG6XVdtj6NfxT99rXpJ6xfH5H7P",
+      "fxparams": "",
+      "owner": "tz1bzREeKtG6XVdtj6NfxT99rXpJ6xfH5H7P",
+      "thumbnailUri": "ipfs://QmcqTjc4MZUh1MFNx4ZTTu2bC2dDHhdYbtHsbrQkGjaRnE",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opQZVdphKTazRhxDRg4vMquUjqhqRwhPJrCuQGtTHAkr6G1Fzdz",
+        "iteration": 19,
+        "minter": "tz1bzREeKtG6XVdtj6NfxT99rXpJ6xfH5H7P",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207524,
+      "name": "Industrial Devolution #20",
+      "iteration": 20,
+      "fxhash": "opKPMvEFjkumiLcbrUZwSTAZ9L1ikHt6Z6TcmpJVpE3TxRCxwp8",
+      "minter": "tz1SA4icgxnMi8qcqf1oMa2kVzWUE3vfFwQq",
+      "fxparams": "",
+      "owner": "tz1T2vVuRPkYvN9cbDgtBeRRrzLEf77xU2Lm",
+      "thumbnailUri": "ipfs://QmUEXdVx8rmZ8ts3KzqopjqofcPxZcHJVxwA6eRw54W11F",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opKPMvEFjkumiLcbrUZwSTAZ9L1ikHt6Z6TcmpJVpE3TxRCxwp8",
+        "iteration": 20,
+        "minter": "tz1SA4icgxnMi8qcqf1oMa2kVzWUE3vfFwQq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207525,
+      "name": "Industrial Devolution #21",
+      "iteration": 21,
+      "fxhash": "oo8ZgZ2n18z2VuSU6uzwiYFVBvHZ4RTjpyw3g9dbXZnmCYZTwKd",
+      "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+      "fxparams": "",
+      "owner": "tz1NUFB14LSZ6DoK7Hnx5ZCahRKyAjokE7P9",
+      "thumbnailUri": "ipfs://QmTvWWvsGMSDL3TrbMYZ9UoSF8ibpyTT1cxui8axMoWQHd",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oo8ZgZ2n18z2VuSU6uzwiYFVBvHZ4RTjpyw3g9dbXZnmCYZTwKd",
+        "iteration": 21,
+        "minter": "tz1U1F1TZ4wPy47MerdSzjsZSkyjzhQPBQpA",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207531,
+      "name": "Industrial Devolution #22",
+      "iteration": 22,
+      "fxhash": "opScSVBcHvE3GqVhLwRkuXiXWwjbKYoJoub4qt7GnVY9DJ5knxc",
+      "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+      "fxparams": "",
+      "owner": "tz1RKAK88z71SGmipocZqVXQrtWJxo7dfH7Z",
+      "thumbnailUri": "ipfs://QmckU9Mm4Qw2qXjUTz8wZaEBcJNaxPaXgsP7sbPLruQCxH",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opScSVBcHvE3GqVhLwRkuXiXWwjbKYoJoub4qt7GnVY9DJ5knxc",
+        "iteration": 22,
+        "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207535,
+      "name": "Industrial Devolution #23",
+      "iteration": 23,
+      "fxhash": "ooL76kZwagmcowgDrPDDmzmhr9b29LMvLFiqv3V853gMr9ftdpf",
+      "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+      "fxparams": "",
+      "owner": "tz1dPootJbxsDNchcfbbfr4rgKGGNqCrFYVq",
+      "thumbnailUri": "ipfs://QmaFfRmrHMAFqkee1hDHF96KLF3HNwYydNumRw7oTD43D9",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooL76kZwagmcowgDrPDDmzmhr9b29LMvLFiqv3V853gMr9ftdpf",
+        "iteration": 23,
+        "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207537,
+      "name": "Industrial Devolution #24",
+      "iteration": 24,
+      "fxhash": "ooQ16fdBdJgsZpQXxVUveUMTQKU67Sqo6GT5YpJxdbtC736UKBm",
+      "minter": "tz1N3iNEmP8dC9MwcVHxTDahzGVYaCwACNHu",
+      "fxparams": "",
+      "owner": "tz1N3iNEmP8dC9MwcVHxTDahzGVYaCwACNHu",
+      "thumbnailUri": "ipfs://QmPwRJ4S1LFQSXkWWZJsjLL21pY7GinymcLzXX5hCY5Lk7",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooQ16fdBdJgsZpQXxVUveUMTQKU67Sqo6GT5YpJxdbtC736UKBm",
+        "iteration": 24,
+        "minter": "tz1N3iNEmP8dC9MwcVHxTDahzGVYaCwACNHu",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207543,
+      "name": "Industrial Devolution #25",
+      "iteration": 25,
+      "fxhash": "op35xRQiMXWNUfTYBk7KGCDxnY625ShwzaVurhMuQR5wVZLzvdj",
+      "minter": "tz1hEu45RUmNWvznMTfthDEKiK8Jx8hTctFJ",
+      "fxparams": "",
+      "owner": "tz1hEu45RUmNWvznMTfthDEKiK8Jx8hTctFJ",
+      "thumbnailUri": "ipfs://QmZ4E8cUowRBjHfsq4zNgPvx6ZiLNJ9Zx2yWKKJNPpwdmZ",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op35xRQiMXWNUfTYBk7KGCDxnY625ShwzaVurhMuQR5wVZLzvdj",
+        "iteration": 25,
+        "minter": "tz1hEu45RUmNWvznMTfthDEKiK8Jx8hTctFJ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207545,
+      "name": "Industrial Devolution #26",
+      "iteration": 26,
+      "fxhash": "onquJenGxwa1pPV2rP5JkucYpPHHfwa1ZGm8pZw4aihJE8ARF4t",
+      "minter": "tz1SA126hiom4uueCGw8fyVrwpq425yr65ok",
+      "fxparams": "",
+      "owner": "tz1SA126hiom4uueCGw8fyVrwpq425yr65ok",
+      "thumbnailUri": "ipfs://QmVDBfS3bf8ioeovujF4DWARizmG5SJEeqnXrYWzG7ftHS",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onquJenGxwa1pPV2rP5JkucYpPHHfwa1ZGm8pZw4aihJE8ARF4t",
+        "iteration": 26,
+        "minter": "tz1SA126hiom4uueCGw8fyVrwpq425yr65ok",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207548,
+      "name": "Industrial Devolution #27",
+      "iteration": 27,
+      "fxhash": "ooVyDqRZyfrKxxf6gQsqZsA8LFdTY76AHMmDvKXfUZSB73NTgEt",
+      "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+      "fxparams": "",
+      "owner": "tz28QAxvRfNdTioVTWSEyhfsDroeQ8KctQMY",
+      "thumbnailUri": "ipfs://QmU8HYmd5fSDL9x5wf1svqXX2tRm5Xf6bDNuj7tkTqmoVA",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooVyDqRZyfrKxxf6gQsqZsA8LFdTY76AHMmDvKXfUZSB73NTgEt",
+        "iteration": 27,
+        "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207554,
+      "name": "Industrial Devolution #28",
+      "iteration": 28,
+      "fxhash": "ooqKLEygyNoEKJdEU63YhRjeEF8u8JRPNdHNsjwkTen4Xu2JTBs",
+      "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+      "fxparams": "",
+      "owner": "tz1Xz3W8ezoox5DyBiKAvgmse1euGdCgh3vg",
+      "thumbnailUri": "ipfs://QmcCYEW4V5VPh7q7SChfuHHfPdgnd6qreACUVfQnibCCjZ",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooqKLEygyNoEKJdEU63YhRjeEF8u8JRPNdHNsjwkTen4Xu2JTBs",
+        "iteration": 28,
+        "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207557,
+      "name": "Industrial Devolution #29",
+      "iteration": 29,
+      "fxhash": "opNDJQpGSgG2uXRz6BpCK9DyCoBHgaWj15uCUFpXJCWt9juapSy",
+      "minter": "tz1XXeFwTC2wFyZm4SbbzHdFj9vannVCcRH4",
+      "fxparams": "",
+      "owner": "tz1VbJLTbnGAJPDfJyMP1ZUJ39fnvRketvys",
+      "thumbnailUri": "ipfs://QmQ4tVByGuJMw9k4MR7uTfcNqHfmKoayb2BqejQwM8xaL1",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opNDJQpGSgG2uXRz6BpCK9DyCoBHgaWj15uCUFpXJCWt9juapSy",
+        "iteration": 29,
+        "minter": "tz1XXeFwTC2wFyZm4SbbzHdFj9vannVCcRH4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207558,
+      "name": "Industrial Devolution #30",
+      "iteration": 30,
+      "fxhash": "opU57dnNdNAFwWvPV8LYGF67TNnf7kNRva6L4GMaKJe3aLEPz2r",
+      "minter": "tz1WRFYqBRxGxa8GUUyeBePqZLDbcQwApnJa",
+      "fxparams": "",
+      "owner": "tz1LBs6MJLsU38oDLjnmiTCBCA5bpnh17vEr",
+      "thumbnailUri": "ipfs://QmUam1xccsQWmy5NhifjBQHkFNhMxBt8TZA3g7QkB1uyPh",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opU57dnNdNAFwWvPV8LYGF67TNnf7kNRva6L4GMaKJe3aLEPz2r",
+        "iteration": 30,
+        "minter": "tz1WRFYqBRxGxa8GUUyeBePqZLDbcQwApnJa",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207570,
+      "name": "Industrial Devolution #31",
+      "iteration": 31,
+      "fxhash": "oojBj3hRhRC44LJuv114Lvibq6Mf5n918se42Q3yrZMfUDPZGoM",
+      "minter": "tz1hByXPQovxreUYJwexGFZcVAYWWWE5qbcG",
+      "fxparams": "",
+      "owner": "tz1hByXPQovxreUYJwexGFZcVAYWWWE5qbcG",
+      "thumbnailUri": "ipfs://QmVt8TPK7fn22iKn8NLECYc2JLg8jbN4SfHyF5S1yEmEX7",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oojBj3hRhRC44LJuv114Lvibq6Mf5n918se42Q3yrZMfUDPZGoM",
+        "iteration": 31,
+        "minter": "tz1hByXPQovxreUYJwexGFZcVAYWWWE5qbcG",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1207619,
+      "name": "Industrial Devolution #32",
+      "iteration": 32,
+      "fxhash": "ookpBFn38rcwMoYPYpUcEzJratRWcGHFDACUL7DRJhezZWs6ts2",
+      "minter": "tz1Y77kaHdwiAYLLQRcMcAoVjsK2jXWA1dLh",
+      "fxparams": "",
+      "owner": "tz1Lh4Ua4BqbPDpB12nfEXnXqgFyMbFwHCss",
+      "thumbnailUri": "ipfs://QmZBGGBrPosA3PkQ6pqXbHwzTxfB4rVX4wwZ5cmRjgjGEe",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ookpBFn38rcwMoYPYpUcEzJratRWcGHFDACUL7DRJhezZWs6ts2",
+        "iteration": 32,
+        "minter": "tz1Y77kaHdwiAYLLQRcMcAoVjsK2jXWA1dLh",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208613,
+      "name": "Industrial Devolution #33",
+      "iteration": 33,
+      "fxhash": "ook6NL2DZGHyqzemjg2wZkkB1RnBwAmJhCgzLc9ghmUpatfB9H8",
+      "minter": "tz1MEqbpttGj9nMxvgQHH68CbZ19FNp6rs4i",
+      "fxparams": "",
+      "owner": "tz1g4ZAaP9wW5okqTBbAnyyVJrBLQZAjXi1n",
+      "thumbnailUri": "ipfs://QmdVmUytVxCtT7yN52inVb5FMciGsQwKmLGGVCqjfaWrJE",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ook6NL2DZGHyqzemjg2wZkkB1RnBwAmJhCgzLc9ghmUpatfB9H8",
+        "iteration": 33,
+        "minter": "tz1MEqbpttGj9nMxvgQHH68CbZ19FNp6rs4i",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208643,
+      "name": "Industrial Devolution #34",
+      "iteration": 34,
+      "fxhash": "op55KvBkQSMcfj775e59g7zjCKhbShwcCHp96rJx2Qm2Lf8PG8H",
+      "minter": "tz1XTAg8e84jLsDbvQTj1o6Yc43tHoKBpj3m",
+      "fxparams": "",
+      "owner": "tz1YhuExv5hwgMn6rgM7n4ieqG43oUP8GtCV",
+      "thumbnailUri": "ipfs://QmPX2q7qz6gLCLCmQb7u6P1jbiRVD6NP5ttRBLuhpu99YS",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op55KvBkQSMcfj775e59g7zjCKhbShwcCHp96rJx2Qm2Lf8PG8H",
+        "iteration": 34,
+        "minter": "tz1XTAg8e84jLsDbvQTj1o6Yc43tHoKBpj3m",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208722,
+      "name": "Industrial Devolution #35",
+      "iteration": 35,
+      "fxhash": "onq2gZogHCtWbHSKGkYE4bVnwnD52j9MKuxah51Xi7njptBWEpr",
+      "minter": "tz1TuV6EWSNzza2d66bCCQPABQFMgUscvKJh",
+      "fxparams": "",
+      "owner": "tz1N8zighdJHWZtmsHrtyaJQpPkDBEMJn9H9",
+      "thumbnailUri": "ipfs://QmXUTtZSYPWavfgWXamKaKaSg46CNst6AecJRpQi9AdMSC",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onq2gZogHCtWbHSKGkYE4bVnwnD52j9MKuxah51Xi7njptBWEpr",
+        "iteration": 35,
+        "minter": "tz1TuV6EWSNzza2d66bCCQPABQFMgUscvKJh",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208725,
+      "name": "Industrial Devolution #36",
+      "iteration": 36,
+      "fxhash": "onqRRTMRbUXdKkG6QnVn5ejAWuqeRxveZ8yxkJz1KzQxjAre2WN",
+      "minter": "tz1SUnEQHEYUgWBXSCEeKjBF2BB2vcjzsJGc",
+      "fxparams": "",
+      "owner": "tz1Sk7BgmtSdqPWFRBCz2pNx15ZqLvttGJvC",
+      "thumbnailUri": "ipfs://QmfVMBBgS9bo5VKNpnAmy45C2UtWSzuuvBV3Zo1uyvsppz",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onqRRTMRbUXdKkG6QnVn5ejAWuqeRxveZ8yxkJz1KzQxjAre2WN",
+        "iteration": 36,
+        "minter": "tz1SUnEQHEYUgWBXSCEeKjBF2BB2vcjzsJGc",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208728,
+      "name": "Industrial Devolution #37",
+      "iteration": 37,
+      "fxhash": "oov3noNdy9MCgc7w3MfkTtvi2Xs68p5q2sd18v7LGEisZWUkmnQ",
+      "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+      "fxparams": "",
+      "owner": "tz1hnCFRUvgA8h2pjvwbDQfdfpH4vzsgT7n3",
+      "thumbnailUri": "ipfs://QmUfFjpsJX2CqkPi9LSM1e4orh4AV2bSigD5CHuBGJ13sW",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oov3noNdy9MCgc7w3MfkTtvi2Xs68p5q2sd18v7LGEisZWUkmnQ",
+        "iteration": 37,
+        "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208733,
+      "name": "Industrial Devolution #38",
+      "iteration": 38,
+      "fxhash": "oovYjuuYrhKRJJt6KMDZk36GhVpKy9ggLZ8TbrzLyiPvTrLoFPf",
+      "minter": "tz2FPZ3MmHViVvAe2JyxarWRcaFv27fGpcVr",
+      "fxparams": "",
+      "owner": "tz2FPZ3MmHViVvAe2JyxarWRcaFv27fGpcVr",
+      "thumbnailUri": "ipfs://QmaQfJvEf7QfZARg5rLT6JmuLVvBDBVDgJH8fodqRVKSXG",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oovYjuuYrhKRJJt6KMDZk36GhVpKy9ggLZ8TbrzLyiPvTrLoFPf",
+        "iteration": 38,
+        "minter": "tz2FPZ3MmHViVvAe2JyxarWRcaFv27fGpcVr",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208745,
+      "name": "Industrial Devolution #39",
+      "iteration": 39,
+      "fxhash": "oop3ykJTxAm5tFsCtiDbCa5LoyRgjiHxvFMgT7nwzHNPDgPdcjf",
+      "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+      "fxparams": "",
+      "owner": "tz1hnCFRUvgA8h2pjvwbDQfdfpH4vzsgT7n3",
+      "thumbnailUri": "ipfs://QmScWCr5vtkZYwZUUXoQUZ9nSibwdU8cqUgnZwpKd7m8DD",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oop3ykJTxAm5tFsCtiDbCa5LoyRgjiHxvFMgT7nwzHNPDgPdcjf",
+        "iteration": 39,
+        "minter": "tz2U4GQhXZJjd3ymgnsNr9LUvvJ4DvRy2twq",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208763,
+      "name": "Industrial Devolution #40",
+      "iteration": 40,
+      "fxhash": "onnWEygSer78G3VtnVrFHEVC2JmURXmYnHtSdwbYBuV4peCdTbR",
+      "minter": "tz1XvjFnqoNBasQrrAjPX8cYzfnejiPdQ5vf",
+      "fxparams": "",
+      "owner": "tz1XvjFnqoNBasQrrAjPX8cYzfnejiPdQ5vf",
+      "thumbnailUri": "ipfs://QmeXiV4BgDznj1CuthFeeQjJkZUutzY2x6pTftSsBq67zu",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onnWEygSer78G3VtnVrFHEVC2JmURXmYnHtSdwbYBuV4peCdTbR",
+        "iteration": 40,
+        "minter": "tz1XvjFnqoNBasQrrAjPX8cYzfnejiPdQ5vf",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208774,
+      "name": "Industrial Devolution #41",
+      "iteration": 41,
+      "fxhash": "ooeoud92cbLiggxUEjXJVyRcTy7oyqsVENH66tCu4vjrFt21KEv",
+      "minter": "tz1KuMTii6mPugTWcLgN8stqvkQnHx72Yx4v",
+      "fxparams": "",
+      "owner": "tz1KuMTii6mPugTWcLgN8stqvkQnHx72Yx4v",
+      "thumbnailUri": "ipfs://QmdCPVo3NtGutLCAcVFNMRxk18kfaBrWNnp7bQZpgU58tP",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooeoud92cbLiggxUEjXJVyRcTy7oyqsVENH66tCu4vjrFt21KEv",
+        "iteration": 41,
+        "minter": "tz1KuMTii6mPugTWcLgN8stqvkQnHx72Yx4v",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208781,
+      "name": "Industrial Devolution #42",
+      "iteration": 42,
+      "fxhash": "onhuH1axk6n9BR47KdBqFzhzFTQ3ppCpsQ9Rh4xMVZ35jK5abQb",
+      "minter": "tz2E3w7NALD2EPvNc8cr75oEQnNa8P5zE6x2",
+      "fxparams": "",
+      "owner": "tz1gMfctX4hBNpkUoE7RcYPBhNc1hpHddqh4",
+      "thumbnailUri": "ipfs://QmVRv29FymfVVcxJSfvE3n3bgPD5Da9G64dhHVfAfTXaiE",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onhuH1axk6n9BR47KdBqFzhzFTQ3ppCpsQ9Rh4xMVZ35jK5abQb",
+        "iteration": 42,
+        "minter": "tz2E3w7NALD2EPvNc8cr75oEQnNa8P5zE6x2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208791,
+      "name": "Industrial Devolution #43",
+      "iteration": 43,
+      "fxhash": "onmpSmoBqMspfeTaBFMBEDrbYKnDAkrBt4AP7p4165C9rrXTyRW",
+      "minter": "tz1fMCnJk4L2pZifbkM3FEda5yH5ywrcbw3e",
+      "fxparams": "",
+      "owner": "tz1fMCnJk4L2pZifbkM3FEda5yH5ywrcbw3e",
+      "thumbnailUri": "ipfs://QmdtZe6fPKMe9xuV73vf87zAsBmvsKa2Tn4PtBvgniwbve",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onmpSmoBqMspfeTaBFMBEDrbYKnDAkrBt4AP7p4165C9rrXTyRW",
+        "iteration": 43,
+        "minter": "tz1fMCnJk4L2pZifbkM3FEda5yH5ywrcbw3e",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208842,
+      "name": "Industrial Devolution #44",
+      "iteration": 44,
+      "fxhash": "ooVqwy3WW1p8GNu88zUTHuxqCBtJ9pkvSgc2rTzQf1sBjXXAppU",
+      "minter": "tz1gBXG9fg8RMDH69KfKqwoTH5sFDmzt5yzm",
+      "fxparams": "",
+      "owner": "tz1gBXG9fg8RMDH69KfKqwoTH5sFDmzt5yzm",
+      "thumbnailUri": "ipfs://Qmei5iBiDgYQNcR4h6xhaRewGFbpzbzG2C7LPuDeD83U7t",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooVqwy3WW1p8GNu88zUTHuxqCBtJ9pkvSgc2rTzQf1sBjXXAppU",
+        "iteration": 44,
+        "minter": "tz1gBXG9fg8RMDH69KfKqwoTH5sFDmzt5yzm",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208846,
+      "name": "Industrial Devolution #45",
+      "iteration": 45,
+      "fxhash": "oo1ew7ACN9CAfv9c7pf7ed1FGYx3FVXJbT96UqKB3612rw6ZE2r",
+      "minter": "tz2Ac4sDsX3rfkzKN9TsnwyL8GpYqUAFwtXh",
+      "fxparams": "",
+      "owner": "tz1P4iM5y89uzQomRZPZ7XFuHV6Uw3b7YTQ9",
+      "thumbnailUri": "ipfs://QmRy2fDqg6z4XPBcg34h4RLNYWZ68Rw29bftQNe1FK5x2e",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oo1ew7ACN9CAfv9c7pf7ed1FGYx3FVXJbT96UqKB3612rw6ZE2r",
+        "iteration": 45,
+        "minter": "tz2Ac4sDsX3rfkzKN9TsnwyL8GpYqUAFwtXh",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208859,
+      "name": "Industrial Devolution #46",
+      "iteration": 46,
+      "fxhash": "op4rhMuJCuRUMNrCaMfEfHvNzw7g8TD4X92NPBAZJCW1d1X5LWY",
+      "minter": "tz1UcXyKMh5CB561T7KVVW5HsSfrRGj1DQmT",
+      "fxparams": "",
+      "owner": "tz1cVMunHVKsJADWZaL2QWbHLA8eVUVzphC8",
+      "thumbnailUri": "ipfs://QmTjoHszVfubX6b3BqTmcCoxuPGFKNiJge4zAJTSAcXxAX",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op4rhMuJCuRUMNrCaMfEfHvNzw7g8TD4X92NPBAZJCW1d1X5LWY",
+        "iteration": 46,
+        "minter": "tz1UcXyKMh5CB561T7KVVW5HsSfrRGj1DQmT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208861,
+      "name": "Industrial Devolution #47",
+      "iteration": 47,
+      "fxhash": "opG7CLP2b368TVrT1HFVhx3tLiQAG2MikSpQdwt5Gjaf5JbLGAY",
+      "minter": "tz1W3kA8oQ6RdaPAdUaV5os3CuqE6rFw7Qx7",
+      "fxparams": "",
+      "owner": "tz1W3kA8oQ6RdaPAdUaV5os3CuqE6rFw7Qx7",
+      "thumbnailUri": "ipfs://QmS5Y2Ng97bEzgCbc4Pn5JUGrkXi1JgdzhziEMfQKdV5be",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opG7CLP2b368TVrT1HFVhx3tLiQAG2MikSpQdwt5Gjaf5JbLGAY",
+        "iteration": 47,
+        "minter": "tz1W3kA8oQ6RdaPAdUaV5os3CuqE6rFw7Qx7",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208863,
+      "name": "Industrial Devolution #48",
+      "iteration": 48,
+      "fxhash": "op4d6esWopjwafoeRjTpvZ5peubhnCyREphnhkdu9Ke92DymspH",
+      "minter": "tz1VxgMqxHSg94beNrJjxoHHFaKjMv3kY2rT",
+      "fxparams": "",
+      "owner": "tz1dZhZ9Y3FeXDpVuVMms76voGMUvu72YWMf",
+      "thumbnailUri": "ipfs://QmavKuocYttnTLHmi6aDSpuw1t9MPXstFYiot8iycrSR8c",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op4d6esWopjwafoeRjTpvZ5peubhnCyREphnhkdu9Ke92DymspH",
+        "iteration": 48,
+        "minter": "tz1VxgMqxHSg94beNrJjxoHHFaKjMv3kY2rT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208873,
+      "name": "Industrial Devolution #49",
+      "iteration": 49,
+      "fxhash": "ooy7TnJrBvHkkZ2FEQhpm3ABGNSFuQAWzqpSsEPKjUH9HhECEmA",
+      "minter": "tz1X3wgaPqzA8psC8c7uN6boYnuV5su7JaUp",
+      "fxparams": "",
+      "owner": "tz1X3wgaPqzA8psC8c7uN6boYnuV5su7JaUp",
+      "thumbnailUri": "ipfs://QmR8MRAyxX9bdMJkyjDjMG5fDVNavPwiuyTBx4Yiwusga4",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooy7TnJrBvHkkZ2FEQhpm3ABGNSFuQAWzqpSsEPKjUH9HhECEmA",
+        "iteration": 49,
+        "minter": "tz1X3wgaPqzA8psC8c7uN6boYnuV5su7JaUp",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208932,
+      "name": "Industrial Devolution #50",
+      "iteration": 50,
+      "fxhash": "oodnY45SVwNk6JAoc83SQXDXVyeUfFbeRhzDqC4e4BSdcg68Y7h",
+      "minter": "tz1eGfQtLTzBGfJFwvABVmj55aCMN5gBMveP",
+      "fxparams": "",
+      "owner": "tz1MmQjmC3yn67MZnU3MzYyYictLShFMPYgD",
+      "thumbnailUri": "ipfs://QmXAmBQW95wWHbVLTMEUTvEgETjne7FkVfGuUsZ151StoP",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oodnY45SVwNk6JAoc83SQXDXVyeUfFbeRhzDqC4e4BSdcg68Y7h",
+        "iteration": 50,
+        "minter": "tz1eGfQtLTzBGfJFwvABVmj55aCMN5gBMveP",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1208940,
+      "name": "Industrial Devolution #51",
+      "iteration": 51,
+      "fxhash": "oovCPL7PG6a6W6qw5vQm2bKVfsQf8mmoLLVegM4nutCoNEV4CTy",
+      "minter": "tz1fiXgJMUVFUn2o1HnnEE17cTmFs2UcSh3u",
+      "fxparams": "",
+      "owner": "tz1RKAK88z71SGmipocZqVXQrtWJxo7dfH7Z",
+      "thumbnailUri": "ipfs://QmVYsNZQE3qRxKeX3gjjRjiMtLUosh5W6f4PKwhRs91QUu",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oovCPL7PG6a6W6qw5vQm2bKVfsQf8mmoLLVegM4nutCoNEV4CTy",
+        "iteration": 51,
+        "minter": "tz1fiXgJMUVFUn2o1HnnEE17cTmFs2UcSh3u",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1212883,
+      "name": "Industrial Devolution #52",
+      "iteration": 52,
+      "fxhash": "onmvDRrUF8GjTvVhmMbWci4Wni33NpNoRsAR3ST7msLKLFX6v5C",
+      "minter": "tz1dZvVcRFkUi8d6wztvASDMACLVcnz97H8v",
+      "fxparams": "",
+      "owner": "tz1N8zighdJHWZtmsHrtyaJQpPkDBEMJn9H9",
+      "thumbnailUri": "ipfs://QmVRT6preau8AahpaWagLRtuar8VAdKGx4KFicK8REwKwv",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onmvDRrUF8GjTvVhmMbWci4Wni33NpNoRsAR3ST7msLKLFX6v5C",
+        "iteration": 52,
+        "minter": "tz1dZvVcRFkUi8d6wztvASDMACLVcnz97H8v",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1213311,
+      "name": "Industrial Devolution #53",
+      "iteration": 53,
+      "fxhash": "opY3Q2sMf1JDqDPdqe2sFZLjhB8ktiH9ptyrUTDoYrRP3wtCbmM",
+      "minter": "tz1Ym9Ued9v2N2wwsrtQ52HRGGn7qDmzuUZU",
+      "fxparams": "",
+      "owner": "tz1R5CMvYnpteLY3aLcxwgMG2vGK6FiN94DA",
+      "thumbnailUri": "ipfs://QmPqHb2ymS7ykfRvSowKNdiyQyrfEX3ktQU1BrJ26RzKtV",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opY3Q2sMf1JDqDPdqe2sFZLjhB8ktiH9ptyrUTDoYrRP3wtCbmM",
+        "iteration": 53,
+        "minter": "tz1Ym9Ued9v2N2wwsrtQ52HRGGn7qDmzuUZU",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1213322,
+      "name": "Industrial Devolution #54",
+      "iteration": 54,
+      "fxhash": "ooRZMZZkeWzb1C1tXMxstnUv3JY4NUsgUd7szfA4fCo1PRQHWY2",
+      "minter": "tz1hqvarZVcTrCrn7qYjVAWbC2cR7jYUDPZ1",
+      "fxparams": "",
+      "owner": "tz1ZR5JKcHzU8Xn5m3w3pMGHiYnHwQNPDkSm",
+      "thumbnailUri": "ipfs://Qma6X8t8mntSuSdvwTHior3W9LPNzcUpB37FeE6xeFHwc2",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooRZMZZkeWzb1C1tXMxstnUv3JY4NUsgUd7szfA4fCo1PRQHWY2",
+        "iteration": 54,
+        "minter": "tz1hqvarZVcTrCrn7qYjVAWbC2cR7jYUDPZ1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1213338,
+      "name": "Industrial Devolution #55",
+      "iteration": 55,
+      "fxhash": "ooWBtbKTxdokPQWXKmFDy1UGSxRnSyUoecYKmrsDJ6ey6EgVaoX",
+      "minter": "tz2AD7gt9jF6KgH23BNLTrYQ7e5VXzZoGHiY",
+      "fxparams": "",
+      "owner": "tz1N8zighdJHWZtmsHrtyaJQpPkDBEMJn9H9",
+      "thumbnailUri": "ipfs://QmWzHYWmADS91fNeKvJo7T66vpfzPhZK268ZxBvihKkATG",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooWBtbKTxdokPQWXKmFDy1UGSxRnSyUoecYKmrsDJ6ey6EgVaoX",
+        "iteration": 55,
+        "minter": "tz2AD7gt9jF6KgH23BNLTrYQ7e5VXzZoGHiY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1213340,
+      "name": "Industrial Devolution #56",
+      "iteration": 56,
+      "fxhash": "oom8A6x51WeKtRbMRxsd76jSv9WE2CsGnCBx1fGoGq7M8Rkh9vo",
+      "minter": "tz1ZTbh9ZbRG5JMSKfgTQq5j2umPdxycEpc1",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmT2F9T5VCEtu2UxRrZ4y5fk8NvRK5tBq65TkRNaVNFpEj",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oom8A6x51WeKtRbMRxsd76jSv9WE2CsGnCBx1fGoGq7M8Rkh9vo",
+        "iteration": 56,
+        "minter": "tz1ZTbh9ZbRG5JMSKfgTQq5j2umPdxycEpc1",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1213343,
+      "name": "Industrial Devolution #57",
+      "iteration": 57,
+      "fxhash": "ooeGS14DQqJoMyki22tRAkaM4aKgrU47Qz2fm71JKsQmaLp2ZyW",
+      "minter": "tz1SgeJufU8sZKkSLoeEjam6nfqUqS6cnvKC",
+      "fxparams": "",
+      "owner": "tz1SgeJufU8sZKkSLoeEjam6nfqUqS6cnvKC",
+      "thumbnailUri": "ipfs://QmVufXnT1XLPYphDaAFfmCBavWrYLzDvk3ddJENjTRibtj",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooeGS14DQqJoMyki22tRAkaM4aKgrU47Qz2fm71JKsQmaLp2ZyW",
+        "iteration": 57,
+        "minter": "tz1SgeJufU8sZKkSLoeEjam6nfqUqS6cnvKC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1213346,
+      "name": "Industrial Devolution #58",
+      "iteration": 58,
+      "fxhash": "opQdbtBsbzzwNgH3oSnq5UdScQvfSDSGYuQXUAEigRpTHiGayyx",
+      "minter": "tz1LKpeN8ZSSFNyTWiBNaE4u4sjaq7J1Vz2z",
+      "fxparams": "",
+      "owner": "tz1LKpeN8ZSSFNyTWiBNaE4u4sjaq7J1Vz2z",
+      "thumbnailUri": "ipfs://QmUoVFnQv4yhumDAtX7frcaiZML9j4X7aEFTm6fJdPabtY",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opQdbtBsbzzwNgH3oSnq5UdScQvfSDSGYuQXUAEigRpTHiGayyx",
+        "iteration": 58,
+        "minter": "tz1LKpeN8ZSSFNyTWiBNaE4u4sjaq7J1Vz2z",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1213429,
+      "name": "Industrial Devolution #59",
+      "iteration": 59,
+      "fxhash": "opK9J83GCz93GMP3U72UiMrYGU4AkMwqwypeAV2WVpPvn4PQ9DP",
+      "minter": "tz1MZ6LoiFxtUC4UrzCFJsCRptqreB6x6HMz",
+      "fxparams": "",
+      "owner": "tz1d6Vh4PPBs9siz63MhCFZ6EaqujYxto2AL",
+      "thumbnailUri": "ipfs://QmevEttHbP6bzQAFpqMkCTQepeZEC4T1v8aSXie9bEY7pt",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opK9J83GCz93GMP3U72UiMrYGU4AkMwqwypeAV2WVpPvn4PQ9DP",
+        "iteration": 59,
+        "minter": "tz1MZ6LoiFxtUC4UrzCFJsCRptqreB6x6HMz",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1213743,
+      "name": "Industrial Devolution #60",
+      "iteration": 60,
+      "fxhash": "ookAaa5zogYuin4kykMhz9Vaz2DkN4tBLRzkx491KWRCgMpxLVY",
+      "minter": "tz1LtsGqb8D5ss2SCWFGkKQfYTbgMEkS6hmD",
+      "fxparams": "",
+      "owner": "tz1WPtr8ZJyCVB252iL8DJfWg7gVQ6NUqwbJ",
+      "thumbnailUri": "ipfs://QmPTKP4YEkvjGmijE1U31kY7fasU3MbSV6d8vEmCBKZtty",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ookAaa5zogYuin4kykMhz9Vaz2DkN4tBLRzkx491KWRCgMpxLVY",
+        "iteration": 60,
+        "minter": "tz1LtsGqb8D5ss2SCWFGkKQfYTbgMEkS6hmD",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1213895,
+      "name": "Industrial Devolution #61",
+      "iteration": 61,
+      "fxhash": "opSRzBB6Qhws8R4cK52FAjEZDyc9mbQvEfCJWEtQios7LVdmoTt",
+      "minter": "tz1LM7ZX3xL1kQbRpnysFTn1RFHfY5mzDbre",
+      "fxparams": "",
+      "owner": "tz1RPUSvUqtHFm4qEjL4Bc27enLQqkz4iXBJ",
+      "thumbnailUri": "ipfs://QmajnSV8fEwFDHark2YqJB3Y27dLMJF9QAK36yQWRpvBBN",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opSRzBB6Qhws8R4cK52FAjEZDyc9mbQvEfCJWEtQios7LVdmoTt",
+        "iteration": 61,
+        "minter": "tz1LM7ZX3xL1kQbRpnysFTn1RFHfY5mzDbre",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1214519,
+      "name": "Industrial Devolution #62",
+      "iteration": 62,
+      "fxhash": "oor8gTWq92iwNLZ2Qy9L8VkgXCpp2QVh69aWVV6ktfx2iXjR7kR",
+      "minter": "tz1TmMJYiLpo2jf3Us2jox27ruh4Ajh3xYVL",
+      "fxparams": "",
+      "owner": "tz1TmMJYiLpo2jf3Us2jox27ruh4Ajh3xYVL",
+      "thumbnailUri": "ipfs://QmQAyUuo795FYHvk1ASWLj2NtHidu34VwUC6bTUVLeKZAT",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oor8gTWq92iwNLZ2Qy9L8VkgXCpp2QVh69aWVV6ktfx2iXjR7kR",
+        "iteration": 62,
+        "minter": "tz1TmMJYiLpo2jf3Us2jox27ruh4Ajh3xYVL",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215036,
+      "name": "Industrial Devolution #63",
+      "iteration": 63,
+      "fxhash": "ooEUft57duR5EBKFJXNt4bLnAknjhaSrPoKVUJpMncKkjMcCmqR",
+      "minter": "tz1iEvkELJMSgfn2WJRR9HPg5U2vppAF1eLS",
+      "fxparams": "",
+      "owner": "tz1iEvkELJMSgfn2WJRR9HPg5U2vppAF1eLS",
+      "thumbnailUri": "ipfs://QmQRRDCLoZA32N3iKHnKsfc2wKmrJUThzkCu9Vv2Lp36WV",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooEUft57duR5EBKFJXNt4bLnAknjhaSrPoKVUJpMncKkjMcCmqR",
+        "iteration": 63,
+        "minter": "tz1iEvkELJMSgfn2WJRR9HPg5U2vppAF1eLS",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215236,
+      "name": "Industrial Devolution #64",
+      "iteration": 64,
+      "fxhash": "onywYKqDPFvygFQG7TLwTSAjPKtMjpWAB7iHzmghYBJgVdmYp67",
+      "minter": "tz1LjS5UK2rSi52jjwJApzKm7YKZYmwubCQP",
+      "fxparams": "",
+      "owner": "tz1b6ycFQd7RPW86mGKqBCmTfG6YniABW3Fa",
+      "thumbnailUri": "ipfs://QmT7snM4SEmEXFW22HgkDSsZtzqUZLb74oekabWReuL7bo",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onywYKqDPFvygFQG7TLwTSAjPKtMjpWAB7iHzmghYBJgVdmYp67",
+        "iteration": 64,
+        "minter": "tz1LjS5UK2rSi52jjwJApzKm7YKZYmwubCQP",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215277,
+      "name": "Industrial Devolution #65",
+      "iteration": 65,
+      "fxhash": "oo993NhKTRLUSNVkq4zm2q1PsJ77HdyQXBmhjXpB71ABTJsGGJW",
+      "minter": "tz1KzFLLyRCqJsrF6Da4JD5JmTYtZdjzaaf4",
+      "fxparams": "",
+      "owner": "tz1KzFLLyRCqJsrF6Da4JD5JmTYtZdjzaaf4",
+      "thumbnailUri": "ipfs://QmbkQKYCWZLShZn8KgoQWgZoZZ6V3jST5sFNkmQpJtcHAL",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oo993NhKTRLUSNVkq4zm2q1PsJ77HdyQXBmhjXpB71ABTJsGGJW",
+        "iteration": 65,
+        "minter": "tz1KzFLLyRCqJsrF6Da4JD5JmTYtZdjzaaf4",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215544,
+      "name": "Industrial Devolution #66",
+      "iteration": 66,
+      "fxhash": "op3JNQVabbYgkH2errhMrUrwkKVS7tf2uQaTt7jwPUxxw5Xar6W",
+      "minter": "tz1auRczhyryMUTRRRGiGK4iYnEVN2cC3vNY",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://QmZ2HC4LGNiTi7ZP4S9edoekVovgsbfezFDZGZMAqHW4zD",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op3JNQVabbYgkH2errhMrUrwkKVS7tf2uQaTt7jwPUxxw5Xar6W",
+        "iteration": 66,
+        "minter": "tz1auRczhyryMUTRRRGiGK4iYnEVN2cC3vNY",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215557,
+      "name": "Industrial Devolution #67",
+      "iteration": 67,
+      "fxhash": "oogWAqDLgr49sfYwwcGyRCAERrD4zGVEEmch2BnBn91HTaCy4LS",
+      "minter": "tz1R4SfDxJgZ7eWoiH1cMbRySvqdVrY1HU7q",
+      "fxparams": "",
+      "owner": "tz1N8zighdJHWZtmsHrtyaJQpPkDBEMJn9H9",
+      "thumbnailUri": "ipfs://QmWs8T8VSgfj18LzQZMuZtTtk9AJk6TMsvHmdhYtm4jTwj",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oogWAqDLgr49sfYwwcGyRCAERrD4zGVEEmch2BnBn91HTaCy4LS",
+        "iteration": 67,
+        "minter": "tz1R4SfDxJgZ7eWoiH1cMbRySvqdVrY1HU7q",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215558,
+      "name": "Industrial Devolution #68",
+      "iteration": 68,
+      "fxhash": "ooPvxQycPrfiGVrvKMhefGaHhAF5ZoE5DTAhZi8anx34GZ2aPfX",
+      "minter": "tz1LdsF1ApNoQYF2KmsuHsGj4vzz6mwZvNtV",
+      "fxparams": "",
+      "owner": "tz1LdsF1ApNoQYF2KmsuHsGj4vzz6mwZvNtV",
+      "thumbnailUri": "ipfs://QmbHefDuGHwqKWFEQa2VxTbm57LNvhQ4kgJr6PvFoeXfie",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooPvxQycPrfiGVrvKMhefGaHhAF5ZoE5DTAhZi8anx34GZ2aPfX",
+        "iteration": 68,
+        "minter": "tz1LdsF1ApNoQYF2KmsuHsGj4vzz6mwZvNtV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215580,
+      "name": "Industrial Devolution #69",
+      "iteration": 69,
+      "fxhash": "oo3ufFknWrFSwFzrqePfYgMhfL8cwDUwLA4HhypXnifWqJNVSFL",
+      "minter": "tz1ZgNszELkA3ctSbS9m1sups7hSZDeTKVuV",
+      "fxparams": "",
+      "owner": "tz1ZgNszELkA3ctSbS9m1sups7hSZDeTKVuV",
+      "thumbnailUri": "ipfs://QmX36bVmzzX5afUahiFXnWFZuyBuWjVJMASeeLEcmngb4F",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oo3ufFknWrFSwFzrqePfYgMhfL8cwDUwLA4HhypXnifWqJNVSFL",
+        "iteration": 69,
+        "minter": "tz1ZgNszELkA3ctSbS9m1sups7hSZDeTKVuV",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215601,
+      "name": "Industrial Devolution #70",
+      "iteration": 70,
+      "fxhash": "ooG42deVxk8qh65Y2URZgkWADV8x9gUWnzyn4faFWuAhgpvt9HN",
+      "minter": "tz1TAUmTVoZeWx3JFJYjRD6kEJXkt2FNxKNr",
+      "fxparams": "",
+      "owner": "tz1cGowCPUZDGHh23Yta3rVMgMk9bDmxybaK",
+      "thumbnailUri": "ipfs://QmYJLDio4sxyATB9cGpiaJELUAPYz46K5hjddxccWRSxEd",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooG42deVxk8qh65Y2URZgkWADV8x9gUWnzyn4faFWuAhgpvt9HN",
+        "iteration": 70,
+        "minter": "tz1TAUmTVoZeWx3JFJYjRD6kEJXkt2FNxKNr",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215635,
+      "name": "Industrial Devolution #71",
+      "iteration": 71,
+      "fxhash": "oo3UFeL521JmbtGfduZSaTf6tY671Tf464JnzQnKjBxmcSZ5baK",
+      "minter": "tz1V7rRV4Xwo3FRRAAz94AxAPNTmaAXWmp2k",
+      "fxparams": "",
+      "owner": "tz1SHGzpFjuAm2HdfSceQRs3C8WGRqLn6KdX",
+      "thumbnailUri": "ipfs://QmVHtTPCQVCorZKaEt1ztRKjxHe2gRCkKsfCkA1MXowgpR",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oo3UFeL521JmbtGfduZSaTf6tY671Tf464JnzQnKjBxmcSZ5baK",
+        "iteration": 71,
+        "minter": "tz1V7rRV4Xwo3FRRAAz94AxAPNTmaAXWmp2k",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1215930,
+      "name": "Industrial Devolution #72",
+      "iteration": 72,
+      "fxhash": "ooj6XTuVGChKaDnHDqaNf2cL5S7mVb5mQDTyv8CP63Tf52UReCq",
+      "minter": "tz1ZUTJmH2gNwz1qiTsKuUUtLNY2DA6X778Y",
+      "fxparams": "",
+      "owner": "tz1ZUTJmH2gNwz1qiTsKuUUtLNY2DA6X778Y",
+      "thumbnailUri": "ipfs://QmV7xpvX4fhKAJFoM6aznWfFa8sdTrZr12sWo4a6CTJpb8",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooj6XTuVGChKaDnHDqaNf2cL5S7mVb5mQDTyv8CP63Tf52UReCq",
+        "iteration": 72,
+        "minter": "tz1ZUTJmH2gNwz1qiTsKuUUtLNY2DA6X778Y",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1216366,
+      "name": "Industrial Devolution #73",
+      "iteration": 73,
+      "fxhash": "op58BaJhtbEHJLydetKD3KWrKrWR8syrdskfs2y5HLMdYQ85JjQ",
+      "minter": "tz1VoSy37o7Mi9kbP1qBeuTfHQG4k4dUDfA2",
+      "fxparams": "",
+      "owner": "tz1RKAK88z71SGmipocZqVXQrtWJxo7dfH7Z",
+      "thumbnailUri": "ipfs://Qmbhe8CRSP8HcUfBmE9xCJ2M5Qbj9oCJrBAxi9QMSGbWVA",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op58BaJhtbEHJLydetKD3KWrKrWR8syrdskfs2y5HLMdYQ85JjQ",
+        "iteration": 73,
+        "minter": "tz1VoSy37o7Mi9kbP1qBeuTfHQG4k4dUDfA2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1217246,
+      "name": "Industrial Devolution #74",
+      "iteration": 74,
+      "fxhash": "oogH6cLExQbQ3e1DvUNkoqkp3Kjv7Eu6FN33QZGtv2Vhmn4ovjP",
+      "minter": "tz1a4Kj5Xe3qrgFRp7XQngSy9GgSQBkEmGgw",
+      "fxparams": "",
+      "owner": "tz2Dz4kN8HVrkBDrYJEWq4JyZkzBUZUrPN3p",
+      "thumbnailUri": "ipfs://QmefpvZmyj5nMDYAjebF5GtFyzvW4QCc68tkSQhNFVunpu",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oogH6cLExQbQ3e1DvUNkoqkp3Kjv7Eu6FN33QZGtv2Vhmn4ovjP",
+        "iteration": 74,
+        "minter": "tz1a4Kj5Xe3qrgFRp7XQngSy9GgSQBkEmGgw",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1217288,
+      "name": "Industrial Devolution #75",
+      "iteration": 75,
+      "fxhash": "ookbQjtZWCEqMrmZMYwZoa78R4DBfXNF9tABcAcQ2n5btwK2Mcy",
+      "minter": "tz1Yt2YLdwnomdAxi3QwUtQfsbDyBnyuKp33",
+      "fxparams": "",
+      "owner": "tz1Yt2YLdwnomdAxi3QwUtQfsbDyBnyuKp33",
+      "thumbnailUri": "ipfs://QmP1AXrw5BYPTWfGFf17dsQhYkdaXTXFZEjN3kiFDbWUax",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ookbQjtZWCEqMrmZMYwZoa78R4DBfXNF9tABcAcQ2n5btwK2Mcy",
+        "iteration": 75,
+        "minter": "tz1Yt2YLdwnomdAxi3QwUtQfsbDyBnyuKp33",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1217864,
+      "name": "Industrial Devolution #76",
+      "iteration": 76,
+      "fxhash": "ooTzUnKVk4AzWU8Kq914FktkQP75uuHPMFA3zZZ14LJMoJwq2MS",
+      "minter": "tz1QFFvtYHPdvPC72AtsxvoeLXDUE8YutqXa",
+      "fxparams": "",
+      "owner": "tz3fPdUoSmoLYNggLXPHedyGiLCPQZM6jwCN",
+      "thumbnailUri": "ipfs://QmR9S4zhPfHmdeHzdfcwwYMhsmc6d8pm3gMzBvjQhXQdzB",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooTzUnKVk4AzWU8Kq914FktkQP75uuHPMFA3zZZ14LJMoJwq2MS",
+        "iteration": 76,
+        "minter": "tz1QFFvtYHPdvPC72AtsxvoeLXDUE8YutqXa",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1218422,
+      "name": "Industrial Devolution #77",
+      "iteration": 77,
+      "fxhash": "opVVDa95qqvoD1K4PPQ2tsYRPrzg4QpNi53CGhDGjVGaZXsMGNV",
+      "minter": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmYRu6CJ569eyNu56U8zGZd2Sc1ppEv8bxS2nk1qM44NzP",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opVVDa95qqvoD1K4PPQ2tsYRPrzg4QpNi53CGhDGjVGaZXsMGNV",
+        "iteration": 77,
+        "minter": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1219396,
+      "name": "Industrial Devolution #78",
+      "iteration": 78,
+      "fxhash": "op8rqbrxfaYL6SgZ7ewRgmpdsosHfjFGTs4A4rEaSPmS3578utm",
+      "minter": "tz1gJv6ca1A4GufRbAiF2GykQPx7A2bDv5P6",
+      "fxparams": "",
+      "owner": "tz1gJv6ca1A4GufRbAiF2GykQPx7A2bDv5P6",
+      "thumbnailUri": "ipfs://QmbEXDiFcWD73E9ggaVnAuknrj436NQpxwByGosYFUfs4A",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op8rqbrxfaYL6SgZ7ewRgmpdsosHfjFGTs4A4rEaSPmS3578utm",
+        "iteration": 78,
+        "minter": "tz1gJv6ca1A4GufRbAiF2GykQPx7A2bDv5P6",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1219416,
+      "name": "Industrial Devolution #79",
+      "iteration": 79,
+      "fxhash": "opSbVpfkSMbsQM3VpGL42ScymJrBxdCqXZpJunoiMwdxnjueTVg",
+      "minter": "tz1LrkNsgavA7cR5qWbKEYRDGpw3BK84gMpx",
+      "fxparams": "",
+      "owner": "tz1MmQjmC3yn67MZnU3MzYyYictLShFMPYgD",
+      "thumbnailUri": "ipfs://Qme6FgkFmpChhJ6YFXR7HydQAzbAcj6pUUKUj73zW3Yf2j",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opSbVpfkSMbsQM3VpGL42ScymJrBxdCqXZpJunoiMwdxnjueTVg",
+        "iteration": 79,
+        "minter": "tz1LrkNsgavA7cR5qWbKEYRDGpw3BK84gMpx",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1219577,
+      "name": "Industrial Devolution #80",
+      "iteration": 80,
+      "fxhash": "opLSj3SAFDmtHkvtzQxqrZfr1KxpUH43x2JWShcEQG2fjPj9emt",
+      "minter": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmfULnSbxJzxvfxKGMYi95zt2LLgeZWkkUqyVyDPiygXzx",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opLSj3SAFDmtHkvtzQxqrZfr1KxpUH43x2JWShcEQG2fjPj9emt",
+        "iteration": 80,
+        "minter": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1219580,
+      "name": "Industrial Devolution #81",
+      "iteration": 81,
+      "fxhash": "opNpzwkVBG2MMt2LQHKTsH1VygaYnA3d3rxUvNqbHE87VUtjdC3",
+      "minter": "tz1KhTbYaY6yhXBiXq56aXNj52NJbMyaxGUg",
+      "fxparams": "",
+      "owner": "tz1KhTbYaY6yhXBiXq56aXNj52NJbMyaxGUg",
+      "thumbnailUri": "ipfs://QmaX2mCsBtX5k7iucJzTQf1Mf521EZitrB9obJprhyiUGY",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opNpzwkVBG2MMt2LQHKTsH1VygaYnA3d3rxUvNqbHE87VUtjdC3",
+        "iteration": 81,
+        "minter": "tz1KhTbYaY6yhXBiXq56aXNj52NJbMyaxGUg",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1219632,
+      "name": "Industrial Devolution #82",
+      "iteration": 82,
+      "fxhash": "ookSBrqkp26v3oj3UXndvLd27wv6a7b9yYgB7Eg8ZHVK8XxR4xH",
+      "minter": "tz1hyNv7RBzNPGLpKfdwHRc6NhLW6VbzXP3N",
+      "fxparams": "",
+      "owner": "tz1hyNv7RBzNPGLpKfdwHRc6NhLW6VbzXP3N",
+      "thumbnailUri": "ipfs://QmeqXfKnVqEvrxxr9XHtNV2d8C2PZVvFYn9ciCocuMBe1d",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ookSBrqkp26v3oj3UXndvLd27wv6a7b9yYgB7Eg8ZHVK8XxR4xH",
+        "iteration": 82,
+        "minter": "tz1hyNv7RBzNPGLpKfdwHRc6NhLW6VbzXP3N",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1219722,
+      "name": "Industrial Devolution #83",
+      "iteration": 83,
+      "fxhash": "onm2WFc2dikje7JcxHsJVfwqTayvPYHj9PVXnT4tar7JSACF1xQ",
+      "minter": "tz1Pmk4iwKztVs2uwrtBgrmCh7eYY4paYdyo",
+      "fxparams": "",
+      "owner": "tz1Pmk4iwKztVs2uwrtBgrmCh7eYY4paYdyo",
+      "thumbnailUri": "ipfs://QmaAutyfaGcUuPAiXirQWDFJLJo57GiJw2Vw3ksFZaz9pN",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onm2WFc2dikje7JcxHsJVfwqTayvPYHj9PVXnT4tar7JSACF1xQ",
+        "iteration": 83,
+        "minter": "tz1Pmk4iwKztVs2uwrtBgrmCh7eYY4paYdyo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1219860,
+      "name": "Industrial Devolution #84",
+      "iteration": 84,
+      "fxhash": "oomcBRHfLgwh8A6tynvDhwcGTsu1ccbHdV4qLYN3kzi4ahNgtVi",
+      "minter": "tz1iJk9FYMEe17ELvPUGdzWrpZx5iVBGj4Yn",
+      "fxparams": "",
+      "owner": "tz1iJk9FYMEe17ELvPUGdzWrpZx5iVBGj4Yn",
+      "thumbnailUri": "ipfs://QmbEr5UU3QX7N3Vm639R7Hai1EqAHY8B5YWX4SacJYeGVZ",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oomcBRHfLgwh8A6tynvDhwcGTsu1ccbHdV4qLYN3kzi4ahNgtVi",
+        "iteration": 84,
+        "minter": "tz1iJk9FYMEe17ELvPUGdzWrpZx5iVBGj4Yn",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1220623,
+      "name": "Industrial Devolution #85",
+      "iteration": 85,
+      "fxhash": "oneMDm5mt3XjU3urjLvLfDN3s783C9XxzC5xS3uWvVQajLiQ66G",
+      "minter": "tz1LvDyHQgvZwbh8ViJJjU1wBUfmmwhsukuJ",
+      "fxparams": "",
+      "owner": "tz1PXYuqZxFhgNsYJDWXhPTNDqjSzm9qWxmC",
+      "thumbnailUri": "ipfs://QmVJE2Z8Axfw512EZyfwuYwF86LPDQWXenbvhVvGvx2mHe",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oneMDm5mt3XjU3urjLvLfDN3s783C9XxzC5xS3uWvVQajLiQ66G",
+        "iteration": 85,
+        "minter": "tz1LvDyHQgvZwbh8ViJJjU1wBUfmmwhsukuJ",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1220650,
+      "name": "Industrial Devolution #86",
+      "iteration": 86,
+      "fxhash": "opKCUx7oz7FivCgnKbNWJBHu8P8pmPDSRiixTMwoa2u5s5iuDYK",
+      "minter": "tz1Kq8NtEjSXkpswLmgod1tPFPVH2TZc8dwM",
+      "fxparams": "",
+      "owner": "tz1TmMJYiLpo2jf3Us2jox27ruh4Ajh3xYVL",
+      "thumbnailUri": "ipfs://QmZqSv57cTnQt4PkMqRgCe9zEcF4nHjQHDqd4JuosicYhv",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opKCUx7oz7FivCgnKbNWJBHu8P8pmPDSRiixTMwoa2u5s5iuDYK",
+        "iteration": 86,
+        "minter": "tz1Kq8NtEjSXkpswLmgod1tPFPVH2TZc8dwM",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1220897,
+      "name": "Industrial Devolution #87",
+      "iteration": 87,
+      "fxhash": "op6dY1A6MZBUYvtZKAvxxYS9kes7aMPbbK9NtF6rTKFo4iVA5XM",
+      "minter": "tz1gQUF22SiiXtz1rYXjY6HuRuSvyqBtzbw2",
+      "fxparams": "",
+      "owner": "tz1M9nfnW9S5gUJJzGWEX3n9xo8Ln2m5pECg",
+      "thumbnailUri": "ipfs://Qmas9T5BPmzfH653DKpQhVeAZg6Ur3VxnkQr3yHGmepa2P",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op6dY1A6MZBUYvtZKAvxxYS9kes7aMPbbK9NtF6rTKFo4iVA5XM",
+        "iteration": 87,
+        "minter": "tz1gQUF22SiiXtz1rYXjY6HuRuSvyqBtzbw2",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1221077,
+      "name": "Industrial Devolution #88",
+      "iteration": 88,
+      "fxhash": "oo7Q85TQA3zEHQu8B2ajhnPTUdjSLG1WTntdqJtBvw9bYbyDnmh",
+      "minter": "tz1MpdqErf9rKuDLChHTdf3pNwUSTjw3naxN",
+      "fxparams": "",
+      "owner": "tz1cGowCPUZDGHh23Yta3rVMgMk9bDmxybaK",
+      "thumbnailUri": "ipfs://Qmcs2RFudmAwgyzYeAQAS1qBGe3xPqQGuiFASKFNqxYqEs",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oo7Q85TQA3zEHQu8B2ajhnPTUdjSLG1WTntdqJtBvw9bYbyDnmh",
+        "iteration": 88,
+        "minter": "tz1MpdqErf9rKuDLChHTdf3pNwUSTjw3naxN",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1221096,
+      "name": "Industrial Devolution #89",
+      "iteration": 89,
+      "fxhash": "op8neihdqbqXrmR6ZumfHMGLDUEN3Ny5yKgQCe5VDCWPkXrowfk",
+      "minter": "tz1MZ6LoiFxtUC4UrzCFJsCRptqreB6x6HMz",
+      "fxparams": "",
+      "owner": "tz1N8zighdJHWZtmsHrtyaJQpPkDBEMJn9H9",
+      "thumbnailUri": "ipfs://QmRYxqNeuMJHj4gMNLGY2XpiG45fzDxHLEsd3xubBYrMzT",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op8neihdqbqXrmR6ZumfHMGLDUEN3Ny5yKgQCe5VDCWPkXrowfk",
+        "iteration": 89,
+        "minter": "tz1MZ6LoiFxtUC4UrzCFJsCRptqreB6x6HMz",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1221381,
+      "name": "Industrial Devolution #90",
+      "iteration": 90,
+      "fxhash": "oopqAcBD9vpazrFJ65euw5ca3dpcb9E2yuwQCFdjs5Mk9ZfBpCZ",
+      "minter": "tz1XgdC4S9XMosavpqmSiFyjyCfqTNxSp19a",
+      "fxparams": "",
+      "owner": "tz1ZhXTogdFtGzYbL6d9Z13ipqNMcnfTB6MZ",
+      "thumbnailUri": "ipfs://Qmbeug89CksfUcD9gH1WpaM9g9ueixfEmqYymuCJ4T2Zh6",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oopqAcBD9vpazrFJ65euw5ca3dpcb9E2yuwQCFdjs5Mk9ZfBpCZ",
+        "iteration": 90,
+        "minter": "tz1XgdC4S9XMosavpqmSiFyjyCfqTNxSp19a",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1221397,
+      "name": "Industrial Devolution #91",
+      "iteration": 91,
+      "fxhash": "op9yoGP4q9mDqTbZi8vAx59EFLqFrm1TDHSjvD48KcyiVRTfMXx",
+      "minter": "tz2MTn3Mmy8CW8qnJcy6qENcvxGCAcJRWXYF",
+      "fxparams": "",
+      "owner": "tz1aNkC1LEK5UBZdZZD4h1ntuYNUVeMVvrsy",
+      "thumbnailUri": "ipfs://QmS7cYk46UjPnBfgKPXwtWNBScyVwEbmgkaFzu5xnJPokU",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op9yoGP4q9mDqTbZi8vAx59EFLqFrm1TDHSjvD48KcyiVRTfMXx",
+        "iteration": 91,
+        "minter": "tz2MTn3Mmy8CW8qnJcy6qENcvxGCAcJRWXYF",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1221650,
+      "name": "Industrial Devolution #92",
+      "iteration": 92,
+      "fxhash": "oo4B5ogZfbpxY38BvFQenhw8czWsxNpCasG3BbkCQqPDEvdPHen",
+      "minter": "tz1dg3aJ7P4aZjvw8T2veAwMYMfpixw636gC",
+      "fxparams": "",
+      "owner": "tz1PXYuqZxFhgNsYJDWXhPTNDqjSzm9qWxmC",
+      "thumbnailUri": "ipfs://QmfBNDczMdcvo9kjciQKFKTFdB8qJtYpTtEt55YcP7gnQd",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oo4B5ogZfbpxY38BvFQenhw8czWsxNpCasG3BbkCQqPDEvdPHen",
+        "iteration": 92,
+        "minter": "tz1dg3aJ7P4aZjvw8T2veAwMYMfpixw636gC",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1221675,
+      "name": "Industrial Devolution #93",
+      "iteration": 93,
+      "fxhash": "onjYFUpMiMK2Qr1Uucdq4VgkKTAXLbzjrNP6MJdNXrGu2uqL7JD",
+      "minter": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "fxparams": "",
+      "owner": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+      "thumbnailUri": "ipfs://QmcC4BUWSz1WwcUwGEKVNDvwmkJiYFvJ3Zv9r7ndyhyTuZ",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onjYFUpMiMK2Qr1Uucdq4VgkKTAXLbzjrNP6MJdNXrGu2uqL7JD",
+        "iteration": 93,
+        "minter": "tz1gjftp2aoEkC4xvRfNNkPjcfF2fStESgwo",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1221677,
+      "name": "Industrial Devolution #94",
+      "iteration": 94,
+      "fxhash": "onqTpiv9vpGFMdsjnRxoVdUoWXvScQJPQuwGLPsipkpHRCXntQw",
+      "minter": "tz1VxgMqxHSg94beNrJjxoHHFaKjMv3kY2rT",
+      "fxparams": "",
+      "owner": "tz1TSpZVzTtaaJyfSsnEzjXRyoCuiHwv826Z",
+      "thumbnailUri": "ipfs://QmTMvp7s9JGUjjdx73VSd5dxMZVsEJH9EWqnKbvxZeThiD",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onqTpiv9vpGFMdsjnRxoVdUoWXvScQJPQuwGLPsipkpHRCXntQw",
+        "iteration": 94,
+        "minter": "tz1VxgMqxHSg94beNrJjxoHHFaKjMv3kY2rT",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1221776,
+      "name": "Industrial Devolution #95",
+      "iteration": 95,
+      "fxhash": "ooJ5Yq7cMxAB5CT4MSA3Vs9uWy2dKrwVN8JMUiUdMJXjfCQaMFE",
+      "minter": "tz1MmSPYUkk5qhUyY7aRhXjdKc2X51SbBw7j",
+      "fxparams": "",
+      "owner": "tz1MmSPYUkk5qhUyY7aRhXjdKc2X51SbBw7j",
+      "thumbnailUri": "ipfs://QmYpwP8sW2j9UEvYv8fKP3c9sUoRw6EBhbEqbHMvFX2ZRD",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooJ5Yq7cMxAB5CT4MSA3Vs9uWy2dKrwVN8JMUiUdMJXjfCQaMFE",
+        "iteration": 95,
+        "minter": "tz1MmSPYUkk5qhUyY7aRhXjdKc2X51SbBw7j",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1221802,
+      "name": "Industrial Devolution #96",
+      "iteration": 96,
+      "fxhash": "onkzF1HSbi8Kg2diw6jrPXc6nEntgRhq4iKufDK71K5bfSdckwK",
+      "minter": "tz1R4sJxoBxsyiq9ozhQABxkaA5pHSnpeiNb",
+      "fxparams": "",
+      "owner": "tz1breoY5R2VLDmJukfWVX6MGK3uJLj31pAD",
+      "thumbnailUri": "ipfs://QmSzjweyrx7K73hdALsAu6aA3r3SdmA6ruTKD3Cw2yKz2d",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "onkzF1HSbi8Kg2diw6jrPXc6nEntgRhq4iKufDK71K5bfSdckwK",
+        "iteration": 96,
+        "minter": "tz1R4sJxoBxsyiq9ozhQABxkaA5pHSnpeiNb",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1230454,
+      "name": "Industrial Devolution #97",
+      "iteration": 97,
+      "fxhash": "ooVajj9FyG5pQGkLuzFXn88DQ2dS1ndYhdfVQjQ9PdB7Xe3yGgg",
+      "minter": "tz1iSDnHGPUodhvXNUY1sngZdMDNqU4D7dv5",
+      "fxparams": "",
+      "owner": "tz1iSDnHGPUodhvXNUY1sngZdMDNqU4D7dv5",
+      "thumbnailUri": "ipfs://QmZwY5VhLwBMiMz85p7qNZZ3QTSDeAd1QKojaiEM8QbK4y",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "ooVajj9FyG5pQGkLuzFXn88DQ2dS1ndYhdfVQjQ9PdB7Xe3yGgg",
+        "iteration": 97,
+        "minter": "tz1iSDnHGPUodhvXNUY1sngZdMDNqU4D7dv5",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1243186,
+      "name": "Industrial Devolution #98",
+      "iteration": 98,
+      "fxhash": "op7Va8CHJgsfNcSw9iNWxiQDrSBqHgTzvU8bcctmiQgNtmNM4Ro",
+      "minter": "tz1TevEmvfUbcQhSEcvH5i17iMobnVJVQg5c",
+      "fxparams": "",
+      "owner": "tz1ZT2cbCv1AscYgJG7yU2LYjQR1jvSymZov",
+      "thumbnailUri": "ipfs://QmZgKXu4X5RjiMdd4236gHqDVDf2ccEEvhBDN1b67z99CS",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "op7Va8CHJgsfNcSw9iNWxiQDrSBqHgTzvU8bcctmiQgNtmNM4Ro",
+        "iteration": 98,
+        "minter": "tz1TevEmvfUbcQhSEcvH5i17iMobnVJVQg5c",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1249588,
+      "name": "Industrial Devolution #99",
+      "iteration": 99,
+      "fxhash": "oo7SpKWWAz2tVpdrTMrH2UoWmkbxqC37gavK5peKtoeQnKVVK81",
+      "minter": "tz1hGzy5aJwRDWzsfwgBkqAc9Ug5kcQxY6Jf",
+      "fxparams": "",
+      "owner": "tz1fwAeJwzbijJvxCd1TukPbvTmZB2pMnq3f",
+      "thumbnailUri": "ipfs://Qma4YvyHKf2sFc69DV5rhpidMrpyuvutfc5iwt3eFU3smb",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "oo7SpKWWAz2tVpdrTMrH2UoWmkbxqC37gavK5peKtoeQnKVVK81",
+        "iteration": 99,
+        "minter": "tz1hGzy5aJwRDWzsfwgBkqAc9Ug5kcQxY6Jf",
+        "fxparams": ""
+      }
+    },
+    {
+      "tokenId": 1250746,
+      "name": "Industrial Devolution #100",
+      "iteration": 100,
+      "fxhash": "opUvaV5awpccfmDAcfkrvvRqXf5SvFw151x3hCTHyw2wJdffKtP",
+      "minter": "tz2RMFWcDkB9FmYxrwqn646Fx1Ez2i1AiHPr",
+      "fxparams": "",
+      "owner": "tz1KijyqakiY1y6tsAUAed1dPxsKvuiG9876",
+      "thumbnailUri": "ipfs://QmaehuYSq9U9LTyH39FRZGpx8JspekdZ8Pf6GzQuHErsVW",
+      "generativeUri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+      "viewerParams": {
+        "uri": "ipfs://QmfAFuSMAnyGMsGDPWd3w7Q26T1H5TPp3mC1HFXLwy5mnF",
+        "fxhash": "opUvaV5awpccfmDAcfkrvvRqXf5SvFw151x3hCTHyw2wJdffKtP",
+        "iteration": 100,
+        "minter": "tz2RMFWcDkB9FmYxrwqn646Fx1Ez2i1AiHPr",
+        "fxparams": ""
+      }
+    }
+  ]
+}
