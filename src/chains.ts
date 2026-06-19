@@ -17,6 +17,17 @@ const BASE_RPCS = [
   "https://1rpc.io/base",
 ].filter((url): url is string => Boolean(url));
 
+// Public Tezos RPCs. All verified live + CORS-enabled (Access-Control-Allow-Origin: *)
+// as of 2026-06. The previous endpoints (mainnet.ecadinfra.com / rpc.tzbeta.net) went
+// dead — ecadinfra's domain no longer resolves — which broke onchfs:// resolution for
+// Tezos on-chain projects entirely.
+const TEZOS_RPCS = [
+  import.meta.env.VITE_TEZOS_RPC,
+  "https://mainnet.smartpy.io",
+  "https://prod.tcinfra.net/rpc/mainnet",
+  "https://rpc.tzkt.io/mainnet",
+].filter((url): url is string => Boolean(url));
+
 interface ChainConfig {
   key: ChainKey;
   name: string;
@@ -45,10 +56,7 @@ export const CHAINS: Record<ChainKey, ChainConfig> = {
     key: "tezos",
     name: "Tezos",
     chain: null, // Non-EVM; onchfs package handles Tezos RPC internally
-    rpcs: [
-      "https://mainnet.ecadinfra.com",
-      "https://rpc.tzbeta.net",
-    ],
+    rpcs: TEZOS_RPCS,
     explorer: "https://tzkt.io",
   },
 };

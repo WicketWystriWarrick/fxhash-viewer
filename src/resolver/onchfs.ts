@@ -30,10 +30,7 @@ function getResolver() {
 
   const tezosController = {
     blockchain: "tezos:mainnet" as const,
-    rpcs: [
-      "https://mainnet.ecadinfra.com",
-      "https://rpc.tzbeta.net",
-    ],
+    rpcs: CHAINS.tezos.rpcs,
   };
 
   resolverInstance = Onchfs.resolver.create([...evmControllers, tezosController]);
