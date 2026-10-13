@@ -25,15 +25,18 @@ const VIEWER_ASSETS = /^\/(assets\/|sw\.js$|index\.html$|projects\/)/;
  * 3. crossOrigin: WebGL textures work cross-origin (solves Richter)
  * 4. SW suppression: artwork's own SW won't fail (solves Richter)
  *
- * Gateway: ipfs.io — operated by Protocol Labs, most stable CORS support.
+ * Gateway: whichever one served the root HTML (see handleRoot), so that
+ * sub-resources hit a gateway known to work instead of a rate-limited one.
  */
-function buildInjection(scheme: string, cid: string): string {
+const DEFAULT_IPFS_BASE = "https://ipfs.filebase.io/ipfs/";
+
+function buildInjection(scheme: string, cid: string, gateway = DEFAULT_IPFS_BASE): string {
   // Math.pow patch (all artworks)
   let s = `<script>(function(){Math.pow=(a,b)=>(a===58&&b===11)?24986644000165536000:a**b})();</script>`;
 
   if (scheme === "ipfs") {
     // <base> tag
-    s += `\n<base href="https://ipfs.io/ipfs/${cid}/">`;
+    s += `\n<base href="${gateway}${cid}/">`;
     // crossOrigin for WebGL textures
     // NB: coerce the tag with String(t), not t.toLowerCase() — some artworks
     // call createElement as a tagged template (`createElement\`canvas\``), so t
@@ -141,13 +144,17 @@ async function handleRoot(
   chainPreference: ChainKey,
 ): Promise<Response> {
   try {
-    const { body, headers } = await resolve(uri, chainPreference);
+    const { body, headers, finalUrl } = await resolve(uri, chainPreference);
     const decompressed = await decompressIfNeeded(body, headers);
+
+    // finalUrl is "<gateway><cid>/..." for IPFS; reuse that gateway for <base>.
+    const cidAt = scheme === "ipfs" ? finalUrl.indexOf(cid) : -1;
+    const gateway = cidAt > 0 ? finalUrl.slice(0, cidAt) : undefined;
 
     // Inject patches at the byte level to avoid corrupting binary data
     // embedded in the HTML (e.g., base64 fonts, compressed assets).
     // TextDecoder/TextEncoder round-trips corrupt non-UTF-8 bytes.
-    const patchBytes = new TextEncoder().encode(buildInjection(scheme, cid));
+    const patchBytes = new TextEncoder().encode(buildInjection(scheme, cid, gateway));
     const responseBody = injectPatchBytes(decompressed, patchBytes);
     const responseHeaders = new Headers();
     responseHeaders.set("content-type", "text/html; charset=utf-8");

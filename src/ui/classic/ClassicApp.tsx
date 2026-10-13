@@ -8,6 +8,7 @@ import {
   type ProjectFile,
   type ProjectIndexEntry,
   thumbnailUrl,
+  onThumbError,
   buildIframeSrc,
   projectFileToItems,
   loadSavedProjectItems,
@@ -434,6 +435,7 @@ export function ClassicApp() {
                             src={thumbnailUrl(item.thumbnailUri)}
                             alt={item.name}
                             loading="lazy"
+                            onError={(e) => onThumbError(e, item.thumbnailUri!)}
                           />
                         ) : (
                           <div className="artwork-card__thumb artwork-card__thumb--empty">

@@ -11,6 +11,7 @@ import type { ArtworkItem } from "../../discovery";
 import {
   type ProjectIndexEntry,
   thumbnailUrl,
+  onThumbError,
   itemToIframeSrc,
   loadSavedProjectItems,
 } from "../../viewer/artwork";
@@ -169,6 +170,7 @@ function ProjectGallery({
                     src={thumbnailUrl(p.thumbnail)}
                     alt={p.name}
                     loading="lazy"
+                    onError={(e) => onThumbError(e, p.thumbnail!)}
                   />
                 ) : (
                   <div className="gallery-card__thumb gallery-card__thumb--empty">
@@ -276,6 +278,7 @@ function ProjectTiles({
                   alt={item.name}
                   loading="lazy"
                   onLoad={onThumbLoad}
+                  onError={(e) => onThumbError(e, item.thumbnailUri!)}
                 />
               ) : (
                 <div className="tile__thumb tile__thumb--empty">

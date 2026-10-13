@@ -63,12 +63,29 @@ export interface ProjectIndexEntry {
  * We rewrite to a public IPFS gateway for display purposes. For images this
  * is acceptable; the actual artwork rendering still goes through our SW.
  */
-export function thumbnailUrl(uri: string): string {
+// ipfs.io / dweb.link / nftstorage.link answer bursts of thumbnail requests
+// with 429, so they are only last-resort fallbacks.
+const THUMB_GATEWAYS = [
+  "https://ipfs.filebase.io/ipfs/",
+  "https://gateway.pinata.cloud/ipfs/",
+  "https://ipfs.io/ipfs/",
+];
+
+export function thumbnailUrl(uri: string, gateway = 0): string {
   if (!uri) return "";
   if (uri.startsWith("ipfs://")) {
-    return "https://ipfs.io/ipfs/" + uri.slice("ipfs://".length);
+    return THUMB_GATEWAYS[gateway] + uri.slice("ipfs://".length);
   }
   return uri;
+}
+
+/** <img onError> handler: retry the thumbnail on the next IPFS gateway. */
+export function onThumbError(e: { currentTarget: HTMLImageElement }, uri: string): void {
+  const img = e.currentTarget;
+  const next = Number(img.dataset.gw ?? 0) + 1;
+  if (!uri.startsWith("ipfs://") || next >= THUMB_GATEWAYS.length) return;
+  img.dataset.gw = String(next);
+  img.src = thumbnailUrl(uri, next);
 }
 
 /**

@@ -19,6 +19,9 @@ export interface ResolvedResource {
  * provider doesn't break the viewer.
  */
 const IPFS_GATEWAYS = [
+  // ipfs.io / dweb.link / nftstorage.link rate-limit (429) and pinata refuses
+  // HTML (403), so filebase is the one that reliably serves whole artworks.
+  "https://ipfs.filebase.io/ipfs/",
   "https://ipfs.io/ipfs/",
   "https://cloudflare-ipfs.com/ipfs/",
   "https://dweb.link/ipfs/",
